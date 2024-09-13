@@ -38,6 +38,7 @@
 
 ## Templates
 
+* [Activities Evaluation](templates/activities-evaluation.md)
 * [Season](templates/season/README.md)
   * [01 - January](templates/season/01-january.md)
   * [02 - February](templates/season/02-february.md)
@@ -51,3 +52,7 @@
   * [10 - October](templates/season/10-october.md)
   * [11 - November](templates/season/11-november.md)
   * [12 - December](templates/season/12-december.md)
+
+## Group 1
+
+* [Page 1](group-1/page-1.md)
