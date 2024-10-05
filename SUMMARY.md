@@ -2,25 +2,24 @@
 
 ## About
 
-* [Page](README.md)
-* [Public Events Calendar](about/public-events-calendar.md)
+* [Public Events Calendar](README.md)
 
-## Season 2024
+## Current season
 
-* [Season 2024](season-2024/season-2024/README.md)
-  * [01 - January](season-2024/season-2024/01-january.md)
-  * [02 - February](season-2024/season-2024/02-february.md)
-  * [03 - March](season-2024/season-2024/03-march.md)
-  * [04 - April](season-2024/season-2024/04-april.md)
-  * [05 - May](season-2024/season-2024/05-may.md)
-  * [06 - June](season-2024/season-2024/06-june.md)
-  * [07 - July](season-2024/season-2024/07-july.md)
-  * [08 - August](season-2024/season-2024/08-august.md)
-  * [09 - September](season-2024/season-2024/09-september/README.md)
-    * [29 - ProtocolWatch Stream: Discovering ICANN](season-2024/season-2024/09-september/29-protocolwatch-stream-discovering-icann.md)
-  * [10 - October](season-2024/season-2024/10-october.md)
-  * [11 - November](season-2024/season-2024/11-november.md)
-  * [12 - December](season-2024/season-2024/12-december.md)
+* [Season 2024](current-season/season-2024/README.md)
+  * [01 - January](current-season/season-2024/01-january.md)
+  * [02 - February](current-season/season-2024/02-february.md)
+  * [03 - March](current-season/season-2024/03-march.md)
+  * [04 - April](current-season/season-2024/04-april.md)
+  * [05 - May](current-season/season-2024/05-may.md)
+  * [06 - June](current-season/season-2024/06-june.md)
+  * [07 - July](current-season/season-2024/07-july.md)
+  * [08 - August](current-season/season-2024/08-august.md)
+  * [09 - September](current-season/season-2024/09-september/README.md)
+    * [29 - ProtocolWatch Stream: Discovering ICANN](current-season/season-2024/09-september/29-protocolwatch-stream-discovering-icann.md)
+  * [10 - October](current-season/season-2024/10-october.md)
+  * [11 - November](current-season/season-2024/11-november.md)
+  * [12 - December](current-season/season-2024/12-december.md)
 
 ## Upcoming Seasons
 
@@ -39,7 +38,6 @@
 
 ## Templates
 
-* [Activities Evaluation](templates/activities-evaluation.md)
 * [Season](templates/season/README.md)
   * [01 - January](templates/season/01-january.md)
   * [02 - February](templates/season/02-february.md)
@@ -53,7 +51,3 @@
   * [10 - October](templates/season/10-october.md)
   * [11 - November](templates/season/11-november.md)
   * [12 - December](templates/season/12-december.md)
-
-## Group 1
-
-* [Page 1](group-1/page-1.md)

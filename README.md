@@ -1,2 +1,2 @@
-# Page
+# Public Events Calendar
 
