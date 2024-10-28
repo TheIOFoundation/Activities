@@ -17,7 +17,8 @@
   * [08 - August](current-season/season-2024/08-august.md)
   * [09 - September](current-season/season-2024/09-september/README.md)
     * [29 - ProtocolWatch Stream: Discovering ICANN](current-season/season-2024/09-september/29-protocolwatch-stream-discovering-icann.md)
-  * [10 - October](current-season/season-2024/10-october.md)
+  * [10 - October](current-season/season-2024/10-october/README.md)
+    * [\[#MTSFB\] Proposed Technology Roadmap for Standardisation 2025 to 2030](current-season/season-2024/10-october/mtsfb-proposed-technology-roadmap-for-standardisation-2025-to-2030.md)
   * [11 - November](current-season/season-2024/11-november.md)
   * [12 - December](current-season/season-2024/12-december.md)
 
