@@ -1,14 +1,24 @@
 # Activities
 
-
-
-## Upcoming Activities
-
+## On the Spotlight
 
 
 
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
 
 
+
+
+
+
+
+## Other upcoming activities
+
+
+
+
+
+## Types of Activities
 
 
 
