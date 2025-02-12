@@ -4,7 +4,7 @@
 
 The following are highlighted activities of interest.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="number"></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>[#TIOF]</p><p>Training Bytes 02/2025</p></td><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8">📍 Co-labs The Starling Plus</a></td><td>null</td><td></td><td><a href=".gitbook/assets/Grayscaleimage63512.jpg">Grayscaleimage63512.jpg</a></td></tr><tr><td><p>[#TIOF]</p><p>Training Bytes 03/2025</p></td><td>📍 TBC</td><td>null</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><p>[#TIOF]</p><p>Training Bytes 02/2025</p></td><td><h2>Strategies to protect users through standards + APRICOT 2025</h2></td><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8">📍 Co-labs The Starling Plus</a><br>Petaling Jaya, Malaysia</td><td>🎫 [By Invitation]</td><td><a href=".gitbook/assets/Grayscaleimage63512.jpg">Grayscaleimage63512.jpg</a></td><td><a href="current-season/season-2025/02-february/tiof-training-bytes-02-2025.md">tiof-training-bytes-02-2025.md</a></td></tr><tr><td><p>[#TIOF]</p><p>Training Bytes 03/2025</p></td><td><h2>Strategies to protect users through standards + IETF 122   </h2></td><td>📍 TBC<br>Bangkok, Thailand</td><td>🎫 [By Invitation]</td><td><a href=".gitbook/assets/Grayscaleimage54065.jpg">Grayscaleimage54065.jpg</a></td><td></td></tr></tbody></table>
 
 ## Other Activities
 
@@ -29,6 +29,16 @@ Find here all the activities in which The IO Foundation has participated.
 
 {% endtab %}
 {% endtabs %}
+
+## Vote & Suggest
+
+{% hint style="info" %}
+We are preparing a platform to hear about your interests and vote for upcoming activities.
+
+Stay tuned.
+{% endhint %}
+
+
 
 ## Previous Seasons
 
