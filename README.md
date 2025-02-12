@@ -4,7 +4,7 @@
 
 The following are highlighted activities of interest.
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p>[#TIOF]</p><p>Training Bytes 02/2025</p></td></tr><tr><td><p>[#TIOF]</p><p>Training Bytes 03/2025</p></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><p>[#TIOF]</p><p>Training Bytes 02/2025</p></td><td><a href=".gitbook/assets/Grayscaleimage63512.jpg">Grayscaleimage63512.jpg</a></td></tr><tr><td><p>[#TIOF]</p><p>Training Bytes 03/2025</p></td><td></td></tr></tbody></table>
 
 ## Other Activities
 
