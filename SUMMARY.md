@@ -9,7 +9,8 @@
 
 * [Season 2025](current-season/season-2025/README.md)
   * [01 - January](current-season/season-2025/01-january.md)
-  * [02 - February](current-season/season-2025/02-february.md)
+  * [02 - February](current-season/season-2025/02-february/README.md)
+    * [\[#TIOF\] Training Bytes 02/2025](current-season/season-2025/02-february/tiof-training-bytes-02-2025.md)
   * [03 - March](current-season/season-2025/03-march.md)
   * [04 - April](current-season/season-2025/04-april.md)
   * [05 - May](current-season/season-2025/05-may.md)
