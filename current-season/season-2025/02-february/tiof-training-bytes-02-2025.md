@@ -8,6 +8,8 @@ coverY: 0
 
 ## About
 
+On the occasion APRICOT 2025 happening in Petaling Jaya, Malaysia, The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) and to explore the APRICOT 2025 conference and its activities.
+
 This Training Bytes session focuses on practical approaches for developing and implementing technical standards that enhance user safety and privacy.
 
 Participants will
