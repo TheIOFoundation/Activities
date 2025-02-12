@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Grayscaleimage03367.jpg
+coverY: -134
+---
+
 # Activities
 
 ## On the Spotlight
