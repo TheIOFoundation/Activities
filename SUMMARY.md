@@ -8,7 +8,16 @@
 ## Current season
 
 * [Season 2025](current-season/season-2025/README.md)
-  * [01 - January](current-season/season-2025/01-january.md)
+  * [01 - January](current-season/season-2025/01-january/README.md)
+    * [\[#DNA\] Digerati50 Networking Event 2025](current-season/season-2025/01-january/dna-digerati50-networking-event-2025.md)
+    * [\[#NCSG\] Policy Call (2025-01-06)](current-season/season-2025/01-january/ncsg-policy-call-2025-01-06.md)
+    * [\[#NCSG\] NCSG EC Meeting 01-2025](current-season/season-2025/01-january/ncsg-ncsg-ec-meeting-01-2025.md)
+    * [\[#VNU\] CyberSec Asia 2025](current-season/season-2025/01-january/vnu-cybersec-asia-2025.md)
+    * [\[#ITU\] SG17 Q1 RGM](current-season/season-2025/01-january/itu-sg17-q1-rgm.md)
+    * [\[#MTSFB\] STP WG Meeting 1/2025](current-season/season-2025/01-january/mtsfb-stp-wg-meeting-1-2025.md)
+    * [\[#ITU\] SG17 Q1 RGM - Day 1](current-season/season-2025/01-january/itu-sg17-q1-rgm-day-1.md)
+    * [\[#ITU\] SG17 Q1 RGM - Day 2](current-season/season-2025/01-january/itu-sg17-q1-rgm-day-2.md)
+    * [\[#ITU\] SG17 Q1 RGM - Day 3](current-season/season-2025/01-january/itu-sg17-q1-rgm-day-3.md)
   * [02 - February](current-season/season-2025/02-february/README.md)
     * [\[#TIOF\] Training Bytes 02/2025](current-season/season-2025/02-february/tiof-training-bytes-02-2025.md)
   * [03 - March](current-season/season-2025/03-march.md)
