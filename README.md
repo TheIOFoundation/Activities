@@ -32,20 +32,24 @@ layout:
 {% tab title="This Season" %}
 Find here upcoming activities to be taken place this Season.\
 
+
+
 {% endtab %}
 
 {% tab title="Next Season" %}
 Find here activities in which The IO Foundation will be involved in the next Season.
+
+
 {% endtab %}
 
 {% tab title="Previous Seasons" %}
-Find here all the activities in which The IO Foundation has participated.
+Find here all the activities in which The IO Foundation has participated in previous Seasons.
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Season 2024</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Season 2024</strong></td><td><a href=".gitbook/assets/Grayscaleimage02997.jpg">Grayscaleimage02997.jpg</a></td><td><a href="previous-seasons/season-2024/">season-2024</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Season 2023</td></tr><tr><td>Season 2022</td></tr><tr><td>Season 2021</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Season 2023</strong></td><td><a href=".gitbook/assets/Grayscaleimage02997.jpg">Grayscaleimage02997.jpg</a></td><td><a href="previous-seasons/season-2023.md">season-2023.md</a></td></tr><tr><td><strong>Season 2022</strong></td><td><a href=".gitbook/assets/Grayscaleimage02997.jpg">Grayscaleimage02997.jpg</a></td><td><a href="previous-seasons/season-2022.md">season-2022.md</a></td></tr><tr><td><strong>Season 2021</strong></td><td><a href=".gitbook/assets/Grayscaleimage02997.jpg">Grayscaleimage02997.jpg</a></td><td><a href="previous-seasons/season-2021.md">season-2021.md</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Season 2020</td></tr><tr><td>Season 2019</td></tr><tr><td>Season 2018</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Season 2020</strong></td><td><a href=".gitbook/assets/Grayscaleimage02997.jpg">Grayscaleimage02997.jpg</a></td><td><a href="previous-seasons/season-2020.md">season-2020.md</a></td></tr><tr><td><strong>Season 2019</strong></td><td><a href=".gitbook/assets/Grayscaleimage02997.jpg">Grayscaleimage02997.jpg</a></td><td><a href="previous-seasons/season-2019.md">season-2019.md</a></td></tr><tr><td><strong>Season 2018</strong></td><td><a href=".gitbook/assets/Grayscaleimage02997.jpg">Grayscaleimage02997.jpg</a></td><td><a href="previous-seasons/season-2018.md">season-2018.md</a></td></tr></tbody></table>
 
 \
 
@@ -61,12 +65,6 @@ Stay tuned.
 {% endhint %}
 
 
-
-## Previous Seasons
-
-Find here all the activities in which The IO Foundation has participated.
-
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>sS</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>Season 2018</td><td><a href="previous-seasons/season-2018.md">season-2018.md</a></td></tr></tbody></table>
 
 
 
