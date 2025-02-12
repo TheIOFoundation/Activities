@@ -1,6 +1,15 @@
 ---
-cover: .gitbook/assets/Grayscaleimage03367.jpg
-coverY: -134
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Activities
