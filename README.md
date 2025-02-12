@@ -16,7 +16,8 @@
 
 {% tabs %}
 {% tab title="This Season" %}
-Find here upcoming activities to be taken place this Season.
+Find here upcoming activities to be taken place this Season.\
+
 {% endtab %}
 
 {% tab title="Next Season" %}
@@ -32,6 +33,7 @@ Find here all the activities in which The IO Foundation has participated.
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Season 2020</td></tr><tr><td>Season 2019</td></tr><tr><td>Season 2018</td></tr></tbody></table>
 
+\
 
 {% endtab %}
 {% endtabs %}
