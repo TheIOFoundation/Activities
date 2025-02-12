@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/1739359348610.png
+coverY: 0
+---
+
 # \[#VNU] CyberSec Asia 2025
 
 ## About
