@@ -4,7 +4,7 @@ cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
 ---
 
-# \[#TIOF] Training Bytes 02/2025
+# \[#TIOF] Training Bytes 2025-02
 
 ## About
 
@@ -32,7 +32,7 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td>📖 <strong>Activity Typ</strong>e</td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td>📅 <strong>Date St</strong>art</td><td>Thursday 20th February - 09:00</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Thursday 20th February - 16:00</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8">📍</a> <strong>Locatio</strong>n</td><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8">Co-labs The Starling Plus</a><br>Petaling Jaya, Malaysia</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> [By Invitation]</td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Thursday 20th February - 09:00</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Thursday 20th February - 16:00</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8">Co-labs The Starling Plus</a><br>Petaling Jaya, Malaysia</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> [By Invitation]</td></tr></tbody></table>
 
 ### Agenda
 

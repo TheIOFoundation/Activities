@@ -31,7 +31,7 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td>📖 <strong>Activity Typ</strong>e</td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td>📅 <strong>Date St</strong>art</td><td>Saturday 15th March - 09:00 (Time TBC)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:00 (Time TBC)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8">📍</a> <strong>Locatio</strong>n</td><td><p>Venue TBC</p><p>Bangkok, Thailand</p></td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> [By Invitation]</td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March - 09:00 (Time TBC)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:00 (Time TBC)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p>Venue TBC</p><p>Bangkok, Thailand</p></td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> [By Invitation]</td></tr></tbody></table>
 
 ### Agenda
 
