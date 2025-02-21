@@ -53,6 +53,14 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 Presentation slides
 {% endembed %}
 
+## Media
+
+One of the participants wrote an article about his experience in the event:
+
+{% embed url="https://kitfucoda.medium.com/hair-dryers-have-standards-why-not-software-a-call-for-rights-by-design-c648058f340f" %}
+An article by Kifu Coda
+{% endembed %}
+
 ## Cerfiticates
 
 Certificates of attendance are sent directly to the participants.
