@@ -50,3 +50,14 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 ## Resources
 
 {% embed url="https://docs.google.com/presentation/d/1SSlKAEX2VSd4yXmYDj-DB6o9SEyHY_uSyxepgmqT7DY/edit?usp=sharing" %}
+Presentation slides
+{% endembed %}
+
+## Cerfiticates
+
+Certificates of attendance are sent directly to the participants.
+
+
+
+
+
