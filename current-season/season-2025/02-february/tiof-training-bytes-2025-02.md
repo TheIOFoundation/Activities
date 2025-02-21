@@ -47,3 +47,6 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 | 15:45                | 💬 Wrap up                  |                                                                                                            |
 | 16:00                | 🏁 End                      |                                                                                                            |
 
+## Resources
+
+{% embed url="https://docs.google.com/presentation/d/1SSlKAEX2VSd4yXmYDj-DB6o9SEyHY_uSyxepgmqT7DY/edit?usp=sharing" %}
