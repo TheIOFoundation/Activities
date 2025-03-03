@@ -2,6 +2,20 @@
 description: TechUp Academy
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # \[#TIOF] Training Bytes 2025-02
