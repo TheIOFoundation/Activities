@@ -43,6 +43,7 @@ You can find the meetings agenda here:
 [https://www.linkedin.com/feed/update/urn:li:activity:7297797056872488960/](https://www.linkedin.com/feed/update/urn:li:activity:7297797056872488960/)\
 [https://www.linkedin.com/feed/update/urn:li:share:7297860704349364225/?actorCompanyId=8703611](https://www.linkedin.com/feed/update/urn:li:share:7297860704349364225/?actorCompanyId=8703611)\
 [https://x.com/TheIOFoundation/status/1892096654167171225](https://x.com/TheIOFoundation/status/1892096654167171225)\
+[https://x.com/JFQueralt/status/1892098256747831379](https://x.com/JFQueralt/status/1892098256747831379)\
 \
 
 
