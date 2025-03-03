@@ -45,24 +45,28 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March - 09:00 (Time TBC)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:00 (Time TBC)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p>Venue TBC</p><p>Bangkok, Thailand</p></td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> [By Invitation]</td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p>Venue TBC</p><p>Bangkok, Thailand</p></td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> [By Invitation]</td></tr></tbody></table>
 
 ### Agenda
 
-{% hint style="danger" %}
-Please note that the times in this agenda ARE NOT FINAL AT THE MOMENT.
+| Time                 | Activity                           | Content                                                                                                    |
+| -------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 08:30                | 📋 Registration Opens              |                                                                                                            |
+| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy</p>   |
+| 11:00                | 🥐 Break 15 minutes                |                                                                                                            |
+| <p>11:15<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work</p> |
+| 13:00                | 🍱 Break Lunch                     |                                                                                                            |
+| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>Workshop</strong></em><br>Preparing your participation in IETF 122</p>                      |
+| 16:15                | 💬 Wrap up                         |                                                                                                            |
+| 16:30                | 🏁 End                             |                                                                                                            |
+
+## Speakers
+
+{% hint style="info" %}
+COMING SOON
 {% endhint %}
 
-| Time                 | Activity                    | Content                                                                                                    |
-| -------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 08:30                | 📋 Registration Opens       |                                                                                                            |
-| <p>09:00<br><br></p> | <p>💡 Session 1<br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy</p>   |
-| 11:00                | 🥐 Break 15 minutes         |                                                                                                            |
-| <p>11:15<br></p>     | <p>💡 Session 2<br></p>     | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work</p> |
-| 13:00                | 🍱 Break Lunch              |                                                                                                            |
-| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p> | <p><em><strong>Workshop</strong></em><br>Preparing your participation in IETF 122</p>                      |
-| 15:45                | 💬 Wrap up                  |                                                                                                            |
-| 16:00                | 🏁 End                      |                                                                                                            |
+
 
 ## Resources
 
