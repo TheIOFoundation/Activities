@@ -35,9 +35,24 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 
 ### Agenda
 
-```
-// COMING SOON!
-```
+{% hint style="danger" %}
+Please note that the times in this agenda ARE NOT FINAL AT THE MOMENT.
+{% endhint %}
 
+| Time                 | Activity                    | Content                                                                                                    |
+| -------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 08:30                | 📋 Registration Opens       |                                                                                                            |
+| <p>09:00<br><br></p> | <p>💡 Session 1<br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy</p>   |
+| 11:00                | 🥐 Break 15 minutes         |                                                                                                            |
+| <p>11:15<br></p>     | <p>💡 Session 2<br></p>     | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work</p> |
+| 13:00                | 🍱 Break Lunch              |                                                                                                            |
+| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p> | <p><em><strong>Workshop</strong></em><br>Preparing your participation in IETF 122</p>                      |
+| 15:45                | 💬 Wrap up                  |                                                                                                            |
+| 16:00                | 🏁 End                      |                                                                                                            |
 
+## Resources
+
+```
+// RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE SESSIONS.
+```
 
