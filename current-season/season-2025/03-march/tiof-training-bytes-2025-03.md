@@ -29,18 +29,16 @@ This Training Bytes session focuses on practical approaches for developing and i
 Participants will
 
 * learn about standards development organizations (SDOs) and how they influence technology
-* explore effective strategies for engaging with key SDOs
 * identify areas where standards can improve user protection
-* learn how to participate and advocate for user-centric practices in technology
 * learn which standards are relevant for your industry or occupation
+* explore effective strategies for engaging with key SDOs through the [Data-Centric Digital Rights framework](https://tiof.click/DCDRFrameworkDocs)
+* learn how to actively participate in the upcoming [IETF 122 meeting](https://www.ietf.org/meeting/122/)
 
-The session aims to equip attendees with the knowledge and tools necessary to contribute to standards that prioritize user rights in the digital landscape in the context of Malaysia and internationally.
+The session aims to equip attendees with the knowledge and tools necessary to contribute to standards that prioritize user rights in the global digital landscape.
 
 {% hint style="success" %}
 Participants will receive an e-Certificate that can be embedded and verified via our [Certificates.TheIOFoundation.org](https://certificates.theiofoundation.org) platform.
 {% endhint %}
-
-
 
 \
 **Standards Developing Organizations in this activity**
