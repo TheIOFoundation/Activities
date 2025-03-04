@@ -1,6 +1,5 @@
 ---
-description: TechUp Academy
-cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
+cover: ../../../.gitbook/assets/Untitled design (6).png
 coverY: 0
 layout:
   cover:
@@ -18,38 +17,21 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] Training Bytes 2025-03
+# \[#FOSSASIA] FOSSASIA Summit 2025
+
+{% include "../../../.gitbook/includes/page-under-construction.....md" %}
 
 ## About
 
-On the occasion IETF 122 happening in Bangkok, Thailand, The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) and to explore the IETF 122 meeting and its activities.
+The IO Foundation will join FOSSASIA Summit 2025 happening in Bangkok, Thailand, as a community participant.
 
-This Training Bytes session focuses on practical approaches for developing and implementing technical standards that enhance user safety and privacy.
+## Booth
 
-Participants will
-
-* learn about standards development organizations (SDOs) and how they influence technology
-* identify areas where standards can improve user protection
-* learn which standards are relevant for your industry or occupation
-* explore effective strategies for engaging with key SDOs through the [Data-Centric Digital Rights framework](https://tiof.click/DCDRFrameworkDocs)
-* learn how to actively participate in the upcoming [IETF 122 meeting](https://www.ietf.org/meeting/122/)
-
-The session aims to equip attendees with the knowledge and tools necessary to contribute to standards that prioritize user rights in the global digital landscape.
-
-{% hint style="success" %}
-Participants will receive an e-Certificate that can be embedded and verified via our [Certificates.TheIOFoundation.org](https://certificates.theiofoundation.org) platform.
-{% endhint %}
-
-\
-**Standards Developing Organizations in this activity**
-
-* Internet Engineering Task Force ([IETF](https://www.ietf.org/))
-* International Telecommunication Union ([ITU](https://www.itu.int/en/Pages/default.aspx) | [ITU-T](https://www.itu.int/ITU-T/))
-* Internet Corporation for Assigned Names and Numbers ([ICANN](https://www.icann.org/))
+Come visit us at our Community Booth where we'll introduce you to our [Data-Centric Digital Rights](https://tiof.click/DCDRFrameworkDocs) advocacy and explore how can we help you change the tech ecosystem so that it protects users by design.
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/wo1FSYCNj4CtsyV36">Galleria 10 Bangkok hotel</a><br>Bangkok, Thailand</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> [By Invitation]</td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>FOSSASIA Summit 2025</td></tr><tr><td>🏢 Organizer</td><td>FOSSASIA</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Event </td></tr><tr><td><strong>📅 Date Start</strong></td><td>Thursday 13th March</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/8qzMuSeTZ3ng7gn5A">True Digital Park West</a><br>Bangkok, Thailand</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <strong>🎫</strong><a href="https://eventyay.com/e/4c0e0c27"> <strong>REGISTER</strong></a></td></tr></tbody></table>
 
 ### Agenda
 
