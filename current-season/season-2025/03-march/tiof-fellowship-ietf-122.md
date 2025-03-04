@@ -1,10 +1,8 @@
 # \[#TIOF] Fellowship - IETF 122
 
-{% include "../../../.gitbook/includes/page-under-construction.....md" %}
-
 ## Registration
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2><mark style="color:orange;"><strong>APPLY</strong></mark></h2></td><td><a href="../../../.gitbook/assets/Grayscaleimage86188.jpg">Grayscaleimage86188.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2>          <mark style="color:orange;"><strong>APPLY</strong></mark></h2></td><td><a href="../../../.gitbook/assets/Grayscaleimage86188.jpg">Grayscaleimage86188.jpg</a></td></tr></tbody></table>
 
 
 
