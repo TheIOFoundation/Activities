@@ -2,9 +2,9 @@
 
 ## Registration
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2>          <mark style="color:orange;"><strong>APPLY</strong></mark></h2></td><td><a href="../../../.gitbook/assets/Grayscaleimage86188.jpg">Grayscaleimage86188.jpg</a></td></tr></tbody></table>
-
-
+{% hint style="success" %}
+[**APPLY BY MARCH 13th 00:00 (UTC+00)**](https://short.theiofoundation.org/tiof-fellowship-ietf-122-registration)
+{% endhint %}
 
 ## About
 
@@ -17,6 +17,8 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 > **NOTE: LIMITED SPOTS -** [**APPLY BY MARCH 13th 00:00 (UTC+00)**](https://short.theiofoundation.org/tiof-fellowship-ietf-122-registration)
 
 ## **Responsibilities**
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h2>          <mark style="color:orange;"><strong>APPLY</strong></mark></h2></td><td><a href="../../../.gitbook/assets/Grayscaleimage86188.jpg">Grayscaleimage86188.jpg</a></td></tr></tbody></table>
 
 * Actively participate in the following events and activities related to The IO Foundation’s advocacy on Data-Centric Digital Rights:
   * [\[#TIOF\] Training Bytes 2025-03](https://short.theiofoundation.org/tiof-training-bytes-2025-03-info) (Bangkok, Thailand)
@@ -63,3 +65,4 @@ As a Fellow, you'll be a member of a growing network of technologists working to
   * Access to exclusive training by TIOF
   * Access to the The IO Foundation's _TechUp Community_
   * Priority for next Fellowship opportunities
+
