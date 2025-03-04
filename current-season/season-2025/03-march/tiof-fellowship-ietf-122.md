@@ -64,3 +64,4 @@ As a Fellow, you'll be a member of a growing network of technologists working to
   * Access to the The IO Foundation's _TechUp Community_
   * Priority for next Fellowship opportunities
 
+{% include "../../../.gitbook/includes/resources.md" %}

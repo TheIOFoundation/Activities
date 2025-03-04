@@ -78,42 +78,4 @@ COMING SOON
 
 
 
-## Resources
-
-```
-// RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
-```
-
-{% tabs %}
-{% tab title="Materials" %}
-```
- RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
-```
-{% endtab %}
-
-{% tab title="Activity" %}
-| Content           | shortURL                                                                                                                                                 | QR Code |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Info Page         | [https://Short.TheIOFoundation.org/tiof-training-bytes-2025-03-info](https://short.theiofoundation.org/tiof-training-bytes-2025-03-info)                 |         |
-| Registration Page | [https://Short.TheIOFoundation.org/tiof-training-bytes-2025-03-registration](https://short.theiofoundation.org/tiof-training-bytes-2025-03-registration) |         |
-|                   |                                                                                                                                                          |         |
-
-
-
-
-{% endtab %}
-
-{% tab title="SocMed" %}
-| Platform                                                                                                  | URLs |
-| --------------------------------------------------------------------------------------------------------- | ---- |
-| <img src="../../../.gitbook/assets/Twitter X Icon.png" alt="" data-size="line">                           |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
-|                                                                                                           |      |
-
-
-{% endtab %}
-{% endtabs %}
-
+{% include "../../../.gitbook/includes/resources.md" %}
