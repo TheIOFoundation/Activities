@@ -22,6 +22,7 @@
     * [\[#TIOF\] Training Bytes 2025-02](current-season/season-2025/02-february/tiof-training-bytes-2025-02.md)
   * [03 - March](current-season/season-2025/03-march/README.md)
     * [\[#TIOF\] Training Bytes 2025-03](current-season/season-2025/03-march/tiof-training-bytes-2025-03.md)
+    * [\[#TIOF\] Fellowship - IETF 122](current-season/season-2025/03-march/tiof-fellowship-ietf-122.md)
     * [\[#IETF\] IETF 122](current-season/season-2025/03-march/ietf-ietf-122.md)
   * [04 - April](current-season/season-2025/04-april.md)
   * [05 - May](current-season/season-2025/05-may.md)
