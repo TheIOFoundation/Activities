@@ -37,7 +37,7 @@ Participants will
 The session aims to equip attendees with the knowledge and tools necessary to contribute to standards that prioritize user rights in the digital landscape in the context of Malaysia and internationally.
 
 {% hint style="info" %}
-Participants will receive an e-Certificate that can be embedded and verified via Certificates.TheIOFoundation.org
+Participants will receive an e-Certificate that can be embedded and verified via our [Certificates.TheIOFoundation.org](https://certificates.theiofoundation.org) platform.
 {% endhint %}
 
 
