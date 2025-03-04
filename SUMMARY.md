@@ -3,6 +3,7 @@
 ## About
 
 * [Activities](README.md)
+* [Calendar Test](about/calendar-test.md)
 * [Public Events Calendar](<README (1).md>)
 
 ## Current season

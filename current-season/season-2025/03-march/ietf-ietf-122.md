@@ -33,7 +33,7 @@ If you:
 * Are in Bangkok during IETF 122
 * Are a full-time student
 
-you should consider submitting to our [TechUp Fellowship program](https://app.hirevire.com/applications/f4cc1eac-5ba7-4f91-b19b-29e9da619cb8?lang=EN)!
+you should consider submitting to our [\[#TIOF\] Fellowship - IETF 122](https://short.theiofoundation.org/ietf-ietf-122-info) opportunity!
 {% endhint %}
 
 
@@ -57,3 +57,4 @@ You can find the meetings agenda here:
 
 
 {% include "../../../.gitbook/includes/resources.md" %}
+

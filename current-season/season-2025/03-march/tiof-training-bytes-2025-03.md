@@ -53,6 +53,17 @@ Participants will receive an e-Certificate that can be embedded and verified via
 * International Telecommunication Union ([ITU](https://www.itu.int/en/Pages/default.aspx) | [ITU-T](https://www.itu.int/ITU-T/))
 * Internet Corporation for Assigned Names and Numbers ([ICANN](https://www.icann.org/))
 
+## Fellowship opportunity
+
+{% hint style="info" %}
+If you:
+
+* Are in Bangkok during IETF 122
+* Are a full-time student
+
+you should consider submitting to our [\[#TIOF\] Fellowship - IETF 122](https://short.theiofoundation.org/ietf-ietf-122-info) opportunity!
+{% endhint %}
+
 ## Activity Details
 
 <table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/wo1FSYCNj4CtsyV36">Galleria 10 Bangkok hotel</a><br>Bangkok, Thailand</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-2025-03-registration">🎫 <strong>REGISTER</strong></a></td></tr></tbody></table>

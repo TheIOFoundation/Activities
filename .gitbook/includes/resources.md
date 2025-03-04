@@ -12,7 +12,7 @@ title: Resources
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | shortURL                                                                                                                     | QR Code |
+| Content           | (short)URL                                                                                                                   | QR Code |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------- |
 | Info Page         | [https://Short.TheIOFoundation.org/ietf-ietf-122-info](https://short.theiofoundation.org/ietf-ietf-122-info)                 |         |
 | Registration Page | [https://Short.TheIOFoundation.org/ietf-ietf-122-registration](https://short.theiofoundation.org/ietf-ietf-122-registration) |         |
