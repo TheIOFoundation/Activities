@@ -20,6 +20,12 @@ layout:
 
 # \[#TIOF] Training Bytes 2025-03
 
+## Registration
+
+{% hint style="success" %}
+[🎫 **REGISTER**](https://short.theiofoundation.org/tiof-training-bytes-2025-03-registration)
+{% endhint %}
+
 ## About
 
 On the occasion IETF 122 happening in Bangkok, Thailand, The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) and to explore the IETF 122 meeting and its activities.
@@ -49,7 +55,7 @@ Participants will receive an e-Certificate that can be embedded and verified via
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/wo1FSYCNj4CtsyV36">Galleria 10 Bangkok hotel</a><br>Bangkok, Thailand</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> [By Invitation]</td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/wo1FSYCNj4CtsyV36">Galleria 10 Bangkok hotel</a><br>Bangkok, Thailand</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-2025-03-registration">🎫 <strong>REGISTER</strong></a></td></tr></tbody></table>
 
 ### Agenda
 
