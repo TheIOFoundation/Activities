@@ -87,6 +87,11 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 122](https://
 COMING SOON
 {% endhint %}
 
+## Food & Beverage
 
+During the event, the following will be provided:
+
+* 2 break snacks
+* Lunch&#x20;
 
 {% include "../../../.gitbook/includes/resources.md" %}
