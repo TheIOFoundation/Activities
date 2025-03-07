@@ -1,4 +1,12 @@
 # \[#BHEUU] Engagement session on NAPBHR
 
-{% include "../../../.gitbook/includes/page-under-construction.....md" %}
+{% hint style="warning" %}
+🚧 Page under construction.&#x20;
+
+🙇 We apologize for the inconvenience.
+
+🔧 We are fixing this in the soonest!
+{% endhint %}
+
+
 

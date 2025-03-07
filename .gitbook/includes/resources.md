@@ -4,6 +4,16 @@ title: Resources
 
 # Resources
 
+{% hint style="danger" %}
+HOW TO USE
+
+* Right after adding this block, got to its config menu and DETACH it
+  * Failure to do this can create wrong information across several pages!
+* Fill up all the information possible
+* Delete this HOW TO USE Hint section
+* Now it's safe for you to Merge the page
+{% endhint %}
+
 {% tabs %}
 {% tab title="Materials" %}
 ```
@@ -12,11 +22,11 @@ title: Resources
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                   | QR Code |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Info Page         | [https://Short.TheIOFoundation.org/ietf-ietf-122-info](https://short.theiofoundation.org/ietf-ietf-122-info)                 |         |
-| Registration Page | [https://Short.TheIOFoundation.org/ietf-ietf-122-registration](https://short.theiofoundation.org/ietf-ietf-122-registration) |         |
-|                   |                                                                                                                              |         |
+| Content           | (short)URL | QR Code |
+| ----------------- | ---------- | ------- |
+| Info Page         |            |         |
+| Registration Page |            |         |
+| Official Website  |            |         |
 
 
 
@@ -24,14 +34,14 @@ title: Resources
 {% endtab %}
 
 {% tab title="SocMed" %}
-| Platform                                                                                   | URLs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../assets/Twitter X Icon.png" alt="" data-size="line">                           | <p><a href="https://x.com/JFQueralt/status/1892098256747831379">https://x.com/JFQueralt/status/1892098256747831379</a><br><br><a href="https://x.com/TheIOFoundation/status/1892096654167171225">https://x.com/TheIOFoundation/status/1892096654167171225</a><br><br><a href="https://x.com/TheIOFoundation/status/1897493815100879013">https://x.com/TheIOFoundation/status/1897493815100879013</a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| <img src="../assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  | <p><a href="https://www.linkedin.com/feed/update/urn:li:share:7297859815932862464/">https://www.linkedin.com/feed/update/urn:li:share:7297859815932862464/</a><br><br><a href="https://www.linkedin.com/feed/update/urn:li:activity:7297797056872488960/">https://www.linkedin.com/feed/update/urn:li:activity:7297797056872488960/</a><br><br><a href="https://www.linkedin.com/feed/update/urn:li:share:7297860704349364225/?actorCompanyId=8703611">https://www.linkedin.com/feed/update/urn:li:share:7297860704349364225/?actorCompanyId=8703611</a><br><br><a href="https://www.linkedin.com/feed/update/urn:li:share:7303261821161943040/">https://www.linkedin.com/feed/update/urn:li:share:7303261821161943040/</a><br><br><a href="https://www.linkedin.com/feed/update/urn:li:share:7303641791117807617/?actorCompanyId=8703611">https://www.linkedin.com/feed/update/urn:li:share:7303641791117807617/?actorCompanyId=8703611</a><br></p> |
-| <img src="../assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        | <p><a href="https://www.facebook.com/TheI0Foundation/posts/1058170059687497">https://www.facebook.com/TheI0Foundation/posts/1058170059687497</a><br></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| <img src="../assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> | <p><a href="https://www.instagram.com/p/DG1_g-PJ1n9/">https://www.instagram.com/p/DG1_g-PJ1n9/</a><br></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| <img src="../assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                                                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Platform                                                                                   | URLs        |
+| ------------------------------------------------------------------------------------------ | ----------- |
+| <img src="../assets/Twitter X Icon.png" alt="" data-size="line">                           |             |
+| <img src="../assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  | <p><br></p> |
+| <img src="../assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |             |
+| <img src="../assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |             |
+| <img src="../assets/[TIOF] Comms [P] Icon B Rumble XXX v1.0.png" alt="" data-size="line">  |             |
+| <img src="../assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |             |
 
 
 {% endtab %}
