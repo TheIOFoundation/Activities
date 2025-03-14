@@ -70,22 +70,36 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 122](https://
 
 ### Agenda
 
-| Time                 | Activity                           | Content                                                                                                    |
-| -------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 08:30                | 📋 Registration Opens              |                                                                                                            |
-| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy</p>   |
-| 11:00                | 🥐 Break 15 minutes                |                                                                                                            |
-| <p>11:15<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work</p> |
-| 13:00                | 🍱 Break Lunch                     |                                                                                                            |
-| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>Workshop</strong></em><br>Preparing your participation in IETF 122</p>                      |
-| 16:15                | 💬 Wrap up                         |                                                                                                            |
-| 16:30                | 🏁 End                             |                                                                                                            |
+| Time                 | Activity                           | Content                                                                                                                                                                 |
+| -------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:30                | 📋 Registration Opens              |                                                                                                                                                                         |
+| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                    |
+| 11:00                | 🥐 Break 15 minutes                |                                                                                                                                                                         |
+| <p>11:15<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Kim Davis<br>Christine Runnegar</p> |
+| 13:00                | 🍱 Break Lunch                     |                                                                                                                                                                         |
+| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>Workshop</strong></em><br>Preparing your participation in IETF 122<br><br>Spea<em>kers:</em><br>Lisa Dusseault<br>Olaf Kolkman<br>Jean F. Queralt</p>    |
+| 16:15                | 💬 Wrap up                         |                                                                                                                                                                         |
+| 16:30                | 🏁 End                             |                                                                                                                                                                         |
 
 ## Speakers
 
-{% hint style="info" %}
-COMING SOON
-{% endhint %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Kim Davies</td><td>Vice President, IANA Services</td><td><em>ICANN</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage52628.png">Grayscaleimage52628.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Christine Runnegar</td><td>Senior Director, Internet Trust</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Christine.png">Christine.png</a></td></tr><tr><td>Lisa Dusseault</td><td>Chief Technology Officer (CTO)</td><td><em>Data Transfer Initiative</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage84647.png">Grayscaleimage84647.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr></tbody></table>
+
+## Venue
+
+The activity will take place in [Galleria 10 Bangkok hotel](https://maps.app.goo.gl/wo1FSYCNj4CtsyV36), Bangkok, Thailand.
+
+### How to reach the venue
+
+As you reach the hotel, follow down the stairs/ramp to reach the lobby.
+
+<div align="left"><figure><img src="../../../.gitbook/assets/photo_2025-03-14_21-31-45.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+Once at the lobby, walk all the way until the end of it and you'll find the Room Meeting G.
+
+<div align="left"><figure><img src="../../../.gitbook/assets/photo_2025-03-14_21-31-47.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
+
+
 
 ## Food & Beverage
 
