@@ -132,7 +132,7 @@ During the event, the following will be provided:
 | [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [IETF 122](https://www.ietf.org/meeting/122/) ([**Registration**](https://registration.ietf.org/122/))            |   |
 |                                                                                           | [Datatracker](https://datatracker.ietf.org/)                                                                      |   |
 |                                                                                           | [Ornithology PDF](https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf)                        |   |
-|                                                                                           |                                                                                                                   |   |
+|                                                                                           | [NomCom](https://www.ietf.org/about/groups/nomcom/)                                                               |   |
 | [International Telecommunications Union (ITU)](https://www.itu.int/en/Pages/default.aspx) | [Telecommunication Standardization (ITU-T)](https://www.itu.int/en/ITU-T/Pages/default.aspx)                      |   |
 |                                                                                           |                                                                                                                   |   |
 |                                                                                           |                                                                                                                   |   |
