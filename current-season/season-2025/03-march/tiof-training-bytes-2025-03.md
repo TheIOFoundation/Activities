@@ -116,10 +116,26 @@ During the event, the following will be provided:
  RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
 ```
 
-TIOF's Code of Conduct: [https://TIOF.Click/TIOFPolicyCoC](https://tiof.click/TIOFPolicyCoC)\
+: [https://TIOF.Click/TIOFPolicyCoC](https://tiof.click/TIOFPolicyCoC)\
 \
 Dhatham House Rule: [https://TIOF.Click/Dhatham](https://tiof.click/Dhatham)\
 \
+
+
+| Organization                                                                         | Topic                                               |   |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------- | - |
+| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>         | [Code of Conduct](https://tiof.click/TIOFPolicyCoC) |   |
+|                                                                                      | [Dhatham House Rule](https://tiof.click/Dhatham)    |   |
+| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/) |                                                     |   |
+| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                  |                                                     |   |
+|                                                                                      |                                                     |   |
+|                                                                                      |                                                     |   |
+| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>     |                                                     |   |
+|                                                                                      |                                                     |   |
+|                                                                                      |                                                     |   |
+| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                      |                                                     |   |
+|                                                                                      |                                                     |   |
+
 
 {% endtab %}
 
