@@ -122,9 +122,9 @@ During the event, the following will be provided:
 |                                                                                      | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                  |   |
 | [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/) |                                                                                                                   |   |
 |                                                                                      |                                                                                                                   |   |
-| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                  |                                                                                                                   |   |
-|                                                                                      |                                                                                                                   |   |
-|                                                                                      |                                                                                                                   |   |
+| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                  | [Attending a KSK Ceremony](https://www.iana.org/help/key-ceremony-attendance)                                     |   |
+|                                                                                      | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)             |   |
+|                                                                                      | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                    |   |
 | <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>     | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                             |   |
 |                                                                                      | <p><a href="https://www.ndss-symposium.org/">Network and Distributed<br>System Security (NDSS) Symposium</a></p> |   |
 |                                                                                      | [Pulse](https://pulse.internetsociety.org/)                                                                       |   |
