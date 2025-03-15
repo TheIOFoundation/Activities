@@ -116,20 +116,28 @@ During the event, the following will be provided:
  RESOURCE MATERIALS ARE BEING PUBLISHED DURING THE EVENT.
 ```
 
-| Organization                                                                         | Topic                                                                                                             |   |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | - |
-| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>         | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)                                                               |   |
-|                                                                                      | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                  |   |
-| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/) |                                                                                                                   |   |
-|                                                                                      |                                                                                                                   |   |
-| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                  | [Attending a KSK Ceremony](https://www.iana.org/help/key-ceremony-attendance)                                     |   |
-|                                                                                      | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)             |   |
-|                                                                                      | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                    |   |
-| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>     | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                             |   |
-|                                                                                      | <p><a href="https://www.ndss-symposium.org/">Network and Distributed<br>System Security (NDSS) Symposium</a></p> |   |
-|                                                                                      | [Pulse](https://pulse.internetsociety.org/)                                                                       |   |
-| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                      |                                                                                                                   |   |
-|                                                                                      |                                                                                                                   |   |
+| Organization                                                                              | Topic                                                                                                             |   |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | - |
+| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>              | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)                                                               |   |
+|                                                                                           | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                  |   |
+|                                                                                           | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs)                                                 |   |
+| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/)      |                                                                                                                   |   |
+|                                                                                           |                                                                                                                   |   |
+| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                       | [Attending a KSK Ceremony](https://www.iana.org/help/key-ceremony-attendance)                                     |   |
+|                                                                                           | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)             |   |
+|                                                                                           | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                    |   |
+| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>          | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                             |   |
+|                                                                                           | <p><a href="https://www.ndss-symposium.org/">Network and Distributed<br>System Security (NDSS) Symposium</a></p> |   |
+|                                                                                           | [Pulse](https://pulse.internetsociety.org/)                                                                       |   |
+| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [IETF 122](https://www.ietf.org/meeting/122/) ([**Registration**](https://registration.ietf.org/122/))            |   |
+|                                                                                           | [Datatracker](https://datatracker.ietf.org/)                                                                      |   |
+|                                                                                           |                                                                                                                   |   |
+| [International Telecommunications Union (ITU)](https://www.itu.int/en/Pages/default.aspx) | [Telecommunication Standardization (ITU-T)](https://www.itu.int/en/ITU-T/Pages/default.aspx)                      |   |
+|                                                                                           |                                                                                                                   |   |
+|                                                                                           |                                                                                                                   |   |
+| [World Wide Web Consortium (W3C)](https://www.w3.org/)                                    |                                                                                                                   |   |
+|                                                                                           |                                                                                                                   |   |
+|                                                                                           |                                                                                                                   |   |
 {% endtab %}
 
 {% tab title="Activity" %}
