@@ -115,6 +115,12 @@ During the event, the following will be provided:
 ```
  RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
 ```
+
+TIOF's Code of Conduct: [https://TIOF.Click/TIOFPolicyCoC](https://tiof.click/TIOFPolicyCoC)\
+\
+Dhatham House Rule: [https://TIOF.Click/Dhatham](https://tiof.click/Dhatham)\
+\
+
 {% endtab %}
 
 {% tab title="Activity" %}
