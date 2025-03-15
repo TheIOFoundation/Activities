@@ -113,30 +113,23 @@ During the event, the following will be provided:
 {% tabs %}
 {% tab title="Materials" %}
 ```
- RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
+ RESOURCE MATERIALS ARE BEING PUBLISHED DURING THE EVENT.
 ```
 
-: [https://TIOF.Click/TIOFPolicyCoC](https://tiof.click/TIOFPolicyCoC)\
-\
-Dhatham House Rule: [https://TIOF.Click/Dhatham](https://tiof.click/Dhatham)\
-\
-
-
-| Organization                                                                         | Topic                                               |   |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------- | - |
-| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>         | [Code of Conduct](https://tiof.click/TIOFPolicyCoC) |   |
-|                                                                                      | [Dhatham House Rule](https://tiof.click/Dhatham)    |   |
-| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/) |                                                     |   |
-| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                  |                                                     |   |
-|                                                                                      |                                                     |   |
-|                                                                                      |                                                     |   |
-| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>     |                                                     |   |
-|                                                                                      |                                                     |   |
-|                                                                                      |                                                     |   |
-| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                      |                                                     |   |
-|                                                                                      |                                                     |   |
-
-
+| Organization                                                                         | Topic                                                                                                             |   |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | - |
+| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>         | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)                                                               |   |
+|                                                                                      | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                  |   |
+| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/) |                                                                                                                   |   |
+|                                                                                      |                                                                                                                   |   |
+| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                  |                                                                                                                   |   |
+|                                                                                      |                                                                                                                   |   |
+|                                                                                      |                                                                                                                   |   |
+| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>     | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                             |   |
+|                                                                                      | <p><a href="https://www.ndss-symposium.org/">Network and Distributed<br>System Security (NDSS) Symposium</a></p> |   |
+|                                                                                      | [Pulse](https://pulse.internetsociety.org/)                                                                       |   |
+| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                      |                                                                                                                   |   |
+|                                                                                      |                                                                                                                   |   |
 {% endtab %}
 
 {% tab title="Activity" %}
@@ -164,4 +157,6 @@ Dhatham House Rule: [https://TIOF.Click/Dhatham](https://tiof.click/Dhatham)\
 
 {% endtab %}
 {% endtabs %}
+
+
 
