@@ -135,7 +135,7 @@ During the event, the following will be provided:
 | [International Telecommunications Union (ITU)](https://www.itu.int/en/Pages/default.aspx) | [Telecommunication Standardization (ITU-T)](https://www.itu.int/en/ITU-T/Pages/default.aspx)                      |   |
 |                                                                                           |                                                                                                                   |   |
 |                                                                                           |                                                                                                                   |   |
-| [World Wide Web Consortium (W3C)](https://www.w3.org/)                                    |                                                                                                                   |   |
+| [World Wide Web Consortium (W3C)](https://www.w3.org/)                                    | [Get involved](https://www.w3.org/get-involved/)                                                                  |   |
 |                                                                                           |                                                                                                                   |   |
 |                                                                                           |                                                                                                                   |   |
 {% endtab %}
