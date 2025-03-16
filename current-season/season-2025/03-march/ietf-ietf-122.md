@@ -66,14 +66,15 @@ OSI was a good start for its purpose and further models have been proposed to in
 
 This talk will aim at proposing a more general diagram with the hopes of achieving a framework that can be used in as many scenarios as possible.
 
+{% embed url="https://docs.google.com/presentation/d/1ergaijckgruOJFLV3cO5Obb_uo7JjG_6IxR6BAebzpI/edit?pli=1#slide=id.g340e5d7a402_0_12" %}
+
 {% tabs %}
 {% tab title="Materials" %}
 | Item          | (short)URL                                                                                                                                                                                                     | Notes |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | HotRFC Slides | [https://docs.google.com/presentation/d/1ergaijckgruOJFLV3cO5Obb\_uo7JjG\_6IxR6BAebzpI/edit?usp=sharing](https://docs.google.com/presentation/d/1ergaijckgruOJFLV3cO5Obb_uo7JjG_6IxR6BAebzpI/edit?usp=sharing) |       |
 |               |                                                                                                                                                                                                                |       |
-
-
+|               |                                                                                                                                                                                                                |       |
 {% endtab %}
 
 {% tab title="Activity" %}
