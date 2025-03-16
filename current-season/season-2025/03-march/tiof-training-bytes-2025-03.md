@@ -175,5 +175,10 @@ During the event, the following will be provided:
 
 ## Media
 
+<figure><img src="../../../.gitbook/assets/photo_2025-03-16_13-44-41.jpg" alt=""><figcaption><p>[#TIOF] Training Bytes 2025-03</p></figcaption></figure>
 
 
+
+## Acknowledgements
+
+We would like to thank all the speakers and participants for such a great training session.
