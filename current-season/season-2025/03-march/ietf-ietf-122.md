@@ -54,7 +54,57 @@ You can find the meetings agenda here:
 // COMING SOON!
 ```
 
+## TIOF @ IETF 122
 
+### HotRFC
+
+Jean F. Queralt will be presenting a HotRFC under the title "One diagram to stack them all".
+
+With so many SDOs, supranational and local processes, technical codes, policies and all the rest, it is quite difficult to visualize which areas does a document impact in our digital infrastructure and devices.
+
+OSI was a good start for its purpose and further models have been proposed to include other considerations that affect how technology is designed and implemented.
+
+This talk will aim at proposing a more general diagram with the hopes of achieving a framework that can be used in as many scenarios as possible.
+
+{% tabs %}
+{% tab title="Materials" %}
+| Item          | (short)URL                                                                                                                                                                                                     | Notes |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| HotRFC Slides | [https://docs.google.com/presentation/d/1ergaijckgruOJFLV3cO5Obb\_uo7JjG\_6IxR6BAebzpI/edit?usp=sharing](https://docs.google.com/presentation/d/1ergaijckgruOJFLV3cO5Obb_uo7JjG_6IxR6BAebzpI/edit?usp=sharing) |       |
+|               |                                                                                                                                                                                                                |       |
+
+
+{% endtab %}
+
+{% tab title="Activity" %}
+| Content           | (short)URL | QR Code |
+| ----------------- | ---------- | ------- |
+| Info Page         |            |         |
+| Registration Page |            |         |
+| Official Website  |            |         |
+
+
+
+
+{% endtab %}
+
+{% tab title="SocMed" %}
+| Platform                                                                                                  | URLs        |
+| --------------------------------------------------------------------------------------------------------- | ----------- |
+| <img src="../../../.gitbook/assets/Twitter X Icon.png" alt="" data-size="line">                           |             |
+| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  | <p><br></p> |
+| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |             |
+| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |             |
+| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon B Rumble XXX v1.0.png" alt="" data-size="line">  |             |
+| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |             |
+
+
+{% endtab %}
+{% endtabs %}
+
+### EODIR
+
+The IO Foundation will present at the [Education and Outreach Directorate](https://wiki.ietf.org/group/eodir) the results of its [\[#TIOF\] Training Bytes 2025-03](tiof-training-bytes-2025-03.md) and its [\[#TIOF\] Fellowship IETF 122](https://short.theiofoundation.org/tiof-fellowship-ietf-122-info) activities.
 
 ## Resources
 
