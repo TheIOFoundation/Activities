@@ -130,11 +130,11 @@ Food and beverage will be served during the activity.
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                                               | QR Code                                                                        |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Info Page         | [https://Short.TheIOFoundation.org/tiof-training-bytes-2025-03-info](https://short.theiofoundation.org/tiof-training-bytes-2025-03-info)                 | <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="original"> |
-| Registration Page | [https://Short.TheIOFoundation.org/tiof-training-bytes-2025-03-registration](https://short.theiofoundation.org/tiof-training-bytes-2025-03-registration) | <img src="../../../.gitbook/assets/image.png" alt="" data-size="original">     |
-|                   |                                                                                                                                                          |                                                                                |
+| Content           | (short)URL         | QR Code            |
+| ----------------- | ------------------ | ------------------ |
+| Info Page         | \[**COMING SOON]** | \[**COMING SOON]** |
+| Registration Page | \[**COMING SOON]** | \[**COMING SOON]** |
+|                   |                    |                    |
 
 
 

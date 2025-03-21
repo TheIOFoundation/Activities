@@ -21,7 +21,7 @@ layout:
 
 ## About
 
-The Internet Engineering Task Force ([IETF](https://www.ietf.org/)) will have their first meeting for Season 2025 in Bangkok, Thailand.
+The Internet Engineering Task Force ([IETF](https://www.ietf.org/)) will have their second meeting for Season 2025 in Madrid, Spain.
 
 The IO Foundation will be there in-person to support the advancement of Request For Comments (RFCs) that protect digital citizens by design.
 
@@ -30,23 +30,23 @@ Fellowship opportunity:
 
 If you:
 
-* Are in Bangkok during IETF 122
+* Are in Madrid (Spain) during IETF 123
 * Are a full-time student
 
-you should consider submitting to our [\[#TIOF\] Fellowship - IETF 122](https://short.theiofoundation.org/ietf-ietf-122-info) opportunity!
+you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](tiof-fellowship-ietf-123.md) opportunity!
 {% endhint %}
 
 
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td><a href="https://www.ietf.org/meeting/122/">IETF 122</a></td></tr><tr><td>📖 <strong>Activity Type</strong></td><td>Meeting</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March 2025</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Friday 21st March 2025</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p>Bangkok Marriott Marquis Queen’s Park</p><p>Bangkok, Thailand</p></td></tr><tr><td>🎫 <strong>RSVP</strong></td><td><a href="https://registration.ietf.org/122/">IETF's Registration Platform</a></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td><a href="ietf-ietf-123.md">IETF 123</a></td></tr><tr><td>📖 <strong>Activity Type</strong></td><td>Meeting</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 19th July 2025</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Friday 25th July 2025</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p>Meliá Castilla Hotel &#x26; Convention Center</p><p>Madrid, Spain</p></td></tr><tr><td>🎫 <strong>RSVP</strong></td><td><a href="https://registration.ietf.org/123/">IETF's Registration Platform</a></td></tr></tbody></table>
 
 ### Agenda
 
-You can find the meetings agenda here:
-
-{% embed url="https://datatracker.ietf.org/meeting/122/agenda" %}
+{% hint style="info" %}
+The Agenda is yet to be published by the IETF.
+{% endhint %}
 
 ## ProtocolWatch
 
@@ -54,27 +54,15 @@ You can find the meetings agenda here:
 // COMING SOON!
 ```
 
-## TIOF @ IETF 122
-
-### HotRFC
-
-Jean F. Queralt will be presenting a HotRFC under the title "One diagram to stack them all".
-
-With so many SDOs, supranational and local processes, technical codes, policies and all the rest, it is quite difficult to visualize which areas does a document impact in our digital infrastructure and devices.
-
-OSI was a good start for its purpose and further models have been proposed to include other considerations that affect how technology is designed and implemented.
-
-This talk will aim at proposing a more general diagram with the hopes of achieving a framework that can be used in as many scenarios as possible.
-
-{% embed url="https://docs.google.com/presentation/d/1ergaijckgruOJFLV3cO5Obb_uo7JjG_6IxR6BAebzpI/edit?pli=1#slide=id.g340e5d7a402_0_12" %}
+## TIOF @ IETF 123
 
 {% tabs %}
 {% tab title="Materials" %}
-| Item          | (short)URL                                                                                                                                                                                                     | Notes |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| HotRFC Slides | [https://docs.google.com/presentation/d/1ergaijckgruOJFLV3cO5Obb\_uo7JjG\_6IxR6BAebzpI/edit?usp=sharing](https://docs.google.com/presentation/d/1ergaijckgruOJFLV3cO5Obb_uo7JjG_6IxR6BAebzpI/edit?usp=sharing) |       |
-|               |                                                                                                                                                                                                                |       |
-|               |                                                                                                                                                                                                                |       |
+| Item | (short)URL | Notes |
+| ---- | ---------- | ----- |
+|      |            |       |
+|      |            |       |
+|      |            |       |
 {% endtab %}
 
 {% tab title="Activity" %}
@@ -105,7 +93,7 @@ This talk will aim at proposing a more general diagram with the hopes of achievi
 
 ### EODIR
 
-The IO Foundation will present at the [Education and Outreach Directorate](https://wiki.ietf.org/group/eodir) the results of its [\[#TIOF\] Training Bytes 2025-03](../03-march/tiof-training-bytes-2025-03.md) and its [\[#TIOF\] Fellowship IETF 122](https://short.theiofoundation.org/tiof-fellowship-ietf-122-info) activities.
+The IO Foundation will present at the [Education and Outreach Directorate](https://wiki.ietf.org/group/eodir) the results of its [\[#TIOF\] Training Bytes 2025-07](tiof-training-bytes-2025-07.md) and its [\[#TIOF\] Fellowship IETF 123](tiof-fellowship-ietf-123.md) activities.
 
 ## Resources
 
