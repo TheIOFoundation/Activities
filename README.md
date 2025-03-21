@@ -14,11 +14,7 @@ layout:
 
 # Activities
 
-## \[#TIOF]
-
-Training Bytes 2025-02\[#TIOF]
-
-Training Bytes 2025-02 the Spotlight
+## On the spotlight
 
 ***
 
