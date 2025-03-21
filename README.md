@@ -1,4 +1,7 @@
 ---
+description: >-
+  The following are the list of activities organized and participated by The IO
+  Foundation.
 layout:
   title:
     visible: true
