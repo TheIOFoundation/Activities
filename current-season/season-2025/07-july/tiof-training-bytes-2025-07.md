@@ -28,7 +28,7 @@ layout:
 
 ## About
 
-On the occasion IETF 123 happening in Madrid (Spain), The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) and to explore the IETF 123 meeting and its activities.
+On the occasion [IETF 123](ietf-ietf-123.md) happening in Madrid (Spain), The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) and to explore the IETF 123 meeting and its activities.
 
 This Training Bytes session focuses on practical approaches for developing and implementing technical standards that enhance user safety and privacy.
 
