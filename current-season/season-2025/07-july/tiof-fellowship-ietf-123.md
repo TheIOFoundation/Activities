@@ -22,7 +22,7 @@ layout:
 ## Registration
 
 {% hint style="success" %}
-**APPLY BY \[COMING SOON] 00:00 (UTC+00)**
+**APPLY BY JUNE 29th 00:00 (UTC+00)**
 {% endhint %}
 
 ## About
@@ -33,7 +33,7 @@ TIOF Fellows represent The IO Foundation on an international stage while contrib
 
 As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
 
-> **NOTE: LIMITED SPOTS - APPLY BY \[COMING SOON] 00:00 (UTC+00)**
+> **NOTE: LIMITED SPOTS - APPLY BY JUNE 29th 00:00 (UTC+00)**
 
 ## **Responsibilities**
 
@@ -87,11 +87,11 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                         | QR Code                                                                        |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info) | <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
-| Registration Page | \[**COMING SOON]**                                                                                                                 | \[**COMING SOON]**                                                             |
-|                   |                                                                                                                                    |                                                                                |
+| Content           | (short)URL                                                                                                                                         | QR Code                                                                        |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info)                 | <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
+| Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration) | <img src="../../../.gitbook/assets/image.png" alt="" data-size="original">     |
+|                   |                                                                                                                                                    |                                                                                |
 
 
 

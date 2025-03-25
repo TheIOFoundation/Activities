@@ -74,11 +74,11 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                                         | QR Code                                                                                    |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-122-info](https://short.theiofoundation.org/tiof-fellowship-ietf-122-info)                 | <img src="../../../.gitbook/assets/image (3).png" alt="" data-size="original">             |
-| Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-122-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-122-registration) | <img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original"> |
-|                   |                                                                                                                                                    |                                                                                            |
+| Content           | (short)URL                                                                                                                                         | QR Code                                                                                        |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-122-info](https://short.theiofoundation.org/tiof-fellowship-ietf-122-info)                 | <img src="../../../.gitbook/assets/image (3).png" alt="" data-size="original">                 |
+| Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-122-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-122-registration) | <img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="original"> |
+|                   |                                                                                                                                                    |                                                                                                |
 
 
 
