@@ -150,6 +150,9 @@
 
 ## Templates
 
+* [\[#TIOF\] Training Bytes 20XX-YY](templates/tiof-training-bytes-20xx-yy.md)
+* [\[#TIOF\] Fellowship - IETF XYZ](templates/tiof-fellowship-ietf-xyz.md)
+* [\[#IETF\] IETF XYZ](templates/ietf-ietf-xyz.md)
 * [Template](templates/template.md)
 * [Season](templates/season/README.md)
   * [01 - January](templates/season/01-january.md)

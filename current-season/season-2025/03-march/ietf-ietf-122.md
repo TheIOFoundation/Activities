@@ -119,11 +119,11 @@ The IO Foundation will present at the [Education and Outreach Directorate](https
 {% tab title="Activity" %}
 
 
-| Content           | (short)URL                                                                                                                   | QR Code                                                                        |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Info Page         | [https://Short.TheIOFoundation.org/ietf-ietf-122-info](https://short.theiofoundation.org/ietf-ietf-122-info)                 | <img src="../../../.gitbook/assets/image (4).png" alt="" data-size="original"> |
-| Registration Page | [https://Short.TheIOFoundation.org/ietf-ietf-122-registration](https://short.theiofoundation.org/ietf-ietf-122-registration) | <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
-|                   |                                                                                                                              |                                                                                |
+| Content           | (short)URL                                                                                                                   | QR Code                                                                            |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Info Page         | [https://Short.TheIOFoundation.org/ietf-ietf-122-info](https://short.theiofoundation.org/ietf-ietf-122-info)                 | <img src="../../../.gitbook/assets/image (4).png" alt="" data-size="original">     |
+| Registration Page | [https://Short.TheIOFoundation.org/ietf-ietf-122-registration](https://short.theiofoundation.org/ietf-ietf-122-registration) | <img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> |
+|                   |                                                                                                                              |                                                                                    |
 
 
 
