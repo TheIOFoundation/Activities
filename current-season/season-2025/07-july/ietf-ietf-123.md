@@ -66,11 +66,11 @@ The Agenda is yet to be published by the IETF.
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL | QR Code |
-| ----------------- | ---------- | ------- |
-| Info Page         |            |         |
-| Registration Page |            |         |
-| Official Website  |            |         |
+| Content           | (short)URL                                                                                                   | QR Code                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Info Page         | [https://Short.TheIOFoundation.org/ietf-ietf-123-info](https://short.theiofoundation.org/ietf-ietf-123-info) | <img src="../../../.gitbook/assets/image (5).png" alt="" data-size="original"> |
+| Registration Page | [https://Short.TheIOFoundation.org/ietf-ietf-123](https://short.theiofoundation.org/ietf-ietf-123)           | <img src="../../../.gitbook/assets/image (6).png" alt="" data-size="original"> |
+| Official Website  | [https://www.ietf.org/meeting/123/](https://www.ietf.org/meeting/123/)                                       |                                                                                |
 
 
 
