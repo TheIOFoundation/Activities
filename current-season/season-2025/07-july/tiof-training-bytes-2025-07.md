@@ -23,7 +23,7 @@ layout:
 ## Registration
 
 {% hint style="success" %}
-🎫 **REGISTER (COMING SOON)**
+[🎫 **REGISTER**](https://short.theiofoundation.org/tiof-training-bytes-2025-07-registration)
 {% endhint %}
 
 ## About
@@ -66,7 +66,7 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](tiof-fel
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>TBC July - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>TBC July - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td>TBC<br>Madrid, Spain</td></tr><tr><td>💵 Price</td><td>$ 150 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> 🎫 <strong>COMING SOON (Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>TBC July - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>TBC July - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td>TBC<br>Madrid, Spain</td></tr><tr><td>💵 Price</td><td>$ 150 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-2025-07-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
 
 ### Agenda
 
