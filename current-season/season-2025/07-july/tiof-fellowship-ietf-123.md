@@ -87,11 +87,11 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL         | QR Code            |
-| ----------------- | ------------------ | ------------------ |
-| Info Page         | \[**COMING SOON]** | \[**COMING SOON]** |
-| Registration Page | \[**COMING SOON]** | \[**COMING SOON]** |
-|                   |                    |                    |
+| Content           | (short)URL                                                                                                                         | QR Code                                                                    |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info) | <img src="../../../.gitbook/assets/image.png" alt="" data-size="original"> |
+| Registration Page | \[**COMING SOON]**                                                                                                                 | \[**COMING SOON]**                                                         |
+|                   |                                                                                                                                    |                                                                            |
 
 
 
