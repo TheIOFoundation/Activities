@@ -1,4 +1,4 @@
-# Copy of Template
+# \[#XXX] Law Tech Hackathon
 
 {% hint style="warning" %}
 🚧 Page under construction.&#x20;
