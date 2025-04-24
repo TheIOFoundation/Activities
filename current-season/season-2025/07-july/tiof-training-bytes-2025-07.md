@@ -71,7 +71,7 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](tiof-fel
 ### Agenda
 
 {% hint style="info" %}
-Please note that this is a provisional agenda. Final times, speakers and content will be published soon.15
+Please note that this is a provisional agenda. Final times, speakers and content will be published soon.
 {% endhint %}
 
 | Time                 | Activity                           | Content                                                                                                                                                                                               |
