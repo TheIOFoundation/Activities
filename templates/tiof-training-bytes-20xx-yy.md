@@ -61,7 +61,7 @@ If you:
 * Are in Madrid during IETF 123
 * Are a full-time student
 
-you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](../current-season/season-2025/07-july/tiof-fellowship-ietf-123.md) opportunity!
+you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](../current-season/season-2025/07-july/tiof-techup-fellowship-ietf-123.md) opportunity!
 {% endhint %}
 
 ## Activity Details
@@ -74,17 +74,17 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](../curre
 Please note that this is a provisional agenda. Final times, speakers and content will be published soon.15
 {% endhint %}
 
-| Time                 | Activity                           | Content                                                                                                                                                                                                                                     |
-| -------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:30                | 📋 Registration Opens              |                                                                                                                                                                                                                                             |
-| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                                                                                        |
-| 11:00                | 🥐 Break 15 minutes                |                                                                                                                                                                                                                                             |
-| <p>11:15<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Jean F. Queralt<br></p>                                                                                 |
-| 13:00                | 🍱 Break Lunch                     |                                                                                                                                                                                                                                             |
-| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>Workshop</strong></em><br>Preparing your participation in <a href="../current-season/season-2025/07-july/ietf-ietf-123.md">IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p>                                     |
-| 15:00                | 💡 Session 4                       | <p><em><strong>TU Fellowship</strong></em><br>Onboarding for Fellows under the <a href="../current-season/season-2025/07-july/tiof-fellowship-ietf-123.md">[#TIOF] Fellowship IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p> |
-| 16:15                | 💬 Wrap up                         |                                                                                                                                                                                                                                             |
-| 16:30                | 🏁 End                             |                                                                                                                                                                                                                                             |
+| Time                 | Activity                           | Content                                                                                                                                                                                                                                            |
+| -------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:30                | 📋 Registration Opens              |                                                                                                                                                                                                                                                    |
+| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                                                                                               |
+| 11:00                | 🥐 Break 15 minutes                |                                                                                                                                                                                                                                                    |
+| <p>11:15<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Jean F. Queralt<br></p>                                                                                        |
+| 13:00                | 🍱 Break Lunch                     |                                                                                                                                                                                                                                                    |
+| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>Workshop</strong></em><br>Preparing your participation in <a href="../current-season/season-2025/07-july/ietf-ietf-123.md">IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p>                                            |
+| 15:00                | 💡 Session 4                       | <p><em><strong>TU Fellowship</strong></em><br>Onboarding for Fellows under the <a href="../current-season/season-2025/07-july/tiof-techup-fellowship-ietf-123.md">[#TIOF] Fellowship IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p> |
+| 16:15                | 💬 Wrap up                         |                                                                                                                                                                                                                                                    |
+| 16:30                | 🏁 End                             |                                                                                                                                                                                                                                                    |
 
 ## Speakers
 

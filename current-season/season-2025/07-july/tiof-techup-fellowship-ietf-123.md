@@ -17,12 +17,12 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] Fellowship - IETF 123
+# \[#TIOF] TechUp Fellowship - IETF 123
 
 ## Registration
 
 {% hint style="success" %}
-**APPLY BY JUNE 29th 00:00 (UTC+00)**
+**APPLY BY JUNE 15th 00:00 (UTC+00)**
 {% endhint %}
 
 ## About
@@ -33,7 +33,7 @@ TIOF Fellows represent The IO Foundation on an international stage while contrib
 
 As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
 
-> **NOTE: LIMITED SPOTS - APPLY BY JUNE 29th 00:00 (UTC+00)**
+> **NOTE: LIMITED SPOTS - APPLY BY JUNE 15th 00:00 (UTC+00)**
 
 ## **Responsibilities**
 

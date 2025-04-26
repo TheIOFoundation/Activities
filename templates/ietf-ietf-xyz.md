@@ -33,7 +33,7 @@ If you:
 * Are in Madrid (Spain) during IETF 123
 * Are a full-time student
 
-you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](../current-season/season-2025/07-july/tiof-fellowship-ietf-123.md) opportunity!
+you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](../current-season/season-2025/07-july/tiof-techup-fellowship-ietf-123.md) opportunity!
 {% endhint %}
 
 
@@ -93,7 +93,7 @@ The Agenda is yet to be published by the IETF.
 
 ### EODIR
 
-The IO Foundation will present at the [Education and Outreach Directorate](https://wiki.ietf.org/group/eodir) the results of its [\[#TIOF\] Training Bytes 2025-07](../current-season/season-2025/07-july/tiof-training-bytes-2025-07.md) and its [\[#TIOF\] Fellowship IETF 123](../current-season/season-2025/07-july/tiof-fellowship-ietf-123.md) activities.
+The IO Foundation will present at the [Education and Outreach Directorate](https://wiki.ietf.org/group/eodir) the results of its [\[#TIOF\] Training Bytes 2025-07](../current-season/season-2025/07-july/tiof-training-bytes-2025-07.md) and its [\[#TIOF\] Fellowship IETF 123](../current-season/season-2025/07-july/tiof-techup-fellowship-ietf-123.md) activities.
 
 ## Resources
 
