@@ -29,7 +29,7 @@
   * [05 - May](current-season/season-2025/05-may.md)
   * [06 - June](current-season/season-2025/06-june.md)
   * [07 - July](current-season/season-2025/07-july/README.md)
-    * [\[#TIOF\] Training Bytes 2025-07](current-season/season-2025/07-july/tiof-training-bytes-2025-07.md)
+    * [\[#TIOF\] Training Bytes 2025-07 MADRID](current-season/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md)
     * [\[#TIOF\] TechUp Fellowship - IETF 123](current-season/season-2025/07-july/tiof-techup-fellowship-ietf-123.md)
     * [\[#IETF\] IETF 123](current-season/season-2025/07-july/ietf-ietf-123.md)
   * [08 - August](current-season/season-2025/08-august.md)

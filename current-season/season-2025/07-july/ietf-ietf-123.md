@@ -93,7 +93,7 @@ The Agenda is yet to be published by the IETF.
 
 ### EODIR
 
-The IO Foundation will present at the [Education and Outreach Directorate](https://wiki.ietf.org/group/eodir) the results of its [\[#TIOF\] Training Bytes 2025-07](tiof-training-bytes-2025-07.md) and its [\[#TIOF\] Fellowship IETF 123](tiof-techup-fellowship-ietf-123.md) activities.
+The IO Foundation will present at the [Education and Outreach Directorate](https://wiki.ietf.org/group/eodir) the results of its [\[#TIOF\] Training Bytes 2025-07](tiof-training-bytes-2025-07-madrid.md) and its [\[#TIOF\] Fellowship IETF 123](tiof-techup-fellowship-ietf-123.md) activities.
 
 ## Resources
 

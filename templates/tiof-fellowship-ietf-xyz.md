@@ -38,7 +38,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 ## **Responsibilities**
 
 * Actively participate in the following events and activities related to The IO Foundation’s advocacy on Data-Centric Digital Rights:
-  * [\[#TIOF\] Training Bytes 2025-07](../current-season/season-2025/07-july/tiof-training-bytes-2025-07.md) (Madrid, Spain)
+  * [\[#TIOF\] Training Bytes 2025-07](../current-season/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain)
   * [\[#IETF\] IETF 123](../current-season/season-2025/07-july/ietf-ietf-123.md) (Madrid, Spain)
 * Serve as a representative of The IO Foundation, effectively communicating our mission, values and initiatives
 * Provide regular reports on participation, including insights, outcomes and recommendations for future engagements
@@ -69,7 +69,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 * Engagement length: As agreed
 * Time commitment: As agreed
 * Benefits
-  * [\[#TIOF\] Training Bytes 2025-07](../current-season/season-2025/07-july/tiof-training-bytes-2025-07.md) (Madrid, Spain) - **Ticket waived**
+  * [\[#TIOF\] Training Bytes 2025-07](../current-season/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain) - **Ticket waived**
   * [\[#IETF\] IETF 123](../current-season/season-2025/07-july/ietf-ietf-123.md) (Madrid, Spain) - **Ticket waived (Student Pass)**
   * TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
   * Certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform)
