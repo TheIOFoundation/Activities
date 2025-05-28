@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] DCDR Bytes: Introduction to the Data-Centric Digital Rights
+# \[#TIOF] DCDR Bytes: Introduction to the Data-Centric Digital Rights 2025-07 BANDUNG
 
 ## Registration
 
