@@ -1,3 +1,7 @@
+---
+icon: calendar-circle-user
+---
+
 # \[#NCSG] NCSG EC Meeting 01-2025
 
 ## About

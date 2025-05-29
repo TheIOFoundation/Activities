@@ -1,5 +1,6 @@
 ---
 description: Activities for Season 2018
+icon: leaf
 ---
 
 # Season 2018

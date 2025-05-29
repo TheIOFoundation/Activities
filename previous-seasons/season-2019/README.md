@@ -1,3 +1,7 @@
+---
+icon: leaf
+---
+
 # Season 2019
 
 {% hint style="info" %}

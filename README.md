@@ -2,6 +2,7 @@
 description: >-
   The following are the list of activities organized and participated by The IO
   Foundation.
+icon: calendar-range
 layout:
   title:
     visible: true

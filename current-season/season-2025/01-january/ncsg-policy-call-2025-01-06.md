@@ -1,4 +1,5 @@
 ---
+icon: calendar-circle-user
 cover: ../../../.gitbook/assets/charlesdeluvio-Lks7vei-eAg-unsplash.jpg
 coverY: 0
 ---

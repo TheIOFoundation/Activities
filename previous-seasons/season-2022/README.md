@@ -1,3 +1,7 @@
+---
+icon: leaf
+---
+
 # Season 2022
 
 ## About
