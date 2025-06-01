@@ -1,3 +1,7 @@
+---
+icon: calendar-circle-user
+---
+
 # \[#TIOF] Fellowship - IETF 122
 
 ## Registration

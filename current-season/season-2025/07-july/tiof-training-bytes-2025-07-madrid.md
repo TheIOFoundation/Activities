@@ -1,5 +1,6 @@
 ---
 description: TechUp Academy
+icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
 layout:

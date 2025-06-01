@@ -1,6 +1,7 @@
 ---
 description: 'Navigating a New Era of Provacy: Rights, Responsibilities and Opportunities.'
 hidden: true
+icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
 layout:

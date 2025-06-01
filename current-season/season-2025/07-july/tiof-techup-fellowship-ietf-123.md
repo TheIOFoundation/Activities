@@ -1,4 +1,5 @@
 ---
+icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage12774.jpg
 coverY: -12
 layout:

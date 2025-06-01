@@ -1,3 +1,7 @@
+---
+icon: calendar-circle-user
+---
+
 # \[#BHEUU] Engagement session on NAPBHR
 
 {% hint style="warning" %}

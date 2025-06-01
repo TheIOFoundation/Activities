@@ -43,7 +43,6 @@
 ## Upcoming Seasons
 
 * [Season 2026](upcoming-seasons/season-2026.md)
-* [Notice](upcoming-seasons/notice.md)
 
 ## Previous seasons
 
@@ -178,24 +177,3 @@
   * [11 - November](previous-seasons/season-2018/11-november/README.md)
     * [\[#IGF\] Internet Governance Forum 2018](previous-seasons/season-2018/11-november/igf-internet-governance-forum-2018.md)
   * [12 - December](previous-seasons/season-2018/12-december.md)
-
-## Templates
-
-* [\[#TIOF\] Training Bytes 20XX-YY](templates/tiof-training-bytes-20xx-yy.md)
-* [\[#TIOF\] Fellowship - IETF XYZ](templates/tiof-fellowship-ietf-xyz.md)
-* [\[#IETF\] IETF XYZ](templates/ietf-ietf-xyz.md)
-* [Template](templates/template.md)
-* [Copy of Template](templates/copy-of-template.md)
-* [Season](templates/season/README.md)
-  * [01 - January](templates/season/01-january.md)
-  * [02 - February](templates/season/02-february.md)
-  * [03 - March](templates/season/03-march.md)
-  * [04 - April](templates/season/04-april.md)
-  * [05 - May](templates/season/05-may.md)
-  * [06 - June](templates/season/06-june.md)
-  * [07 - July](templates/season/07-july.md)
-  * [08 - August](templates/season/08-august.md)
-  * [09 - September](templates/season/09-september.md)
-  * [10 - October](templates/season/10-october.md)
-  * [11 - November](templates/season/11-november.md)
-  * [12 - December](templates/season/12-december.md)
