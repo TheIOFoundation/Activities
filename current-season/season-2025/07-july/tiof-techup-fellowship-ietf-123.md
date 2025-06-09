@@ -20,17 +20,15 @@ layout:
 
 # \[#TIOF] TechUp Fellowship - IETF 123
 
-## Registration
-
-{% hint style="success" %}
-## APPLY BY JUNE 15th 00:00 (UTC+00)
-{% endhint %}
-
 |                                                                                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">GO TO REGISTRATION FORM</a> |
 
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
+
+{% hint style="success" %}
+## APPLY BY JUNE 15th 00:00 (UTC+00)
+{% endhint %}
 
 ## About
 
