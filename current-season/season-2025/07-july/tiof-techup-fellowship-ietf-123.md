@@ -30,7 +30,7 @@ layout:
 | :----------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">GO TO REGISTRATION FORM</a> |
 
-<div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption><p>Register for [#TIOF] TechUp Fellowship - IETF 123</p></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 ## About
 
