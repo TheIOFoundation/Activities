@@ -29,7 +29,16 @@ layout:
 |                                                                                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">GO TO REGISTRATION FORM</a> |
-|                             ![](../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png)                            |
+
+<figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt=""><figcaption></figcaption></figure>
+
+<a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">New button</a>
+
+<figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure>
+
+<a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">New button</a>
+
+<figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## About
 
