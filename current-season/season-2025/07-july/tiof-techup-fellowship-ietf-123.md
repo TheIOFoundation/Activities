@@ -23,13 +23,13 @@ layout:
 ## Registration
 
 {% hint style="success" %}
-## **REGISTRATION**
-
-<a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button secondary">APPLY BY JUNE 15th 00:00 (UTC+00)</a>\
-
-
-![](../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png)
+​🎫 APPLY BY JUNE 15th 00:00 (UTC+00)
 {% endhint %}
+
+|                                                                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">GO TO REGISTRATION FORM</a> |
+|                             ![](../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png)                            |
 
 ## About
 
