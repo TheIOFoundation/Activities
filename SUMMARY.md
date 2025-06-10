@@ -30,7 +30,7 @@
   * [06 - June](current-season/season-2025/06-june.md)
   * [07 - July](current-season/season-2025/07-july/README.md)
     * [\[#TIOF\] Training Bytes 2025-07 MADRID](current-season/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md)
-    * [\[#TIOF\] Training Bytes 2025-07 ToT BANDUNG](current-season/season-2025/07-july/tiof-training-bytes-2025-07-tot-bandung.md)
+    * [\[#TIOF\] Training Bytes ToT 2025-07 BANDUNG](current-season/season-2025/07-july/tiof-training-bytes-tot-2025-07-bandung.md)
     * [\[#TIOF\] DCDR Bytes: Introduction to the Data-Centric Digital Rights 2025-07 BANDUNG](current-season/season-2025/07-july/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-07-bandung.md)
     * [\[#TIOF\] TechUp Fellowship - IETF 123](current-season/season-2025/07-july/tiof-techup-fellowship-ietf-123.md)
     * [\[#IETF\] IETF 123](current-season/season-2025/07-july/ietf-ietf-123.md)
