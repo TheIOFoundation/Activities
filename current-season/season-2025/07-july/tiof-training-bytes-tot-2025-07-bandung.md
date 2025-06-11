@@ -54,7 +54,6 @@ The session aims:
 Participants will receive an e-Certificate that can be embedded and verified via our [Certificates.TheIOFoundation.org](https://certificates.theiofoundation.org) platform.
 {% endhint %}
 
-\
 **Standards Developing Organizations in this activity**
 
 * Internet Engineering Task Force ([IETF](https://www.ietf.org/))
@@ -73,7 +72,7 @@ Check all the information on this fellowship opportunity on the [\[#TIOF\] TechU
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards + ToT</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Tuesday 1st July - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Tuesday 1st July - 16:00 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p><strong>Universitas Kristen Maranatha</strong><br>GAP Building - Room Paulus (Level 4)</p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td>$ 200 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-tot-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards + <strong>Training of Trainers</strong></td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Tuesday 1st July - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Tuesday 1st July - 16:00 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p><a href="https://maps.app.goo.gl/rpnN8L647GWH9Jzw6"><strong>Universitas Kristen Maranatha</strong><br>GAP Building - Room Paulus (Level 4)</a></p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td>$ 200 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-tot-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
 
 ### Agenda
 
@@ -81,17 +80,18 @@ Check all the information on this fellowship opportunity on the [\[#TIOF\] TechU
 Please note that this is a provisional agenda. Final times, speakers and content will be published soon.
 {% endhint %}
 
-| Time                 | Activity                           | Content                                                                                                                                                                |
-| -------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:30                | 📋 Registration Opens              |                                                                                                                                                                        |
-| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                   |
-| 10:30                | 🥐 Break 15 minutes                |                                                                                                                                                                        |
-| <p>10:45<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Jean F. Queralt</p>                |
-| 12:00                | 🍱 Break Lunch                     |                                                                                                                                                                        |
-| <p>13:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>TU Fellowship</strong></em><br>Preparing your participation in <a href="ietf-ietf-123.md">IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p> |
-| 14:00                | 💡 Session 4                       | <p><em><strong>Training of Trainers</strong></em><br><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p>                                                                 |
-| 17:45                | 💬 Wrap up                         |                                                                                                                                                                        |
-| 16:00                | 🏁 End                             |                                                                                                                                                                        |
+| Time                 | Activity                           | Content                                                                                                                                                                       |
+| -------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:30                | 📋 Registration Opens              |                                                                                                                                                                               |
+| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                          |
+| 10:30                | 🥐 Break 15 minutes                |                                                                                                                                                                               |
+| <p>10:45<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Jean F. Queralt</p>                       |
+| 12:00                | 🍱 Break Lunch                     |                                                                                                                                                                               |
+| <p>13:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>TU Fellowship</strong></em><br>Preparing your participation in <a href="ietf-ietf-123.md">IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p>        |
+| 14:00                | 💡 Session 4                       | <p><em><strong>Training of Trainers</strong></em><br>A collaborative session where we will prepare a new cohort of Trainers.<br><br>Spea<em>kers:</em><br>Jean F. Queralt</p> |
+| 17:45                | 💬 Wrap up                         |                                                                                                                                                                               |
+| 16:00                | 🥐 Snack                           | Meet & Greet the speaker and other fellow participants.                                                                                                                       |
+| 17:00                | 🏁 End                             |                                                                                                                                                                               |
 
 ## Speakers
 
@@ -106,9 +106,13 @@ Bandung, Indonesia
 
 ### How to reach the venue
 
+```
+Instructions will be posted soon.
+```
+
 ## Food & Beverage
 
-Please note that food and beverage will be be served during the activity.
+Please note that food and beverage will be be served during the activity. See the [agenda](tiof-training-bytes-tot-2025-07-bandung.md#agenda) for more details.
 
 ## Resources
 
@@ -158,7 +162,6 @@ Please note that food and beverage will be be served during the activity.
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |      |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
-|                                                                                                           |      |
 
 
 {% endtab %}
