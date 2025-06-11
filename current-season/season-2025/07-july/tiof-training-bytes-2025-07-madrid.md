@@ -97,7 +97,8 @@ Please note that this is a provisional agenda. Final times, speakers and content
 
 ## Venue
 
-The activity will take place in a venue to be announced.
+[Lexington - Business Center Madrid](https://maps.app.goo.gl/ZnNqVXjsT7vaDYcc6)\
+Madrid, Spain
 
 ### How to reach the venue
 
@@ -160,11 +161,9 @@ Food and beverage will be served during the activity.
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Media
 
-
+Media taken at the activity will be posted here.
 
 ## Acknowledgements
 
