@@ -108,7 +108,7 @@ Bandung, Indonesia
 
 ## Food & Beverage
 
-Please note that food and beverage will be not be served during the activity.
+Please note that food and beverage will be be served during the activity.
 
 ## Resources
 

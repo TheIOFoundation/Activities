@@ -56,11 +56,11 @@ Participants will receive an e-Certificate that can be embedded and verified via
 Please note that this is a provisional agenda. Final times, speakers and content will be published soon.
 {% endhint %}
 
-<table><thead><tr><th width="222">Time</th><th width="221">Activity</th><th>Content</th></tr></thead><tbody><tr><td>12:30</td><td>📋 Registration Opens</td><td></td></tr><tr><td>13:00</td><td><p>💡 Session </p><p><br><br></p></td><td><p><em><strong>Understanding</strong></em><br>Introduction to Data-Centric Digital Rights and the Rights by Design strategy<br></p><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>14:30</td><td>❓ Q&#x26;A</td><td><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>16:15</td><td>💬 Wrap up</td><td><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p></td></tr><tr><td>16:30</td><td>🏁 End</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="222">Time</th><th width="221">Activity</th><th>Content</th></tr></thead><tbody><tr><td>12:30</td><td>📋 Registration Opens</td><td></td></tr><tr><td>13:00</td><td><p>💡 Session </p><p><br><br></p></td><td><p><em><strong>Understanding</strong></em><br>Introduction to Data-Centric Digital Rights and the Rights by Design strategy<br></p><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>14:15</td><td>❓ Q &#x26; A</td><td><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>14:50</td><td>💬 Wrap up</td><td><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p></td></tr><tr><td>15:00</td><td>🥐 Snack</td><td>Meet &#x26; Greet the speaker and other fellow participants.</td></tr><tr><td>16:00</td><td>🏁 End</td><td></td></tr></tbody></table>
 
 ## Speakers
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Other speakers to be announced soon.</td><td></td><td></td><td><a href="../../../.gitbook/assets/Grayscaleimage84718.jpg">Grayscaleimage84718.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Gitbook card.png">Gitbook card.png</a></td><td></td></tr><tr><td>Christian Andersen, S.H., M.Kn.</td><td>Dean of the Faculty of Law</td><td>Universitas Kristian Maranatha</td><td><a href="../../../.gitbook/assets/Gitbook Card.png">Gitbook Card.png</a></td><td><a href="https://www.linkedin.com/in/andersenxtian/">https://www.linkedin.com/in/andersenxtian/</a></td></tr></tbody></table>
 
 ## Venue
 
@@ -109,6 +109,10 @@ Bandung, Indonesia
 
 {% endtab %}
 {% endtabs %}
+
+## Food & Beverage
+
+Please note that food and beverage will be be served during the activity.
 
 ## Media
 
