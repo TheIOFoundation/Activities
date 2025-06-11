@@ -64,12 +64,16 @@ Please note that this is a provisional agenda. Final times, speakers and content
 
 ## Venue
 
-**Universitas Kristen Maranatha**\
-GAP Building - Auditorium Level 8
+[**Universitas Kristen Maranatha**\
+GAP Building - Auditorium Level 8](https://maps.app.goo.gl/rpnN8L647GWH9Jzw6)
 
 Bandung, Indonesia
 
 ### How to reach the venue
+
+```
+Instructions will be posted soon.
+```
 
 ## Resources
 
@@ -112,7 +116,7 @@ Bandung, Indonesia
 
 ## Food & Beverage
 
-Please note that food and beverage will be be served during the activity.
+Please note that food and beverage will be be served after the activity.
 
 ## Media
 
