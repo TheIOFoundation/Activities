@@ -34,19 +34,21 @@ layout:
 
 ## About
 
-On the occasion [IETF 123](ietf-ietf-123.md) happening in Madrid (Spain), The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) and to explore the IETF 123 meeting and its activities.
+On the occasion [IETF 123](https://short.theiofoundation.org/ietf-ietf-123-info) happening in Madrid (Spain), and with the support and collaboration of [Universitas Kristen Maranatha (UKM)](https://www.maranatha.edu/en/) and the Center of Sustainable Art & Design Innovation Studies (CSADIS), The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) with a dedicated Trainer of Trainers module. The session will also explore the IETF 123 meeting and its activities.
 
-This Training Bytes session focuses on practical approaches for developing and implementing technical standards that enhance user safety and privacy.
-
-Participants will
+This Training Bytes session focuses on practical approaches for developing and implementing technical standards that enhance user safety and privacy:
 
 * learn about standards development organizations (SDOs) and how they influence technology
 * identify areas where standards can improve user protection
 * learn which standards are relevant for your industry or occupation
-* explore effective strategies for engaging with key SDOs through the [Data-Centric Digital Rights framework](https://tiof.click/DCDRFrameworkDocs)
-* learn how to actively participate in the upcoming [IETF 123 meeting](ietf-ietf-123.md)
+* explore effective strategies for engaging with key SDOs through the [Data-Centric Digital Rights framework](https://short.theiofoundation.org/TIOFDCDRDocs)
+* learn how to actively participate in the upcoming [IETF 123 meeting](https://short.theiofoundation.org/ietf-ietf-123-info)
 
-The session aims to equip attendees with the knowledge and tools necessary to contribute to standards that prioritize user rights in the global digital landscape.
+The session aims:
+
+* to equip attendees with the knowledge and tools necessary to contribute to standards that prioritize user rights in the global digital landscape
+* to prepare a cohort of DCDR trainers
+* review the IETF 123 agenda and prepare the cohort of Fellows to participate remotely
 
 {% hint style="success" %}
 Participants will receive an e-Certificate that can be embedded and verified via our [Certificates.TheIOFoundation.org](https://certificates.theiofoundation.org) platform.
@@ -61,18 +63,17 @@ Participants will receive an e-Certificate that can be embedded and verified via
 
 ## Fellowship opportunity
 
-{% hint style="info" %}
-If you:
+{% hint style="success" %}
+Participants of the Training of Trainers module will avail of a [TechUp Fellowship](https://short.theiofoundation.org/Fellowship) to participate in the upcoming [IETF 123](https://short.theiofoundation.org/ietf-ietf-123-info) meeting, in this occasion remotely.
 
-* Are in Madrid during IETF 123
-* Are a full-time student
+Interested? [**REGISTER HERE**](https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration)
 
-you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](tiof-techup-fellowship-ietf-123.md) opportunity!
+Check all the information on this fellowship opportunity on the [\[#TIOF\] TechUp Fellowship - IETF 123 page](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info).
 {% endhint %}
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Friday 19th July - 09:00 (UTC+02)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Friday 19th July - 16:30 (UTC+02)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p><strong>Universitas Kristen Maranatha</strong><br>GAP Building - Room Paulus (Level 4)</p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td>$ 200 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-tot-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards + ToT</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Tuesday 1st July - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Tuesday 1st July - 16:00 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p><strong>Universitas Kristen Maranatha</strong><br>GAP Building - Room Paulus (Level 4)</p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td>$ 200 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-tot-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
 
 ### Agenda
 
@@ -80,17 +81,17 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](tiof-tec
 Please note that this is a provisional agenda. Final times, speakers and content will be published soon.
 {% endhint %}
 
-| Time                 | Activity                           | Content                                                                                                                                                                                                             |
-| -------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:30                | 📋 Registration Opens              |                                                                                                                                                                                                                     |
-| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                                                                |
-| 11:00                | 🥐 Break 15 minutes                |                                                                                                                                                                                                                     |
-| <p>11:15<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Jean F. Queralt</p>                                                             |
-| 13:00                | 🍱 Break Lunch                     |                                                                                                                                                                                                                     |
-| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>Workshop</strong></em><br>Preparing your participation in <a href="ietf-ietf-123.md">IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p>                                                   |
-| 15:00                | 💡 Session 4                       | <p><em><strong>TU Fellowship</strong></em><br>Onboarding for Fellows under the <a href="tiof-techup-fellowship-ietf-123.md">[#TIOF] TechUp Fellowship IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p> |
-| 16:15                | 💬 Wrap up                         |                                                                                                                                                                                                                     |
-| 16:30                | 🏁 End                             |                                                                                                                                                                                                                     |
+| Time                 | Activity                           | Content                                                                                                                                                                |
+| -------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08:30                | 📋 Registration Opens              |                                                                                                                                                                        |
+| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                   |
+| 10:30                | 🥐 Break 15 minutes                |                                                                                                                                                                        |
+| <p>10:45<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Jean F. Queralt</p>                |
+| 12:00                | 🍱 Break Lunch                     |                                                                                                                                                                        |
+| <p>13:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>TU Fellowship</strong></em><br>Preparing your participation in <a href="ietf-ietf-123.md">IETF 123</a><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p> |
+| 14:00                | 💡 Session 4                       | <p><em><strong>Training of Trainers</strong></em><br><br><br>Spea<em>kers:</em><br>Jean F. Queralt</p>                                                                 |
+| 17:45                | 💬 Wrap up                         |                                                                                                                                                                        |
+| 16:00                | 🏁 End                             |                                                                                                                                                                        |
 
 ## Speakers
 
@@ -98,13 +99,16 @@ Please note that this is a provisional agenda. Final times, speakers and content
 
 ## Venue
 
-The activity will take place in a venue to be announced.
+**Universitas Kristen Maranatha**\
+GAP Building - Room Paulus (Level 4)
+
+Bandung, Indonesia
 
 ### How to reach the venue
 
 ## Food & Beverage
 
-Food and beverage will be served during the activity.
+Please note that food and beverage will be not be served during the activity.
 
 ## Resources
 
@@ -160,11 +164,13 @@ Food and beverage will be served during the activity.
 {% endtab %}
 {% endtabs %}
 
-
-
 ## Media
 
-
+Media taken at the activity will be posted here.
 
 ## Acknowledgements
+
+The IO Foundation would like to thank [Universitas Kristen Maranatha (UKM)](https://www.maranatha.edu/en/), the Center of Sustainable Art & Design Innovation Studies (CSADIS) as well as the organizing committee for their support and organization of this DCDR Bytes seminar.
+
+Special thanks to Irena V. Gunawan S.T., MCom. for makijng this activity possible.
 
