@@ -95,12 +95,12 @@ Please note that this is a provisional agenda. Final times, speakers and content
 
 ## Speakers
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Other speakers to be announced soon.</td><td></td><td></td><td><a href="../../../.gitbook/assets/Grayscaleimage84718.jpg">Grayscaleimage84718.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Gitbook card.png">Gitbook card.png</a></td></tr></tbody></table>
 
 ## Venue
 
-**Universitas Kristen Maranatha**\
-GAP Building - Room Paulus (Level 4)
+[**Universitas Kristen Maranatha**\
+GAP Building - Room Paulus (Level 4)](https://maps.app.goo.gl/rpnN8L647GWH9Jzw6)
 
 Bandung, Indonesia
 

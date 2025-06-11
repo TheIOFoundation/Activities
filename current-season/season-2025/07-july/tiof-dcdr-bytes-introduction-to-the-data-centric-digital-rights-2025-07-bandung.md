@@ -75,6 +75,10 @@ Bandung, Indonesia
 Instructions will be posted soon.
 ```
 
+## Food & Beverage
+
+Please note that food and beverage will be be served after the activity.
+
 ## Resources
 
 {% tabs %}
@@ -113,10 +117,6 @@ Instructions will be posted soon.
 
 {% endtab %}
 {% endtabs %}
-
-## Food & Beverage
-
-Please note that food and beverage will be be served after the activity.
 
 ## Media
 
