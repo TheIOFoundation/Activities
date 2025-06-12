@@ -77,7 +77,7 @@ Instructions will be posted soon.
 
 ## Food & Beverage
 
-Please note that food and beverage will be be served after the activity. See the [agenda](tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-07-bandung.md#agenda) for more details.
+Please note that food and beverage will not be served during this activity.
 
 ## Resources
 
