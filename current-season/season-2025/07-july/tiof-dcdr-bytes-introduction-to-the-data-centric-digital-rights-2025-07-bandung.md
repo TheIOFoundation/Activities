@@ -124,6 +124,6 @@ Media taken at the activity will be posted here.
 
 ## Acknowledgements
 
-The IO Foundation would like to thank [Universitas Kristen Maranatha (UKM)](https://www.maranatha.edu/en/), the Center of Sustainable Art & Design Innovation Studies (CSADIS) as well as the organizing committee for their support and organization of this DCDR Bytes seminar.
+The IO Foundation would like to thank Faculty of Smart Technology and Engineering, Faculty of Humanities and Creative Industries, and Faculty of Digital Business and Law of [Universitas Kristen Maranatha (UKM)](https://www.maranatha.edu/en/), the Center of Sustainable Art & Design Innovation Studies (CSADIS) as well as the organizing committee for their support and organization of this DCDR Bytes seminar.
 
 Special thanks to Irena V. Gunawan S.T., MCom. for makijng this activity possible.
