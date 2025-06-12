@@ -1,5 +1,5 @@
 ---
-description: 'Navigating a New Era of Provacy: Rights, Responsibilities and Opportunities.'
+description: 'Navigating a New Era of Privacy: Rights, Responsibilities and Opportunities.'
 hidden: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
@@ -56,7 +56,7 @@ Participants will receive an e-Certificate that can be embedded and verified via
 Please note that this is a provisional agenda. Final times, speakers and content will be published soon.
 {% endhint %}
 
-<table><thead><tr><th width="222">Time</th><th width="221">Activity</th><th>Content</th></tr></thead><tbody><tr><td>12:30</td><td>📋 Registration Opens</td><td></td></tr><tr><td>13:00</td><td><p>💡 Session </p><p><br><br></p></td><td><p><em><strong>Understanding</strong></em><br>Introduction to Data-Centric Digital Rights and the Rights by Design strategy<br></p><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>14:15</td><td>❓ Q &#x26; A</td><td><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>14:50</td><td>💬 Wrap up</td><td><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p></td></tr><tr><td>15:00</td><td>🥐 Snack</td><td>Meet &#x26; Greet the speaker and other fellow participants.</td></tr><tr><td>16:00</td><td>🏁 End</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="222">Time</th><th width="221">Activity</th><th>Content</th></tr></thead><tbody><tr><td>12:30</td><td>📋 Registration Opens</td><td></td></tr><tr><td>13:00</td><td><p>💡 Session </p><p><br><br></p></td><td><p><em><strong>Understanding</strong></em><br>Introduction to Data-Centric Digital Rights and the Rights by Design strategy<br></p><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>14:15</td><td>❓ Q &#x26; A</td><td><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>14:50</td><td>💬 Wrap up</td><td><p>Moderator:</p><p>Christian Andersen, S.H., M.Kn.</p></td></tr><tr><td>15:00</td><td>Meet and Greet</td><td>Meet &#x26; Greet the speaker and other fellow participants.</td></tr><tr><td>16:00</td><td>🏁 End</td><td></td></tr></tbody></table>
 
 ## Speakers
 
