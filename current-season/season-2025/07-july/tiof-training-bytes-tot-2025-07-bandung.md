@@ -32,6 +32,12 @@ layout:
 ## REGISTER BY JUNE 30th 00:00 (UTC+00)
 {% endhint %}
 
+{% hint style="warning" %}
+## IMPORTANT
+
+**Please bring your laptop if you will be attending the ToT and Fellowship sessions.**
+{% endhint %}
+
 ## About
 
 On the occasion [IETF 123](https://short.theiofoundation.org/ietf-ietf-123-info) happening in Madrid (Spain), and with the support and collaboration of [Universitas Kristen Maranatha (UKM)](https://www.maranatha.edu/en/) and the Center of Sustainable Art & Design Innovation Studies (CSADIS), The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) with a dedicated Trainer of Trainers module. The session will also explore the IETF 123 meeting and its activities.
@@ -72,7 +78,7 @@ Check all the information on this fellowship opportunity on the [\[#TIOF\] TechU
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards + <strong>Training of Trainers</strong></td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Tuesday 1st July - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Tuesday 1st July - 16:00 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p><a href="https://maps.app.goo.gl/rpnN8L647GWH9Jzw6"><strong>Universitas Kristen Maranatha</strong><br>GAP Building - Room Paulus (Level 4)</a></p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td>$ 200 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-tot-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards + <strong>Training of Trainers</strong></td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Tuesday 1st July - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Tuesday 1st July - 16:00 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p><a href="https://maps.app.goo.gl/VFSKJSqkNHS1Bxzg9">Universitas Kristen Maranatha<br>B Building, B09 A01 &#x26; B09 A02, 9th Floor</a></p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td>$ 200 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-tot-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
 
 ### Agenda
 
@@ -99,9 +105,8 @@ Please note that this is a provisional agenda. Final times, speakers and content
 
 ## Venue
 
-[**Universitas Kristen Maranatha**\
-GAP Building - Room Paulus (Level 4)](https://maps.app.goo.gl/rpnN8L647GWH9Jzw6)
-
+[Universitas Kristen Maranatha\
+B Building, B09 A01 & B09 A02, 9th Floor](https://maps.app.goo.gl/VFSKJSqkNHS1Bxzg9)\
 Bandung, Indonesia
 
 ### How to reach the venue
