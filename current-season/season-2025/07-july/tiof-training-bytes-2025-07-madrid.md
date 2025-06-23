@@ -22,7 +22,7 @@ layout:
 # \[#TIOF] Training Bytes 2025-07 MADRID
 
 |                                                                                                                                            |
-| -----------------------------------------------------------------------------------------------------------------------------------------: |
+| :----------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://short.theiofoundation.org/tiof-training-bytes-2025-07-registration" class="button primary">🎫 GO TO REGISTRATION FORM</a> |
 
 <div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] 0000-00-00 Training Bytes 2025-07 MADRID - QR Code Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
