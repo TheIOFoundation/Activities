@@ -1,6 +1,5 @@
 ---
 description: 'Navigating a New Era of Privacy: Rights, Responsibilities and Opportunities.'
-hidden: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
@@ -20,7 +19,7 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] DCDR Bytes: Introduction to the Data-Centric Digital Rights 2025-07 BANDUNG
+# \[#TIOF] DCDR Bytes: Introduction to the Data-Centric Digital Rights 2025-06 BANDUNG
 
 |                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -48,7 +47,7 @@ Participants will receive an e-Certificate that can be embedded and verified via
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Introduction to the Data-Centric Digital Rights</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>DCDR Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Monday 30th June - 13:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Monday 30th June - 15:00 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><p><a href="https://maps.app.goo.gl/VFSKJSqkNHS1Bxzg9"><strong>Universitas Kristen Maranatha</strong><br>GAP Building - Auditorium Level 8</a></p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td>$ 25 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-dcdr-bytes-intro-to-dcdr-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Introduction to the Data-Centric Digital Rights</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>DCDR Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Monday 30th June - 13:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Monday 30th June - 15:00 (UTC+07)</td></tr><tr><td><strong>📍 Location</strong></td><td><p><a href="https://maps.app.goo.gl/VFSKJSqkNHS1Bxzg9"><strong>Universitas Kristen Maranatha</strong><br>GAP Building - Auditorium Level 8</a></p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td>$ 25 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-dcdr-bytes-intro-to-dcdr-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
 
 ### Agenda
 
