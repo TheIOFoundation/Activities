@@ -3,33 +3,25 @@ description: TechUp Academy
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# \[#TIOF] Training Bytes 2025-07 MADRID
+# ❌\[#TIOF] Training Bytes 2025-07 MADRID
 
-|                                                                                                                                            |
-| :----------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://short.theiofoundation.org/tiof-training-bytes-2025-07-registration" class="button primary">🎫 GO TO REGISTRATION FORM</a> |
+```
+# ANNOUNCEMENT #
 
-<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] 0000-00-00 Training Bytes 2025-07 MADRID - QR Code Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
+We regret to inform you that, due to insufficient demand, The IO Foundation has made the difficult decision to cancel this upcoming activity and thus this registration form is no longer active.
 
-{% hint style="success" %}
-## APPLY BY JULY 14th 00:00 (UTC+00)
-{% endhint %}
+Despite this decision, The IO Foundation remains committed to continuing its efforts to engage and support technologists to understand and actively participate in technical standards processes.
+
+If you have any questions or would like to share feedback, please don’t hesitate to reach out to our team.
+Thank you for your understanding.
+
+Sincerely,
+The IO Foundation
+```
+
+***
 
 ## About
 
