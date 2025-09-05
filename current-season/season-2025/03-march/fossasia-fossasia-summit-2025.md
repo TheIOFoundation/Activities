@@ -2,20 +2,6 @@
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Untitled design (6).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # \[#FOSSASIA] FOSSASIA Summit 2025

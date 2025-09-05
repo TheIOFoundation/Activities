@@ -3,20 +3,6 @@ description: 'Navigating a New Era of Privacy: Rights, Responsibilities and Oppo
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # \[#TIOF] DCDR Bytes: Introduction to Data-Centric Digital Rights 2025-06 BANDUNG
