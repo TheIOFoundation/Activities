@@ -36,7 +36,10 @@
     * [\[#IETF\] IETF 123](current-season/season-2025/07-july/ietf-ietf-123.md)
   * [08 - August](current-season/season-2025/08-august.md)
   * [09 - September](current-season/season-2025/09-september.md)
-  * [10 - October](current-season/season-2025/10-october.md)
+  * [10 - October](current-season/season-2025/10-october/README.md)
+    * [Copy of \[#TIOF\] DCDR Bytes: Introduction to Data-Centric Digital Rights 2025-06 BANDUNG](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung.md)
+    * [Copy of Copy of \[#TIOF\] DCDR Bytes: Introduction to Data-Centric Digital Rights 2025-06 BANDUNG](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung-1.md)
+    * [Copy of Copy of Copy of \[#TIOF\] DCDR Bytes: Introduction to Data-Centric Digital Rights 2025-06 BAND](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung-2.md)
   * [11 - November](current-season/season-2025/11-november.md)
   * [12 - December](current-season/season-2025/12-december.md)
 
