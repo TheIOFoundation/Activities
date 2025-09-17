@@ -39,7 +39,7 @@
   * [10 - October](current-season/season-2025/10-october/README.md)
     * [\[#TIOF\] DCDR Bytes: ??? 2025-10-24 Maranatha Christian University -  BANDUNG](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung.md)
     * [\[#TIOF\] DCDR Bytes:  ??? 2025-10-25 Universitas Multimedia Nusantara JAKARTA](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung-1.md)
-    * [Copy of Copy of Copy of \[#TIOF\] DCDR Bytes: Introduction to Data-Centric Digital Rights 2025-06 BAND](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung-2.md)
+    * [\[#TIOF\] Lecture Bytes: 2025-10-27 Institut Teknologi Bandung BAND](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung-2.md)
   * [11 - November](current-season/season-2025/11-november.md)
   * [12 - December](current-season/season-2025/12-december.md)
 
