@@ -1,11 +1,12 @@
 ---
 description: 'Navigating a New Era of Privacy: Rights, Responsibilities and Opportunities.'
+hidden: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
 ---
 
-# Copy of Copy of Copy of \[#TIOF] DCDR Bytes: Introduction to Data-Centric Digital Rights 2025-06 BAND
+# \[#TIOF] Lecture Bytes: 2025-10-27 Institut Teknologi Bandung BANDUNG
 
 |                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |

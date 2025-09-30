@@ -1,11 +1,12 @@
 ---
 description: 'Navigating a New Era of Privacy: Rights, Responsibilities and Opportunities.'
+hidden: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
 ---
 
-# Copy of \[#TIOF] DCDR Bytes: Introduction to Data-Centric Digital Rights 2025-06 BANDUNG
+# \[#TIOF] DCDR Bytes: ??? 2025-10-24 Maranatha Christian University -  BANDUNG
 
 |                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
