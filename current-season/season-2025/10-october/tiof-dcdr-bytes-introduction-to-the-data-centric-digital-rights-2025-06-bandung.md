@@ -6,7 +6,7 @@ cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
 ---
 
-# \[#TIOF] DCDR Bytes: ??? 2025-10-24 Maranatha Christian University -  BANDUNG
+# \[#TIOF] DCDR Bytes:  2025-10-24 Maranatha Christian University -  BANDUNG
 
 |                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -36,7 +36,7 @@ Through real-world examples and multidisciplinary insights, you’ll discover wh
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td><p>[DCDR Bytes] Architects of your future: Building digital civilizations<br>Societies, Digital Twins and privacy in an AI world. </p><p><br>[DCDR Workshop] Designing a Digital Civilisation: an interactive journey to shape your role as a citizen.</p></td></tr><tr><td><strong>📖 Activity Type</strong></td><td>DCDR Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Friday 24th Oct - 08:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Friday 24th June - 11:00 (UTC+07)</td></tr><tr><td><strong>📍 Location</strong></td><td><p><strong>Universitas Kristen Maranatha</strong><br>Material Library - 7th Level GWM (inside University Library)</p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td><del>USD 25</del> (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-dcdr-bytes-intro-to-dcdr-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td><p>[DCDR Bytes] Architects of your future: Building digital civilizations<br>Societies, Digital Twins and privacy in an AI world. </p><p><br>[DCDR Workshop] Designing a Digital Civilisation: an interactive journey to shape your role as a citizen.</p></td></tr><tr><td><strong>📖 Activity Type</strong></td><td>DCDR Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Friday 24th Oct - 08:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Friday 24th June - 11:00 (UTC+07)</td></tr><tr><td><strong>📍 Location</strong></td><td><p><strong>Universitas Kristen Maranatha</strong><br>Material Library - 7th Level GWM (access from inside University Library)</p><p>Bandung, Indonesia</p></td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td><del>USD 25</del> (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-dcdr-bytes-intro-to-dcdr-2025-07-bandung-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
 
 ### Agenda
 
@@ -52,8 +52,8 @@ Please note that this is a provisional agenda. Final times, speakers and content
 
 ## Venue
 
-[**Universitas Kristen Maranatha**\
-GAP Building - Auditorium Level 8](https://maps.app.goo.gl/rpnN8L647GWH9Jzw6)
+**Universitas Kristen Maranatha**\
+Material Library - 7th Level GWM (access from inside University Library)
 
 Bandung, Indonesia
 
