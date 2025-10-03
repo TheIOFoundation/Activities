@@ -29,7 +29,7 @@ This program aimed to raise understanding of how Privacy Data affects every aspe
 Through real-world examples and multidisciplinary insights, you’ll discover why understanding **YOUR** and the adequate protection of your digital twins is essential in today’s connected world.
 
 {% hint style="success" %}
-Participants will receive an e-Certificate that can be embedded and verified via our [Certificates.TheIOFoundation.org](https://certificates.theiofoundation.org) platform.
+**Participants will receive a blockchain based Certificate after filling the feedback form and following both seminar and workshop session** that can be embedded and verified via our [Certificates.TheIOFoundation.org](https://certificates.theiofoundation.org) platform.
 {% endhint %}
 
 
