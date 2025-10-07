@@ -1,6 +1,5 @@
 ---
 description: 'Architects of Your Future: Building Digital Civilizations'
-hidden: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
