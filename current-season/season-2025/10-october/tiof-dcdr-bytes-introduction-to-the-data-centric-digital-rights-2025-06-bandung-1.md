@@ -6,7 +6,7 @@ cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
 ---
 
-# \[#TIOF] DCDR Bytes:  ??? 2025-10-25 Universitas Multimedia Nusantara JAKARTA
+# \[#TIOF] Lecture Bytes: 2025-10-27 Institut Teknologi Bandung BANDUNG
 
 |                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
