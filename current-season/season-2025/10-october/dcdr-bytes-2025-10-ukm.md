@@ -11,7 +11,7 @@ coverY: 0
 | :-----------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://short.theiofoundation.org/dcdr-bytes-2025-10-ukm-registration" class="button primary">🎫 GO TO REGISTRATION FORM</a> |
 
-<div align="center"><figure><img src="../../../.gitbook/assets/TIOFDCDRBytes202510UKMRegistration_4096x4096.svg" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/TIOFDCDRBytes202510UKMRegistration_4096x4096 (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 ## REGISTER BY JUNE 24th 00:00 (UTC+00)
@@ -82,11 +82,11 @@ Please note that food and beverage will not be served during this activity.
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                                     | QR Code                                                                                                                                              |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Info Page         | [https://Short.TheIOFoundation.org/dcdr-bytes-2025-10-ukm-info](https://short.theiofoundation.org/dcdr-bytes-2025-10-ukm-info)                 | <img src="../../../.gitbook/assets/[#TIOF] Comms [P] 0000-00-00 DCDR Bytes 2025-07 BANDUNG - QR Code Info XXX v1.0.png" alt="" data-size="original"> |
-| Registration Page | [https://Short.TheIOFoundation.org/dcdr-bytes-2025-10-ukm-registration](https://short.theiofoundation.org/dcdr-bytes-2025-10-ukm-registration) | <img src="../../../.gitbook/assets/TIOFDCDRBytes202510UKMRegistration_4096x4096.svg" alt="" data-size="original">                                    |
-|                   |                                                                                                                                                |                                                                                                                                                      |
+| Content           | (short)URL                                                                                                                                     | QR Code                                                                                                               |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Info Page         | [https://Short.TheIOFoundation.org/dcdr-bytes-2025-10-ukm-info](https://short.theiofoundation.org/dcdr-bytes-2025-10-ukm-info)                 | <img src="../../../.gitbook/assets/TIOFDCDRBytes202510UKMInformation_4096x4096.png" alt="" data-size="original">      |
+| Registration Page | [https://Short.TheIOFoundation.org/dcdr-bytes-2025-10-ukm-registration](https://short.theiofoundation.org/dcdr-bytes-2025-10-ukm-registration) | <img src="../../../.gitbook/assets/TIOFDCDRBytes202510UKMRegistration_4096x4096 (1).png" alt="" data-size="original"> |
+|                   |                                                                                                                                                |                                                                                                                       |
 
 
 
