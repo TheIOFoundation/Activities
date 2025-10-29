@@ -181,3 +181,7 @@
   * [11 - November](previous-seasons/season-2018/11-november/README.md)
     * [\[#IGF\] Internet Governance Forum 2018](previous-seasons/season-2018/11-november/igf-internet-governance-forum-2018.md)
   * [12 - December](previous-seasons/season-2018/12-december.md)
+
+## NOTICE
+
+* [Section Under Maintenance](notice/section-under-maintenance.md)
