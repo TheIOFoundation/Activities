@@ -18,7 +18,9 @@ coverY: -12
 
 ## About
 
-The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our team as Fellows for the upcoming APRICOT (Asia Pacific Regional Internet Conference on Operational Technologies) 2026 to be held in Jakarta (Indonesia). The conference sessions will be held from Monday 9th to Friday 12th February 2025. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2026-02 that will take place on Sunday 8th February 2026.
+The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our team as Fellows for the upcoming APRICOT (Asia Pacific Regional Internet Conference on Operational Technologies) 2026 to be held in Jakarta (Indonesia). This is a major annual internet conference which brings together internet engineers, operators, researchers, and policymakers to share knowledge and discuss the future of the internet in the Asia Pacific region through technical sessions, workshops, and tutorials.
+
+The Fellowshsip will be held for the conference sessions only which will be conducted from Monday 9th to Friday 12th February 2025. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2026-02  that will take place on Sunday 8th February 2026.
 
 TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs), with their communities and the technical standards they produce.
 
