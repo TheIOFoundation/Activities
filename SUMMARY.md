@@ -50,7 +50,18 @@
 ## Upcoming Seasons
 
 * [Season 2026](upcoming-seasons/season-2026/README.md)
-  * [Hook](upcoming-seasons/season-2026/hook.md)
+  * [01 - January](upcoming-season/season-2026/01-january/README.md)
+  * [02 - February](upcoming-season/season-2026/02-february/README.md)
+  * [03 - March](upcoming-season/season-2026/03-march/README.md)
+  * [04 - April](upcoming-season/season-2026/04-april.md)
+  * [05 - May](upcoming-season/season-2026/05-may.md)
+  * [06 - June](upcoming-season/season-2026/06-june/README.md)
+  * [07 - July](upcoming-season/season-2026/07-july/README.md)
+  * [08 - August](upcoming-season/season-2026/08-august.md)
+  * [09 - September](upcoming-season/season-2026/09-september/README.md)
+  * [10 - October](upcoming-season/season-2026/10-october/README.md)
+  * [11 - November](upcoming-season/season-2026/11-november.md)
+  * [12 - December](upcoming-season/season-2026/12-december.md)
 
 ## Previous seasons
 
