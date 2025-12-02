@@ -61,8 +61,7 @@
   * [09 - September](upcoming-seasons/season-2026/09-september/README.md)
   * [10 - October](upcoming-seasons/season-2026/10-october/README.md)
   * [11 - November](upcoming-seasons/season-2026/11-november/README.md)
-  * [12 - December](upcoming-seasons/season-2026/10-december/README.md)
-
+  * [12 - December](upcoming-seasons/season-2026/12-december.md)
 * [Season 2027](upcoming-seasons/season-2027/README.md)
   * [01 - January](upcoming-seasons/season-2027/01-january/README.md)
   * [02 - February](upcoming-seasons/season-2027/02-february/README.md)
@@ -75,8 +74,7 @@
   * [09 - September](upcoming-seasons/season-2027/09-september/README.md)
   * [10 - October](upcoming-seasons/season-2027/10-october/README.md)
   * [11 - November](upcoming-seasons/season-2027/11-november/README.md)
-  * [12 - December](upcoming-seasons/season-2027/10-december/README.md)
-
+  * [12 - December](upcoming-seasons/season-2027/12-december.md)
 * [Season 2028](upcoming-seasons/season-2028/README.md)
   * [01 - January](upcoming-seasons/season-2028/01-january/README.md)
   * [02 - February](upcoming-seasons/season-2028/02-february/README.md)
@@ -89,8 +87,7 @@
   * [09 - September](upcoming-seasons/season-2028/09-september/README.md)
   * [10 - October](upcoming-seasons/season-2028/10-october/README.md)
   * [11 - November](upcoming-seasons/season-2028/11-november/README.md)
-  * [12 - December](upcoming-seasons/season-2028/10-december/README.md)
-
+  * [12 - December](upcoming-seasons/season-2028/12-december.md)
 * [Season 2029](upcoming-seasons/season-2029/README.md)
   * [01 - January](upcoming-seasons/season-2029/01-january/README.md)
   * [02 - February](upcoming-seasons/season-2029/02-february/README.md)
@@ -103,8 +100,7 @@
   * [09 - September](upcoming-seasons/season-2029/09-september/README.md)
   * [10 - October](upcoming-seasons/season-2029/10-october/README.md)
   * [11 - November](upcoming-seasons/season-2029/11-november/README.md)
-  * [12 - December](upcoming-seasons/season-2029/10-december/README.md)
-
+  * [12 - December](upcoming-seasons/season-2029/12-december.md)
 * [Season 2030](upcoming-seasons/season-2030/README.md)
   * [01 - January](upcoming-seasons/season-2030/01-january/README.md)
   * [02 - February](upcoming-seasons/season-2030/02-february/README.md)
@@ -117,7 +113,7 @@
   * [09 - September](upcoming-seasons/season-2030/09-september/README.md)
   * [10 - October](upcoming-seasons/season-2030/10-october/README.md)
   * [11 - November](upcoming-seasons/season-2030/11-november/README.md)
-  * [12 - December](upcoming-seasons/season-2030/10-december/README.md)
+  * [12 - December](upcoming-seasons/season-2030/12-december.md)
 
 ## Previous seasons
 
