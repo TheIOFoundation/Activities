@@ -67,7 +67,9 @@ As a Fellow, you'll be a member of a growing network of technologists working to
   * (link to) \[#TIOF] Training Bytes 2026-02 (Jakarta, Indonesia) -  150 USD **Ticket waived**
   * (link to) \[#APRICOT] APRICOT 2026 (Jakarta, Indonesia) - 350 USD **Ticket waived**&#x20;
   * TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
-  * Certificate of participation in TIOF Fellowship on fully completion of conference session attendance and TIOF follow up evaluation/ feedback sessions (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform)
+  * Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
+    * Fully completion of conference session attendance&#x20;
+    * \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions&#x20;
   * Access to exclusive training by TIOF
   * Access to the The IO Foundation's _TechUp Community_
   * Priority for next Fellowship opportunities
