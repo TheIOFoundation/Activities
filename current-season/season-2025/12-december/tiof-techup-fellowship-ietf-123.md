@@ -13,14 +13,14 @@ coverY: -12
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-## DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
+## APPLY BY MONDAY  12TH JANUARY 2026 23:59 (UTC+00)
 {% endhint %}
 
 ## About
 
 The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our team as Fellows for the upcoming APRICOT (Asia Pacific Regional Internet Conference on Operational Technologies) 2026 to be held in Jakarta (Indonesia). This is a major annual internet conference which brings together internet engineers, operators, researchers, and policymakers to share knowledge and discuss the future of the internet in the Asia Pacific region through technical sessions, workshops, and tutorials.
 
-The Fellowshsip will be held for the conference sessions only, which will be conducted from Monday 9th to Friday 12th February 2025. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2026-02  that will take place on Sunday 8th February 2026.
+The Fellowshsip will be held for the conference sessions only, which will be conducted from Monday 9th to Wednesday 11th February 2026. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2026-02  that will take place on Sunday 8th February 2026.
 
 TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs), with their communities and the technical standards they produce.
 
@@ -41,8 +41,10 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 
 ## **Qualifications | Requirements**
 
-* Located in Madrid for the duration of the Fellowship
-  * **Clarification:** You _**do not**_ need to be a resident of Indonesia, you only need to be in Jakarta (Indonesia) during the whole duration of the APRICOT 2026 conference on the dates stated above.&#x20;
+* Located in Jakarta for the duration of the Fellowship
+  * **Clarification:** You _**do not**_ need to be a resident of Indonesia, you only need to be in Jakarta (Indonesia) during:
+    * Training Bytes 2026-02: Sunday 8th February 2026, pk 13.00
+    * APRICOT 2026 conference: Monday 9th to Wednesday 11th February 2026
 * Open to full time students in relevant fields (e.g. Networking, Protocols, Standards, Cyber Security, etc.)
   * Note that proof of student status will need to be submitted
 * Strong understanding of data privacy and technology issues
@@ -77,7 +79,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-## DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
+## APPLY BY MONDAY  12TH JANUARY 2026 23:59 (UTC+00)
 {% endhint %}
 
 ## Resources
