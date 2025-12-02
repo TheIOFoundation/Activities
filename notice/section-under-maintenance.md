@@ -25,7 +25,7 @@ layout:
 # Section Under Maintenance
 
 {% hint style="danger" %}
-### DISCLAIMER
+#### DISCLAIMER
 
 Please note that this site is currently undergoing maintenance to update its content.\
 \

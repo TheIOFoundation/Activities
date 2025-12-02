@@ -13,7 +13,7 @@ coverY: -12
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-### DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
+#### DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
 {% endhint %}
 
 ## About
@@ -75,7 +75,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-### DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
+#### DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
 {% endhint %}
 
 ## Resources
