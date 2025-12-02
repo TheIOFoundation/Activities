@@ -49,7 +49,8 @@
 
 ## Upcoming Seasons
 
-* [Season 2026](upcoming-seasons/season-2026.md)
+* [Season 2026](upcoming-seasons/season-2026/README.md)
+  * [Hook](upcoming-seasons/season-2026/hook.md)
 
 ## Previous seasons
 
