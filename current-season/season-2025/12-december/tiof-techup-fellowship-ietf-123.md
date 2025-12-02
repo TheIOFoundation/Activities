@@ -18,13 +18,13 @@ coverY: -12
 
 ## About
 
-The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our team as Fellows for the upcoming IETF 123 to be held in Madrid (Spain) from Saturday 19th to Friday 25th July 2025. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2025-07 that will take place on a date to be soon announced.
+The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our team as Fellows for the upcoming APRICOT (Asia Pacific Regional Internet Conference on Operational Technologies) 2026 to be held in Jakarta (Indonesia). The conference sessions will be held from Monday 9th to Friday 12th February 2025. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2026-02 that will take place on Sunday 8th February 2026.
 
 TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs), with their communities and the technical standards they produce.
 
 As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
 
-> **NOTE: LIMITED SPOTS - APPLY BY JUNE 30th 23:59 (UTC+00)**
+> **NOTE: LIMITED SPOTS - APPLY BY MONDAY 12th JANUARY 2026 23:59 (UTC+00)**
 
 ## **Responsibilities**
 
