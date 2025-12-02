@@ -13,7 +13,7 @@ coverY: -12
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-## DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
+### DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
 {% endhint %}
 
 ## About
@@ -75,7 +75,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-## DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
+### DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
 {% endhint %}
 
 ## Resources
@@ -93,10 +93,6 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 | Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info)                 | <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
 | Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration) | <img src="../../../.gitbook/assets/image.png" alt="" data-size="original">     |
 |                   |                                                                                                                                                    |                                                                                |
-
-
-
-
 {% endtab %}
 
 {% tab title="SocMed" %}
@@ -108,8 +104,6 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
 |                                                                                                           |      |
-
-
 {% endtab %}
 {% endtabs %}
 

@@ -1,10 +1,8 @@
 ---
-title: 🚧 Page under construction....
+title: Page under construction....
 ---
 
 {% hint style="danger" %}
-
-
 HOW TO USE
 
 * Right after adding this block, got to its config menu and DETACH it
@@ -14,7 +12,7 @@ HOW TO USE
 {% endhint %}
 
 {% hint style="warning" %}
-🚧 Page under construction.&#x20;
+🚧 Page under construction.
 
 🙇 We apologize for the inconvenience.
 

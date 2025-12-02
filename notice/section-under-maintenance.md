@@ -25,7 +25,7 @@ layout:
 # Section Under Maintenance
 
 {% hint style="danger" %}
-## DISCLAIMER
+### DISCLAIMER
 
 Please note that this site is currently undergoing maintenance to update its content.\
 \
@@ -33,4 +33,3 @@ We apologize for any inconvenience as we ensure that we finalized it in the shor
 \
 THE IO FOUNDATION
 {% endhint %}
-

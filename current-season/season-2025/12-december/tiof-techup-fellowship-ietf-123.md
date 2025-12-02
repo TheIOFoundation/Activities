@@ -13,14 +13,14 @@ coverY: -12
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-## APPLY BY MONDAY  12TH JANUARY 2026 23:59 (UTC+00)
+### APPLY BY MONDAY 12TH JANUARY 2026 23:59 (UTC+00)
 {% endhint %}
 
 ## About
 
 The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our team as Fellows for the upcoming APRICOT (Asia Pacific Regional Internet Conference on Operational Technologies) 2026, [https://2026.apricot.net/#/](https://2026.apricot.net/#/), to be held in Jakarta (Indonesia). This is a major annual internet conference which brings together internet engineers, operators, researchers, and policymakers to share knowledge and discuss the future of the internet in the Asia Pacific region through technical sessions, workshops, and tutorials.
 
-The Fellowshsip will be held for the conference sessions only, which will be conducted from Monday 9th to Wednesday 11th February 2026. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2026-02  that will take place on Sunday 8th February 2026.
+The Fellowshsip will be held for the conference sessions only, which will be conducted from Monday 9th to Wednesday 11th February 2026. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2026-02 that will take place on Sunday 8th February 2026.
 
 TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs), with their communities and the technical standards they produce.
 
@@ -64,12 +64,12 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 * Engagement length: As agreed
 * Time commitment: As agreed
 * Benefits
-  * (link to) \[#TIOF] Training Bytes 2026-02 (Jakarta, Indonesia) -  150 USD **Ticket waived**
-  * (link to) \[#APRICOT] APRICOT 2026 (Jakarta, Indonesia) - 350 USD **Ticket waived**&#x20;
+  * (link to) \[#TIOF] Training Bytes 2026-02 (Jakarta, Indonesia) - 150 USD **Ticket waived**
+  * (link to) \[#APRICOT] APRICOT 2026 (Jakarta, Indonesia) - 350 USD **Ticket waived**
   * TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
   * Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
-    * Fully completion of conference session attendance&#x20;
-    * \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions&#x20;
+    * Fully completion of conference session attendance
+    * \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions
   * Access to exclusive training by TIOF
   * Access to the The IO Foundation's _TechUp Community_
   * Priority for next Fellowship opportunities
@@ -81,7 +81,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-## APPLY BY MONDAY  12TH JANUARY 2026 23:59 (UTC+00)
+### APPLY BY MONDAY 12TH JANUARY 2026 23:59 (UTC+00)
 {% endhint %}
 
 ## Resources
@@ -99,10 +99,6 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 | Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info)                 | <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
 | Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration) | <img src="../../../.gitbook/assets/image.png" alt="" data-size="original">     |
 |                   |                                                                                                                                                    |                                                                                |
-
-
-
-
 {% endtab %}
 
 {% tab title="SocMed" %}
@@ -114,8 +110,6 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
 |                                                                                                           |      |
-
-
 {% endtab %}
 {% endtabs %}
 

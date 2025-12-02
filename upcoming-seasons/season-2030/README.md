@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: leaf
 cover: ../../.gitbook/assets/TEMPLATE.png
 coverY: 0
@@ -25,7 +26,7 @@ layout:
 
 ## About
 
-The following are activities organized by The IO Foundation as well as those the organization participated during Season 2030.&#x20;
+The following are activities organized by The IO Foundation as well as those the organization participated during Season 2030.
 
 CARDS
 
