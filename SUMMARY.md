@@ -42,7 +42,8 @@
     * [\[#TIOF\] DCDR Bytes:  ??? 2025-10-25 Universitas Multimedia Nusantara JAKARTA](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung.md)
     * [\[#TIOF\] Lecture Bytes: 2025-10-27 Institut Teknologi Bandung BANDUNG](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung-1.md)
   * [11 - November](current-season/season-2025/11-november.md)
-  * [12 - December](current-season/season-2025/12-december.md)
+  * [12 - December](current-season/season-2025/12-december/README.md)
+    * [Temp \[#TIOF\] TechUp Fellowship - APRICOT 2026](current-season/season-2025/12-december/tiof-techup-fellowship-ietf-123.md)
 
 ## Upcoming Seasons
 
