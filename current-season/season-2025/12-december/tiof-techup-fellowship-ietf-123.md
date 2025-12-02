@@ -62,8 +62,8 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 * Engagement length: As agreed
 * Time commitment: As agreed
 * Benefits
-  * [\[#TIOF\] Training Bytes 2025-07](../07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain) - **Ticket waived**
-  * [\[#IETF\] IETF 123](../07-july/ietf-ietf-123.md) (Madrid, Spain) - **Ticket waived (Student Pass)**
+  * [\[#TIOF\] Training Bytes 2025-07](../07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain) -  350 USD **Ticket waived**
+  * [\[#IETF\] IETF 123](../07-july/ietf-ietf-123.md) (Madrid, Spain) - 350 USD **Ticket waived**&#x20;
   * TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
   * Certificate of participation in TIOF Fellowship on fully completion of conference session attendance and TIOF follow up evaluation/ feedback sessions (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform)
   * Access to exclusive training by TIOF
