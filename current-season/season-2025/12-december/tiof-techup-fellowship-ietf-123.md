@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage12774.jpg
 coverY: -12
@@ -13,7 +14,7 @@ coverY: -12
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-#### APPLY BY MONDAY 12TH JANUARY 2026 23:59 (UTC+00)
+**APPLY BY MONDAY 12TH JANUARY 2026 23:59 (UTC+00)**
 {% endhint %}
 
 ## About
@@ -81,7 +82,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-#### APPLY BY MONDAY 12TH JANUARY 2026 23:59 (UTC+00)
+**APPLY BY MONDAY 12TH JANUARY 2026 23:59 (UTC+00)**
 {% endhint %}
 
 ## Resources
