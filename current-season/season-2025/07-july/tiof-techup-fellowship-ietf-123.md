@@ -2,6 +2,23 @@
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage12774.jpg
 coverY: -12
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # \[#TIOF] TechUp Fellowship - IETF 123
@@ -13,7 +30,7 @@ coverY: -12
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-#### DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
+**DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)**
 {% endhint %}
 
 ## About
@@ -75,7 +92,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-#### DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)
+**DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)**
 {% endhint %}
 
 ## Resources

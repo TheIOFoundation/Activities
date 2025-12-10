@@ -2,6 +2,23 @@
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage14877.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # \[#IETF] IETF 123
@@ -22,8 +39,6 @@ If you:
 
 you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](tiof-techup-fellowship-ietf-123.md) opportunity!
 {% endhint %}
-
-
 
 ## Activity Details
 
@@ -58,10 +73,6 @@ The Agenda is yet to be published by the IETF.
 | Info Page         | [https://Short.TheIOFoundation.org/ietf-ietf-123-info](https://short.theiofoundation.org/ietf-ietf-123-info) | <img src="../../../.gitbook/assets/image (5).png" alt="" data-size="original"> |
 | Registration Page | [https://Short.TheIOFoundation.org/ietf-ietf-123](https://short.theiofoundation.org/ietf-ietf-123)           | <img src="../../../.gitbook/assets/image (6).png" alt="" data-size="original"> |
 | Official Website  | [https://www.ietf.org/meeting/123/](https://www.ietf.org/meeting/123/)                                       |                                                                                |
-
-
-
-
 {% endtab %}
 
 {% tab title="SocMed" %}
@@ -73,8 +84,6 @@ The Agenda is yet to be published by the IETF.
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |             |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon B Rumble XXX v1.0.png" alt="" data-size="line">  |             |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |             |
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -92,17 +101,11 @@ The IO Foundation will present at the [Education and Outreach Directorate](https
 {% endtab %}
 
 {% tab title="Activity" %}
-
-
 | Content           | (short)URL                                                                                                                   | QR Code                                                                            |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Info Page         | [https://Short.TheIOFoundation.org/ietf-ietf-122-info](https://short.theiofoundation.org/ietf-ietf-122-info)                 | <img src="../../../.gitbook/assets/image (4).png" alt="" data-size="original">     |
 | Registration Page | [https://Short.TheIOFoundation.org/ietf-ietf-122-registration](https://short.theiofoundation.org/ietf-ietf-122-registration) | <img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="original"> |
 |                   |                                                                                                                              |                                                                                    |
-
-
-
-
 {% endtab %}
 
 {% tab title="SocMed" %}
@@ -114,10 +117,5 @@ The IO Foundation will present at the [Education and Outreach Directorate](https
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> | <p><a href="https://www.instagram.com/p/DG1_g-PJ1n9/">https://www.instagram.com/p/DG1_g-PJ1n9/</a><br></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-
-
 {% endtab %}
 {% endtabs %}
-
-
-

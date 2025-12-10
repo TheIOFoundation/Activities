@@ -3,6 +3,23 @@ description: TechUp Academy
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # \[#TIOF] Training Bytes ToT 2025-07 BANDUNG
@@ -14,11 +31,11 @@ coverY: 0
 <div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] 0000-00-00 Training Bytes ToT 2025-07 BANDUNG - QR Code Registration XXX v1.0 (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-#### REGISTER BY JUNE 30th 00:00 (UTC+00)
+**REGISTER BY JUNE 30th 00:00 (UTC+00)**
 {% endhint %}
 
 {% hint style="warning" %}
-#### IMPORTANT
+**IMPORTANT**
 
 **Please bring your laptop if you will be attending the ToT and Fellowship sessions.**
 {% endhint %}

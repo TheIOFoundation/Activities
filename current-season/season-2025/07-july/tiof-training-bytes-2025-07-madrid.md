@@ -3,9 +3,26 @@ description: TechUp Academy
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# ❌\[#TIOF] Training Bytes 2025-07 MADRID
+# \[#TIOF] Training Bytes 2025-07 MADRID
 
 ```
 # ANNOUNCEMENT #
@@ -63,7 +80,7 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](tiof-tec
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Understanding the technical standards ecosystem</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Friday 18th July - 09:00 (UTC+02)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Friday 18th July - 16:30 (UTC+02)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/ZnNqVXjsT7vaDYcc6">Lexington - Business Center Madrid</a><br>Madrid, Spain</td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td><del>USD 150</del> (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td> <a href="https://short.theiofoundation.org/tiof-training-bytes-2025-07-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Understanding the technical standards ecosystem</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Friday 18th July - 09:00 (UTC+02)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Friday 18th July - 16:30 (UTC+02)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/ZnNqVXjsT7vaDYcc6">Lexington - Business Center Madrid</a><br>Madrid, Spain</td></tr><tr><td>👂 Language</td><td>English</td></tr><tr><td>💵 Price</td><td><del>USD 150</del> (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td><a href="https://short.theiofoundation.org/tiof-training-bytes-2025-07-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
 
 ### Agenda
 
@@ -85,7 +102,7 @@ Please note that this is a provisional agenda. Final times, speakers and content
 
 ## Speakers
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Gitbook card.png">Gitbook card.png</a></td></tr><tr><td>Other speakers to be announced soon.</td><td></td><td></td><td><a href="../../../.gitbook/assets/Grayscaleimage84718.jpg">Grayscaleimage84718.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Gitbook Card (3).png">Gitbook Card (3).png</a></td></tr><tr><td>Other speakers to be announced soon.</td><td></td><td></td><td><a href="../../../.gitbook/assets/Grayscaleimage84718.jpg">Grayscaleimage84718.jpg</a></td></tr></tbody></table>
 
 ## Venue
 
@@ -116,7 +133,8 @@ Food and beverage will be served during the activity.
 |                                                                                           | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)                                   |                                                                                                                                                   |
 |                                                                                           | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                                          | Recordings of previous KSK Ceremonies.                                                                                                            |
 | <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>          | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                                                   | Information on how to become an ISOC individual member.                                                                                           |
-|                                                                                           | <p><a href="https://www.ndss-symposium.org/">Network and Distributed<br>System Security (NDSS) Symposium</a></p>                       |                                                                                                                                                   |
+|                                                                                           | [Network and Distributed](https://www.ndss-symposium.org/)                                                                              |                                                                                                                                                   |
+| <p><br>System Security (NDSS) Symposium</p>                                               |                                                                                                                                         |                                                                                                                                                   |
 |                                                                                           | [Pulse](https://pulse.internetsociety.org/)                                                                                             | ISOC project to evaluate the availability, evolution, and resilience of the global Internet.                                                      |
 |                                                                                           | [2025 Action Plan](https://www.internetsociety.org/wp-content/uploads/2024/11/2025-Action-Plan-EN.pdf)                                  | Learn what is ISOC up to during 2025.                                                                                                             |
 | [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [IETF 123](https://www.ietf.org/meeting/122/) ([**Registration**](https://registration.ietf.org/123/))                                  |                                                                                                                                                   |
@@ -133,10 +151,6 @@ Food and beverage will be served during the activity.
 | Info Page         | [https://Short.TheIOFoundation.org/tiof-training-bytes-2025-07-info](https://short.theiofoundation.org/tiof-training-bytes-2025-07-info)                 | <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="original">     |
 | Registration Page | [https://Short.TheIOFoundation.org/tiof-training-bytes-2025-07-registration](https://short.theiofoundation.org/tiof-training-bytes-2025-07-registration) | <img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="original"> |
 |                   |                                                                                                                                                          |                                                                                    |
-
-
-
-
 {% endtab %}
 
 {% tab title="SocMed" %}
@@ -148,8 +162,6 @@ Food and beverage will be served during the activity.
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
 | <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
 |                                                                                                           |      |
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -158,4 +170,3 @@ Food and beverage will be served during the activity.
 Media taken at the activity will be posted here.
 
 ## Acknowledgements
-
