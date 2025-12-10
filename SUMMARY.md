@@ -63,6 +63,7 @@
   * [11 - November](upcoming-seasons/season-2026/11-november/README.md)
   * [12 - December](upcoming-seasons/season-2026/12-december.md)
     * [[#APNOG] APRICOT 2026](upcoming-season/season-2026/02-february/02-february/apnog-apricot-2026/README.md)
+    * [[#APNOG] APRICOT 2026](upcoming-seasons/season-2026/02-february/02-february/apnog-apricot-2026/README.md)
 * [Season 2027](upcoming-seasons/season-2027/README.md)
   * [01 - January](upcoming-seasons/season-2027/01-january/README.md)
   * [02 - February](upcoming-seasons/season-2027/02-february/README.md)
