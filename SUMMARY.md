@@ -62,6 +62,7 @@
   * [06 - June](upcoming-seasons/season-2026/06-june/README.md)
   * [07 - July](upcoming-seasons/season-2026/07-july/README.md)
     * [\[#IETF\] IETF 126](upcoming-seasons/season-2026/07-july/ietf-ietf-126/README.md)
+    * [\[#TIOF\] TU Fellowship IETF 126](upcoming-seasons/season-2026/07-july/tiof-tu-fellowship-ietf-126/README.md)
   * [08 - August](upcoming-seasons/season-2026/08-august/README.md)
   * [09 - September](upcoming-seasons/season-2026/09-september/README.md)
   * [10 - October](upcoming-seasons/season-2026/10-october/README.md)
