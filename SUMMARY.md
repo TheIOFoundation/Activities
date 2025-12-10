@@ -89,6 +89,7 @@
     * [\[#TIOF\] TechUpCast 10-2026](upcoming-seasons/season-2026/10-october/tiof-techupcast-10-2026/README.md)
   * [11 - November](upcoming-seasons/season-2026/11-november/README.md)
     * [\[#IETF\] IETF 127](upcoming-seasons/season-2026/11-november/ietf-ietf-127/README.md)
+    * [\[#TIOF\] TechUpCast 11-2026](upcoming-seasons/season-2026/11-november/tiof-techupcast-11-2026/README.md)
   * [12 - December](upcoming-seasons/season-2026/12-december.md)
 * [Season 2027](upcoming-seasons/season-2027/README.md)
   * [01 - January](upcoming-seasons/season-2027/01-january/README.md)
