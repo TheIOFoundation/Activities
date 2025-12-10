@@ -89,6 +89,7 @@
   * [10 - October](upcoming-seasons/season-2026/10-october/README.md)
     * [\[#TIOF\] TU Fellowship IETF 127](upcoming-seasons/season-2026/10-october/tiof-tu-fellowship-ietf-127/README.md)
     * [\[#TIOF\] TechUpCast 10-2026](upcoming-seasons/season-2026/10-october/tiof-techupcast-10-2026/README.md)
+    * [\[#AEROSEA\] CyberDSA 2026](upcoming-seasons/season-2026/10-october/aerosea-cyberdsa-2026/README.md)
   * [11 - November](upcoming-seasons/season-2026/11-november/README.md)
     * [\[#IETF\] IETF 127](upcoming-seasons/season-2026/11-november/ietf-ietf-127/README.md)
     * [\[#TIOF\] TechUpCast 11-2026](upcoming-seasons/season-2026/11-november/tiof-techupcast-11-2026/README.md)
