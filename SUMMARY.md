@@ -55,6 +55,7 @@
     * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/apnog-apricot-2026/README.md)
     * [\[#TIOF\] TU Fellowship APRICOT 2026](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026/README.md)
     * [\[#TIOF\] TU Fellowship IETF 125](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-ietf-125/README.md)
+    * [\[#APNG\] APNG Camp #18](upcoming-seasons/season-2026/02-february/apng-apng-camp-18/README.md)
   * [03 - March](upcoming-seasons/season-2026/03-march/README.md)
     * [\[#IETF\] IETF 125](upcoming-seasons/season-2026/03-march/ietf-ietf-125/README.md)
   * [04 - April](upcoming-seasons/season-2026/04-april/README.md)
