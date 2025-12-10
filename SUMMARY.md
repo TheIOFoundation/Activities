@@ -79,6 +79,7 @@
     * [\[#TIOF\] TU Fellowship IETF 126](upcoming-seasons/season-2026/07-july/tiof-tu-fellowship-ietf-126/README.md)
     * [\[#TIOF\] TechUpCast 07-2026](upcoming-seasons/season-2026/07-july/tiof-techupcast-07-2026/README.md)
   * [08 - August](upcoming-seasons/season-2026/08-august/README.md)
+    * [\[#TIOF\] TechUpCast 08-2026](upcoming-seasons/season-2026/08-august/tiof-techupcast-08-2026/README.md)
   * [09 - September](upcoming-seasons/season-2026/09-september/README.md)
     * [\[#APNIC\] APNIC 62](upcoming-seasons/season-2026/09-september/apnic-apnic-62/README.md)
     * [\[#APSTAR\] APStar Meeting 2026-02](upcoming-seasons/season-2026/09-september/apstar-apstar-meeting-2026-02/README.md)
