@@ -76,6 +76,7 @@
   * [06 - June](upcoming-seasons/season-2026/06-june/README.md)
     * [\[#TIOF\] TechUpCast 06-2026](upcoming-seasons/season-2026/06-june/tiof-techupcast-06-2026/README.md)
     * [\[#CNKL\] KCD KL 2026](upcoming-seasons/season-2026/06-june/cnkl-kcd-kl-2026/README.md)
+    * [\[#MyNOG\] MYNOG 2026](upcoming-seasons/season-2026/06-june/mynog-mynog-2026/README.md)
   * [07 - July](upcoming-seasons/season-2026/07-july/README.md)
     * [\[#IETF\] IETF 126](upcoming-seasons/season-2026/07-july/ietf-ietf-126/README.md)
     * [\[#TIOF\] TU Fellowship IETF 126](upcoming-seasons/season-2026/07-july/tiof-tu-fellowship-ietf-126/README.md)
