@@ -57,6 +57,7 @@
     * [\[#TIOF\] TU Fellowship IETF 125](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-ietf-125/README.md)
     * [\[#APNG\] APNG Camp #18](upcoming-seasons/season-2026/02-february/apng-apng-camp-18/README.md)
     * [\[#APNIC\] APNIC 61](upcoming-seasons/season-2026/02-february/apnic-apnic-61/README.md)
+    * [\[#APSTAR\] APStar Meeting 2026-01](upcoming-seasons/season-2026/02-february/apstar-apstar-meeting-2026-01/README.md)
   * [03 - March](upcoming-seasons/season-2026/03-march/README.md)
     * [\[#IETF\] IETF 125](upcoming-seasons/season-2026/03-march/ietf-ietf-125/README.md)
   * [04 - April](upcoming-seasons/season-2026/04-april/README.md)
