@@ -53,6 +53,7 @@
   * [01 - January](upcoming-seasons/season-2026/01-january/README.md)
     * [\[#TIOF\] Argos Club Launch \(Hard\) - UKM](upcoming-seasons/season-2026/01-january/tiof-argos-club-launch-hard-ukm/README.md)
     * [\[#TIOF\] Argos Club Launch \(Hard\) - UMN](upcoming-seasons/season-2026/01-january/tiof-argos-club-launch-hard-umn/README.md)
+    * [\[#TIOF\] Argos Club Launch \(Soft\) - UKM](upcoming-seasons/season-2026/01-january/tiof-argos-club-launch-soft-ukm/README.md)
   * [02 - February](upcoming-seasons/season-2026/02-february/README.md)
     * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/apnog-apricot-2026/README.md)
     * [\[#TIOF\] TU Fellowship APRICOT 2026](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026/README.md)
