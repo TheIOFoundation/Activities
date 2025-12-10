@@ -4,7 +4,7 @@ icon: calendar-circle-user
 
 # Info Page
 
-## Registration
+## 0101Registration
 
 {% hint style="success" %}
 **APPLY BY \[COMING SOON] 00:00 (UTC+00)**
