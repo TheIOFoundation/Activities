@@ -52,6 +52,7 @@
 * [Season 2026](upcoming-seasons/season-2026/README.md)
   * [01 - January](upcoming-seasons/season-2026/01-january/README.md)
   * [02 - February](upcoming-seasons/season-2026/02-february/README.md)
+    * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/apnog-apricot-2026/README.md)
   * [03 - March](upcoming-seasons/season-2026/03-march/README.md)
   * [04 - April](upcoming-seasons/season-2026/04-april/README.md)
   * [05 - May](upcoming-seasons/season-2026/05-may/README.md)
