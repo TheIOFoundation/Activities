@@ -64,6 +64,7 @@
     * [\[#APNIC\] APNIC 61](upcoming-seasons/season-2026/02-february/apnic-apnic-61/README.md)
     * [\[#APSTAR\] APStar Meeting 2026-01](upcoming-seasons/season-2026/02-february/apstar-apstar-meeting-2026-01/README.md)
     * [\[#TIOF\] TechUpCast 02-2026](upcoming-seasons/season-2026/02-february/tiof-techupcast-02-2026/README.md)
+    * [\[#VNU\] CyberSec Asia 2026](upcoming-seasons/season-2026/02-february/vnu-cybersec-asia-2026/README.md)
   * [03 - March](upcoming-seasons/season-2026/03-march/README.md)
     * [\[#IETF\] IETF 125](upcoming-seasons/season-2026/03-march/ietf-ietf-125/README.md)
     * [\[#TIOF\] TechUpCast 03-2026](upcoming-seasons/season-2026/03-march/tiof-techupcast-03-2026/README.md)
