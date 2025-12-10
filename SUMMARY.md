@@ -71,6 +71,7 @@
     * [\[#TIOF\] TechUpCast 04-2026](upcoming-seasons/season-2026/04-april/tiof-techupcast-04-2026/README.md)
   * [05 - May](upcoming-seasons/season-2026/05-may/README.md)
     * [\[#THAINOG\] THAINOG 2026](upcoming-seasons/season-2026/05-may/thainog-thainog-2026/README.md)
+    * [\[#TIOF\] TechUpCast 05-2026](upcoming-seasons/season-2026/05-may/tiof-techupcast-05-2026/README.md)
   * [06 - June](upcoming-seasons/season-2026/06-june/README.md)
   * [07 - July](upcoming-seasons/season-2026/07-july/README.md)
     * [\[#IETF\] IETF 126](upcoming-seasons/season-2026/07-july/ietf-ietf-126/README.md)
