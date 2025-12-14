@@ -6,7 +6,7 @@ cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
 ---
 
-# \[#TIOF] Training Bytes 2026-02-08 JAKARTA
+# \[#TIOF] Training Bytes 2026-03-13 SHENZHEN
 
 {% columns %}
 {% column %}
