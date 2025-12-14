@@ -98,14 +98,13 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 122](https://
 
 | Time                 | Activity                           | Content                                                                                                                                                                 |
 | -------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:30                | 📋 Registration Opens              |                                                                                                                                                                         |
-| <p>09:00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                    |
-| 11:00                | 🥐 Break 15 minutes                |                                                                                                                                                                         |
-| <p>11:15<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Kim Davis<br>Christine Runnegar</p> |
-| 13:00                | 🍱 Break Lunch                     |                                                                                                                                                                         |
-| <p>14:00<br><br></p> | <p>💡 Session 3<br><br></p>        | <p><em><strong>Workshop</strong></em><br>Preparing your participation in IETF 122<br><br>Spea<em>kers:</em><br>Lisa Dusseault<br>Olaf Kolkman<br>Jean F. Queralt</p>    |
-| 16:15                | 💬 Wrap up                         |                                                                                                                                                                         |
-| 16:30                | 🏁 End                             |                                                                                                                                                                         |
+| 12.00                | 📋 Registration Opens              |                                                                                                                                                                         |
+| <p>13.00<br><br></p> | <p>💡 Session 1</p><p><br><br></p> | <p><em><strong>Understanding</strong></em><br>Introduction to SDOs and the Rights by Design strategy<br><br>S<em>peaker:</em><br>Jean F. Queralt</p>                    |
+| 15:00                | 🥐 Break 15 minutes                |                                                                                                                                                                         |
+| <p>15:15<br></p>     | <p>💡 Session 2<br></p>            | <p><em><strong>Understanding</strong></em><br>Participating in SDOs and overview of their current work<br><br><em>Speakers:</em><br>Kim Davis<br>Christine Runnegar</p> |
+| <p>17:15<br><br></p> | <p>💬 Wrap up<br><br></p>          |                                                                                                                                                                         |
+| 17:30                | 💬 Meet and Greet                  |                                                                                                                                                                         |
+| 18:00                | 🏁 End                             |                                                                                                                                                                         |
 
 ## Speakers
 
