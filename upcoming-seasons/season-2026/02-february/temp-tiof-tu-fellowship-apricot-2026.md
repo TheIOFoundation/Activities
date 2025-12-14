@@ -2,8 +2,8 @@
 hidden: true
 icon: calendar-circle-user
 cover: >-
-  ../../../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
-  TU Fellowship XXX v1.0.png
+  ../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship
+  APRICOT 2026 - Gitbook Hero XXX v1.0.png
 coverY: 0
 layout:
   width: default
@@ -37,6 +37,9 @@ This is a major annual internet conference which brings together internet engine
 The Fellowship will be held for the conference sessions only, which will be conducted from Monday, 9th to Wednesday, 11th February 2026. This role offers a unique opportunity to engage in this event and is an extended activity from the **Training Bytes 2026-02 that will take place on Sunday, 8th February 2026.**
 
 
+
+* Engagement length: See ToR
+* Time commitment: See ToR
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -58,7 +61,13 @@ The Fellowship will be held for the conference sessions only, which will be cond
 **FRIDAY, 9TH JANUARY 2026**
 {% endhint %}
 
+WHO CAN APPLY
 
+
+
+Open to full-time students in relevant fields (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
+
+* Note that proof of student status will need to be submitted
 {% endcolumn %}
 {% endcolumns %}
 
@@ -96,36 +105,34 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 
 * [ ] Located in Jakarta for the duration of the Fellowship
 
-- **Clarification:** You _**do not**_ need to be a resident of Indonesia, you need to be in Jakarta (Indonesia) during:
-  * Training Bytes 2026-02: Sunday 8th February 2026, pk 13.00
-  * APRICOT 2026 conference: Monday 9th to Wednesday 11th February 2026
-- Open to full-time students in relevant fields (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
-  * Note that proof of student status will need to be submitted
-- Strong understanding of data privacy and technology issues
-- Ability to work independently and collaboratively in dynamic environments
-- Strong networking skills and a proactive approach to building relationships within the tech community
-- Proven experience in event participation, public speaking or advocacy will be a plus
-- Passion for and commitment to The IO Foundation's [mission](https://tiof.click/TIOFMission) and [values](https://tiof.click/TIOFValues)
+{% hint style="info" %}
+## CLARIFICATION
+
+You _**do not**_ need to be a resident of Indonesia, you need to be in Jakarta (Indonesia) during:
+
+* Training Bytes 2026-02: Sunday 8th February 2026, pk 13.00
+* APRICOT 2026 conference: Monday 9th to Wednesday 11th February 2026
+{% endhint %}
+
+* [ ] Strong understanding of data privacy and technology issues
 {% endcolumn %}
 
 {% column %}
 
 
-## **Qualifications | Languages**
+* [ ] Ability to work independently and collaboratively in dynamic environments
+* [ ] **Languages**
 
-* English fluent both oral and written
-* Fluent level of local official languages is a plus
+- English fluent both oral and written
+- Fluent level of local official languages is a plus
+
+* [ ] Passion for and commitment to The IO Foundation's [mission](https://tiof.click/TIOFMission) and [values](https://tiof.click/TIOFValues)
+* [ ] Strong networking skills and a proactive approach to building relationships within the tech community
+* [ ] Proven experience in event participation, public speaking or advocacy will be a plus
 {% endcolumn %}
 {% endcolumns %}
 
 ## **Responsibilities**
-
-*
-*
-
-
-
-
 
 {% columns %}
 {% column %}
@@ -141,11 +148,9 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 * [ ] Provide regular reports on participation, including insights, outcomes and recommendations for future engagements
 * [ ] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts
 * [ ] Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning
-* [ ] Participate in monthly Fellowship meetings
+* [ ] Participate in monthly Argos Community meetings
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 ## Timeline
 
@@ -186,12 +191,6 @@ Submit your report before the XXX
 The cohort will meet for an online session where we will discuss feedback and explore next steps.
 {% endstep %}
 {% endstepper %}
-
-## **Terms of Reference**
-
-* TIOF Member type: Fellow
-* Engagement length: See ToR
-* Time commitment: See ToR
 
 ## Benefits
 
