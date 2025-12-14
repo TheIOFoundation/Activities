@@ -35,6 +35,8 @@ The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals t
 This is a major annual internet conference which brings together internet engineers, operators, researchers, and policymakers to share knowledge and discuss the future of the internet in the Asia Pacific region through technical sessions, workshops, and tutorials.
 
 The Fellowship will be held for the conference sessions only, which will be conducted from Monday, 9th to Wednesday, 11th February 2026. This role offers a unique opportunity to engage in this event and is an extended activity from the **Training Bytes 2026-02 that will take place on Sunday, 8th February 2026.**
+
+
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -149,15 +151,39 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 
 {% stepper %}
 {% step %}
-###
+### Registration
 
-
+Submit your interest. Make sure to read the Requirements and understand the Commitments.
 {% endstep %}
 
 {% step %}
-###
+### Announcement of Fellows
 
+TIOF will select the cohort of Fellows among all the submissions and will announce the awardees.
+{% endstep %}
 
+{% step %}
+### Training Bytes
+
+The cohort will gather for an orientation session.
+{% endstep %}
+
+{% step %}
+### \[#APNOG] APRICOT 2026
+
+Participate in the event with the full support of the TIOF team onsite.
+{% endstep %}
+
+{% step %}
+### Submission of report
+
+Submit your report before the XXX
+{% endstep %}
+
+{% step %}
+### POST session
+
+The cohort will meet for an online session where we will discuss feedback and explore next steps.
 {% endstep %}
 {% endstepper %}
 
