@@ -272,11 +272,13 @@ Media taken during the Fellowship will be posted here.
 
 <details>
 
-<summary>FAQ</summary>
+<summary>Let us answer any doubts you may have.</summary>
 
-<i class="fa-circle-question">:circle-question:</i>&#x20;
+<i class="fa-circle-question">:circle-question:</i> Is this Fellowship opportunity free?
 
-<i class="fa-circle-a">:circle-a:</i>
+<i class="fa-circle-a">:circle-a:</i> Yes
+
+
 
 
 
