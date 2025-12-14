@@ -12,7 +12,7 @@ coverY: 0
 {% column %}
 ## About
 
-On the occasion IETF 122 happening in Bangkok, Thailand, The IO Foundation organizes a training session on the topic of standard developing organizations (SDOs) and to explore the IETF 122 meeting and its activities.
+On the occasion APRICOT 2026 happening in Jakarta, Indonesia, The IO Foundation organizes a training session on the topic of Network Operator Groups (NOGs) and to explore the latest operational technologies and best practices presented during the summit.
 {% endcolumn %}
 
 {% column %}
@@ -30,17 +30,17 @@ On the occasion IETF 122 happening in Bangkok, Thailand, The IO Foundation organ
 {% column width="50%" %}
 ## Information
 
-This Training Bytes session focuses on practical approaches for developing and implementing technical standards that enhance user safety and privacy.
+This Training Bytes session focuses on practical approaches and implementation strategies for enhancing user safety and privacy directly within network operations and infrastructure.
 
-Participants will
+Participants will:
 
-* learn about standards development organizations (SDOs) and how they influence technology
-* identify areas where standards can improve user protection
-* learn which standards are relevant for your industry or occupation
-* explore effective strategies for engaging with key SDOs through the [Data-Centric Digital Rights framework](https://tiof.click/DCDRFrameworkDocs)
-* learn how to actively participate in the upcoming [IETF 122 meeting](https://www.ietf.org/meeting/122/)
+* **Implement Secure Protocols**: Learn about the most crucial, recently ratified IETF protocols (e.g., DNS over HTTPS/TLS, BGP security extensions) and how to deploy them effectively on live networks.
+* **Operationalize User Protection**: Identify common network vulnerabilities where operator-side configurations can immediately improve user protection and data integrity (e.g., reducing metadata leakage).
+* **Identify Relevant NOG Practices**: Learn which technical practices and configurations are currently being prioritized by Network Operator Groups (NOGs) and the APNIC community for optimal regional security.
+* **Engage with the Community**: Explore effective strategies for engaging with the APNIC community and other key operational forums (like the APRICOT Peering Forum) through the Data-Centric Digital Rights framework.
+* **Prepare for APRICOT**: Learn how to actively participate and extract value from the upcoming APRICOT 2026 workshops and hands-on labs, focusing on real-world case studies from the Asia Pacific region.
 
-The session aims to equip attendees with the knowledge and tools necessary to contribute to standards that prioritize user rights in the global digital landscape.
+The session aims to equip network engineers and system administrators with the knowledge and configuration tools necessary to build and maintain secure, privacy-preserving networks that prioritize user rights in the global digital landscape.
 {% endcolumn %}
 
 {% column width="50%" %}
@@ -60,27 +60,39 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 Participants will receive an e-Certificate that can be embedded and verified via our [Certificates.TheIOFoundation.org](https://certificates.theiofoundation.org) platform.
 {% endhint %}
 
-\
-**Standards Developing Organizations in this activity**
+### Key Standards and Operational Bodies
 
-* Internet Engineering Task Force ([IETF](https://www.ietf.org/))
-* International Telecommunication Union ([ITU](https://www.itu.int/en/Pages/default.aspx) | [ITU-T](https://www.itu.int/ITU-T/))
-* Internet Corporation for Assigned Names and Numbers ([ICANN](https://www.icann.org/))
+This session examines the organizations that most directly impact the day-to-day operations and security of networks in the Asia Pacific region:
+
+#### 1. Internet Engineering Task Force (IETF)
+
+* Role: The primary body for developing and publishing Internet standards and protocols (like TCP/IP, HTTPS, and BGP security).
+* Relevance to APRICOT: While they don't govern, their output (RFCs) is the technical blueprint that every network operator must implement. Our session focuses on implementing their security and privacy-enhancing protocols. \*
+
+#### 2. APNIC (Asia Pacific Network Information Centre)
+
+* Role: The Regional Internet Registry (RIR) for the Asia Pacific. They manage and distribute the Internet's core resources (IP addresses and AS numbers).
+* Relevance to APRICOT: They are the governing authority for the resources you operate with. Their policies directly affect routing security (RPKI), IP address transfers, and IPv6 deployment—all core topics at APRICOT. \*
+
+#### 3. The APRICOT Community & Network Operator Groups (NOGs)
+
+* Role: These are local and regional bodies (like MyNOG, IDNOG, JANOG) that represent the Network Operator's perspective. They distill global standards into practical, localized best practices.
+* Relevance to APRICOT: This community drives the adoption and refinement of technical standards across the region. They are the target audience and the primary source of operational knowledge shared at the conference.
 
 ## Fellowship opportunity
 
 {% hint style="info" %}
 If you:
 
-* Are in Bangkok during IETF 122
-* Are a full-time student
+* Are in Jakarta during APRICOT 2026
+* Are a full-time student or lecturer
 
 you should consider submitting to our [\[#TIOF\] Fellowship - IETF 122](https://short.theiofoundation.org/ietf-ietf-122-info) opportunity!
 {% endhint %}
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Strategies to protect users through standards</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Saturday 15th March - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/wo1FSYCNj4CtsyV36">Galleria 10 Bangkok hotel</a><br>Bangkok, Thailand</td></tr><tr><td>💵 Price</td><td>$ 150 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td><a href="https://short.theiofoundation.org/tiof-training-bytes-2025-03-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Security &#x26; Privacy Strategies: From Global Standards to Network Implementation</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Sunday 15th March - 09:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Saturday 15th March - 16:30 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td><a href="https://maps.app.goo.gl/wo1FSYCNj4CtsyV36">Galleria 10 Bangkok hotel</a><br>Bangkok, Thailand</td></tr><tr><td>💵 Price</td><td>$ 150 (<strong>Sponsored</strong>)</td></tr><tr><td>🎫 <strong>RSVP</strong></td><td><a href="https://short.theiofoundation.org/tiof-training-bytes-2025-03-registration">🎫 <strong>REGISTER</strong></a> <strong>(Note: cost is fully sponsored for this activity.)</strong></td></tr></tbody></table>
 
 ### Agenda
 
