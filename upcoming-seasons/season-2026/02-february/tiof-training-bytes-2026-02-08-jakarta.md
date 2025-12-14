@@ -112,24 +112,17 @@ you should consider submitting to our [\[#TIOF\] Fellowship - IETF 122](https://
 
 ## Venue
 
-The activity will take place in [Galleria 10 Bangkok hotel](https://maps.app.goo.gl/wo1FSYCNj4CtsyV36), Bangkok, Thailand.
+TBA
 
 ### How to reach the venue
 
-As you reach the hotel, follow down the stairs/ramp to reach the lobby.
+TBA
 
-<div align="left"><figure><img src="../../../.gitbook/assets/photo_2025-03-14_21-31-45.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Once at the lobby, walk all the way until the end of it and you'll find the Room Meeting G.
-
-<div align="left"><figure><img src="../../../.gitbook/assets/photo_2025-03-14_21-31-47.jpg" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## Food & Beverage
 
-During the event, the following will be provided:
-
-* 2 break snacks
-* Lunch
+TBA
 
 ## Resources
 
