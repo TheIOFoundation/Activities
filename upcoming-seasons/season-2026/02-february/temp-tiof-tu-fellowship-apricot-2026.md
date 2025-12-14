@@ -26,6 +26,8 @@ layout:
 
 # TEMP \[#TIOF] TU Fellowship APRICOT 2026
 
+SPACE
+
 {% columns %}
 {% column width="58.333333333333336%" %}
 ## About
@@ -83,6 +85,16 @@ Open to full-time students in relevant fields (e.g., Networking, Protocols, Stan
 
 
 
+SPACE
+
+## Modalities
+
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 1</td><td>In-Person | Sponsored</td></tr><tr><td>CATEGORY 2</td><td>In-Person | Self-Founded</td></tr><tr><td>CATEGORY 3</td><td>Online | Sponsored</td></tr></tbody></table>
+
+## **Responsibilities**
+
+
+
 {% columns %}
 {% column width="58.333333333333336%" %}
 WHO WILL YOU MEET
@@ -113,7 +125,7 @@ WHO WILL YOU MEET
 
 * [ ] Located in Jakarta for the duration of the Fellowship
 
-{% hint style="info" %}
+{% hint style="success" %}
 ## CLARIFICATION
 
 You _**do not**_ need to be a resident of Indonesia, you need to be in Jakarta (Indonesia) during:
