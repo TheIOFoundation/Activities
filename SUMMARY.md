@@ -61,6 +61,7 @@
     * [\[#VNU\] CyberSec Asia 2026](upcoming-seasons/season-2026/02-february/vnu-cybersec-asia-2026/README.md)
     * [\[#APNG\] APNG Camp #18](upcoming-seasons/season-2026/02-february/apng-apng-camp-18/README.md)
     * [\[#TIOF\] TU Fellowship APRICOT 2026](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026/README.md)
+    * [TEMP \[#TIOF\] TU Fellowship APRICOT 2026](upcoming-seasons/season-2026/02-february/temp-tiof-tu-fellowship-apricot-2026.md)
     * [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](upcoming-seasons/season-2026/02-february/tiof-training-bytes-2026-02-08-jakarta.md)
     * [\[#APSTAR\] APStar Meeting 2026-01](upcoming-seasons/season-2026/02-february/apstar-apstar-meeting-2026-01/README.md)
     * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/apnog-apricot-2026/README.md)

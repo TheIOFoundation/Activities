@@ -52,6 +52,8 @@ The session aims to equip attendees with the knowledge and tools necessary to co
 
 
 
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Kim Davies</td><td>Vice President, IANA Services</td><td><em>ICANN</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage52628.png">Grayscaleimage52628.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Christine Runnegar</td><td>Senior Director, Internet Trust</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Christine.png">Christine.png</a></td></tr><tr><td>Lisa Dusseault</td><td>Chief Technology Officer (CTO)</td><td><em>Data Transfer Initiative</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage84647.png">Grayscaleimage84647.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr></tbody></table>
+
 
 
 {% hint style="success" %}
