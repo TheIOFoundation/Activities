@@ -24,21 +24,12 @@ layout:
     visible: true
 ---
 
-# Info Page
-
-
+# \[#TIOF] Argos Club Launch (Soft) - UKM
 
 {% hint style="danger" %}
-## NOTICE
+### NOTICE
 
 THIS IS A TEMPLATE - PLEASE MAKE SURE THE INFORMATION IS CORRECT BEFORE PUBLISHING.
 {% endhint %}
 
-
-
-
-
-
-
 ## ARGOS CLUB LAUNCH
-

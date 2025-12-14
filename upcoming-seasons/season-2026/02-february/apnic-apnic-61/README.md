@@ -24,10 +24,10 @@ layout:
     visible: true
 ---
 
-# Info Page
+# \[#APNIC] APNIC 61
 
 {% hint style="danger" %}
-## NOTICE
+### NOTICE
 
 This is a templa
 {% endhint %}
@@ -52,17 +52,13 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 
 ## Modalities
 
-
-
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 1</td><td>In-Person | Sponsored</td></tr><tr><td>CATEGORY 2</td><td>In-Person | Self-Founded</td></tr><tr><td>CATEGORY 3</td><td>Online | Sponsored</td></tr></tbody></table>
-
-
 
 ## **Responsibilities**
 
 * Actively participate in the following events and activities related to The IO Foundation?s advocacy on Data-Centric Digital Rights:
-  * [\[#TIOF\] Training Bytes 2025-07](/broken/pages/A4j8wY0R3z1qHABaZwat) (Madrid, Spain)
-  * [\[#IETF\] IETF 123](/broken/pages/MNuUyMzoFnAQDjDIZoX9) (Madrid, Spain)
+  * [\[#TIOF\] Training Bytes 2025-07](../../../../current-season/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain)
+  * [\[#IETF\] IETF 123](../../../../current-season/season-2025/07-july/ietf-ietf-123.md) (Madrid, Spain)
 * Serve as a representative of The IO Foundation, effectively communicating our mission, values and initiatives
 * Provide regular reports on participation, including insights, outcomes and recommendations for future engagements
 * Collaborate with other TIOF Members to enhance the impact of our advocacy efforts
@@ -92,8 +88,8 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 * Engagement length: As agreed
 * Time commitment: As agreed
 * Benefits
-  * [\[#TIOF\] Training Bytes 2025-07](/broken/pages/A4j8wY0R3z1qHABaZwat) (Madrid, Spain) - **Ticket waived**
-  * [\[#IETF\] IETF 123](/broken/pages/MNuUyMzoFnAQDjDIZoX9) (Madrid, Spain) - **Ticket waived (Student Pass)**
+  * [\[#TIOF\] Training Bytes 2025-07](../../../../current-season/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain) - **Ticket waived**
+  * [\[#IETF\] IETF 123](../../../../current-season/season-2025/07-july/ietf-ietf-123.md) (Madrid, Spain) - **Ticket waived (Student Pass)**
   * TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
   * Certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform)
   * Access to exclusive training by TIOF
@@ -110,32 +106,24 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                         | QR Code                                                                          |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info) | <img src="../../../../../.gitbook/assets/image.png" alt="" data-size="original"> |
-| Registration Page | \[**COMING SOON]**                                                                                                                 | \[**COMING SOON]**                                                               |
-|                   |                                                                                                                                    |                                                                                  |
-
-
-
-
+| Content           | (short)URL                                                                                                                         | QR Code                                                                       |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info) | <img src="../../../../.gitbook/assets/image.png" alt="" data-size="original"> |
+| Registration Page | \[**COMING SOON]**                                                                                                                 | \[**COMING SOON]**                                                            |
+|                   |                                                                                                                                    |                                                                               |
 {% endtab %}
 
 {% tab title="SocMed" %}
-| Platform                                                                                                        | URLs |
-| --------------------------------------------------------------------------------------------------------------- | ---- |
-| <img src="../../../../../.gitbook/assets/Twitter X Icon.png" alt="" data-size="line">                           |      |
-| <img src="../../../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  |      |
-| <img src="../../../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |      |
-| <img src="../../../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
-| <img src="../../../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
-|                                                                                                                 |      |
-
-
+| Platform                                                                                                     | URLs |
+| ------------------------------------------------------------------------------------------------------------ | ---- |
+| <img src="../../../../.gitbook/assets/Twitter X Icon.png" alt="" data-size="line">                           |      |
+| <img src="../../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  |      |
+| <img src="../../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |      |
+| <img src="../../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
+| <img src="../../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
+|                                                                                                              |      |
 {% endtab %}
 {% endtabs %}
-
-
 
 <details>
 
@@ -144,4 +132,3 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 
 
 </details>
-

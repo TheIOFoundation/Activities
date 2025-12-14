@@ -24,13 +24,13 @@ layout:
     visible: true
 ---
 
-# Info Page
+# \[#TIOF] TU Fellowship IETF 127
 
-|                                                                                                                                         |
-| :-------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                        |
+| :------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">? GO TO REGISTRATION FORM</a> |
 
-<div align="center"><figure><img src="../../../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 **DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)**
@@ -49,8 +49,8 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 ## **Responsibilities**
 
 * Actively participate in the following events and activities related to The IO Foundation?s advocacy on Data-Centric Digital Rights:
-  * [\[#TIOF\] Training Bytes 2025-07](/broken/pages/A4j8wY0R3z1qHABaZwat) (Madrid, Spain)
-  * [\[#IETF\] IETF 123](/broken/pages/MNuUyMzoFnAQDjDIZoX9) (Madrid, Spain)
+  * [\[#TIOF\] Training Bytes 2025-07](../../../../current-season/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain)
+  * [\[#IETF\] IETF 123](../../../../current-season/season-2025/07-july/ietf-ietf-123.md) (Madrid, Spain)
 * Serve as a representative of The IO Foundation, effectively communicating our mission, values and initiatives
 * Provide regular reports on participation, including insights, outcomes and recommendations for future engagements
 * Collaborate with other TIOF Members to enhance the impact of our advocacy efforts
@@ -80,8 +80,8 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 * Engagement length: As agreed
 * Time commitment: As agreed
 * Benefits
-  * [\[#TIOF\] Training Bytes 2025-07](/broken/pages/A4j8wY0R3z1qHABaZwat) (Madrid, Spain) - **Ticket waived**
-  * [\[#IETF\] IETF 123](/broken/pages/MNuUyMzoFnAQDjDIZoX9) (Madrid, Spain) - **Ticket waived (Student Pass)**
+  * [\[#TIOF\] Training Bytes 2025-07](../../../../current-season/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain) - **Ticket waived**
+  * [\[#IETF\] IETF 123](../../../../current-season/season-2025/07-july/ietf-ietf-123.md) (Madrid, Spain) - **Ticket waived (Student Pass)**
   * TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
   * Certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform)
   * Access to exclusive training by TIOF
@@ -92,7 +92,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 | :----------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">GO TO REGISTRATION FORM</a> |
 
-<div align="center"><figure><img src="../../../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
 **DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)**
@@ -108,22 +108,22 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endtab %}
 
 {% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                                         | QR Code                                                                              |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info)                 | <img src="../../../../../.gitbook/assets/image.png" alt="" data-size="original">     |
-| Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration) | <img src="../../../../../.gitbook/assets/image (6).png" alt="" data-size="original"> |
-|                   |                                                                                                                                                    |                                                                                      |
+| Content           | (short)URL                                                                                                                                         | QR Code                                                                           |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info)                 | <img src="../../../../.gitbook/assets/image.png" alt="" data-size="original">     |
+| Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration) | <img src="../../../../.gitbook/assets/image (6).png" alt="" data-size="original"> |
+|                   |                                                                                                                                                    |                                                                                   |
 {% endtab %}
 
 {% tab title="SocMed" %}
-| Platform                                                                                                        | URLs |
-| --------------------------------------------------------------------------------------------------------------- | ---- |
-| <img src="../../../../../.gitbook/assets/Twitter X Icon.png" alt="" data-size="line">                           |      |
-| <img src="../../../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  |      |
-| <img src="../../../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |      |
-| <img src="../../../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
-| <img src="../../../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
-|                                                                                                                 |      |
+| Platform                                                                                                     | URLs |
+| ------------------------------------------------------------------------------------------------------------ | ---- |
+| <img src="../../../../.gitbook/assets/Twitter X Icon.png" alt="" data-size="line">                           |      |
+| <img src="../../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  |      |
+| <img src="../../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |      |
+| <img src="../../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
+| <img src="../../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
+|                                                                                                              |      |
 {% endtab %}
 {% endtabs %}
 
