@@ -40,6 +40,10 @@ The Fellowship will be held for the conference sessions only, which will be cond
 
 * Engagement length: See ToR
 * Time commitment: See ToR
+
+TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs), with their communities and the technical standards they produce.
+
+As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -68,6 +72,12 @@ WHO CAN APPLY
 Open to full-time students in relevant fields (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
 
 * Note that proof of student status will need to be submitted
+
+{% hint style="info" %}
+## RELATED EVENT
+
+**\[#APNOG] APRICOT 2026**
+{% endhint %}
 {% endcolumn %}
 {% endcolumns %}
 
@@ -75,9 +85,7 @@ Open to full-time students in relevant fields (e.g., Networking, Protocols, Stan
 
 {% columns %}
 {% column width="58.333333333333336%" %}
-TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs), with their communities and the technical standards they produce.
-
-As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
+WHO WILL YOU MEET
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -134,6 +142,8 @@ You _**do not**_ need to be a resident of Indonesia, you need to be in Jakarta (
 
 ## **Responsibilities**
 
+**By becoming a Fellow you commit to the following responsibilities:**
+
 {% columns %}
 {% column %}
 * [ ] Actively participate in the following events and activities related to The IO Foundation’s advocacy on Data-Centric Digital Rights:
@@ -142,6 +152,7 @@ You _**do not**_ need to be a resident of Indonesia, you need to be in Jakarta (
 - (link to) \[#APRICOT] APRICOT 2026 (Jakarta, Indonesia)
 
 * [ ] Serve as a representative of The IO Foundation, effectively communicating our mission, values and initiatives
+* [ ] Submit your Fellowship Report before the deadline (see Timeline).
 {% endcolumn %}
 
 {% column %}
@@ -227,6 +238,30 @@ The cohort will meet for an online session where we will discuss feedback and ex
 **APPLY BY MONDAY 5TH JANUARY 2026 23:59 (UTC+00)**
 {% endhint %}
 
+## Acknowledgements
+
+{% columns %}
+{% column %}
+### Sponsors
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+{% endcolumn %}
+
+{% column %}
+### Partners
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+{% endcolumn %}
+{% endcolumns %}
+
+## Sponsorship Opportunities
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Support Fellows</td></tr><tr><td>Support The IO Foundation</td></tr></tbody></table>
+
+## Share this opportunity
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
+
 ## Media
 
 Media taken during the Fellowship will be posted here.
@@ -278,4 +313,14 @@ Media taken during the Fellowship will be posted here.
 {% endtab %}
 {% endtabs %}
 
-##
+## Attributions
+
+{% columns %}
+{% column %}
+
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
