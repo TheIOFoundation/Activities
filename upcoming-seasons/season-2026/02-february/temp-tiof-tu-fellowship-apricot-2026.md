@@ -278,19 +278,19 @@ Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-
 {% column %}
 ### Sponsors
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to support technologists in their career towards protecting users?</td><td>Reach out!</td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to support technologists in their career towards protecting users?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 
 {% column %}
 ### Partners
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td>Reach out!</td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
 ## Sponsorship Opportunities
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Support Fellows</td></tr><tr><td>Support The IO Foundation</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Support Fellows</strong></td><td>Would you like to support technologists in their career towards protecting users?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png</a></td></tr><tr><td><strong>Support The IO Foundation</strong></td><td>Would you like to support The IO Foundation in its advocacy towards a Rights-by-Design digital ecosystem?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Favicon XXX v1.0.png">[TIOF] Comms [P] Favicon XXX v1.0.png</a></td></tr></tbody></table>
 
 ## Share this opportunity
 

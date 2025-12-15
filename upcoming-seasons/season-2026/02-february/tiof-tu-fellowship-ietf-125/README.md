@@ -130,3 +130,10 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 ## Media
 
 Media taken during the Fellowship will be posted here.
+
+## Attributions
+
+Photos by
+
+* [Weichao Deng](https://unsplash.com/@juniperphoton?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/an-aerial-view-of-a-city-and-a-river-1U7mH-Rklqo?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+
