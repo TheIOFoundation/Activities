@@ -38,9 +38,18 @@ The Asia Pacific Regional Internet Conference on Operational Technologies (APRIC
 
 The IO Foundation will be there in-person to support the adoption and implementation of security protocols that protect digital citizens through robust network design..
 
-> **NOTE: LIMITED SPOTS - APPLY BY \[COMING SOON] 00:00 (UTC+00)**
+|                                                                  |                                                |
+| ---------------------------------------------------------------- | ---------------------------------------------- |
+| 📢 **Title**                                                     | APRICOT 2026                                   |
+| 📖 **Activity Type**                                             | Conference                                     |
+| **📅 Date Start**                                                | Monday, 9th January 2026                       |
+| **📅 Date End**                                                  | Thursday, 12th January 2026                    |
+| [**📍**](https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8) **Location** | **Sheraton Grand Jakarta Gandaria City Hotel** |
+| 🎫 **RSVP**                                                      |                                                |
 
-## Modalities
+
+
+> **NOTE: LIMITED SPOTS - APPLY BY \[COMING SOON] 00:00 (UTC+00)**
 
 <table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 1</td><td>In-Person | Sponsored</td></tr><tr><td>CATEGORY 2</td><td>In-Person | Self-Founded</td></tr><tr><td>CATEGORY 3</td><td>Online | Sponsored</td></tr></tbody></table>
 
