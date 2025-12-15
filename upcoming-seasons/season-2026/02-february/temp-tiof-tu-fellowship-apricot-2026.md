@@ -217,50 +217,50 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 {% stepper %}
 {% step %}
-### 16/12/2025: Opening of applications&#x20;
+**16/12/2025: Opening of applications**&#x20;
 
 Submit your interest! Make sure to read the [Requirements](temp-tiof-tu-fellowship-apricot-2026.md#requirements) and understand the [Responsibilities](temp-tiof-tu-fellowship-apricot-2026.md#responsibilities).\
 <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
 {% step %}
-### 05/01/26: Closing of applications
+**05/01/26: Closing of applications**
 
 Applications will not be accepted beyond this date (UTC + 00).
 {% endstep %}
 
 {% step %}
-### 09/01/26: Announcement of the cohort
+**09/01/26: Announcement of the cohort**
 
 TIOF will announce the final list of the cohort.
 {% endstep %}
 
 {% step %}
-### 08/02/26: Training Bytes session
+**08/02/26: Training Bytes session**
 
 The cohort will gather for an orientation session.
 {% endstep %}
 
 {% step %}
-### 09/02/2026 to 12/02/2026: APRICOT 2026
+**09/02/2026 to 12/02/2026: APRICOT 2026**
 
 Participate in the event with the full support of the TIOF team onsite.
 {% endstep %}
 
 {% step %}
-### 18/02/26: Submission of Assignment
+**18/02/26: Submission of Assignment**
 
 Submit your Fellowship Report for evaluation.
 {% endstep %}
 
 {% step %}
-### 19/02/26: Review call
+**19/02/26: Review call**
 
 The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
 {% endstep %}
 
 {% step %}
-### 28/02/2026: Issuing of digital certificates
+**28/02/2026: Issuing of digital certificates**
 
 Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-tu-fellowship-apricot-2026.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
@@ -278,13 +278,13 @@ Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-
 {% column %}
 ### Sponsors
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to support technologists in their career towards protecting users?</td><td>Reach out!</td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 
 {% column %}
 ### Partners
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td>Reach out!</td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -350,4 +350,9 @@ Media taken during the Fellowship will be posted here.
 {% endtabs %}
 
 ## Attributions
+
+Photos by
+
+* [Walls.io](https://unsplash.com/@walls_io?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-paper-with-a-pen-on-it-IJRayDxr5ek?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+* [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 
