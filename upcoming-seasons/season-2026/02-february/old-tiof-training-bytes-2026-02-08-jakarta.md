@@ -23,7 +23,7 @@ layout:
     visible: true
 ---
 
-# TEMP \[#TIOF] Training Bytes 2026-02-08 JAKARTA
+# OLD \[#TIOF] Training Bytes 2026-02-08 JAKARTA
 
 {% columns %}
 {% column width="58.333333333333336%" %}
@@ -233,7 +233,7 @@ By becoming a Fellow you commit to the following responsibilities:
 - [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
 - [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/)
 
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](temp-tiof-training-bytes-2026-02-08-jakarta.md#timeline)).
+* [x] Submit your Fellowship Report before the deadline (see [Timeline](old-tiof-training-bytes-2026-02-08-jakarta.md#timeline)).
 {% endcolumn %}
 
 {% column %}
@@ -290,7 +290,7 @@ The following items are covered in this Training Bytes:
 {% step %}
 **16/12/2025: Opening of applications**&#x20;
 
-Submit your interest! Make sure to read the [Requirements](temp-tiof-training-bytes-2026-02-08-jakarta.md#requirements) and understand the [Responsibilities](temp-tiof-training-bytes-2026-02-08-jakarta.md#responsibilities).\
+Submit your interest! Make sure to read the [Requirements](old-tiof-training-bytes-2026-02-08-jakarta.md#requirements) and understand the [Responsibilities](old-tiof-training-bytes-2026-02-08-jakarta.md#responsibilities).\
 <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
@@ -333,7 +333,7 @@ The cohort will meet for an online session where we will discuss feedback and ex
 {% step %}
 **28/02/2026: Issuing of digital certificates**
 
-Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-training-bytes-2026-02-08-jakarta.md#requirements) will receive a digital certificate as a proof of completion.
+Fellows who have successfully completed the [Fellowship Requirements](old-tiof-training-bytes-2026-02-08-jakarta.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
 {% endstepper %}
 
