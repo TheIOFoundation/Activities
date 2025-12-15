@@ -24,7 +24,7 @@ layout:
     visible: true
 ---
 
-# TEMP \[#TIOF] TU Fellowship APRICOT 2026
+# \[#TIOF] TU Fellowship APRICOT 2026
 
 {% columns %}
 {% column width="58.333333333333336%" %}
@@ -37,7 +37,7 @@ The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals t
 
 Please note that the \[#TIOF] TU Fellowship APRICOT 2026 will run on slightly different dates than APRICOT 2026.
 
-Check the [Timeline](temp-tiof-tu-fellowship-apricot-2026.md#timeline) below for more details.
+Check the [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline) below for more details.
 {% endhint %}
 
 This is a major annual technical conference which brings together internet engineers, operators, researchers and policymakers to share knowledge and discuss the future of the Internet in the Asia-Pacific region through technical sessions, workshops and tutorials.
@@ -174,7 +174,7 @@ By becoming a Fellow you commit to the following responsibilities:
 - [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
 - [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/)
 
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](temp-tiof-tu-fellowship-apricot-2026.md#timeline)).
+* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline)).
 {% endcolumn %}
 
 {% column %}
@@ -231,7 +231,7 @@ The following items are covered in this Fellowship:
 {% step %}
 **16/12/2025: Opening of applications**&#x20;
 
-Submit your interest! Make sure to read the [Requirements](temp-tiof-tu-fellowship-apricot-2026.md#requirements) and understand the [Responsibilities](temp-tiof-tu-fellowship-apricot-2026.md#responsibilities).\
+Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-apricot-2026.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-apricot-2026.md#responsibilities).\
 <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
@@ -274,7 +274,7 @@ The cohort will meet for an online session where we will discuss feedback and ex
 {% step %}
 **28/02/2026: Issuing of digital certificates**
 
-Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-tu-fellowship-apricot-2026.md#requirements) will receive a digital certificate as a proof of completion.
+Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-apricot-2026.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
 {% endstepper %}
 
