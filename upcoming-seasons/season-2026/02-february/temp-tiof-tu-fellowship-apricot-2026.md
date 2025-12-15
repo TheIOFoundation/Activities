@@ -114,7 +114,7 @@ Registered candidates will also be updated via email.
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director </td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director </td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -126,7 +126,7 @@ Registered candidates will also be updated via email.
 
 ## **Terms of Reference**
 
-**Applicants must understand and abide by the following:**
+Applicants must understand and abide by the following:
 
 {% columns %}
 {% column %}
@@ -357,7 +357,44 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
 {% endtab %}
 {% endtabs %}
 
+## Resources
 
+{% tabs %}
+{% tab title="Materials" %}
+```
+ OTHER RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
+```
+
+| Organization                                                                              | Topic                                                                                                                                   | Notes                                                                                                                                             |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>              | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)                                                                                     | Code of Conduct for all TIOF activities.                                                                                                          |
+|                                                                                           | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                                        | A digital adaptation of the Chatham House Rule.                                                                                                   |
+|                                                                                           | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs)                                                                       | Information on The IO Foundation's advocacy.                                                                                                      |
+|                                                                                           | [Presentation Slides](https://docs.google.com/presentation/d/1SCbSytfnlOcSGVxTSC8TLqQI2cX-e-fTz3Sd8KUPgb4/edit?usp=sharing)             |                                                                                                                                                   |
+|                                                                                           | [The Selfish Ledger](https://www.youtube.com/watch?v=QDVVo14A_fo)                                                                       | A must-watch short video on how the importance of data, how companies decide to extract it and (most importantly) what they decide to do with it. |
+| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/)      | [ICANN Policy](https://www.icann.org/policy)                                                                                            | Learn how to participate in ICANN Policy Development Processes (PDPs)                                                                             |
+|                                                                                           | [ICANN for Beginners](https://www.icann.org/en/beginners)                                                                               | A good starting point for anyone wanting to participate in ICANN processes.                                                                       |
+|                                                                                           | [Board of Directors](https://itp.cdn.icann.org/en/files/about-the-board/getting-to-know-the-icann-board-of-directors-16-08-2022-en.pdf) | Infographic depicting the composition of the ICANN Board.                                                                                         |
+| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                       | [Attending a KSK Ceremony](https://www.iana.org/help/key-ceremony-attendance)                                                           | Information to participate on a KSK Ceremony.                                                                                                     |
+|                                                                                           | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)                                   |                                                                                                                                                   |
+|                                                                                           | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                                          | Recordings of previous KSK Ceremonies.                                                                                                            |
+| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>          | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                                                   | Information on how to become an ISOC individual member.                                                                                           |
+|                                                                                           | [Network and Distributed](https://www.ndss-symposium.org/)                                                                              |                                                                                                                                                   |
+| <p><br>System Security (NDSS) Symposium</p>                                               |                                                                                                                                         |                                                                                                                                                   |
+|                                                                                           | [Pulse](https://pulse.internetsociety.org/)                                                                                             | ISOC project to evaluate the availability, evolution, and resilience of the global Internet.                                                      |
+|                                                                                           | [2025 Action Plan](https://www.internetsociety.org/wp-content/uploads/2024/11/2025-Action-Plan-EN.pdf)                                  | Learn what is ISOC up to during 2025.                                                                                                             |
+| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [IETF 122](https://www.ietf.org/meeting/122/) ([**Registration**](https://registration.ietf.org/122/))                                  |                                                                                                                                                   |
+|                                                                                           | [Datatracker](https://datatracker.ietf.org/)                                                                                            | Centralized repository of all things IETF.                                                                                                        |
+|                                                                                           | [Ornithology PDF](https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf)                                              |                                                                                                                                                   |
+|                                                                                           | [NomCom](https://www.ietf.org/about/groups/nomcom/)                                                                                     | Information on the Nominating Commitee.                                                                                                           |
+| [International Telecommunications Union (ITU)](https://www.itu.int/en/Pages/default.aspx) | [Telecommunication Standardization (ITU-T)](https://www.itu.int/en/ITU-T/Pages/default.aspx)                                            |                                                                                                                                                   |
+|                                                                                           | [Study Groups (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/Pages/default.aspx)                                       | List of ITU-T Study Groups for the Study Cycle 2025-2028.                                                                                         |
+|                                                                                           |                                                                                                                                         |                                                                                                                                                   |
+| [World Wide Web Consortium (W3C)](https://www.w3.org/)                                    | [Get involved](https://www.w3.org/get-involved/)                                                                                        | Information on getting involved in W3C work.                                                                                                      |
+|                                                                                           |                                                                                                                                         |                                                                                                                                                   |
+|                                                                                           |                                                                                                                                         |                                                                                                                                                   |
+{% endtab %}
+{% endtabs %}
 
 ## Frequently Asked Questions
 
@@ -375,24 +412,6 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
 
 </details>
 
-## Resources
-
-{% tabs %}
-{% tab title="Materials" %}
-```
- RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
-```
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Materials" %}
-```
- RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
-```
-{% endtab %}
-{% endtabs %}
-
 ## Attributions
 
 Photos by
@@ -400,10 +419,7 @@ Photos by
 * [David Kristianto](https://unsplash.com/@davidkristianto?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/cityscape-under-a-blue-sky-with-fluffy-clouds-Hlva-wGrTcI?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Walls.io](https://unsplash.com/@walls_io?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-paper-with-a-pen-on-it-IJRayDxr5ek?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
-
-
-
-Photo by [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+* [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 
 
 
