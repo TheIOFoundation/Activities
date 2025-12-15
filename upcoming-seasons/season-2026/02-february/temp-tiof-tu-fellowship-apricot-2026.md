@@ -26,24 +26,30 @@ layout:
 
 # TEMP \[#TIOF] TU Fellowship APRICOT 2026
 
-SPACE
-
 {% columns %}
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our team as Fellows for the upcoming APRICOT (Asia Pacific Regional Internet Conference on Operational Technologies) 2026, [https://2026.apricot.net/#/](https://2026.apricot.net/#/), to be held in Jakarta (Indonesia).
+The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT 2026](https://2026.apricot.net/#/)), to be held in Jakarta (Indonesia) from 5th to 12th February 2026.
 
-This is a major annual internet conference which brings together internet engineers, operators, researchers, and policymakers to share knowledge and discuss the future of the internet in the Asia Pacific region through technical sessions, workshops, and tutorials.
+{% hint style="warning" %}
+## NOTICE
 
-The Fellowship will be held for the conference sessions only, which will be conducted from Monday, 9th to Wednesday, 11th February 2026. This role offers a unique opportunity to engage in this event and is an extended activity from the **Training Bytes 2026-02 that will take place on Sunday, 8th February 2026.**
+Please note that the \[#TIOF] TU Fellowship APRICOT 2026 will run on slightly different dates than APRICOT 2026.
 
+Check the [Timeline](temp-tiof-tu-fellowship-apricot-2026.md#timeline) below for more details.
+{% endhint %}
 
+This is a major annual technical conference which brings together internet engineers, operators, researchers and policymakers to share knowledge and discuss the future of the Internet in the Asia-Pacific region through technical sessions, workshops and tutorials.
 
-* Engagement length: See ToR
-* Time commitment: See ToR
+The Fellowship will include:
 
-TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs), with their communities and the technical standards they produce.
+* **A** [**Training Bytes session**](tiof-training-bytes-2026-02-08-jakarta.md) **that will take place on Sunday, 8th February 2026**
+* **Attendance to the conference part of APRICOT 2026, which will be conducted from Monday, 9th to Wednesday, 11th February 2026.**
+
+### Why join this Fellowship?
+
+TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs) with their communities and the technical standards they produce.
 
 As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
 {% endcolumn %}
@@ -53,7 +59,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-{% hint style="success" %}
+{% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
 **5TH JANUARY 2026**
@@ -67,49 +73,50 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 **FRIDAY, 9TH JANUARY 2026**
 {% endhint %}
 
-WHO CAN APPLY
+{% hint style="success" %}
+## WHO CAN APPLY?
 
-
-
-Open to full-time students in relevant fields (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
+Open to full-time students and lecturers in relevant fields\
+(e.g., Networking, Protocols, Standards, Cyber Security, etc.)
 
 * Note that proof of student status will need to be submitted
+{% endhint %}
 
 {% hint style="info" %}
 ## RELATED EVENT
 
-**\[#APNOG] APRICOT 2026**
+[**\[#APNOG\] APRICOT 2026**](apnog-apricot-2026/)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
 
-
-
-SPACE
-
 ## Modalities
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 1</td><td>In-Person | Sponsored</td></tr><tr><td>CATEGORY 2</td><td>In-Person | Self-Founded</td></tr><tr><td>CATEGORY 3</td><td>Online | Sponsored</td></tr></tbody></table>
+Participation in this Fellowship can be done through the following modalities:
 
-## **Responsibilities**
+<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 1</td><td>In-Person | Sponsored</td></tr><tr><td>CATEGORY 2</td><td>In-Person | Self-Founded</td></tr></tbody></table>
 
-
+## Who will you meet
 
 {% columns %}
-{% column width="58.333333333333336%" %}
-WHO WILL YOU MEET
+{% column width="41.66666666666667%" %}
+Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the Network Operators sector and the broader Standards Development Organizations ecosystem.
+
+{% hint style="info" %}
+## NOTICE
+
+Please note that we are  currently finalizing the guest list for this Fellowship.
+
+The information will be updated in this page in the coming days.
+
+Registered candidates will also be updated via email.
+{% endhint %}
 {% endcolumn %}
 
-{% column width="41.666666666666664%" %}
-### ON THE STAGE
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Kim Davies</td><td>Vice President, IANA Services</td><td><em>ICANN</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage52628.png">Grayscaleimage52628.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Christine Runnegar</td><td>Senior Director, Internet Trust</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Christine.png">Christine.png</a></td></tr><tr><td>Lisa Dusseault</td><td>Chief Technology Officer (CTO)</td><td><em>Data Transfer Initiative</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage84647.png">Grayscaleimage84647.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr></tbody></table>
-
-
+{% column width="58.33333333333333%" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director </td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
@@ -118,6 +125,8 @@ WHO WILL YOU MEET
 {% endhint %}
 
 ## **Terms of Reference**
+
+**Applicants must understand and abide by the following:**
 
 {% columns %}
 {% column %}
@@ -152,70 +161,36 @@ You _**do not**_ need to be a resident of Indonesia, you need to be in Jakarta (
 {% endcolumn %}
 {% endcolumns %}
 
-## **Responsibilities**
 
-**By becoming a Fellow you commit to the following responsibilities:**
 
 {% columns %}
 {% column %}
-* [ ] Actively participate in the following events and activities related to The IO Foundation’s advocacy on Data-Centric Digital Rights:
+### Responsibilities
 
-- (link to) \[#TIOF] Training Bytes 2026-02 (Jakarta, Indonesia)
-- (link to) \[#APRICOT] APRICOT 2026 (Jakarta, Indonesia)
+By becoming a Fellow you commit to the following responsibilities:
 
-* [ ] Serve as a representative of The IO Foundation, effectively communicating our mission, values and initiatives
-* [ ] Submit your Fellowship Report before the deadline (see Timeline).
+* [ ] Actively participate in the following events and activities related to this Fellowship:
+
+- [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
+- [\[#APRICOT\] APRICOT 2026](apnog-apricot-2026/)
+
+* [ ] Act as a representative of The IO Foundation, effectively communicating our mission, values and initiatives.
+* [ ] Submit your Fellowship Report before the deadline (see [Timeline](temp-tiof-tu-fellowship-apricot-2026.md#timeline)).
 {% endcolumn %}
 
 {% column %}
-* [ ] Provide regular reports on participation, including insights, outcomes and recommendations for future engagements
-* [ ] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts
-* [ ] Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning
-* [ ] Participate in monthly Argos Community meetings
+###
+
+* [ ] Provide regular reports on participation, including insights, outcomes and recommendations for future engagements.
+* [ ] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
+* [ ] Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning.
+* [ ] Participate in monthly Argos Community meetings.
 {% endcolumn %}
 {% endcolumns %}
 
-## Timeline
-
-{% stepper %}
-{% step %}
-### Registration
-
-Submit your interest. Make sure to read the Requirements and understand the Commitments.
-{% endstep %}
-
-{% step %}
-### Announcement of Fellows
-
-TIOF will select the cohort of Fellows among all the submissions and will announce the awardees.
-{% endstep %}
-
-{% step %}
-### Training Bytes
-
-The cohort will gather for an orientation session.
-{% endstep %}
-
-{% step %}
-### \[#APNOG] APRICOT 2026
-
-Participate in the event with the full support of the TIOF team onsite.
-{% endstep %}
-
-{% step %}
-### Submission of report
-
-Submit your report before the XXX
-{% endstep %}
-
-{% step %}
-### POST session
-
-The cohort will meet for an online session where we will discuss feedback and explore next steps.
-{% endstep %}
-{% endstepper %}
-
 ## Benefits
+
+By participating in this Fellowship, you will enjoy the following benefits:
 
 {% columns %}
 {% column %}
@@ -238,7 +213,57 @@ The cohort will meet for an online session where we will discuss feedback and ex
 {% endcolumn %}
 {% endcolumns %}
 
+## Timeline
 
+{% stepper %}
+{% step %}
+### 16/12/2025: Opening of applications&#x20;
+
+Submit your interest! Make sure to read the [Requirements](temp-tiof-tu-fellowship-apricot-2026.md#requirements) and understand the [Responsibilities](temp-tiof-tu-fellowship-apricot-2026.md#responsibilities).
+{% endstep %}
+
+{% step %}
+### 05/01/26: Closing of applications
+
+Applications will not be accepted beyond this date (UTC + 00).
+{% endstep %}
+
+{% step %}
+### 09/01/26: Announcement of the cohort
+
+TIOF will announce the final list of the cohort.
+{% endstep %}
+
+{% step %}
+### 08/02/26: Training Bytes session
+
+The cohort will gather for an orientation session.
+{% endstep %}
+
+{% step %}
+### 09/02/2026 to 12/02/2026: APRICOT 2026
+
+Participate in the event with the full support of the TIOF team onsite.
+{% endstep %}
+
+{% step %}
+### 18/02/26: Submission of Assignment
+
+Submit your Fellowship Report for evaluation.
+{% endstep %}
+
+{% step %}
+### 19/02/26: Review call
+
+The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
+{% endstep %}
+
+{% step %}
+### 28/02/2026: Issuing of digital certificates
+
+Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-tu-fellowship-apricot-2026.md#requirements) will receive a digital certificate as a proof of completion.
+{% endstep %}
+{% endstepper %}
 
 |                                                                                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------: |
@@ -329,12 +354,3 @@ Media taken during the Fellowship will be posted here.
 
 ## Attributions
 
-{% columns %}
-{% column %}
-
-{% endcolumn %}
-
-{% column %}
-
-{% endcolumn %}
-{% endcolumns %}
