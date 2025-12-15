@@ -294,7 +294,7 @@ Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-
 
 ## Share this opportunity
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Twitter X Icon.png">Twitter X Icon.png</a></td><td><a href="https://twitter.com/intent/tweet?url=https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026&#x26;text=Check%20out%20this%20@TUFellowship%20opportunity%20from%20@TheIOFoundation%20to%20attend%20#APRICOT2026.%20Register%20now%20at%20https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration%20-%20Deadline:%205TH%20JANUARY%202026">https://twitter.com/intent/tweet?url=https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026&#x26;text=Check%20out%20this%20@TUFellowship%20opportunity%20from%20@TheIOFoundation%20to%20attend%20#APRICOT2026.%20Register%20now%20at%20https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration%20-%20Deadline:%205TH%20JANUARY%202026</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 ## Media
 
