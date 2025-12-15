@@ -55,7 +55,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<p align="center"><a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">REGISTER NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
 
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -121,7 +121,7 @@ Registered candidates will also be updated via email.
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -219,7 +219,8 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% step %}
 ### 16/12/2025: Opening of applications&#x20;
 
-Submit your interest! Make sure to read the [Requirements](temp-tiof-tu-fellowship-apricot-2026.md#requirements) and understand the [Responsibilities](temp-tiof-tu-fellowship-apricot-2026.md#responsibilities).
+Submit your interest! Make sure to read the [Requirements](temp-tiof-tu-fellowship-apricot-2026.md#requirements) and understand the [Responsibilities](temp-tiof-tu-fellowship-apricot-2026.md#responsibilities).\
+<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
 {% step %}
@@ -265,14 +266,10 @@ Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-
 {% endstep %}
 {% endstepper %}
 
-|                                                                                                                                      |
-| :----------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">GO TO REGISTRATION FORM</a> |
+{% hint style="warning" %}
+## LIMITED SPOTS
 
-<div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
-
-{% hint style="success" %}
-**APPLY BY MONDAY 5TH JANUARY 2026 23:59 (UTC+00)**
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## Acknowledgements
