@@ -219,6 +219,12 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% endcolumn %}
 {% endcolumns %}
 
+## What is covered
+
+The following items are covered in this Fellowship:
+
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Training Bytes ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Transportation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their transportation.</td></tr><tr><td valign="top">Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their accommodation.</td></tr><tr><td valign="top">F&#x26;B</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>Fellows will benefit of F&#x26;B as provided by the event.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Visa</td><td><span data-option="ETybMsBQmBur">Not Applicable</span></td><td>This Fellowship does not involve any visas.<br>Fellows traveling from outside of Indonesia will have to handle their visas, when applicable.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+
 ## Timeline
 
 {% stepper %}
@@ -277,6 +283,10 @@ Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-
 
 **APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
+
+## Cohort
+
+The list of awardees for this cohort will be announced here after the selection process has taken place.
 
 ## Acknowledgements
 
