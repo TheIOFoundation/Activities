@@ -353,6 +353,7 @@ Media taken during the Fellowship will be posted here.
 
 Photos by
 
+* [David Kristianto](https://unsplash.com/@davidkristianto?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/cityscape-under-a-blue-sky-with-fluffy-clouds-Hlva-wGrTcI?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Walls.io](https://unsplash.com/@walls_io?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-paper-with-a-pen-on-it-IJRayDxr5ek?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 
