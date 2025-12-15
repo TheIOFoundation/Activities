@@ -294,7 +294,21 @@ Fellows who have successfully completed the [Fellowship Requirements](temp-tiof-
 
 ## Share this opportunity
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Twitter X Icon.png">Twitter X Icon.png</a></td><td><a href="https://twitter.com/intent/tweet?url=https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026&#x26;text=Check%20out%20this%20@TUFellowship%20opportunity%20from%20@TheIOFoundation%20to%20attend%20#APRICOT2026.%20Register%20now%20at%20https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration%20-%20Deadline:%205TH%20JANUARY%202026">https://twitter.com/intent/tweet?url=https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026&#x26;text=Check%20out%20this%20@TUFellowship%20opportunity%20from%20@TheIOFoundation%20to%20attend%20#APRICOT2026.%20Register%20now%20at%20https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration%20-%20Deadline:%205TH%20JANUARY%202026</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+{% columns %}
+{% column %}
+Help spreading the word about this Fellowship opportunity.
+{% endcolumn %}
+
+{% column %}
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Twitter X Icon.png">Twitter X Icon.png</a></td><td><a href="https://twitter.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026%0A%0AMore%20information%3A%0Ahttps%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026">https://twitter.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026%0A%0AMore%20information%3A%0Ahttps%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Twitter X Icon.png">Twitter X Icon.png</a></td><td><a href="https://twitter.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026%0A%0AMore%20information%3A%0Ahttps%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026">https://twitter.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026%0A%0AMore%20information%3A%0Ahttps%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+##
 
 ## Media
 
