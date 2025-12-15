@@ -49,10 +49,6 @@ The IO Foundation will be there in-person to support the adoption and implementa
 
 
 
-> **NOTE: LIMITED SPOTS - APPLY BY \[COMING SOON] 00:00 (UTC+00)**
-
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 1</td><td>In-Person | Sponsored</td></tr><tr><td>CATEGORY 2</td><td>In-Person | Self-Founded</td></tr><tr><td>CATEGORY 3</td><td>Online | Sponsored</td></tr></tbody></table>
-
 ## **Responsibilities**
 
 * Actively participate in the following events and activities related to The IO Foundation?s advocacy on Data-Centric Digital Rights:
