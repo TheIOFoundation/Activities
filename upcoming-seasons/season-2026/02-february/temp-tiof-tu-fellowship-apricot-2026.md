@@ -114,7 +114,7 @@ Registered candidates will also be updated via email.
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director </td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director </td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -132,32 +132,32 @@ Registered candidates will also be updated via email.
 {% column %}
 ### **Requirements**
 
-* [ ] Located in Jakarta for the duration of the Fellowship
+* [x] Located in Jakarta for the duration of the Fellowship
 
 {% hint style="success" %}
 ## CLARIFICATION
 
-You _**do not**_ need to be a resident of Indonesia, you need to be in Jakarta (Indonesia) during:
+You _**do not**_ need to live in Jakarta or be a resident of Indonesia: you need to be in Jakarta during:
 
-* Training Bytes 2026-02: Sunday 8th February 2026, pk 13.00
+* Training Bytes 2026-02: Sunday 8th February 2026
 * APRICOT 2026 conference: Monday 9th to Wednesday 11th February 2026
 {% endhint %}
 
-* [ ] Strong understanding of data privacy and technology issues
+* [x] Ability to work independently and collaboratively in dynamic environments
 {% endcolumn %}
 
 {% column %}
 
 
-* [ ] Ability to work independently and collaboratively in dynamic environments
-* [ ] **Languages**
+* [x] Passion for and commitment to The IO Foundation's [mission](https://tiof.click/TIOFMission) and [values](https://tiof.click/TIOFValues)
+* [x] **Languages**
 
 - English fluent both oral and written
-- Fluent level of local official languages is a plus
+- Fluent level of local official languages is a plus.
 
-* [ ] Passion for and commitment to The IO Foundation's [mission](https://tiof.click/TIOFMission) and [values](https://tiof.click/TIOFValues)
-* [ ] Strong networking skills and a proactive approach to building relationships within the tech community
-* [ ] Proven experience in event participation, public speaking or advocacy will be a plus
+* [x] Strong networking skills and a proactive approach to building relationships within the tech community will be a plus.
+* [x] Strong understanding of data privacy and technology issues will be a plus.
+* [x] Proven experience in event participation, public speaking or advocacy will be a plus.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -169,22 +169,21 @@ You _**do not**_ need to be a resident of Indonesia, you need to be in Jakarta (
 
 By becoming a Fellow you commit to the following responsibilities:
 
-* [ ] Actively participate in the following events and activities related to this Fellowship:
+* [x] Actively participate in the following events and activities related to this Fellowship:
 
 - [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-- [\[#APRICOT\] APRICOT 2026](apnog-apricot-2026/)
+- [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/)
 
-* [ ] Act as a representative of The IO Foundation, effectively communicating our mission, values and initiatives.
-* [ ] Submit your Fellowship Report before the deadline (see [Timeline](temp-tiof-tu-fellowship-apricot-2026.md#timeline)).
+* [x] Submit your Fellowship Report before the deadline (see [Timeline](temp-tiof-tu-fellowship-apricot-2026.md#timeline)).
 {% endcolumn %}
 
 {% column %}
 ###
 
-* [ ] Provide regular reports on participation, including insights, outcomes and recommendations for future engagements.
-* [ ] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
-* [ ] Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning.
-* [ ] Participate in monthly Argos Community meetings.
+* [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
+* [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
+* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [APRICOT's Code of Conduct](https://www.apricot.net/ops/conduct.html).\
+  Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -194,22 +193,29 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 {% columns %}
 {% column %}
-* [x] Access to the The IO Foundation's _Argos Community_ where you'll be able to enhance your knowledge and career opportunities
-  * [x] Access to exclusive training by TIOF
-  * [x] Priority for next Fellowship opportunities
-* [x] (link to) \[#TIOF] Training Bytes 2026-02 (Jakarta, Indonesia) - 150 USD **Ticket waived**
-* [x] &#x20;(link to) \[#APRICOT] APRICOT 2026 (Jakarta, Indonesia) - 350 USD **Ticket waived**
+* [x] Learn about how the Internet works at a practical, professional level directly from the community that makes the Internet possible in the APAC region.
+* [x] Expand your career options.
+* [x] Free access to the event:\
+  [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)\
+  **Price:** USD 150 **`Ticket waived`**
+* [x] Free access to the event:\
+  [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/)\
+  **Price:** USD 350 **`Ticket waived`**
+* [x] Networking:
+  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
+  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/).
+* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 {% endcolumn %}
 
 {% column %}
-* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 * [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
   * [ ] Fully completion of conference session attendance
   * [ ] \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions
-
-
-
-
+* [x] Access to the The IO Foundation's _TechUp Community_ where you'll be able to enhance your knowledge and career opportunities:
+  * [x] Access to exclusive training by TIOF
+  * [x] Priority for next Fellowship opportunities
+  * [x] Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning.
+  * [x] Participate in monthly TechUp Community meetings.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -323,11 +329,23 @@ https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 ## Media
 
 Media taken during the Fellowship will be posted here.
+
+{% tabs %}
+{% tab title="Photos" %}
+```
+PHOTOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
+```
+{% endtab %}
+
+{% tab title="Videos" %}
+```
+VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
+```
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -347,8 +365,6 @@ Media taken during the Fellowship will be posted here.
 
 </details>
 
-
-
 ## Resources
 
 {% tabs %}
@@ -357,24 +373,13 @@ Media taken during the Fellowship will be posted here.
  RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
 ```
 {% endtab %}
+{% endtabs %}
 
-{% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                                         | QR Code                                                                        |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info)                 | <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
-| Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration) | <img src="../../../.gitbook/assets/image.png" alt="" data-size="original">     |
-|                   |                                                                                                                                                    |                                                                                |
-{% endtab %}
-
-{% tab title="SocMed" %}
-| Platform                                                                                                  | URLs |
-| --------------------------------------------------------------------------------------------------------- | ---- |
-| <img src="../../../.gitbook/assets/Twitter X Icon.png" alt="" data-size="line">                           |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
-|                                                                                                           |      |
+{% tabs %}
+{% tab title="Materials" %}
+```
+ RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
+```
 {% endtab %}
 {% endtabs %}
 
@@ -385,4 +390,12 @@ Photos by
 * [David Kristianto](https://unsplash.com/@davidkristianto?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/cityscape-under-a-blue-sky-with-fluffy-clouds-Hlva-wGrTcI?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Walls.io](https://unsplash.com/@walls_io?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-paper-with-a-pen-on-it-IJRayDxr5ek?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+
+
+
+Photo by [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+
+
+
+
 
