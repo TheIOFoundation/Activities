@@ -49,7 +49,7 @@ On the occasion of IETF 125, happening in Shenzhen, China. The IO Foundation (TI
 
 {% endhint %}
 
-<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
 
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -151,7 +151,7 @@ Registered candidates will also be updated via email.
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **What will you learn**
