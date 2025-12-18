@@ -456,11 +456,13 @@ The venue for this Training Bytes will be announced at a later date.
 
 <summary>Let us answer any doubts you may have.</summary>
 
-<i class="fa-circle-question">:circle-question:</i> Is this Fellowship opportunity free?
+<i class="fa-circle-question">:circle-question:</i> Who can attend this Training Bytes session?
 
-<i class="fa-circle-a">:circle-a:</i> Yes
+<i class="fa-circle-a">:circle-a:</i> Only the following may avail of this session:
 
-
+* [x] TIOF Fellows from the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md) cohort.
+* [x] Registered participants of [\[#APNOG\] APRICOT 2026](temp-apnog-apricot-2026.md)
+* [x] Registered participants of [\[#APNIC\] APNIC 61](apnic-apnic-61/)
 
 
 

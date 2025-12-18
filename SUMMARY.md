@@ -43,9 +43,6 @@
     * [\[#TIOF\] Lecture Bytes: 2025-10-27 Institut Teknologi Bandung BANDUNG](current-season/season-2025/10-october/tiof-dcdr-bytes-introduction-to-the-data-centric-digital-rights-2025-06-bandung-1.md)
   * [11 - November](current-season/season-2025/11-november.md)
   * [12 - December](current-season/season-2025/12-december.md)
-    * [Temp \[#APRICOT\] APRICOT 2026](current-season/season-2025/12-december/ietf-ietf-123.md)
-    * [Temp \[#TIOF\] Training Bytes 2026-02 JAKARTA](current-season/season-2025/12-december/tiof-training-bytes-2025-07-madrid.md)
-    * [Temp \[#TIOF\] TechUp Fellowship - APRICOT 2026](current-season/season-2025/12-december/tiof-techup-fellowship-ietf-123.md)
 
 ## Upcoming Seasons
 
@@ -62,10 +59,8 @@
     * [\[#APNG\] APNG Camp #18](upcoming-seasons/season-2026/02-february/apng-apng-camp-18/README.md)
     * [\[#TIOF\] TU Fellowship APRICOT 2026](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026.md)
     * [\[#TIOF\] TU Fellowship IETF 125](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-ietf-125.md)
-    * [OLD \[#TIOF\] TU Fellowship APRICOT 2026](upcoming-seasons/season-2026/02-february/old-tiof-tu-fellowship-apricot-2026.md)
     * [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](upcoming-seasons/season-2026/02-february/tiof-training-bytes-2026-02-08-jakarta.md)
     * [\[#TIOF\] Training Bytes 2026-02-13 JAKARTA](upcoming-seasons/season-2026/02-february/tiof-training-bytes-2026-02-13-jakarta.md)
-    * [OLD \[#TIOF\] Training Bytes 2026-02-08 JAKARTA](upcoming-seasons/season-2026/02-february/old-tiof-training-bytes-2026-02-08-jakarta.md)
     * [\[#APSTAR\] APStar Meeting 2026-01](upcoming-seasons/season-2026/02-february/apstar-apstar-meeting-2026-01/README.md)
     * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/temp-apnog-apricot-2026.md)
     * [\[#IETF\] IETF 125](upcoming-seasons/season-2026/02-february/ietf-ietf-125.md)
