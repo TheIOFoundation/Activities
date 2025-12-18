@@ -175,7 +175,7 @@ By becoming a Fellow you commit to the following responsibilities:
 
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
-- [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
+- [\[#TIOF\] Training Bytes sessions](tiof-training-bytes-2026-02-08-jakarta.md)
 - [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)).
