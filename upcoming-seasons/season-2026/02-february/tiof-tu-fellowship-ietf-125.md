@@ -142,7 +142,7 @@ Applicants must understand and abide by the following:
 
 You _**do not**_ need to live in Shenzhen or be a resident of China, you need to be in China during:
 
-* All Training Bytes sessions (If you are in Shenzhen, join the last session onsite on Friday, 13 March 2026)
+* All Training Bytes sessions (If you are in Shenzhen, join the last session in-person on Friday, 13 March 2026)
 * IETF Hackathon: Saturday, 14 March 2026
 * IETF Meetings: Sunday, 15th to Wednesday, 20th February 2026
 {% endhint %}
