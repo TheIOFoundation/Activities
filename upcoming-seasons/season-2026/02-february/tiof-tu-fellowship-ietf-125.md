@@ -57,7 +57,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-125-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
 
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
