@@ -64,13 +64,13 @@ On the occasion of IETF 125, happening in Shenzhen, China. The IO Foundation (TI
 {% hint style="info" %}
 ## PARTICIPANTS LIST ANNOUNCEMENT
 
-**FRIDAY, 9TH JANUARY 2026**
+**MONDAY, 2TH FEBRUARY 2026**
 {% endhint %}
 
 {% hint style="success" %}
 ## WHO CAN APPLY?
 
-This Training Bytes is exclusively reserved to Fellows accepted in the \[#TIOF] TU Fellowship APRICOT 2026 cohort.
+This Training Bytes is exclusively reserved to Fellows accepted in the \[#TIOF] TU Fellowship IETF 125 cohort.
 {% endhint %}
 
 {% hint style="info" %}
