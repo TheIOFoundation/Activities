@@ -320,7 +320,7 @@ Here's a suggested text:
 ```
 ⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #APRICOT2026!
 
-🎫 Register now at https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration
+🎫 Register now at https://Short.TheIOFoundation.org/tiof-tu-fellowship-apricot-2026-registrationhrpage
 
 📅 Deadline: 5TH JANUARY 2026
 
