@@ -29,7 +29,7 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT 2026](https://2026.apricot.net/#/)), to be held in Jakarta (Indonesia) from 5th to 12th February 2026.
+The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Asia Pacific Regional Internet Conference on Operational Technologies 20206 (APRICOT 2026)](temp-apnog-apricot-2026.md), to be held in Jakarta (Indonesia) from 5th to 12th February 2026.
 
 {% hint style="warning" %}
 ## NOTICE
@@ -75,7 +75,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="success" %}
 ## WHO CAN APPLY?
 
-Open to full-time students Bachelor, Post-Grad students dan lecturers in relevant fields\
+Open to full-time students Bachelor, Post-Grad students and lecturers in relevant fields\
 (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
 
 * Note that proof of student status will need to be submitted
@@ -165,7 +165,7 @@ By becoming a Fellow you commit to the following responsibilities:
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
 - [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-- [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
+- [\[#APNOG\] APRICOT 2026](temp-apnog-apricot-2026.md)
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline)).
 {% endcolumn %}
@@ -192,11 +192,11 @@ By participating in this Fellowship, you will enjoy the following benefits:
   [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)\
   **Price:** USD 150 **`Ticket waived`**
 * [x] Free access to the event:\
-  [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)\
+  [\[#APNOG\] APRICOT 2026](temp-apnog-apricot-2026.md)\
   **Price:** USD 350 **`Ticket waived`**
 * [x] Networking:
   * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei).
+  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](temp-apnog-apricot-2026.md)
 * [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 {% endcolumn %}
 
