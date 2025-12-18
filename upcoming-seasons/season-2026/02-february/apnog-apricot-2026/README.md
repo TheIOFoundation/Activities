@@ -24,7 +24,7 @@ layout:
     visible: true
 ---
 
-# \[#APNOG] APRICOT 2026
+# OLD \[#APNOG] APRICOT 2026
 
 ## 0101Registration
 

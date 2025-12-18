@@ -24,9 +24,9 @@ layout:
     visible: true
 ---
 
-# TEMP \[#APNOG] APRICOT 2026
+# \[#APNOG] APRICOT 2026
 
-SPACE
+
 
 {% columns %}
 {% column width="41.66666666666667%" %}

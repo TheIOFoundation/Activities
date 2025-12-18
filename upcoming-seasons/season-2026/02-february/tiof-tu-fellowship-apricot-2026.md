@@ -84,7 +84,7 @@ Open to full-time students Bachelor, Post-Grad students dan lecturers in relevan
 {% hint style="info" %}
 ## RELATED EVENT
 
-[**\[#APNOG\] APRICOT 2026**](old-apnog-apricot-2026.md)
+[**\[#APNOG\] APRICOT 2026**](apnog-apricot-2026/)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -171,7 +171,7 @@ By becoming a Fellow you commit to the following responsibilities:
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
 - [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-- [\[#APNOG\] APRICOT 2026](old-apnog-apricot-2026.md)
+- [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/)
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline)).
 {% endcolumn %}
@@ -198,11 +198,11 @@ By participating in this Fellowship, you will enjoy the following benefits:
   [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)\
   **Price:** USD 150 **`Ticket waived`**
 * [x] Free access to the event:\
-  [\[#APNOG\] APRICOT 2026](old-apnog-apricot-2026.md)\
+  [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/)\
   **Price:** USD 350 **`Ticket waived`**
 * [x] Networking:
   * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](old-apnog-apricot-2026.md).
+  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/).
 * [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 {% endcolumn %}
 
