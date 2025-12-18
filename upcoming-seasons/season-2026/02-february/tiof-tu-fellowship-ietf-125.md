@@ -64,7 +64,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
-**5TH JANUARY 2026**
+**MONDAY, 25TH JANUARY 2026**
 
 **23:59 (UTC+00)**
 {% endhint %}
@@ -72,7 +72,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="info" %}
 ## FELLOWSHIP ANNOUNCEMENT
 
-**FRIDAY, 9TH JANUARY 2026**
+**MONDAY, 2TH FEBRUARY 2026**
 {% endhint %}
 
 {% hint style="success" %}
