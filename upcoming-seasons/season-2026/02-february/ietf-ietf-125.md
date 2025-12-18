@@ -29,11 +29,11 @@ layout:
 {% column width="50%" %}
 ## About
 
-The Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT) will be held in Jakarta, Indonesia.
+The Internet Engineering Task Force (IETF 125) meeting will be held in Shenzhen, China. This meeting brings together a global community of engineers, researchers, and vendors to design the protocols that make the internet function.
 
-This conference is organized together with the APNIC 61 conference.
+The IO Foundation (TIOF) will be participating in-person to advocate for the development of technical standards that protect digital citizens through Rights-by-Design. Our involvement focuses on the intersection of internet architecture and human rights, ensuring that the "rules" of the internet are built to be secure, private, and resilient.
 
-The IO Foundation will be there in-person to support the adoption and implementation of network practices that protect digital citizens through robust network design.
+During the event, TIOF monitoring specific Working Groups (WGs) where protocol decisions directly impact user safety. By navigating the environment of Standards Developing Organizations (SDOs), we aim to ensure that the future of global internet infrastructure prioritizes the protection of its users.
 {% endcolumn %}
 
 {% column width="50%" %}
