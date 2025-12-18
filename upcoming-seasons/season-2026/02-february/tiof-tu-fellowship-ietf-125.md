@@ -37,7 +37,7 @@ The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals t
 {% hint style="warning" %}
 ## NOTICE
 
-Please note that the \[#TIOF] TU Fellowship APRICOT 2026 will run on slightly different dates than APRICOT 2026.
+Please note that the \[#TIOF] TU Fellowship IETF 2026 will run on slightly different dates than IETF 2026.
 
 Check the [Timeline](tiof-tu-fellowship-ietf-125.md#timeline) below for more details.
 {% endhint %}
