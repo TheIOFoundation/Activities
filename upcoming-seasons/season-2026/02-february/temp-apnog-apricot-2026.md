@@ -115,7 +115,21 @@ Find the full schedule of this conference here: [https://2026.apricot.net/progra
 
 ## Media
 
-Media taken during the conference will be posted here.
+Media taken during the Fellowship will be posted here.
+
+{% tabs %}
+{% tab title="Photos" %}
+```
+PHOTOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
+```
+{% endtab %}
+
+{% tab title="Videos" %}
+```
+VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
+```
+{% endtab %}
+{% endtabs %}
 
 ## Resources
 
@@ -124,25 +138,6 @@ Media taken during the conference will be posted here.
 ```
  RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
 ```
-{% endtab %}
-
-{% tab title="Activity" %}
-| Content           | (short)URL                                                                                                                                         | QR Code                                                                        |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Info Page         | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-info](https://short.theiofoundation.org/tiof-fellowship-ietf-123-info)                 | <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original"> |
-| Registration Page | [https://Short.TheIOFoundation.org/tiof-fellowship-ietf-123-registration](https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration) | <img src="../../../.gitbook/assets/image.png" alt="" data-size="original">     |
-|                   |                                                                                                                                                    |                                                                                |
-{% endtab %}
-
-{% tab title="SocMed" %}
-| Platform                                                                                                  | URLs |
-| --------------------------------------------------------------------------------------------------------- | ---- |
-| <img src="../../../.gitbook/assets/Twitter X Icon.png" alt="" data-size="line">                           |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png" alt="" data-size="line">  |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png" alt="" data-size="line">        |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |      |
-| <img src="../../../.gitbook/assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |      |
-|                                                                                                           |      |
 {% endtab %}
 {% endtabs %}
 
