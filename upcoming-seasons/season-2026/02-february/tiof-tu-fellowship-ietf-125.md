@@ -46,7 +46,7 @@ This is a major week-long gathering of internet experts three times a year, wher
 
 The Fellowship will include:
 
-* **A** [**Training Bytes session**](tiof-training-bytes-2026-02-08-jakarta.md) **that will take place on Sunday, 8th February 2026**
+* **A** [**Training Bytes session**](tiof-training-bytes-2026-02-08-jakarta.md) **that will take place on Friday, 13th February 2026**
 * **Attendance to the conference part of APRICOT 2026, which will be conducted from Monday, 9th to Wednesday, 11th February 2026.**
 
 ### Why join this Fellowship?
