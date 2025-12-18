@@ -57,7 +57,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-125-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
 
 <div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship IETF 125 - QR Code Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -124,7 +124,7 @@ Registered candidates will also be updated via email.
 
 **MONDAY, 25TH JANUARY 2026**
 
-**23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -236,7 +236,7 @@ The following items are covered in this Fellowship:
 **16/12/2025: Opening of applications**&#x20;
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-125.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-125.md#responsibilities).\
-<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+<a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
 {% step %}
@@ -285,7 +285,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## Cohort
