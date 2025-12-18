@@ -47,7 +47,7 @@ The session aims to equip network engineers and system administrators with the k
 {% hint style="info" %}
 ## RELATED FELLOWSHIP
 
-
+[\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md)
 {% endhint %}
 
 <p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
@@ -55,7 +55,7 @@ The session aims to equip network engineers and system administrators with the k
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
-## **SUBMISSION DEADLINE**
+## **RSVP DEADLINE**
 
 **5TH JANUARY 2026**
 
@@ -71,7 +71,7 @@ The session aims to equip network engineers and system administrators with the k
 {% hint style="success" %}
 ## WHO CAN APPLY?
 
-This Training Bytes is exclusively reserved to Fellows accepted in the \[#TIOF] TU Fellowship APRICOT 2026 cohort.
+This Training Bytes is exclusively reserved to Fellows accepted in the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md) cohort.
 {% endhint %}
 
 {% hint style="info" %}
@@ -178,161 +178,29 @@ This session examines the organizations that most directly impact the day-to-day
 
 <table><thead><tr><th width="91.00006103515625">Time</th><th width="185.9998779296875">Activity</th><th>Content</th></tr></thead><tbody><tr><td>12.00</td><td>📋 Registration Opens</td><td></td></tr><tr><td>13.00<br><br></td><td><p>💡 Session 1</p><p><br><br></p></td><td><p><em><strong>Understanding</strong></em><br>Mapping the Ecosystem: Who Runs the APAC Internet (And Why They Meet)<br></p><p>The "Big Three" Explained: The distinct roles of APNIC (The Registry), APNOG (The Organizer), and APRICOT (The Event).* Governance vs. Operations: How technical standards from the IETF are implemented and discussed by network operators (NOGs).* The Language of Resources: Simplified explanation of IP Addresses (IPv4/IPv6) and AS Numbers—what they are and why their scarcity/security is the central policy issue.* APNIC's Policy Cycle: How attendees can follow and influence policies regarding IP resource allocation and security (e.g., RPKI). * Outcome: Fellows will recognize the key organizations and understand the core resource terminology used in plenary sessions and hallway conversations.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>15:00</td><td>🥐 Break 15 minutes</td><td></td></tr><tr><td>15:15<br></td><td>💡 Session 2<br></td><td><p><em><strong>Understanding</strong></em><br>Translating Rights to Routing: Security, Privacy, and the APRICOT Agenda</p><p></p><p>* The IOF Framework Bridge: Using the Data-Centric Digital Rights framework to identify parallel technical issues on the APRICOT agenda (e.g., Privacy <span class="math">$\rightarrow$</span> Secure DNS; Anti-Censorship <span class="math">$\rightarrow$</span> Routing Security).* Hot Topics in Jakarta (2026): Introduction to key technical security issues and their impact on users: BGP Hijacking, RPKI Adoption, and IPv6 Deployment.* Engaging with Engineers: Strategies for effective communication with network operators and technical experts during workshops and social events.* APRICOT Navigation Guide: Practical tips for the fellows: how to select relevant sessions, where to find policy meetings, and whom to approach (e.g., APNIC staff, NOG leaders).* Outcome: Fellows will be prepared to identify relevant sessions, translate their policy concerns into technical language, and confidently engage with the APRICOT community.<br><br></p></td></tr><tr><td>17:15<br><br></td><td>💬 Wrap up<br><br></td><td></td></tr><tr><td>17:30</td><td>💬 Meet and Greet</td><td></td></tr><tr><td>18:00</td><td>🏁 End</td><td></td></tr></tbody></table>
 
-
-
 ## **Terms of Reference**
 
 Applicants must understand and abide by the following:
 
-{% columns %}
-{% column %}
 ### **Requirements**
 
-* [x] Located in Jakarta for the duration of the Fellowship
+Please refer to the [Requirements](tiof-tu-fellowship-apricot-2026.md#requirements) of the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
-{% hint style="success" %}
-## CLARIFICATION
-
-You _**do not**_ need to live in Jakarta or be a resident of Indonesia: you need to be in Jakarta during:
-
-* Training Bytes 2026-02: Sunday 8th February 2026
-* APRICOT 2026 conference: Monday 9th to Wednesday 11th February 2026
-{% endhint %}
-
-* [x] Ability to work independently and collaboratively in dynamic environments
-{% endcolumn %}
-
-{% column %}
-
-
-* [x] Passion for and commitment to The IO Foundation's [mission](https://tiof.click/TIOFMission) and [values](https://tiof.click/TIOFValues)
-* [x] **Languages**
-
-- English fluent both oral and written
-- Fluent level of local official languages is a plus.
-
-* [x] Strong networking skills and a proactive approach to building relationships within the tech community will be a plus.
-* [x] Strong understanding of data privacy and technology issues will be a plus.
-* [x] Proven experience in event participation, public speaking or advocacy will be a plus.
-{% endcolumn %}
-{% endcolumns %}
-
-
-
-{% columns %}
-{% column %}
 ### Responsibilities
 
-By becoming a Fellow you commit to the following responsibilities:
-
-* [x] Actively participate in the following events and activities related to this Fellowship:
-
-- [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-- [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
-
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-training-bytes-2026-02-08-jakarta.md#timeline)).
-{% endcolumn %}
-
-{% column %}
-###
-
-* [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
-* [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
-* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [APRICOT's Code of Conduct](https://www.apricot.net/ops/conduct.html).\
-  Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
-{% endcolumn %}
-{% endcolumns %}
+Please refer to the [Responsibilities](tiof-tu-fellowship-apricot-2026.md#responsibilities) of the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
 ## Benefits
 
-By participating in this Training Bytes, you will enjoy the following benefits:
-
-{% columns %}
-{% column %}
-* [x] Learn about how the Internet works at a practical, professional level directly from the community that makes the Internet possible in the APAC region.
-* [x] Expand your career options.
-* [x] Free access to the event:\
-  [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)\
-  **Price:** USD 150 **`Ticket waived`**
-* [x] Free access to the event:\
-  [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)\
-  **Price:** USD 350 **`Ticket waived`**
-* [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei).
-* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
-{% endcolumn %}
-
-{% column %}
-* [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
-  * [ ] Fully completion of conference session attendance
-  * [ ] \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions
-* [x] Access to the The IO Foundation's _TechUp Community_ where you'll be able to enhance your knowledge and career opportunities:
-  * [x] Access to exclusive training by TIOF
-  * [x] Priority for next Fellowship opportunities
-  * [x] Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning.
-  * [x] Participate in monthly TechUp Community meetings.
-{% endcolumn %}
-{% endcolumns %}
+Please refer to the [Benefits](tiof-tu-fellowship-apricot-2026.md#benefits) of the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
 ## What is covered
 
-The following items are covered in this Training Bytes:
-
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Training Bytes ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Transportation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their transportation.</td></tr><tr><td valign="top">Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their accommodation.</td></tr><tr><td valign="top">F&#x26;B</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>Fellows will benefit of F&#x26;B as provided by the event.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Visa</td><td><span data-option="ETybMsBQmBur">Not Applicable</span></td><td>This Fellowship does not involve any visas.<br>Fellows traveling from outside of Indonesia will have to handle their visas, when applicable.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+Please see [What is covered](tiof-tu-fellowship-apricot-2026.md#what-is-covered) on the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
 ## Timeline
 
-{% stepper %}
-{% step %}
-**16/12/2025: Opening of applications**&#x20;
-
-Submit your interest! Make sure to read the [Requirements](tiof-training-bytes-2026-02-08-jakarta.md#requirements) and understand the [Responsibilities](tiof-training-bytes-2026-02-08-jakarta.md#responsibilities).\
-<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
-{% endstep %}
-
-{% step %}
-**05/01/26: Closing of applications**
-
-Applications will not be accepted beyond this date (UTC + 00).
-{% endstep %}
-
-{% step %}
-**09/01/26: Announcement of the cohort**
-
-TIOF will announce the final list of the cohort.
-{% endstep %}
-
-{% step %}
-**08/02/26: Training Bytes session**
-
-The cohort will gather for an orientation session.
-{% endstep %}
-
-{% step %}
-**09/02/2026 to 12/02/2026: APRICOT 2026**
-
-Participate in the event with the full support of the TIOF team onsite.
-{% endstep %}
-
-{% step %}
-**18/02/26: Submission of Assignment**
-
-Submit your Fellowship Report for evaluation.
-{% endstep %}
-
-{% step %}
-**19/02/26: Review call**
-
-The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
-{% endstep %}
-
-{% step %}
-**28/02/2026: Issuing of digital certificates**
-
-Fellows who have successfully completed the [Fellowship Requirements](tiof-training-bytes-2026-02-08-jakarta.md#requirements) will receive a digital certificate as a proof of completion.
-{% endstep %}
-{% endstepper %}
+Please see [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline) on the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
@@ -341,8 +209,6 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-train
 {% endhint %}
 
 ## Acknowledgements
-
-We would like to thank all the speakers and participants for such a great training session.
 
 {% columns %}
 {% column %}
@@ -354,7 +220,7 @@ We would like to thank all the speakers and participants for such a great traini
 {% column %}
 ### Partners
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our activities?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -366,7 +232,7 @@ We would like to thank all the speakers and participants for such a great traini
 
 {% columns %}
 {% column width="83.33333333333334%" %}
-Help spreading the word about this Fellowship opportunity.
+Help spreading the word about this activity through its Fellowship opportunity.
 
 Here's a suggested text:
 
