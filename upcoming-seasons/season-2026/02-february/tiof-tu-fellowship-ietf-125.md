@@ -32,7 +32,7 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT 2026](https://2026.apricot.net/#/)), to be held in Jakarta (Indonesia) from 5th to 12th February 2026.
+The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force (IETF) 125 Meeting](https://www.ietf.org/meeting/125/?gad_campaignid=188148217), to be held in Shenzhen (China) from 14th to 20th March 2026.
 
 {% hint style="warning" %}
 ## NOTICE
