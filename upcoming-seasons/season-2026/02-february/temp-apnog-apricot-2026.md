@@ -46,6 +46,17 @@ EVENT DETAILS
 
 
 
+|                                                                  |                                                                                                                                           |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 📢 **Title**                                                     | [APRICOT 2026](https://2026.apricot.net/#/)                                                                                               |
+| 📖 **Activity Type**                                             | Conference                                                                                                                                |
+| **📅 Date Start**                                                | Monday, 9th January 2026                                                                                                                  |
+| **📅 Date End**                                                  | Thursday, 12th January 2026                                                                                                               |
+| [**📍**](https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8) **Location** | [**Sheraton Grand Jakarta Gandaria City Hotel**](https://maps.app.goo.gl/kPHEGoWHsFMAnJ2z8)                                               |
+| 🎫 **RSVP**                                                      | <p>Registration through APNIC Login:<br><a href="https://login.apnic.net/signin/register">https://login.apnic.net/signin/register</a></p> |
+
+
+
 
 {% endcolumn %}
 
