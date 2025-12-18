@@ -232,7 +232,7 @@ The following items are covered in this Fellowship:
 **16/12/2025: Opening of applications**&#x20;
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-apricot-2026.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-apricot-2026.md#responsibilities).\
-<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+<a href="https://short.theiofoundation.org/tiof-tu-fellowship-apricot-2026-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
 {% step %}
@@ -281,7 +281,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-apricot-2026-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## Cohort
