@@ -29,19 +29,17 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-On the occasion APRICOT 2026 happening in Jakarta, Indonesia, The IO Foundation organizes a training session on the topic of Network Operator Groups (NOGs) and to explore the latest operational technologies and best practices presented during the summit.
 
-This Training Bytes session will focus on practical approaches and implementation strategies for enhancing user safety and privacy directly within network operations and infrastructure.
 
-Participants will:
+On the occasion of IETF 125, happening in Shenzhen, China. The IO Foundation (TIOF) is organizing a series of Training Bytes designed to empower Fellows to move from being technology consumers to becoming architects of the global digital landscape. This fellowship focuses on the critical role of Standards Developing Organizations (SDOs) in shaping the internet's "DNA."
 
-* **Implement Secure Protocols**: Learn about the most crucial, recently ratified IETF protocols (e.g., DNS over HTTPS/TLS, BGP security extensions) and how to deploy them effectively on live networks.
-* **Operationalize User Protection**: Identify common network vulnerabilities where operator-side configurations can immediately improve user protection and data integrity (e.g., reducing metadata leakage).
-* **Identify Relevant NOG Practices**: Learn which technical practices and configurations are currently being prioritized by Network Operator Groups (NOGs) and the APNIC community for optimal regional security.
-* **Engage with the Community**: Explore effective strategies for engaging with the APNIC community and other key operational forums (like the APRICOT Peering Forum) through the Data-Centric Digital Rights framework.
-* **Prepare for APRICOT**: Learn how to actively participate and extract value from the upcoming APRICOT 2026 workshops and hands-on labs, focusing on real-world case studies from the Asia Pacific region.
+#### The Training Journey:
 
-The session aims to equip network engineers and system administrators with the knowledge and configuration tools necessary to build and maintain secure, privacy-preserving networks that prioritize user rights in the global digital landscape.
+* **Mastering the Stack & SDOs**: In our first session, we dive into the technical "stacks" that build our world—from the physical layer to the application layer. Fellows will learn about the various SDOs (like IETF, IEEE, and W3C) that manage each layer and why their technical decisions are the foundation of digital rights.
+* **Collaborative WG Mapping**: Together with TIOF mentors, students will identify and define key Working Groups (WGs) that require monitoring. We will look for groups where protocol decisions currently impact privacy, security, and user autonomy.
+* **Student-Led Exploration**: Beyond the core advocacy goals, Fellows are encouraged to choose and track WGs that align with their personal technical interests—whether that’s emerging AI standards, IoT security, or next-gen web protocols.
+* **Navigate the IETF Ecosystem**: Learn how to track Working Groups (WGs), read Internet-Drafts, and understand the lifecycle of an RFC (Request for Comments).
+* **Advocacy through DCDR**: Learn to apply the Data-Centric Digital Rights (DCDR) framework to technical discussions. Fellows will practice how to provide "Rights by Design" feedback during the standardization process, ensuring that new protocols protect citizens from the start.
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
