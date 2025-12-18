@@ -32,9 +32,9 @@ SPACE
 {% column width="41.66666666666667%" %}
 ## About
 
+The Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT 2026) will be held in Jakarta, Indonesia.&#x20;
 
-
-How to participate?
+The IO Foundation will be there in-person to support the adoption and implementation of security protocols that protect digital citizens through robust network design..
 
 
 
