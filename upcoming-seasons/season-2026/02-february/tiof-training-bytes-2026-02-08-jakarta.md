@@ -1,6 +1,5 @@
 ---
 description: TechUp Academy
-hidden: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
@@ -493,18 +492,4 @@ Photos by
 * [Walls.io](https://unsplash.com/@walls_io?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-paper-with-a-pen-on-it-IJRayDxr5ek?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
