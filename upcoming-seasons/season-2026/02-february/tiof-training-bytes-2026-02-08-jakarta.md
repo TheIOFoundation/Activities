@@ -184,7 +184,7 @@ Applicants must understand and abide by the following:
 
 ### **Requirements**
 
-Please refer to the [Requirements](tiof-tu-fellowship-apricot-2026.md#requirements) of the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
+Please refer to the [Requirements](https://app.gitbook.com/o/-MF3oKZXzZjSRVKTjwWS/s/sRFrwDq11pmSbWoSLKjc/~/edit/~/changes/345/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-ietf-125#requirements) of the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
 ### Responsibilities
 
