@@ -77,7 +77,7 @@ This Training Bytes is exclusively reserved to Fellows accepted in the \[#TIOF] 
 {% hint style="info" %}
 ## RELATED EVENT
 
-[**\[#APNOG\] APRICOT 2026**](apnog-apricot-2026/)
+[**\[#APNOG\] APRICOT 2026**](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -118,8 +118,6 @@ TBA - The final location will be announced at a later date.\
 Jakarta, Indonesia<br>
 {% endcolumn %}
 {% endcolumns %}
-
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>📢 <strong>Title</strong></td><td>Security &#x26; Privacy Strategies: From Global Standards to Network Implementation</td></tr><tr><td><strong>📖 Activity Type</strong></td><td>Training Bytes</td></tr><tr><td>📚 <strong>Series</strong></td><td>Rights By Design</td></tr><tr><td><strong>📅 Date Start</strong></td><td>Sunday 8th February 2026- 13:00 (UTC+07)</td></tr><tr><td>📅 <strong>Date End</strong></td><td>Sunday 8th February 2026 - 18:00 (UTC+07)</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>📍</strong></a> <strong>Location</strong></td><td>TBA - The final location will be announced at a later date.<br>Jakarta, Indonesia</td></tr><tr><td>💵 Price</td><td>USD 150 (<strong>Sponsored > See [#TIOF] TU Fellowship APRICOT 2026</strong></td></tr><tr><td>🎫 <strong>RSVP</strong></td><td>This is an exclusive activity for the fellows of the [#TIOF] TU Fellowship APRICOT 2026 cohort.</td></tr></tbody></table>
 
 ## Modalities
 
@@ -230,7 +228,7 @@ By becoming a Fellow you commit to the following responsibilities:
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
 - [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-- [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/)
+- [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-training-bytes-2026-02-08-jakarta.md#timeline)).
 {% endcolumn %}
@@ -257,11 +255,11 @@ By participating in this Training Bytes, you will enjoy the following benefits:
   [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)\
   **Price:** USD 150 **`Ticket waived`**
 * [x] Free access to the event:\
-  [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/)\
+  [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)\
   **Price:** USD 350 **`Ticket waived`**
 * [x] Networking:
   * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](apnog-apricot-2026/).
+  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei).
 * [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 {% endcolumn %}
 

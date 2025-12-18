@@ -67,7 +67,6 @@
     * [\[#TIOF\] Training Bytes 2026-02-13 JAKARTA](upcoming-seasons/season-2026/02-february/tiof-training-bytes-2026-02-13-jakarta.md)
     * [OLD \[#TIOF\] Training Bytes 2026-02-08 JAKARTA](upcoming-seasons/season-2026/02-february/old-tiof-training-bytes-2026-02-08-jakarta.md)
     * [\[#APSTAR\] APStar Meeting 2026-01](upcoming-seasons/season-2026/02-february/apstar-apstar-meeting-2026-01/README.md)
-    * [OLD \[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/apnog-apricot-2026/README.md)
     * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/temp-apnog-apricot-2026.md)
     * [\[#APNIC\] APNIC 61](upcoming-seasons/season-2026/02-february/apnic-apnic-61/README.md)
     * [\[#TIOF\] TechUpCast 02-2026](upcoming-seasons/season-2026/02-february/tiof-techupcast-02-2026/README.md)

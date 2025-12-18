@@ -1,9 +1,8 @@
 ---
-hidden: true
 icon: calendar-circle-user
 cover: >-
-  ../../../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
-  Template Event XXX v1.0.png
+  ../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship
+  APRICOT 2026 - Gitbook Hero XXX v1.0.png
 coverY: 0
 layout:
   width: default
@@ -26,119 +25,66 @@ layout:
 
 # \[#APNOG] APRICOT 2026
 
-
-
 {% columns %}
-{% column width="41.66666666666667%" %}
+{% column width="50%" %}
 ## About
 
-The Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT 2026) will be held in Jakarta, Indonesia.&#x20;
+The Asia Pacific Regional Internet Conference on Operational Technologies (APRICOT) will be held in Jakarta, Indonesia.
 
-The IO Foundation will be there in-person to support the adoption and implementation of security protocols that protect digital citizens through robust network design..
+This conference is organized together with the APNIC 61 conference.
 
-
-
-
-
-
-
-EVENT DETAILS
-
-
-
-|                                                                  |                                                                                                                                           |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 📢 **Title**                                                     | [APRICOT 2026](https://2026.apricot.net/#/)                                                                                               |
-| 📖 **Activity Type**                                             | Conference                                                                                                                                |
-| **📅 Date Start**                                                | Monday, 9th January 2026                                                                                                                  |
-| **📅 Date End**                                                  | Thursday, 12th January 2026                                                                                                               |
-| [**📍**](https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8) **Location** | [**Sheraton Grand Jakarta Gandaria City Hotel**](https://maps.app.goo.gl/kPHEGoWHsFMAnJ2z8)                                               |
-| 🎫 **RSVP**                                                      | <p>Registration through APNIC Login:<br><a href="https://login.apnic.net/signin/register">https://login.apnic.net/signin/register</a></p> |
-
-
-
-
+The IO Foundation will be there in-person to support the adoption and implementation of network practices that protect digital citizens through robust network design.
 {% endcolumn %}
 
-{% column width="58.33333333333333%" %}
-<p align="center"><a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">REGISTER NOW</a></p>
+{% column width="50%" %}
+{% hint style="info" %}
+## ORGANIZERS
 
-<div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
+[Asia Pacific Network Operators Group (APNOG)](https://app.gitbook.com/s/MniKI03G9sQ8k4iooyMl/topics/standard-developing-organizations-sdos/network-operators-habitat/asia-pacific-network-operators-group-apnog)
+
+<p align="center">&#x26;</p>
+
+[Asia Pacific Network Information Centre (APNIC)](https://app.gitbook.com/s/MniKI03G9sQ8k4iooyMl/topics/standard-developing-organizations-sdos/icann-habitat/asia-pacific-network-information-centre-apnic)
+{% endhint %}
 
 {% hint style="success" %}
-## **HOW TO PARTICIPATE?**
+## **FELLOWSHIP OPPORTUNITY**
 
-**5TH JANUARY 2026**
-
-**23:59 (UTC+00)**
-{% endhint %}
-
-{% hint style="info" %}
-## FELLOWSHIP ANNOUNCEMENT
-
-**FRIDAY, 9TH JANUARY 2026**
-{% endhint %}
-
-
-
-WHO CAN ATTEND?
-
-HOW TO PARTICIPATE?
-
-* Know more about the organizers
-* Know more about this APRICOT events
-
-
-
-Open to full-time students in relevant fields (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
-
-* Note that proof of student status will need to be submitted
-
-{% hint style="info" %}
-## RELATED EVENT
-
-**\[#APNOG] APRICOT 2026**
+[\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
 
+## Activity Details
 
+📢 **Title:** [APRICOT 2026 + APNIC 61](https://2026.apricot.net/#/)
 
 {% columns %}
 {% column %}
+**📖 Activity Type**\
+Conference
 
+~~📚 **Series**~~<br>
+
+💵 Price\
+See [conference website](https://2026.apricot.net/).
+
+🎫 **RSVP**\
+[**https://2026.apricot.net/register/terms#/**](https://2026.apricot.net/register/terms#/)
 {% endcolumn %}
 
 {% column %}
-TIOF AT THIS EVENT
+**📅 Date Start**\
+**Wednesday**, 4th January 2026
 
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>COME MEET US</td><td>We will be at booth XXX</td></tr></tbody></table>
+📅 **Date End**\
+Thursday, 12th January 2026
 
-
-
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>FELLOWSHIP OPPORTUNITIES</td><td>You may avail of a Fellowship for this event.</td></tr></tbody></table>
-
-
-
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>PROTOCOLWATCH</td><td></td></tr></tbody></table>
+[**📍**](https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8) **Location**\
+[**Sheraton Grand Jakarta Gandaria City Hotel**](https://maps.app.goo.gl/kPHEGoWHsFMAnJ2z8)\
+Jakarta, Indonesia<br>
 {% endcolumn %}
 {% endcolumns %}
-
-
-
-SPACE
-
-{% columns %}
-{% column %}
-
-{% endcolumn %}
-
-{% column %}
-
-{% endcolumn %}
-{% endcolumns %}
-
-
 
 ## TIOF at the event
 
@@ -146,118 +92,30 @@ How will The IO Foundation participate in this event?
 
 {% columns %}
 {% column %}
-* [ ] &#x20;TIOF is an organizer
-* [ ] Booth
-* [ ] Attend
-* [ ] Have sessions
+* [ ] &#x20;~~TIOF is an organizer~~
+* [x] Attend
+* [ ] ~~Have sessions~~
 {% endcolumn %}
 
 {% column %}
-* [ ] &#x20;Cohort of Fellows
-*
-{% endcolumn %}
-{% endcolumns %}
-
-
-
-## What to expect from this event
-
-{% columns %}
-{% column %}
-Why should you care?
-
-
-
-\>> Benefits / Value Proposition
-{% endcolumn %}
-
-{% column %}
-Who will you meet?
-{% endcolumn %}
-{% endcolumns %}
-
-
-
-
-
-{% hint style="warning" %}
-## LIMITED SPOTS
-
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**
-{% endhint %}
-
-## Benefits
-
-{% columns %}
-{% column %}
-* [x] Access to the The IO Foundation's _Argos Community_ where you'll be able to enhance your knowledge and career opportunities
-  * [x] Access to exclusive training by TIOF
-  * [x] Priority for next Fellowship opportunities
-* [x] (link to) \[#TIOF] Training Bytes 2026-02 (Jakarta, Indonesia) - 150 USD **Ticket waived**
-* [x] &#x20;(link to) \[#APRICOT] APRICOT 2026 (Jakarta, Indonesia) - 350 USD **Ticket waived**
-{% endcolumn %}
-
-{% column %}
-* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
-* [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
-  * [ ] Fully completion of conference session attendance
-  * [ ] \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions
-
-
+* [x] &#x20;Cohort of Fellows
+* [ ] ~~Booth~~
 
 
 {% endcolumn %}
 {% endcolumns %}
 
-## Acknowledgements
+## Schedule
 
-{% columns %}
-{% column %}
-### Sponsors
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
-{% endcolumn %}
-
-{% column %}
-### Partners
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr></tbody></table>
-{% endcolumn %}
-{% endcolumns %}
+Find the full schedule of this conference here: [https://2026.apricot.net/programme/programme#/](https://2026.apricot.net/programme/programme#/)
 
 ## Sponsorship Opportunities
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>Support The IO Foundation</td><td>The IO Foundation is an independent organization. We depend on your support to participate in all the events where we can work towards a safer digital ecosystem.</td></tr><tr><td>Support Fellows</td><td>The IO Foundation strives to providing opportunities to participate in these critical events to cohorts of fellows.<br>Learn how you can support them.</td></tr><tr><td></td><td></td></tr></tbody></table>
-
-## Share this event
-
-If you think someone else could benefit of this event, don't hesitate to share it with them:
-
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Support The IO Foundation</strong></td><td>The IO Foundation is an independent organization. We depend on your support to participate in all the events where we can work towards a safer digital ecosystem.</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png</a></td></tr><tr><td><strong>Support Fellows</strong></td><td>The IO Foundation strives to providing opportunities to participate in these critical events to cohorts of fellows.<br>Learn how you can support them.</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Favicon XXX v1.0.png">[TIOF] Comms [P] Favicon XXX v1.0.png</a></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 ## Media
 
-Media taken during the Fellowship will be posted here.
-
-
-
-## Frequently Asked Questions
-
-<details>
-
-<summary>Let us answer any doubts you may have.</summary>
-
-<i class="fa-circle-question">:circle-question:</i> Is this Fellowship opportunity free?
-
-<i class="fa-circle-a">:circle-a:</i> Yes
-
-
-
-
-
-</details>
-
-
+Media taken during the conference will be posted here.
 
 ## Resources
 
@@ -290,3 +148,9 @@ Media taken during the Fellowship will be posted here.
 
 ## Attributions
 
+Photos by
+
+* [David Kristianto](https://unsplash.com/@davidkristianto?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/cityscape-under-a-blue-sky-with-fluffy-clouds-Hlva-wGrTcI?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+* [Walls.io](https://unsplash.com/@walls_io?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-paper-with-a-pen-on-it-IJRayDxr5ek?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+* [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+* [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
