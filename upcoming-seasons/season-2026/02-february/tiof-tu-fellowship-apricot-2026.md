@@ -89,12 +89,6 @@ Open to full-time students Bachelor, Post-Grad students dan lecturers in relevan
 {% endcolumn %}
 {% endcolumns %}
 
-## Modalities
-
-Participation in this Fellowship can be done through the following modalities:
-
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 1</td><td>In-Person | Sponsored</td></tr><tr><td>CATEGORY 2</td><td>In-Person | Self-Funded</td></tr></tbody></table>
-
 ## Who will you meet
 
 {% columns %}
