@@ -182,11 +182,11 @@ By becoming a Fellow you commit to the following responsibilities:
 {% endcolumn %}
 
 {% column %}
-###
+### &#x20;
 
 * [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
 * [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
-* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [APRICOT's Code of Conduct](https://www.apricot.net/ops/conduct.html).\
+* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [IETF LLC's Code of Conduct](https://www.ietf.org/administration/policies-procedures/code-of-conduct/).\
   Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
 {% endcolumn %}
 {% endcolumns %}

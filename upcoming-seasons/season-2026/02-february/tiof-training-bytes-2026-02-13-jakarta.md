@@ -185,155 +185,25 @@ This session examines the organizations that most directly impact the day-to-day
 
 Applicants must understand and abide by the following:
 
-{% columns %}
-{% column %}
 ### **Requirements**
 
-* [x] Located in Jakarta for the duration of the Fellowship
+Please refer to the [Requirements](tiof-tu-fellowship-apricot-2026.md#requirements) of the [\[#TIOF\] TU Fellowship IETF 125](tiof-tu-fellowship-ietf-125.md).
 
-{% hint style="success" %}
-## CLARIFICATION
-
-You _**do not**_ need to live in Jakarta or be a resident of Indonesia: you need to be in Jakarta during:
-
-* Training Bytes 2026-02: Sunday 8th February 2026
-* APRICOT 2026 conference: Monday 9th to Wednesday 11th February 2026
-{% endhint %}
-
-* [x] Ability to work independently and collaboratively in dynamic environments
-{% endcolumn %}
-
-{% column %}
-
-
-* [x] Passion for and commitment to The IO Foundation's [mission](https://tiof.click/TIOFMission) and [values](https://tiof.click/TIOFValues)
-* [x] **Languages**
-
-- English fluent both oral and written
-- Fluent level of local official languages is a plus.
-
-* [x] Strong networking skills and a proactive approach to building relationships within the tech community will be a plus.
-* [x] Strong understanding of data privacy and technology issues will be a plus.
-* [x] Proven experience in event participation, public speaking or advocacy will be a plus.
-{% endcolumn %}
-{% endcolumns %}
-
-
-
-{% columns %}
-{% column %}
 ### Responsibilities
 
-By becoming a Fellow you commit to the following responsibilities:
-
-* [x] Actively participate in the following events and activities related to this Fellowship:
-
-- [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-- [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
-
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-training-bytes-2026-02-13-jakarta.md#timeline)).
-{% endcolumn %}
-
-{% column %}
-###
-
-* [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
-* [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
-* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [APRICOT's Code of Conduct](https://www.apricot.net/ops/conduct.html).\
-  Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
-{% endcolumn %}
-{% endcolumns %}
+Please refer to the [Responsibilities](tiof-tu-fellowship-apricot-2026.md#responsibilities) of the [\[#TIOF\] TU Fellowship IETF 125](tiof-tu-fellowship-ietf-125.md).
 
 ## Benefits
 
-By participating in this Training Bytes, you will enjoy the following benefits:
-
-{% columns %}
-{% column %}
-* [x] Learn about how the Internet works at a practical, professional level directly from the community that makes the Internet possible in the APAC region.
-* [x] Expand your career options.
-* [x] Free access to the event:\
-  [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)\
-  **Price:** USD 150 **`Ticket waived`**
-* [x] Free access to the event:\
-  [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)\
-  **Price:** USD 350 **`Ticket waived`**
-* [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei).
-* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
-{% endcolumn %}
-
-{% column %}
-* [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
-  * [ ] Fully completion of conference session attendance
-  * [ ] \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions
-* [x] Access to the The IO Foundation's _TechUp Community_ where you'll be able to enhance your knowledge and career opportunities:
-  * [x] Access to exclusive training by TIOF
-  * [x] Priority for next Fellowship opportunities
-  * [x] Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning.
-  * [x] Participate in monthly TechUp Community meetings.
-{% endcolumn %}
-{% endcolumns %}
+Please refer to the [Benefits](tiof-tu-fellowship-apricot-2026.md#benefits) of the [\[#TIOF\] TU Fellowship IETF 125](tiof-tu-fellowship-ietf-125.md).
 
 ## What is covered
 
-The following items are covered in this Training Bytes:
-
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Training Bytes ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Transportation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their transportation.</td></tr><tr><td valign="top">Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their accommodation.</td></tr><tr><td valign="top">F&#x26;B</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>Fellows will benefit of F&#x26;B as provided by the event.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Visa</td><td><span data-option="ETybMsBQmBur">Not Applicable</span></td><td>This Fellowship does not involve any visas.<br>Fellows traveling from outside of Indonesia will have to handle their visas, when applicable.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+Please see [What is covered](tiof-tu-fellowship-apricot-2026.md#what-is-covered) on the [\[#TIOF\] TU Fellowship IETF 125](tiof-tu-fellowship-ietf-125.md).
 
 ## Timeline
 
-{% stepper %}
-{% step %}
-**16/12/2025: Opening of applications**&#x20;
-
-Submit your interest! Make sure to read the [Requirements](tiof-training-bytes-2026-02-13-jakarta.md#requirements) and understand the [Responsibilities](tiof-training-bytes-2026-02-13-jakarta.md#responsibilities).\
-<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
-{% endstep %}
-
-{% step %}
-**05/01/26: Closing of applications**
-
-Applications will not be accepted beyond this date (UTC + 00).
-{% endstep %}
-
-{% step %}
-**09/01/26: Announcement of the cohort**
-
-TIOF will announce the final list of the cohort.
-{% endstep %}
-
-{% step %}
-**08/02/26: Training Bytes session**
-
-The cohort will gather for an orientation session.
-{% endstep %}
-
-{% step %}
-**09/02/2026 to 12/02/2026: APRICOT 2026**
-
-Participate in the event with the full support of the TIOF team onsite.
-{% endstep %}
-
-{% step %}
-**18/02/26: Submission of Assignment**
-
-Submit your Fellowship Report for evaluation.
-{% endstep %}
-
-{% step %}
-**19/02/26: Review call**
-
-The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
-{% endstep %}
-
-{% step %}
-**28/02/2026: Issuing of digital certificates**
-
-Fellows who have successfully completed the [Fellowship Requirements](tiof-training-bytes-2026-02-13-jakarta.md#requirements) will receive a digital certificate as a proof of completion.
-{% endstep %}
-{% endstepper %}
+Please see [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline) on the [\[#TIOF\] TU Fellowship IETF 125](tiof-tu-fellowship-ietf-125.md).
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
