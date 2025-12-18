@@ -135,15 +135,16 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Located in Jakarta for the duration of the Fellowship
+* [x] Located in Shenzhen for the duration of the Fellowship
 
 {% hint style="success" %}
 ## CLARIFICATION
 
-You _**do not**_ need to live in Jakarta or be a resident of Indonesia: you need to be in Jakarta during:
+You _**do not**_ need to live in Shenzhen or be a resident of China, you need to be in China during:
 
-* Training Bytes 2026-02: Sunday 8th February 2026
-* APRICOT 2026 conference: Monday 9th to Wednesday 11th February 2026
+* Training Bytes 2026-03-12: Friday, 13 March 2026
+* IETF Hackathon: Saturday, 14 March 2026
+* IETF Meetings: Sunday, 15th to Wednesday, 20th February 2026
 {% endhint %}
 
 * [x] Ability to work independently and collaboratively in dynamic environments
