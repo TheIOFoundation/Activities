@@ -76,7 +76,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="success" %}
 ## WHO CAN APPLY?
 
-Open to full-time students Bachelor, Post-Grad students in relevant fields\
+Open to full-time students Bachelor, Post-Grad students dan lecturers in relevant fields\
 (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
 
 * Note that proof of student status will need to be submitted
