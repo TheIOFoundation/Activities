@@ -47,7 +47,7 @@ This is a major week-long gathering of internet experts three times a year, wher
 The Fellowship will include:
 
 * **A** [**Training Bytes session**](tiof-training-bytes-2026-02-08-jakarta.md) **that will take place on Friday, 13th February 2026**
-* **Attendance to IETF 125 Hackathon and Meeting, which will be conducted from Saturday, 14th to Friday, 20th March 2026.**
+* **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday, 14th to Friday, 20th March 2026.**
 
 ### Why join this Fellowship?
 
@@ -78,8 +78,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="success" %}
 ## WHO CAN APPLY?
 
-Open to full-time students and lecturers in relevant fields\
-(e.g., Networking, Protocols, Standards, Cyber Security, etc.)
+Open to full-time Bachelor's and Post-Grad students in multidisciplinary fields who have an interest in (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
 
 * Note that proof of student status will need to be submitted
 {% endhint %}
