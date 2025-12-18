@@ -56,7 +56,7 @@ On the occasion of IETF 125, happening in Shenzhen, China. The IO Foundation (TI
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
-**5TH JANUARY 2026**
+**MONDAY, 25TH JANUARY 2026**
 
 **23:59 (UTC+00)**
 {% endhint %}
@@ -151,7 +151,7 @@ Registered candidates will also be updated via email.
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**  <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **What will you learn**
