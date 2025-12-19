@@ -220,14 +220,14 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% column %}
 * [x] Learn about how the Internet works at a practical, professional level directly from the community that makes the Internet possible in the APAC region.
 * [x] Expand your career options.
-* [x] Free access to the event:\
-  [\[#TIOF\] Training Bytes sessions](/broken/pages/bCWr5joE4uLiVQTnSIND)\
-  **Price:** 4 TB sessions x USD 150/session **`Ticket waived`**
+* [x] Fellowship Workshops and onsite Mentoring, include\
+  Preparation Sessions, see #Timeline\
+  **Price:** USD  2000 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
   **Price:** USD 160 **`Ticket waived`**
 * [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes sessions](/broken/pages/bCWr5joE4uLiVQTnSIND)
+  * [x] Meet and greet with all the speakers and VIPs attending [#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
   * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
 * [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 {% endcolumn %}
