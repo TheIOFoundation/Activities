@@ -233,32 +233,56 @@ The following items are covered in this Fellowship:
 
 {% stepper %}
 {% step %}
-**16/12/2025: Opening of applications**&#x20;
+**10/01/2026: Opening of applications and Launching Session**&#x20;
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-125.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-125.md#responsibilities).\
 <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
 {% step %}
-**05/01/26: Closing of applications**
+**25/01/26: Closing of applications**
 
 Applications will not be accepted beyond this date (UTC + 00).
 {% endstep %}
 
 {% step %}
-**09/01/26: Announcement of the cohort**
+**02/02/26: Announcement of the cohort**
 
 TIOF will announce the final list of the cohort.
 {% endstep %}
 
 {% step %}
-**08/02/26: Training Bytes session**
+**13/02/26: Training Bytes session #**&#x31;
 
-The cohort will gather for an orientation session.
+The cohort will gather for an orientation, with a hybrid modality at Universitas Multimedia Nusantara
 {% endstep %}
 
 {% step %}
-**09/02/2026 to 12/02/2026: APRICOT 2026**
+**21/02/26: Training Bytes session #2**
+
+The cohort will gather for an orientation, with an online modality
+{% endstep %}
+
+{% step %}
+**28/02/26: Training Bytes session #3**
+
+The cohort will gather for an orientation, with an online modality
+{% endstep %}
+
+{% step %}
+**7/03/26: Training Bytes session #4**
+
+The cohort will gather for an orientation, with an online modality
+{% endstep %}
+
+{% step %}
+**13/03/26: Training Bytes**
+
+The cohort will gather for an orientation, with an in person modality at Shenzhen
+{% endstep %}
+
+{% step %}
+**14/03/2026 to 20/03/2026: IETF 125**
 
 Participate in the event with the full support of the TIOF team onsite.
 {% endstep %}
