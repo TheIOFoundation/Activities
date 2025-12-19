@@ -95,9 +95,9 @@ Open to full-time Bachelor's and Post-Grad students in multidisciplinary fields 
 {% endcolumns %}
 
 {% hint style="info" %}
-## JOIN OUR LAUNCHING SESSION TO KNOW MORE OF WHY YOU SHOULD JOIN OUR FELLOWSHIP
+## REGISTER TO OUR LAUNCHING SESSION ON SATURDAY, 10 JANUARY 2026 TO LEARN MORE ABOUT WHY YOU SHOULD BE PART OF OUR FELLOWSHIP
 
-
+[**\[#TIOF\] TU Fellowship IETF 125 | Launching**](https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-launching)
 
 
 {% endhint %}
