@@ -144,7 +144,7 @@ Registered candidates will also be updated via email.
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**DEADLINE: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -330,7 +330,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## Cohort
