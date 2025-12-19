@@ -63,6 +63,7 @@
     * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/temp-apnog-apricot-2026.md)
     * [\[#APNIC\] APNIC 61](upcoming-seasons/season-2026/02-february/apnic-apnic-61/README.md)
     * [\[#TIOF\] TechUpCast 02-2026](upcoming-seasons/season-2026/02-february/tiof-techupcast-02-2026/README.md)
+    * [TB](upcoming-seasons/season-2026/02-february/tb.md)
   * [03 - March](upcoming-seasons/season-2026/03-march/README.md)
     * [\[#IETF\] IETF 125](upcoming-seasons/season-2026/03-march/ietf-ietf-125.md)
     * [\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN](upcoming-seasons/season-2026/03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
