@@ -25,6 +25,8 @@ layout:
 
 # \[#TIOF] Training Bytes 2026-02-13 JAKARTA
 
+
+
 {% columns %}
 {% column width="58.333333333333336%" %}
 ## About
@@ -76,7 +78,7 @@ This Training Bytes is exclusively reserved to Fellows accepted in the \[#TIOF] 
 {% hint style="info" %}
 ## RELATED EVENT
 
-[**\[#APNOG\] APRICOT 2026**](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
+[\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -156,24 +158,24 @@ Registered candidates will also be updated via email.
 
 ## **What will you learn**
 
-### Key Standards and Operational Bodies
+The IO Foundation (TIOF) participates in the IETF to ensure that Data-Centric Digital Rights (DCDR) are integrated into the very foundation of technology. Our goal is to transform the way students and technologists interact with this global body through three core pillars:
 
-This session examines the organizations that most directly impact the day-to-day operations and security of networks in the Asia Pacific region:
+1\. **Decoding the Technical Stack:** Before diving into the sessions, we explore the "Technical Stack." We look at every layer of the internet—from the physical cables and routing protocols to the applications you use every day. We identify which Standards Developing Organizations (SDOs), such as the IETF, are responsible for each layer and explain why their decisions affect human rights.
 
-#### 1. Internet Engineering Task Force (IETF)
+2\. **Collaborative Working Group (WG) Monitoring:** The IETF is divided into Working Groups—small, focused teams working on specific technical problems (e.g., encryption, routing, or privacy).
 
-* Role: The primary body for developing and publishing Internet standards and protocols (like TCP/IP, HTTPS, and BGP security).
-* Relevance to APRICOT: While they don't govern, their output (RFCs) is the technical blueprint that every network operator must implement. Our session focuses on implementing their security and privacy-enhancing protocols. \*
+* Defining the Mission: TIOF identifies key WGs critical to global digital safety.
+* Student Interests: We encourage participants to choose WGs that align with their own passions, whether that is the future of AI, Internet-of-Things (IoT) security, or next-gen web protocols.
 
-#### 2. APNIC (Asia Pacific Network Information Centre)
+3\. **Mastering the IETF Environment:** The IETF has a unique culture based on "Rough Consensus and Running Code." Engaging here requires more than just technical knowledge; it requires knowing how to navigate:
 
-* Role: The Regional Internet Registry (RIR) for the Asia Pacific. They manage and distribute the Internet's core resources (IP addresses and AS numbers).
-* Relevance to APRICOT: They are the governing authority for the resources you operate with. Their policies directly affect routing security (RPKI), IP address transfers, and IPv6 deployment—all core topics at APRICOT. \*
+* Mailing Lists: Where the real work happens between meetings.
+* Internet-Drafts: How to read and analyze proposed changes to the Internet.
+* The "Floor Mic": How to effectively voice concerns or support for a protocol during live sessions.
 
-#### 3. The APRICOT Community & Network Operator Groups (NOGs)
+#### Why This Matters
 
-* Role: These are local and regional bodies (like MyNOG, IDNOG, JANOG) that represent the Network Operator's perspective. They distill global standards into practical, localized best practices.
-* Relevance to APRICOT: This community drives the adoption and refinement of technical standards across the region. They are the target audience and the primary source of operational knowledge shared at the conference.
+Technical standards are not neutral; they reflect the values of the people who build them. By participating in IETF 125, TIOF works to ensure that the internet of tomorrow is secure, open, and protective of citizens by design.
 
 ### Agenda
 
