@@ -86,12 +86,20 @@ Open to full-time Bachelor's and Post-Grad students in multidisciplinary fields 
 {% hint style="info" %}
 ## RELATED EVENT
 
-[**\[#APNOG\] APRICOT 2026**](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
+[**\[#IETF\] IETF 125**](../03-march/ietf-ietf-125.md)
+{% endhint %}
+
+
+{% endcolumn %}
+{% endcolumns %}
+
+{% hint style="info" %}
+## JOIN OUR LAUNCHING SESSION TO KNOW MORE OF WHY YOU SHOULD JOIN OUR FELLOWSHIP
+
+
 
 
 {% endhint %}
-{% endcolumn %}
-{% endcolumns %}
 
 | TIOF International Workshop on Protocol Standard and Fellowship for Bachelor/Master/Doctoral Students and Lecturer/Researcher |                                                                                                             |                                                                                                                          |                                                                                                             |                                                                                                                        |                                                                                                                          |                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
@@ -135,9 +143,7 @@ Registered candidates will also be updated via email.
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**MONDAY, 25TH JANUARY 2026**
-
-**23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -148,14 +154,14 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Located in Shenzhen for the duration of the Fellowship
+* [x] Located in Shenzhen for the duration of the Fellowship, and follow the IETF in-time for those join remotely
 
 {% hint style="success" %}
 ## CLARIFICATION
 
 You _**do not**_ need to live in Shenzhen or be a resident of China, you need to be in China during:
 
-* All Training Bytes sessions (If you are in Shenzhen, join the last session in-person on Friday, 13 March 2026)
+* Training Bytes: Friday, 13 March 2026 (and all the Preparation Sessions)
 * IETF Hackathon: Saturday, 14 March 2026
 * IETF Meetings: Sunday, 15th to Wednesday, 20th February 2026
 {% endhint %}
