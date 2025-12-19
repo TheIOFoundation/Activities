@@ -49,7 +49,7 @@ During the event, TIOF monitoring specific Working Groups (WGs) where protocol d
 {% hint style="success" %}
 ## **FELLOWSHIP OPPORTUNITY**
 
-[\[#TIOF\] TU Fellowship APRICOT 2026](../02-february/tiof-tu-fellowship-apricot-2026.md)
+[\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
