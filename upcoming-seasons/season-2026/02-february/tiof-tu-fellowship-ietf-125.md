@@ -288,7 +288,7 @@ Participate in the event with the full support of the TIOF team onsite.
 {% endstep %}
 
 {% step %}
-**18/02/26: Submission of Assignment**
+**25/03/26: Submission of Assignment**
 
 Submit your Fellowship Report for evaluation.
 {% endstep %}
@@ -300,7 +300,7 @@ The cohort will meet for an online session where we will discuss feedback and ex
 {% endstep %}
 
 {% step %}
-**28/02/2026: Issuing of digital certificates**
+**2/04/2026: Issuing of digital certificates**
 
 Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-ietf-125.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
