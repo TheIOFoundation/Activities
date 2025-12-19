@@ -144,7 +144,7 @@ Registered candidates will also be updated via email.
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**DEADLINE: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -162,7 +162,7 @@ Applicants must understand and abide by the following:
 
 You _**do not**_ need to live in Shenzhen or be a resident of China, you need to be in China during:
 
-* Training Bytes: Friday, 13 March 2026 (and all the Preparation Sessions)
+* Training Bytes: Friday, 13 March 2026 (and all the Preparation Sessions, see [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention"))
 * IETF Hackathon: Saturday, 14 March 2026
 * IETF Meetings: Sunday, 15th to Wednesday, 20th February 2026
 {% endhint %}
