@@ -29,12 +29,12 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Asia Pacific Regional Internet Conference on Operational Technologies 20206 (APRICOT 2026)](temp-apnog-apricot-2026.md), to be held in Jakarta (Indonesia) from 5th to 12th February 2026.
+The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Asia Pacific Regional Internet Conference on Operational Technologies 20206 (APRICOT 2026)](temp-apnog-apricot-2026.md), to be held in Jakarta (Indonesia) from 5th to 12th February 2026.
 
 {% hint style="warning" %}
 ## NOTICE
 
-Please note that the \[#TIOF] TU Fellowship APRICOT 2026 will run on slightly different dates than APRICOT 2026.
+Please note that the **\[#TIOF] TU Fellowship APRICOT 2026** will run on slightly different dates than APRICOT 2026.
 
 Check the [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline) below for more details.
 {% endhint %}
@@ -43,7 +43,7 @@ This is a major annual technical conference which brings together internet engin
 
 The Fellowship will include:
 
-* **A** [**Training Bytes session**](/broken/pages/bCWr5joE4uLiVQTnSIND) **that will take place on Sunday, 8th February 2026**
+* **A An n that will take place on Sunday, 8th February 2026**
 * **Attendance to the conference part of APRICOT 2026, which will be conducted from Monday, 9th to Wednesday, 11th February 2026.**
 
 ### Why join this Fellowship?

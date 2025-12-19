@@ -32,21 +32,21 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force (IETF) 125 Meeting](https://www.ietf.org/meeting/125/?gad_campaignid=188148217), to be held in Shenzhen (China) from 14th to 20th March 2026.
+The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 125)](../03-march/ietf-ietf-125.md), to be held in Shenzhen (China) from 14th to 20th March 2026.
 
 {% hint style="warning" %}
 ## NOTICE
 
-Please note that the \[#TIOF] TU Fellowship IETF 2026 will run on slightly different dates than IETF 2026.
+Please note that the **\[#TIOF] TU Fellowship IETF 2026** will run on slightly different dates than IETF 2026.
 
 Check the [Timeline](tiof-tu-fellowship-ietf-125.md#timeline) below for more details.
 {% endhint %}
 
-This is a major week-long gathering of internet experts three times a year, where volunteers from around the world collaborate in technical working groups to develop and advance open internet standards ([RFCs](https://www.google.com/search?q=RFCs\&sca_esv=8617492cf7fa5947\&ei=7mxDaYLZBuuOseMPyvffgQY\&ved=2ahUKEwiH4dKtkcaRAxVyRmwGHci9AGMQgK4QegQIARAE\&uact=5\&oq=what+is+ietf+meeting\&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHdoYXQgaXMgaWV0ZiBtZWV0aW5nMgUQIRigATIFECEYnwUyBRAhGJ8FMgUQIRifBTIFECEYnwUyBRAhGJ8FMgUQIRifBTIFECEYnwVIjRxQjgZYyRRwAXgBkAEBmAHLAaAB3waqAQU1LjIuMbgBA8gBAPgBAZgCCKACuQXCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICExAuGIAEGLADGNEDGEMYxwEYigXCAgUQABiABMICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgcQIRigARgKmAMAiAYBkAYKkgcDNi4yoAeCKLIHAzUuMrgHsgXCBwUwLjUuM8gHGIAIAA\&sclient=gws-wiz-serp\&mstk=AUtExfCwy7f1PlYAFIeQXspPHbJgabsw6uDjCWidRZt_NDLtKA-7oN447Az0-CnfMJTmn2yYeZuCXssUKd7AjTbuNFeT4haZd8IKpU-mjhc8t2Oj3K6MOheTlUR0Nb2t78IX3QZW7sgEHkrMFWwwm3hzs6Vh-ItHqxU0c7c-9bJpJl1HD3frdS570VQ_oopKdeaXrI28\&csui=3)) that keep the internet running and improving. These meetings include intense technical sessions, hackathons, tutorials, and opportunities for new members to learn, with a focus on "rough consensus and running code" to build the internet's technical foundation.&#x20;
+This is a major week-long gathering of internet experts three times a year, where volunteers from around the world collaborate in technical working groups to develop and advance open internet standards ([RFCs](https://www.google.com/search?q=RFCs\&sca_esv=8617492cf7fa5947\&ei=7mxDaYLZBuuOseMPyvffgQY\&ved=2ahUKEwiH4dKtkcaRAxVyRmwGHci9AGMQgK4QegQIARAE\&uact=5\&oq=what+is+ietf+meeting\&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHdoYXQgaXMgaWV0ZiBtZWV0aW5nMgUQIRigATIFECEYnwUyBRAhGJ8FMgUQIRifBTIFECEYnwUyBRAhGJ8FMgUQIRifBTIFECEYnwVIjRxQjgZYyRRwAXgBkAEBmAHLAaAB3waqAQU1LjIuMbgBA8gBAPgBAZgCCKACuQXCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICExAuGIAEGLADGNEDGEMYxwEYigXCAgUQABiABMICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgcQIRigARgKmAMAiAYBkAYKkgcDNi4yoAeCKLIHAzUuMrgHsgXCBwUwLjUuM8gHGIAIAA\&sclient=gws-wiz-serp\&mstk=AUtExfCwy7f1PlYAFIeQXspPHbJgabsw6uDjCWidRZt_NDLtKA-7oN447Az0-CnfMJTmn2yYeZuCXssUKd7AjTbuNFeT4haZd8IKpU-mjhc8t2Oj3K6MOheTlUR0Nb2t78IX3QZW7sgEHkrMFWwwm3hzs6Vh-ItHqxU0c7c-9bJpJl1HD3frdS570VQ_oopKdeaXrI28\&csui=3)) that keep the internet running and improving. These meetings include intense technical sessions, hackathons, tutorials and opportunities for new members to learn, with a focus on "rough consensus and running code" to build the internet's technical foundation.
 
 The Fellowship will include:
 
-* Four preparation sessions see [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention")
+* Four preparation sessions (see [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention"))
 * [**\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN**](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
 * **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday, 14th to Friday, 20th March 2026.**
 
@@ -73,13 +73,13 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="info" %}
 ## FELLOWSHIP ANNOUNCEMENT
 
-**MONDAY, 2TH FEBRUARY 2026**
+**MONDAY, 2ND FEBRUARY 2026**
 {% endhint %}
 
 {% hint style="success" %}
 ## WHO CAN APPLY?
 
-Open to full-time Bachelor's and Post-Grad students in multidisciplinary fields who have an interest in (e.g., Networking, Protocols, Standards, Cyber Security, etc.)
+Open to full-time Bachelor's and Post-Grad students in multidisciplinary fields who have an interest in areas such as Standards, Networking, Protocols, Cyber Security, etc.
 
 * Note that proof of student status will need to be submitted
 {% endhint %}
