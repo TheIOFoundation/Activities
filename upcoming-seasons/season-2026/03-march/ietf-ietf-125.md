@@ -41,11 +41,9 @@ During the event, TIOF monitoring specific Working Groups (WGs) where protocol d
 {% hint style="info" %}
 ## ORGANIZERS
 
-[Asia Pacific Network Operators Group (APNOG)](https://app.gitbook.com/s/MniKI03G9sQ8k4iooyMl/topics/standard-developing-organizations-sdos/network-operators-habitat/asia-pacific-network-operators-group-apnog)
+[Internet Engineering Task Force (IETF)](https://discover.theiofoundation.org/directory/topics/standard-developing-organizations-sdos/ietf-habitat/internet-engineering-task-force-ietf)
 
-<p align="center">&#x26;</p>
 
-[Asia Pacific Network Information Centre (APNIC)](https://app.gitbook.com/s/MniKI03G9sQ8k4iooyMl/topics/standard-developing-organizations-sdos/icann-habitat/asia-pacific-network-information-centre-apnic)
 {% endhint %}
 
 {% hint style="success" %}
@@ -58,32 +56,32 @@ During the event, TIOF monitoring specific Working Groups (WGs) where protocol d
 
 ## Activity Details
 
-📢 **Title:** [APRICOT 2026 + APNIC 61](https://2026.apricot.net/#/)
+📢 **Title:** [IETF 125](https://www.ietf.org/meeting/125/?gad_campaignid=188148217)
 
 {% columns %}
 {% column %}
 **📖 Activity Type**\
-Conference
+Meeting
 
 ~~📚 **Series**~~<br>
 
 💵 Price\
-See [conference website](https://2026.apricot.net/).
+See [conference website](https://registration.ietf.org/125/).
 
 🎫 **RSVP**\
-[**https://2026.apricot.net/register/terms#/**](https://2026.apricot.net/register/terms#/)
+[**https://www.ietf.org/meeting/terms-and-conditions/**](https://www.ietf.org/meeting/terms-and-conditions/)
 {% endcolumn %}
 
 {% column %}
 **📅 Date Start**\
-**Wednesday**, 4th January 2026
+**Saturday**, 14th March 2026
 
 📅 **Date End**\
-Thursday, 12th January 2026
+**Friday**, 20th March 2026
 
 [**📍**](https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8) **Location**\
-[**Sheraton Grand Jakarta Gandaria City Hotel**](https://maps.app.goo.gl/kPHEGoWHsFMAnJ2z8)\
-Jakarta, Indonesia<br>
+[**Futian Shangri-La, Shenzhen 4088 Yi Tian Road, Futian District, Shenzhen, China**](https://maps.app.goo.gl/mY3pNps2RWce9Vx19)\
+<br>
 {% endcolumn %}
 {% endcolumns %}
 
