@@ -60,7 +60,6 @@
     * [\[#TIOF\] TU Fellowship APRICOT 2026](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026.md)
     * [\[#TIOF\] TU Fellowship IETF 125](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-ietf-125.md)
     * [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](upcoming-seasons/season-2026/02-february/tiof-training-bytes-2026-02-08-jakarta.md)
-    * [\[#TIOF\] Training Bytes 2026-02-13 JAKARTA](upcoming-seasons/season-2026/02-february/tiof-training-bytes-2026-02-13-jakarta.md)
     * [\[#APSTAR\] APStar Meeting 2026-01](upcoming-seasons/season-2026/02-february/apstar-apstar-meeting-2026-01/README.md)
     * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/temp-apnog-apricot-2026.md)
     * [\[#APNIC\] APNIC 61](upcoming-seasons/season-2026/02-february/apnic-apnic-61/README.md)
