@@ -101,7 +101,7 @@ Participation in this Fellowship can be done through the following modalities:
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the Network Operators sector and the broader Standards Development Organizations ecosystem.
+Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the IETF Standards Development Organizations ecosystem.
 
 {% hint style="info" %}
 ## NOTICE
@@ -200,14 +200,14 @@ By participating in this Fellowship, you will enjoy the following benefits:
 * [x] Learn about how the Internet works at a practical, professional level directly from the community that makes the Internet possible in the APAC region.
 * [x] Expand your career options.
 * [x] Free access to the event:\
-  [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)\
-  **Price:** USD 150 **`Ticket waived`**
+  [\[#TIOF\] Training Bytes sessions](tiof-training-bytes-2026-02-08-jakarta.md)\
+  **Price:** 4 TB sessions x USD 150/session **`Ticket waived`**
 * [x] Free access to the event:\
-  [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei)\
+  [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
   **Price:** USD 350 **`Ticket waived`**
 * [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
-  * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](/broken/pages/H9IsE4nXjvXGlEHD9Uei).
+  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes sessions](tiof-training-bytes-2026-02-08-jakarta.md)
+  * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
 * [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 {% endcolumn %}
 
