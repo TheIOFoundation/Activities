@@ -43,7 +43,7 @@ This is a major annual technical conference which brings together internet engin
 
 The Fellowship will include:
 
-* **A** [**Training Bytes session**](tiof-training-bytes-2026-02-08-jakarta.md) **that will take place on Sunday, 8th February 2026**
+* **A** [**Training Bytes session**](/broken/pages/bCWr5joE4uLiVQTnSIND) **that will take place on Sunday, 8th February 2026**
 * **Attendance to the conference part of APRICOT 2026, which will be conducted from Monday, 9th to Wednesday, 11th February 2026.**
 
 ### Why join this Fellowship?
@@ -164,7 +164,7 @@ By becoming a Fellow you commit to the following responsibilities:
 
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
-- [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
+- [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](/broken/pages/bCWr5joE4uLiVQTnSIND)
 - [\[#APNOG\] APRICOT 2026](temp-apnog-apricot-2026.md)
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline)).
@@ -189,13 +189,13 @@ By participating in this Fellowship, you will enjoy the following benefits:
 * [x] Learn about how the Internet works at a practical, professional level directly from the community that makes the Internet possible in the APAC region.
 * [x] Expand your career options.
 * [x] Free access to the event:\
-  [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)\
+  [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](/broken/pages/bCWr5joE4uLiVQTnSIND)\
   **Price:** USD 150 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[#APNOG\] APRICOT 2026](temp-apnog-apricot-2026.md)\
   **Price:** USD 350 **`Ticket waived`**
 * [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](tiof-training-bytes-2026-02-08-jakarta.md)
+  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes 2026-02-08 JAKARTA](/broken/pages/bCWr5joE4uLiVQTnSIND)
   * [x] Attend socials & networking sessions during [\[#APNOG\] APRICOT 2026](temp-apnog-apricot-2026.md)
 * [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 {% endcolumn %}

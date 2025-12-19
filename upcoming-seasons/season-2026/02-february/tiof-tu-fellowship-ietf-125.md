@@ -46,7 +46,8 @@ This is a major week-long gathering of internet experts three times a year, wher
 
 The Fellowship will include:
 
-* [**Training Bytes session**](tiof-training-bytes-2026-02-08-jakarta.md)&#x20;
+* Four preparation sessions
+* [**\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN**](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
 * **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday, 14th to Friday, 20th March 2026.**
 
 ### Why join this Fellowship?
@@ -194,7 +195,7 @@ By becoming a Fellow you commit to the following responsibilities:
 
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
-- [\[#TIOF\] Training Bytes sessions](tiof-training-bytes-2026-02-08-jakarta.md)
+- [\[#TIOF\] Training Bytes sessions](/broken/pages/bCWr5joE4uLiVQTnSIND)
 - [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)).
@@ -219,13 +220,13 @@ By participating in this Fellowship, you will enjoy the following benefits:
 * [x] Learn about how the Internet works at a practical, professional level directly from the community that makes the Internet possible in the APAC region.
 * [x] Expand your career options.
 * [x] Free access to the event:\
-  [\[#TIOF\] Training Bytes sessions](tiof-training-bytes-2026-02-08-jakarta.md)\
+  [\[#TIOF\] Training Bytes sessions](/broken/pages/bCWr5joE4uLiVQTnSIND)\
   **Price:** 4 TB sessions x USD 150/session **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
   **Price:** USD 160 **`Ticket waived`**
 * [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes sessions](tiof-training-bytes-2026-02-08-jakarta.md)
+  * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes sessions](/broken/pages/bCWr5joE4uLiVQTnSIND)
   * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
 * [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 {% endcolumn %}
