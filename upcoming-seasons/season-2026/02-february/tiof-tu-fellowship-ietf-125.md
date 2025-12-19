@@ -273,25 +273,25 @@ TIOF will announce the final list of the cohort.
 {% endstep %}
 
 {% step %}
-**13/02/26: Training Bytes session #**&#x31;
+**13/02/26: Preparation session #**&#x31;
 
-The cohort will gather for an orientation, with a hybrid modality at Universitas Multimedia Nusantara
+The cohort will gather for an orientation, with a hybrid modality at Universitas Multimedia Nusantara 1.00 pm, onsite location and link TBA
 {% endstep %}
 
 {% step %}
-**21/02/26: Training Bytes session #2**
+**21/02/26: Preparation session #2**
 
 The cohort will gather for an orientation, with an online modality
 {% endstep %}
 
 {% step %}
-**28/02/26: Training Bytes session #3**
+**28/02/26: Preparation session #3**
 
 The cohort will gather for an orientation, with an online modality
 {% endstep %}
 
 {% step %}
-**7/03/26: Training Bytes session #4**
+**7/03/26: Preparation session #4**
 
 The cohort will gather for an orientation, with an online modality
 {% endstep %}
@@ -299,7 +299,7 @@ The cohort will gather for an orientation, with an online modality
 {% step %}
 **13/03/26: Training Bytes**
 
-The cohort will gather for an orientation, with an in person modality at Shenzhen
+The cohort will gather for an orientation, with an in person modality at Shenzhen, exact location TBA
 {% endstep %}
 
 {% step %}
