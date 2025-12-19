@@ -204,7 +204,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
   **Price:** 4 TB sessions x USD 150/session **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
-  **Price:** USD 350 **`Ticket waived`**
+  **Price:** USD 160 **`Ticket waived`**
 * [x] Networking:
   * [x] Meet and greet with all the speakers and VIPs attending [\[#TIOF\] Training Bytes sessions](tiof-training-bytes-2026-02-08-jakarta.md)
   * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
