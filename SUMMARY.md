@@ -63,6 +63,7 @@
     * [\[#APNOG\] APRICOT 2026](upcoming-seasons/season-2026/02-february/temp-apnog-apricot-2026.md)
     * [\[#APNIC\] APNIC 61](upcoming-seasons/season-2026/02-february/apnic-apnic-61/README.md)
     * [\[#TIOF\] TU Fellowship IETF 125](upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-ietf-125.md)
+    * [TEMP MODALITIES](upcoming-seasons/season-2026/02-february/temp-modalities.md)
     * [\[#TIOF\] TechUpCast 02-2026](upcoming-seasons/season-2026/02-february/tiof-techupcast-02-2026/README.md)
   * [03 - March](upcoming-seasons/season-2026/03-march/README.md)
     * [\[#IETF\] IETF 125](upcoming-seasons/season-2026/03-march/ietf-ietf-125.md)

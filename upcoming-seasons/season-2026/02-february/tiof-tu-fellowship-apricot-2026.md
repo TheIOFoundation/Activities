@@ -43,8 +43,8 @@ This is a major annual technical conference which brings together internet engin
 
 The Fellowship will include:
 
-* **A Training Bytes session that will take place on Sunday, 8th February 2026**
-* **Attendance to the conference part of APRICOT 2026, which will be conducted from Monday, 9th to Wednesday, 11th February 2026.**
+* **A Training Bytes session** [**\[#TIOF\] Training Bytes 2026-02-08 JAKARTA**](tiof-training-bytes-2026-02-08-jakarta.md)
+* **Attendance to the conference part of APRICOT 2026 + APNIC 61, which will be conducted from Monday 9th to Wednesday 11th February 2026.**
 
 ### Why join this Fellowship?
 

@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: calendar-circle-user
 cover: >-
   ../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship
@@ -46,9 +45,9 @@ This is a major week-long gathering of internet experts three times a year, wher
 
 The Fellowship will include:
 
-* Four preparation sessions (see [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention"))
-* [**\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN**](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
-* **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday, 14th to Friday, 20th March 2026.**
+* **Four preparation sessions (see** [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention")**)**
+* **A Training Bytes session:** [**\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN**](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
+* **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 14th to Friday 20th March 2026.**
 
 ### Why join this Fellowship?
 
@@ -95,35 +94,16 @@ Open to full-time Bachelor's and Post-Grad students in multidisciplinary fields 
 {% endcolumns %}
 
 {% hint style="info" %}
-## REGISTER TO OUR LAUNCHING SESSION ON SATURDAY, 10 JANUARY 2026 TO LEARN MORE ABOUT WHY YOU SHOULD BE PART OF OUR FELLOWSHIP
+## REGISTER TO OUR LAUNCHING SESSION ON SATURDAY 10 JANUARY 2026 TO LEARN MORE ABOUT WHY YOU SHOULD BE PART OF OUR FELLOWSHIP
 
-[**\[#TIOF\] TU Fellowship IETF 125 | Launching**](https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-launching)
-
-
+[**\[#TIOF\] TU Fellowship IETF 125 | Launching session registration**](https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-launching)
 {% endhint %}
-
-| TIOF International Workshop on Protocol Standard and Fellowship for Bachelor/Master/Doctoral Students and Lecturer/Researcher |                                                                                                             |                                                                                                                          |                                                                                                             |                                                                                                                        |                                                                                                                          |                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| <p><br></p>                                                                                                                   | Remote - Fellowship - Vetting                                                                               | Onsite - Fellowship - Vetting                                                                                            |                                                                                                             |                                                                                                                        |                                                                                                                          |                                                                                                             |
-| <p><br></p>                                                                                                                   | Bachelor                                                                                                    | Master and Doctor                                                                                                        | Lecturer & Researcher                                                                                       | Bachelor                                                                                                               | Master and Doctor                                                                                                        | <p>Lecturer &#x26; </p><p>Researcher</p>                                                                    |
-| Cost                                                                                                                          | None                                                                                                        | None                                                                                                                     | None                                                                                                        | Registration                                                                                                           | Registration                                                                                                             | Registration                                                                                                |
-| Level                                                                                                                         | Awareness                                                                                                   | Specific to topic                                                                                                        | Specific to research                                                                                        | Awareness                                                                                                              | Specific to topic                                                                                                        | Specific to research                                                                                        |
-| Prerequisite                                                                                                                  | <p>Online sessions : TIOF advocacy, IETF in general,</p><p>TIOF Compulsory/chosen session, ISOC session</p> | <p>Online sessions : TIOF advocacy, IETF in general,</p><p>TIOF Compulsory/chosen session, IETF EG/RD expert session</p> | <p>Online sessions : TIOF advocacy, IETF in general,</p><p>TIOF Compulsory/chosen session, ISOC session</p> | <p>Online sessions : TIOF advocacy, IETF in general,</p><p>TIOF Compulsory/chosen session, ISOC session</p><p><br></p> | <p>Online sessions : TIOF advocacy, IETF in general,</p><p>TIOF Compulsory/chosen session, IETF EG/RD expert session</p> | <p>Online sessions : TIOF advocacy, IETF in general,</p><p>TIOF Compulsory/chosen session, ISOC session</p> |
-| Content                                                                                                                       | <p>General, </p><p><br></p>                                                                                 | Specific WG/RG                                                                                                           | Specific WG/RG                                                                                              | New Participant program + general TIOF session + 1 IETF expert/                                                        | New Participant program + specific TIOF sessions +IETF roundtable discussion                                             | New Participant program + specific TIOF sessions +IETF roundtable discussion                                |
-| Mode                                                                                                                          | Compulsory + chosen +skirmish                                                                               | Specific WG/RG                                                                                                           | Specific WG/RG                                                                                              | <p>Compulsory + chosen +skirmish<br>TIOF OTEM to</p>                                                                   | Specific WG/RG                                                                                                           | Specific WG/RG                                                                                              |
-| <p><br></p>                                                                                                                   | <p><br></p>                                                                                                 | <p><br></p>                                                                                                              | <p><br></p>                                                                                                 | <p><br></p>                                                                                                            | <p><br></p>                                                                                                              | <p><br></p>                                                                                                 |
-
-## Modalities
-
-Participation in this Fellowship can be done through the following modalities:
-
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 1</td><td>In-Person | Sponsored</td></tr><tr><td>CATEGORY 2</td><td>Remote | Sponsored</td></tr><tr><td>CATEGORY 3</td><td>In-Person | Self-Funded</td></tr></tbody></table>
 
 ## Who will you meet
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the IETF Standards Development Organizations ecosystem.
+Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the IETF and the broader Standards Development Organizations ecosystem.
 
 {% hint style="info" %}
 ## NOTICE
@@ -137,7 +117,7 @@ Registered candidates will also be updated via email.
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director </td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td>Yug Desai</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/yug Desai.png">yug Desai.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -162,9 +142,9 @@ Applicants must understand and abide by the following:
 
 You _**do not**_ need to live in Shenzhen or be a resident of China, you need to be in China during:
 
-* Training Bytes: Friday, 13 March 2026 (and all the Preparation Sessions, see [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention"))
-* IETF Hackathon: Saturday, 14 March 2026
-* IETF Meetings: Sunday, 15th to Wednesday, 20th February 2026
+* Training Bytes: Friday 13th March 2026 (and all the Preparation Sessions, see [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention"))
+* IETF Hackathon: Saturday 14th + Sunday 15th March 2026
+* IETF Meetings: Monday 16th to Friday 20th March 2026
 {% endhint %}
 
 * [x] Ability to work independently and collaboratively in dynamic environments
@@ -218,14 +198,13 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 {% columns %}
 {% column %}
-* [x] Learn about how the Internet works at a practical, professional level directly from the community that makes the Internet possible in the APAC region.
+* [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
 * [x] Expand your career options.
-* [x] Fellowship Workshops and onsite Mentoring, include\
-  Preparation Sessions, see #Timeline\
+* [x] Fellowship Workshops and onsite Mentoring, including Preparation Sessions, see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)\
   **Price:** USD  2000 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
-  **Price:** USD 160 **`Ticket waived`**
+  **Price:** USD 160 **`Ticket waived for students`**
 * [x] Networking:
   * [x] Meet and greet with all the speakers and VIPs attending [#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
   * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
@@ -248,13 +227,19 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 The following items are covered in this Fellowship:
 
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Training Bytes ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Transportation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their transportation.</td></tr><tr><td valign="top">Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their accommodation.</td></tr><tr><td valign="top">F&#x26;B</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>Fellows will benefit of F&#x26;B as provided by the event.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Visa</td><td><span data-option="ETybMsBQmBur">Not Applicable</span></td><td>This Fellowship does not involve any visas.<br>Fellows traveling from outside of Indonesia will have to handle their visas, when applicable.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Training Bytes ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.</td></tr><tr><td valign="top">Transportation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their transportation.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their accommodation.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">F&#x26;B</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>Fellows will benefit of F&#x26;B as provided by the event.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Visa</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>This Fellowship <strong>may</strong> not involve any visas depending on your passport.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+
+{% hint style="warning" %}
+## NOTICE
+
+The above list of items will be explained in full during the Launching Session.
+{% endhint %}
 
 ## Timeline
 
 {% stepper %}
 {% step %}
-**10/01/2026: Opening of applications and Launching Session**&#x20;
+**10/01/2026:  Launching session & opening of applications**
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-125.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-125.md#responsibilities).\
 <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
@@ -275,31 +260,36 @@ TIOF will announce the final list of the cohort.
 {% step %}
 **13/02/26: Preparation session #**&#x31;
 
-The cohort will gather for an orientation, with a hybrid modality at Universitas Multimedia Nusantara 1.00 pm, onsite location and link TBA
+The cohort will gather for a session under a hybrid modality
+
+* Onsite (Universitas Multimedia Nusantara)
+* Online
+
+This first session will serve as a general orientation to the Fellowship (2h)
 {% endstep %}
 
 {% step %}
 **21/02/26: Preparation session #2**
 
-The cohort will gather for an orientation, with an online modality
+The cohort will gather online to prepare for the IETF 125 (2h).
 {% endstep %}
 
 {% step %}
 **28/02/26: Preparation session #3**
 
-The cohort will gather for an orientation, with an online modality
+The cohort will gather online to prepare for the IETF 125 (2h).
 {% endstep %}
 
 {% step %}
-**7/03/26: Preparation session #4**
+**07/03/26: Preparation session #4**
 
-The cohort will gather for an orientation, with an online modality
+The cohort will gather online to prepare for the IETF 125 (2h).
 {% endstep %}
 
 {% step %}
 **13/03/26: Training Bytes**
 
-The cohort will gather for an orientation, with an in person modality at Shenzhen, exact location TBA
+The cohort will gather for a Training Bytes session at Shenzhen (exact location TBA).
 {% endstep %}
 
 {% step %}
@@ -321,7 +311,7 @@ The cohort will meet for an online session where we will discuss feedback and ex
 {% endstep %}
 
 {% step %}
-**2/04/2026: Issuing of digital certificates**
+**02/04/2026: Issuing of digital certificates**
 
 Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-ietf-125.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
@@ -367,14 +357,14 @@ Here's a suggested text:
 
 {% code overflow="wrap" %}
 ```
-⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #APRICOT2026!
+⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #IETF125!
 
-🎫 Register now at https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration
+🎫 Register now at https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage
 
-📅 Deadline: 5TH JANUARY 2026
+📅 Deadline: 25TH JANUARY 2026
 
 More information:
-https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026
+https://Short.TheIOFoundation.org/tiof-tu-fellowship-ietf-125-InfoPage
 ```
 {% endcode %}
 
@@ -382,7 +372,7 @@ https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-
 {% endcolumn %}
 
 {% column width="16.666666666666657%" %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Twitter X Icon.png">Twitter X Icon.png</a></td><td><a href="https://twitter.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026%0A%0AMore%20information%3A%0Ahttps%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026">https://twitter.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026%0A%0AMore%20information%3A%0Ahttps%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png">[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png</a></td><td><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026">https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png">[TIOF] Comms [P] Icon FB XXX v1.0.png</a></td><td><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026&#x26;quote=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026">https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026&#x26;quote=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Twitter X Icon.png">Twitter X Icon.png</a></td><td><a href="https://twitter.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23IETF125%21%0A%0A%F0%9F%8E%AB%20Register%20now%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-registrationhrpage%0A%0A%F0%9F%93%85%20Deadline%3A%2025TH%20JANUARY%202026%0A%0AMore%20info%3A%20https%3A%2F%2FShort.TheIOFoundation.org%2Ftiof-tu-fellowship-ietf-125-InfoPage&#x26;hashtags=IETF125">https://twitter.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23IETF125%21%0A%0A%F0%9F%8E%AB%20Register%20now%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-registrationhrpage%0A%0A%F0%9F%93%85%20Deadline%3A%2025TH%20JANUARY%202026%0A%0AMore%20info%3A%20https%3A%2F%2FShort.TheIOFoundation.org%2Ftiof-tu-fellowship-ietf-125-InfoPage&#x26;hashtags=IETF125</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png">[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png</a></td><td><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026">https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png">[TIOF] Comms [P] Icon FB XXX v1.0.png</a></td><td><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026&#x26;quote=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026">https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026&#x26;quote=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026</a></td></tr></tbody></table>
 
 
 {% endcolumn %}
@@ -419,7 +409,7 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
 | <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>              | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)                                                                                     | Code of Conduct for all TIOF activities.                                                                                                          |
 |                                                                                           | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                                        | A digital adaptation of the Chatham House Rule.                                                                                                   |
 |                                                                                           | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs)                                                                       | Information on The IO Foundation's advocacy.                                                                                                      |
-|                                                                                           | [Presentation Slides](https://docs.google.com/presentation/d/1SCbSytfnlOcSGVxTSC8TLqQI2cX-e-fTz3Sd8KUPgb4/edit?usp=sharing)             |                                                                                                                                                   |
+|                                                                                           | Presentation Slides                                                                                                                     |                                                                                                                                                   |
 |                                                                                           | [The Selfish Ledger](https://www.youtube.com/watch?v=QDVVo14A_fo)                                                                       | A must-watch short video on how the importance of data, how companies decide to extract it and (most importantly) what they decide to do with it. |
 | [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/)      | [ICANN Policy](https://www.icann.org/policy)                                                                                            | Learn how to participate in ICANN Policy Development Processes (PDPs)                                                                             |
 |                                                                                           | [ICANN for Beginners](https://www.icann.org/en/beginners)                                                                               | A good starting point for anyone wanting to participate in ICANN processes.                                                                       |
@@ -428,20 +418,14 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
 |                                                                                           | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)                                   |                                                                                                                                                   |
 |                                                                                           | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                                          | Recordings of previous KSK Ceremonies.                                                                                                            |
 | <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>          | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                                                   | Information on how to become an ISOC individual member.                                                                                           |
-|                                                                                           | [Network and Distributed](https://www.ndss-symposium.org/)                                                                              |                                                                                                                                                   |
-| <p><br>System Security (NDSS) Symposium</p>                                               |                                                                                                                                         |                                                                                                                                                   |
 |                                                                                           | [Pulse](https://pulse.internetsociety.org/)                                                                                             | ISOC project to evaluate the availability, evolution, and resilience of the global Internet.                                                      |
 |                                                                                           | [2025 Action Plan](https://www.internetsociety.org/wp-content/uploads/2024/11/2025-Action-Plan-EN.pdf)                                  | Learn what is ISOC up to during 2025.                                                                                                             |
-| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [IETF 122](https://www.ietf.org/meeting/122/) ([**Registration**](https://registration.ietf.org/122/))                                  |                                                                                                                                                   |
-|                                                                                           | [Datatracker](https://datatracker.ietf.org/)                                                                                            | Centralized repository of all things IETF.                                                                                                        |
+| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [Datatracker](https://datatracker.ietf.org/)                                                                                            | Centralized repository of all things IETF.                                                                                                        |
 |                                                                                           | [Ornithology PDF](https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf)                                              |                                                                                                                                                   |
 |                                                                                           | [NomCom](https://www.ietf.org/about/groups/nomcom/)                                                                                     | Information on the Nominating Commitee.                                                                                                           |
 | [International Telecommunications Union (ITU)](https://www.itu.int/en/Pages/default.aspx) | [Telecommunication Standardization (ITU-T)](https://www.itu.int/en/ITU-T/Pages/default.aspx)                                            |                                                                                                                                                   |
 |                                                                                           | [Study Groups (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/Pages/default.aspx)                                       | List of ITU-T Study Groups for the Study Cycle 2025-2028.                                                                                         |
-|                                                                                           |                                                                                                                                         |                                                                                                                                                   |
 | [World Wide Web Consortium (W3C)](https://www.w3.org/)                                    | [Get involved](https://www.w3.org/get-involved/)                                                                                        | Information on getting involved in W3C work.                                                                                                      |
-|                                                                                           |                                                                                                                                         |                                                                                                                                                   |
-|                                                                                           |                                                                                                                                         |                                                                                                                                                   |
 {% endtab %}
 {% endtabs %}
 
