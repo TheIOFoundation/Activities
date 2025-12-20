@@ -68,27 +68,25 @@ The IO Foundation (TIOF) participates in the IETF to ensure that Data-Centric Di
 {% hint style="warning" %}
 ### **RSVP DEADLINE**
 
-**5TH JANUARY 2026**
-
-**23:59 (UTC+00)**
+**MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**
 {% endhint %}
 
 {% hint style="info" %}
 ### PARTICIPANTS LIST ANNOUNCEMENT
 
-**FRIDAY, 9TH JANUARY 2026**
+**MONDAY, 2ND FEBRUARY 2026**
 {% endhint %}
 
 {% hint style="success" %}
 ### WHO CAN APPLY?
 
-This Training Bytes is exclusively reserved to Fellows accepted in the [\[#TIOF\] TU Fellowship APRICOT 2026](../02-february/tiof-tu-fellowship-apricot-2026.md) cohort.
+This Training Bytes is exclusively reserved to Fellows accepted in the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md) cohort.
 {% endhint %}
 
 {% hint style="info" %}
 ### RELATED EVENT
 
-[**\[#APNOG\] APRICOT 2026**](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
+[**\[#IETF\] IETF 125**](ietf-ietf-125.md)
 {% endhint %}
 
 #### Why This Matters
