@@ -31,7 +31,7 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 125)](../03-march/ietf-ietf-125.md), to be held in Shenzhen (China) from 14th to 20th March 2026.
+The IO Foundation, is seeking passionate and dedicated individuals to join our cohort for Internship for the upcoming Q1 2026 for both in-person and remote modalities
 
 {% hint style="warning" %}
 ## NOTICE
