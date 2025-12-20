@@ -30,7 +30,7 @@ layout:
 
 ### IETF 125: Where the Internet’s Rules Are Written
 
-The Internet Engineering Task Force (IETF) is the premier global community of network designers, operators, vendors, and researchers. Unlike other organizations, the IETF doesn’t just "talk" about the internet—it builds it. From the protocols that power your browser (HTTP) to the way emails are sent (SMTP), the IETF is where the technical "rules" of the internet are debated and standardized.
+The Internet Engineering Task Force (IETF) is the premier global community of network designers, operators, vendors, and researchers.
 
 In Shenzhen, China, IETF 125 will bring together the world’s leading technical minds to decide the future of internet architecture.
 
@@ -61,9 +61,9 @@ The IO Foundation (TIOF) participates in the IETF to ensure that Data-Centric Di
 [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 {% endhint %}
 
-<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
+<p align="center"><a href="../02-february/tiof-tu-fellowship-ietf-125.md" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship IETF 125 - QR Code Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ### **RSVP DEADLINE**
