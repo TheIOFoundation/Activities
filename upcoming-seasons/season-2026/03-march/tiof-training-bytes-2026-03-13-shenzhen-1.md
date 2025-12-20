@@ -28,26 +28,37 @@ layout:
 {% column width="58.333333333333336%" %}
 ### About
 
-On the occasion APRICOT 2026 happening in Jakarta, Indonesia, The IO Foundation organizes a training session on the topic of Network Operator Groups (NOGs) and to explore the latest operational technologies and best practices presented during the summit.
+### IETF 125: Where the Internet’s Rules Are Written
 
-This Training Bytes session will focus on practical approaches and implementation strategies for enhancing user safety and privacy directly within network operations and infrastructure.
+The Internet Engineering Task Force (IETF) is the premier global community of network designers, operators, vendors, and researchers. Unlike other organizations, the IETF doesn’t just "talk" about the internet—it builds it. From the protocols that power your browser (HTTP) to the way emails are sent (SMTP), the IETF is where the technical "rules" of the internet are debated and standardized.
 
-Participants will:
+In Shenzhen, China, IETF 125 will bring together the world’s leading technical minds to decide the future of internet architecture.
 
-* **Implement Secure Protocols**: Learn about the most crucial, recently ratified IETF protocols (e.g., DNS over HTTPS/TLS, BGP security extensions) and how to deploy them effectively on live networks.
-* **Operationalize User Protection**: Identify common network vulnerabilities where operator-side configurations can immediately improve user protection and data integrity (e.g., reducing metadata leakage).
-* **Identify Relevant NOG Practices**: Learn which technical practices and configurations are currently being prioritized by Network Operator Groups (NOGs) and the APNIC community for optimal regional security.
-* **Engage with the Community**: Explore effective strategies for engaging with the APNIC community and other key operational forums (like the APRICOT Peering Forum) through the Data-Centric Digital Rights framework.
-* **Prepare for APRICOT**: Learn how to actively participate and extract value from the upcoming APRICOT 2026 workshops and hands-on labs, focusing on real-world case studies from the Asia Pacific region.
+#### How TIOF Approaches the IETF
 
-The session aims to equip network engineers and system administrators with the knowledge and configuration tools necessary to build and maintain secure, privacy-preserving networks that prioritize user rights in the global digital landscape.
+The IO Foundation (TIOF) participates in the IETF to ensure that Data-Centric Digital Rights (DCDR) are integrated into the very foundation of technology. Our goal is to transform the way students and technologists interact with this global body through three core pillars:
+
+1\. Decoding the Technical Stack. Before diving into the sessions, we explore the "Technical Stack." We look at every layer of the internet—from the physical cables and routing protocols to the applications you use every day. We identify which Standards Developing Organizations (SDOs), such as the IETF, are responsible for each layer and explain why their decisions affect human rights.
+
+2\. Collaborative Working Group (WG) Monitoring The IETF is divided into Working Groups—small, focused teams working on specific technical problems (e.g., encryption, routing, or privacy).
+
+* Defining the Mission: TIOF identifies key WGs critical to global digital safety.
+* Student Interests: We encourage participants to choose WGs that align with their own passions, whether that is the future of AI, Internet-of-Things (IoT) security, or next-gen web protocols.
+
+3\. Mastering the IETF Environment The IETF has a unique culture based on "Rough Consensus and Running Code." Engaging here requires more than just technical knowledge; it requires knowing how to navigate:
+
+* Mailing Lists: Where the real work happens between meetings.
+* Internet-Drafts: How to read and analyze proposed changes to the Internet.
+* The "Floor Mic": How to effectively voice concerns or support for a protocol during live sessions.
+
+
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
 {% hint style="info" %}
 ### RELATED FELLOWSHIP
 
-[\[#TIOF\] TU Fellowship APRICOT 2026](../02-february/tiof-tu-fellowship-apricot-2026.md)
+[\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 {% endhint %}
 
 <p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
@@ -79,6 +90,10 @@ This Training Bytes is exclusively reserved to Fellows accepted in the [\[#TIOF\
 
 [**\[#APNOG\] APRICOT 2026**](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
 {% endhint %}
+
+#### Why This Matters
+
+Technical standards are not neutral; they reflect the values of the people who build them. By participating in IETF 125, TIOF works to ensure that the internet of tomorrow is secure, open, and protective of citizens by design. The Hands-on workshop experience aligns with TIOF principles **Right by Design**
 {% endcolumn %}
 {% endcolumns %}
 
