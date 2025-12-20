@@ -109,24 +109,24 @@ Rights By Design
 
 💵 Price\
 USD 150 (Sponsored)\
-See \[#TIOF] TU Fellowship APRICOT 2026
+See [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 🎫 **RSVP**\
-This is an exclusive activity for the fellows of the \[#TIOF] TU Fellowship APRICOT 2026 cohort.
+This is an exclusive activity for the fellows of the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md) cohort.
 {% endcolumn %}
 
 {% column %}
 **📅 Date Start**\
-Sunday 8th February 2026\
-13:00 (UTC+07)
+Friday 13th March 2026\
+13:00 (UTC+08)
 
 📅 **Date End**\
-Sunday 8th February 2026\
-18:00 (UTC+07)
+Friday 13th March 2026\
+18:00 (UTC+08)
 
 [**📍**](https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8) **Location**\
 TBA - The final location will be announced at a later date.\
-Jakarta, Indonesia<br>
+Shenzhen, China<br>
 {% endcolumn %}
 {% endcolumns %}
 
