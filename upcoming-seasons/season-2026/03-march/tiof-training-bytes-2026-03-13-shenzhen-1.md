@@ -108,7 +108,7 @@ Training Bytes
 Rights By Design
 
 💵 Price\
-USD 150 (Sponsored)\
+USD 200 (Sponsored)\
 See [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 🎫 **RSVP**\
