@@ -198,23 +198,23 @@ Applicants must understand and abide by the following:
 
 ### **Requirements**
 
-Please refer to the [Requirements](../02-february/tiof-tu-fellowship-ietf-125.md#requirements) of the [\[#TIOF\] TU Fellowship APRICOT 2026](../02-february/tiof-tu-fellowship-apricot-2026.md).
+Please refer to the [Requirements](../02-february/tiof-tu-fellowship-ietf-125.md#requirements) of the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 ### Responsibilities
 
-Please refer to the [Responsibilities](../02-february/tiof-tu-fellowship-apricot-2026.md#responsibilities) of the [\[#TIOF\] TU Fellowship APRICOT 2026](../02-february/tiof-tu-fellowship-apricot-2026.md).
+Please refer to the [Responsibilities](../02-february/tiof-tu-fellowship-apricot-2026.md#responsibilities) of the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 ## Benefits
 
-Please refer to the [Benefits](../02-february/tiof-tu-fellowship-apricot-2026.md#benefits) of the [\[#TIOF\] TU Fellowship APRICOT 2026](../02-february/tiof-tu-fellowship-apricot-2026.md).
+Please refer to the [Benefits](../02-february/tiof-tu-fellowship-apricot-2026.md#benefits) of the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 ## What is covered
 
-Please see [What is covered](../02-february/tiof-tu-fellowship-apricot-2026.md#what-is-covered) on the [\[#TIOF\] TU Fellowship APRICOT 2026](../02-february/tiof-tu-fellowship-apricot-2026.md).
+Please see [What is covered](../02-february/tiof-tu-fellowship-apricot-2026.md#what-is-covered) on the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 ## Timeline
 
-Please see [Timeline](../02-february/tiof-tu-fellowship-apricot-2026.md#timeline) on the [\[#TIOF\] TU Fellowship APRICOT 2026](../02-february/tiof-tu-fellowship-apricot-2026.md).
+Please see [Timeline](../02-february/tiof-tu-fellowship-apricot-2026.md#timeline) on the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 {% hint style="warning" %}
 ### LIMITED SPOTS
