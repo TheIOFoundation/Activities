@@ -200,7 +200,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% column %}
 * [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
 * [x] Expand your career options.
-* [x] Fellowship Workshops and onsite Mentoring, including Preparation Sessions, see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)\
+* [x] Fellowship Workshops and onsite Mentoring, including Preparation Sessions and Training Bytes see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)\
   **Price:** USD  2000 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
