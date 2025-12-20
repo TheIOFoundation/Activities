@@ -166,24 +166,27 @@ Registered candidates will also be updated via email.
 
 ## **What will you learn**
 
-### Key Standards and Operational Bodies
+Key Standards and Architectural Bodies This session examines the organizations and processes that define how the Internet is built, focusing on the transition from high-level digital rights to low-level protocol design:
 
-This session examines the organizations that most directly impact the day-to-day operations and security of networks in the Asia Pacific region:
+#### 1. The Internet Engineering Task Force (IETF)
 
-#### 1. Internet Engineering Task Force (IETF)
+* Role: The premier global body for developing the protocols that run the world (such as TLS, DNS, and HTTP). It operates on the principle of "Rough Consensus and Running Code."
+* Relevance to IETF 125: You will learn how to navigate the IETF’s unique environment. Instead of just implementing protocols, you will learn how they are debated and drafted, focusing on how to audit them for privacy and user safety.
 
-* Role: The primary body for developing and publishing Internet standards and protocols (like TCP/IP, HTTPS, and BGP security).
-* Relevance to APRICOT: While they don't govern, their output (RFCs) is the technical blueprint that every network operator must implement. Our session focuses on implementing their security and privacy-enhancing protocols. \*
+#### 2. The Technical Stack & Multidisciplinary Standards
 
-#### 2. APNIC (Asia Pacific Network Information Centre)
+* Role: The "Internet Stack" is a layered architecture where different bodies (IETF, W3C, IEEE) manage different functions—from hardware signals to website encryption.
+* Relevance to the Fellowship: We will explore how standards influence society from a multidisciplinary perspective. You will learn to see protocols not just as code, but as "technical policy" that can either protect or infringe upon digital rights.
 
-* Role: The Regional Internet Registry (RIR) for the Asia Pacific. They manage and distribute the Internet's core resources (IP addresses and AS numbers).
-* Relevance to APRICOT: They are the governing authority for the resources you operate with. Their policies directly affect routing security (RPKI), IP address transfers, and IPv6 deployment—all core topics at APRICOT. \*
+#### 3. Working Groups (WGs) and Research Groups (RGs)
 
-#### 3. The APRICOT Community & Network Operator Groups (NOGs)
+* Role: The engine rooms of the IETF. These are specialized groups where experts collaborate on specific topics like "Privacy-Preserving Measurement" or "Post-Quantum Cryptography."
+* Relevance to the Fellowship: You will learn how to identify, monitor, and engage with these groups. A guest WG member will share their personal journey—detailing the learning curve, how to get started as a student, and the professional benefits of contributing to global internet standards.
 
-* Role: These are local and regional bodies (like MyNOG, IDNOG, JANOG) that represent the Network Operator's perspective. They distill global standards into practical, localized best practices.
-* Relevance to APRICOT: This community drives the adoption and refinement of technical standards across the region. They are the target audience and the primary source of operational knowledge shared at the conference.
+#### 4. Fellowship Modalities & Engagement Strategies
+
+* Role: The framework through which TIOF supports your participation in the global standards ecosystem.
+* Relevance to Your Career: You will learn the practical "how-tos" of participation: how to join a mailing list, how to read an Internet-Draft, and how to use the Data-Centric Digital Rights (DCDR) framework to provide meaningful feedback on emerging technology.
 
 ### Agenda
 
