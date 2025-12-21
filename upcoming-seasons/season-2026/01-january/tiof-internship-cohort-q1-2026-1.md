@@ -41,9 +41,15 @@ While our intake dates are set, the actual duration of your internship can be ta
 
 {% endhint %}
 
-At TIOF, our interns join a global community of advocates and technical experts. You will collaborate on projects that protect digital rights and advance a more human-centric internet. This is a space for those who believe in 'rough consensus and running code' to build a better technical foundation for our society.
+At TIOF, our interns join a global community of advocates and technical experts. You will collaborate on projects that protect digital rights based on three principles:
 
-Your internship experience will include:
+I AM MY DATA
+
+RIGHT BY DESIGN
+
+END REMEDY
+
+Your internship experience all activities within the DCDR framework, which will include but not limited to:
 
 * Dedicated mentorship from TIOF and its international network of experts
 * Involved in the TIOF global event's administration,  preparation, and execution
@@ -118,18 +124,9 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Located in Shenzhen for the duration of the Fellowship, and follow the IETF in-time for those join remotely
-
-{% hint style="success" %}
-## CLARIFICATION
-
-You _**do not**_ need to live in Shenzhen or be a resident of China, you need to be in China during:
-
-* Training Bytes: Friday 13th March 2026 (and all the Preparation Sessions, see [#timeline](tiof-internship-cohort-q1-2026-1.md#timeline "mention"))
-* IETF Hackathon: Saturday 14th + Sunday 15th March 2026
-* IETF Meetings: Monday 16th to Friday 20th March 2026
-{% endhint %}
-
+* [x] You can join the internship by two modalities based on your location of residence:\
+  In-person (for your who stays in Kuala Lumpur)
+* [ ] Remote (for you who stays in any other part of the globe)
 * [x] Ability to work independently and collaboratively in dynamic environments
 {% endcolumn %}
 
