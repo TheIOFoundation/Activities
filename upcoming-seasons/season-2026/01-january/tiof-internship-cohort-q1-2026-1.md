@@ -105,9 +105,9 @@ Participating in this Internship will grant you the opportunity to be trained an
 {% endcolumns %}
 
 {% hint style="warning" %}
-## LIMITED SPOTS
+## LIMITED SPOTS, REGISTRATION PERIOD
 
-**APPLY BY: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-internship-cohort-q1-2026-registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**THURSDAY, 1ST JANUARY - TUESDAY, 31ST MARCH 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-internship-cohort-q1-2026-registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
