@@ -72,6 +72,12 @@ Your internship experience will include:
 The cohort application will be closed when the quota is reached. So apply soon!!
 {% endhint %}
 
+{% hint style="info" %}
+**WHO CAN JOIN?**
+
+Full-Time Bachelor Student from various backgrounds see [#internship-details](tiof-tu-fellowship-ietf-125.md#internship-details "mention")
+{% endhint %}
+
 
 {% endcolumn %}
 {% endcolumns %}
