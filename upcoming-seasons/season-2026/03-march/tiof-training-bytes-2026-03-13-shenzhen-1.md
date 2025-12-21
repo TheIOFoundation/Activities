@@ -202,11 +202,11 @@ Please refer to the [Requirements](../02-february/tiof-tu-fellowship-ietf-125.md
 
 ### Responsibilities
 
-Please refer to the [Responsibilities](../02-february/tiof-tu-fellowship-apricot-2026.md#responsibilities) of the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
+Please refer to the [Responsibilities](../02-february/tiof-tu-fellowship-ietf-125.md#responsibilities) of the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 ## Benefits
 
-Please refer to the [Benefits](../02-february/tiof-tu-fellowship-apricot-2026.md#benefits) of the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
+Please refer to the [Benefits](../02-february/tiof-tu-fellowship-ietf-125.md#benefits) of the [\[#TIOF\] TU Fellowship IETF 125](../02-february/tiof-tu-fellowship-ietf-125.md)
 
 ## What is covered
 
