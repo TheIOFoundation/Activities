@@ -46,7 +46,7 @@ At TIOF, our interns join a global community of advocates and technical experts.
 Your internship experience will include:
 
 * Dedicated mentorship from TIOF and its international network of experts
-* Involved in the TIOF event's administration,  preparation, and execution
+* Involved in the TIOF global event's administration,  preparation, and execution
 * Capacity building through Training Bytes
 * Hands-on involvement in TIOF’s core projects and technical working groups throughout the term.
 
