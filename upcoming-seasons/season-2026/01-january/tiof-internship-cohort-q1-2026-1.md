@@ -208,97 +208,9 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 ## What is covered
 
-The following items are covered in this Fellowship:
+The following items are covered in this Internship:
 
 <table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Training Bytes ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.</td></tr><tr><td valign="top">Transportation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their transportation.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their accommodation.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">F&#x26;B</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>Fellows will benefit of F&#x26;B as provided by the event.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Visa</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>This Fellowship <strong>may</strong> not involve any visas depending on your passport.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
-
-{% hint style="warning" %}
-## NOTICE
-
-The above list of items will be explained in full during the Launching Session.
-{% endhint %}
-
-## Timeline
-
-{% stepper %}
-{% step %}
-**10/01/2026:  Launching session & opening of applications**
-
-Submit your interest! Make sure to read the [Requirements](tiof-internship-cohort-q1-2026-1.md#requirements) and understand the [Responsibilities](tiof-internship-cohort-q1-2026-1.md#responsibilities).\
-<a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
-{% endstep %}
-
-{% step %}
-**25/01/26: Closing of applications**
-
-Applications will not be accepted beyond this date (UTC + 00).
-{% endstep %}
-
-{% step %}
-**02/02/26: Announcement of the cohort**
-
-TIOF will announce the final list of the cohort.
-{% endstep %}
-
-{% step %}
-**13/02/26: Preparation session #**&#x31;
-
-The cohort will gather for a session under a hybrid modality
-
-* Onsite (Universitas Multimedia Nusantara)
-* Online
-
-This first session will serve as a general orientation to the Fellowship (2h)
-{% endstep %}
-
-{% step %}
-**21/02/26: Preparation session #2**
-
-The cohort will gather online to prepare for the IETF 125 (2h).
-{% endstep %}
-
-{% step %}
-**28/02/26: Preparation session #3**
-
-The cohort will gather online to prepare for the IETF 125 (2h).
-{% endstep %}
-
-{% step %}
-**07/03/26: Preparation session #4**
-
-The cohort will gather online to prepare for the IETF 125 (2h).
-{% endstep %}
-
-{% step %}
-**13/03/26: Training Bytes**
-
-The cohort will gather for a Training Bytes session at Shenzhen (exact location TBA).
-{% endstep %}
-
-{% step %}
-**14/03/2026 to 20/03/2026: IETF 125**
-
-Participate in the event with the full support of the TIOF team onsite.
-{% endstep %}
-
-{% step %}
-**25/03/26: Submission of Assignment**
-
-Submit your Fellowship Report for evaluation.
-{% endstep %}
-
-{% step %}
-**28/03/26: Review call**
-
-The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
-{% endstep %}
-
-{% step %}
-**02/04/2026: Issuing of digital certificates**
-
-Fellows who have successfully completed the [Fellowship Requirements](tiof-internship-cohort-q1-2026-1.md#requirements) will receive a digital certificate as a proof of completion.
-{% endstep %}
-{% endstepper %}
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
