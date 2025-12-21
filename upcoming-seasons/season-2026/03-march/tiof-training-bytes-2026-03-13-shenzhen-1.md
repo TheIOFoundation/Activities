@@ -252,14 +252,15 @@ Here's a suggested text:
 
 {% code overflow="wrap" %}
 ```
-⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #IETF125!
+Attention students! 🎓 Take your research from the classroom to the global stage. Apply for the @TUFellowship to attend #IETF125. 
+Master the "Right by Design" principle and learn to navigate the world of international tech standards. Don’t just use the internet, shape it!
 
 🎫 Register now at https://Short.TheIOFoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage
 
 📅 Deadline: 25TH JANUARY 2026
 
 More information:
-https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026
+https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-ietf-125
 ```
 {% endcode %}
 {% endcolumn %}
