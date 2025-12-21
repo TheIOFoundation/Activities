@@ -76,11 +76,11 @@ The cohort application will be closed when the quota is reached. So apply soon!!
 {% endcolumn %}
 {% endcolumns %}
 
-## Why join this Fellowship?
+## Why join this Internship?
 
 TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs) with their communities and the technical standards they produce.
 
-As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
+As an Intern, you'll be a member of our Argos, a growing network of technologists working towards ensuring that technology protects citizens by design.
 
 ## Internship Details
 
