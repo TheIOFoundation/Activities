@@ -46,7 +46,7 @@ At TIOF, our interns join a global community of advocates and technical experts.
 Your internship experience will include:
 
 * Dedicated mentorship and onboarding sessions
-* Involved in TIOF event's administration,  preparation, and execution
+* Involved in the TIOF event's administration,  preparation, and execution
 * Capacity building through Training Bytes
 * Hands-on involvement in TIOF’s core projects and technical working groups throughout the term.
 
@@ -63,42 +63,30 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 <div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship IETF 125 - QR Code HR Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
-## **SUBMISSION DEADLINE**
+## **SUBMISSION PERIOD**
 
-**MONDAY, 25TH JANUARY 2026**
+**THURSDAY, 1ST JANUARY - TUESDAY, 31ST MARCH 2026**
 
 **23:59 (UTC+00)**
 {% endhint %}
 
 {% hint style="info" %}
-## FELLOWSHIP ANNOUNCEMENT
+## INTERNSHIP ANNOUNCEMENT
 
-**MONDAY, 2ND FEBRUARY 2026**
+The cohort application will be closed when the quota is reached. So apply soon!!
 {% endhint %}
 
 {% hint style="success" %}
 ## WHO CAN APPLY?
 
-Open to full-time Bachelor's and Post-Grad students in multidisciplinary fields who have an interest in areas such as Standards, Networking, Protocols, Cyber Security, etc.
+Open to full-time Bachelor's students.
 
-* Note that proof of student status will need to be submitted
-{% endhint %}
-
-{% hint style="info" %}
-## RELATED EVENT
-
-[**\[#IETF\] IETF 125**](../03-march/ietf-ietf-125.md)
+* Note that proof of student status will need to be submitted.
 {% endhint %}
 
 
 {% endcolumn %}
 {% endcolumns %}
-
-{% hint style="info" %}
-## REGISTER TO OUR LAUNCHING SESSION ON SATURDAY 10 JANUARY 2026 TO LEARN MORE ABOUT WHY YOU SHOULD BE PART OF OUR FELLOWSHIP
-
-[**\[#TIOF\] TU Fellowship IETF 125 | Launching session registration**](https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-launching)
-{% endhint %}
 
 ## Who will you meet
 
