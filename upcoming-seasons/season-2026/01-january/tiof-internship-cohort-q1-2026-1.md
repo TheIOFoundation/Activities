@@ -107,7 +107,7 @@ Participating in this Internship will grant you the opportunity to be trained an
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-internship-cohort-q1-2026-registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -303,7 +303,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-inter
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY: MONDAY, 25TH JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-internship-cohort-q1-2026-registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## Cohort
