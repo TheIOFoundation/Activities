@@ -86,8 +86,6 @@ As an Intern, you'll be a member of our Argos, a growing network of technologist
 
 <table><thead><tr><th>TIOF Team</th><th>Role</th><th width="110" data-type="number">Quantity</th><th>Background</th></tr></thead><tbody><tr><td>Infrastructure</td><td><ul><li>Networking</li><li>Automations</li><li>VPS management</li><li>LLM development</li></ul></td><td>4</td><td><p><strong>School of Electrical and Computer Engineering</strong></p><ul><li>Computer Science and Technology</li><li>Software Engineering</li><li>Cyber Security</li><li>Artificial Intelligence</li></ul></td></tr><tr><td>Resource Allocation and Mobilization</td><td><ul><li>Business Plan Development</li><li>Sales Strategy Development</li></ul></td><td>2</td><td><p><strong>School of Economics and Management</strong></p><ul><li>E-Commerce</li><li>International Business</li></ul></td></tr><tr><td>Communications</td><td><ul><li>Digital Producer</li><li>Campaigns design and execution</li><li>Community content development and execution</li></ul></td><td>2</td><td><p><strong>School of Electrical and Computer Engineering</strong></p><ul><li>Digital Media Technology</li></ul><p><strong>School of Humanities and Communication</strong></p><ul><li>Advertising</li></ul></td></tr></tbody></table>
 
-##
-
 ## Who will you meet
 
 {% columns %}
