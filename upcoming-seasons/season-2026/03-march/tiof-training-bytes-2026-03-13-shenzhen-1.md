@@ -252,11 +252,11 @@ Here's a suggested text:
 
 {% code overflow="wrap" %}
 ```
-⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #APRICOT2026!
+⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #IETF125!
 
-🎫 Register now at https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration
+🎫 Register now at https://Short.TheIOFoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage
 
-📅 Deadline: 5TH JANUARY 2026
+📅 Deadline: 25TH JANUARY 2026
 
 More information:
 https://discover.theiofoundation.org/activities/upcoming-seasons/season-2026/02-february/tiof-tu-fellowship-apricot-2026
