@@ -54,7 +54,7 @@
     * [\[#TIOF\] Argos Club Launch (Soft) - UMN](upcoming-seasons/season-2026/01-january/tiof-argos-club-launch-soft-umn/README.md)
     * [\[#TIOF\] TechUpCast 01-2026](upcoming-seasons/season-2026/01-january/tiof-techupcast-01-2026/README.md)
     * [Old \[#TIOF\] Internship Cohort Q1 2026](upcoming-seasons/season-2026/01-january/tiof-internship-cohort-q1-2026/README.md)
-    * [\[#TIOF\] Internship Cohort Q1 2026](upcoming-seasons/season-2026/01-january/tiof-tu-fellowship-ietf-125.md)
+    * [\[#TIOF\] Internship Cohort Q1 2026](upcoming-seasons/season-2026/01-january/tiof-internship-cohort-q1-2026-1.md)
   * [02 - February](upcoming-seasons/season-2026/02-february/README.md)
     * [\[#VNU\] CyberSec Asia 2026](upcoming-seasons/season-2026/02-february/vnu-cybersec-asia-2026/README.md)
     * [\[#APNG\] APNG Camp #18](upcoming-seasons/season-2026/02-february/apng-apng-camp-18/README.md)

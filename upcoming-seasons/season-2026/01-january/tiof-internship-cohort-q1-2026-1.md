@@ -75,7 +75,7 @@ The cohort application will be closed when the quota is reached. So apply soon!!
 {% hint style="info" %}
 **WHO CAN JOIN?**
 
-Full-Time Bachelor Student from various backgrounds see [#internship-details](tiof-tu-fellowship-ietf-125.md#internship-details "mention")
+Full-Time Bachelor Student from various backgrounds see [#internship-details](tiof-internship-cohort-q1-2026-1.md#internship-details "mention")
 {% endhint %}
 
 
@@ -125,7 +125,7 @@ Applicants must understand and abide by the following:
 
 You _**do not**_ need to live in Shenzhen or be a resident of China, you need to be in China during:
 
-* Training Bytes: Friday 13th March 2026 (and all the Preparation Sessions, see [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention"))
+* Training Bytes: Friday 13th March 2026 (and all the Preparation Sessions, see [#timeline](tiof-internship-cohort-q1-2026-1.md#timeline "mention"))
 * IETF Hackathon: Saturday 14th + Sunday 15th March 2026
 * IETF Meetings: Monday 16th to Friday 20th March 2026
 {% endhint %}
@@ -162,7 +162,7 @@ By becoming a Fellow you commit to the following responsibilities:
 - [\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
 - [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
 
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)).
+* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-internship-cohort-q1-2026-1.md#timeline)).
 {% endcolumn %}
 
 {% column %}
@@ -183,7 +183,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% column %}
 * [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
 * [x] Expand your career options.
-* [x] Fellowship Workshops and onsite Mentoring, including Preparation Sessions and Training Bytes see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)\
+* [x] Fellowship Workshops and onsite Mentoring, including Preparation Sessions and Training Bytes see [Timeline](tiof-internship-cohort-q1-2026-1.md#timeline)\
   **Price:** USD  2000 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
@@ -224,7 +224,7 @@ The above list of items will be explained in full during the Launching Session.
 {% step %}
 **10/01/2026:  Launching session & opening of applications**
 
-Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-125.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-125.md#responsibilities).\
+Submit your interest! Make sure to read the [Requirements](tiof-internship-cohort-q1-2026-1.md#requirements) and understand the [Responsibilities](tiof-internship-cohort-q1-2026-1.md#responsibilities).\
 <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
@@ -296,7 +296,7 @@ The cohort will meet for an online session where we will discuss feedback and ex
 {% step %}
 **02/04/2026: Issuing of digital certificates**
 
-Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-ietf-125.md#requirements) will receive a digital certificate as a proof of completion.
+Fellows who have successfully completed the [Fellowship Requirements](tiof-internship-cohort-q1-2026-1.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
 {% endstepper %}
 
