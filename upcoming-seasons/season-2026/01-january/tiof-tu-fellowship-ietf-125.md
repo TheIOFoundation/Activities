@@ -96,17 +96,7 @@ As an Intern, you'll be a member of our Argos, a growing network of technologist
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the IETF and the broader Standards Development Organizations ecosystem.
-
-{% hint style="info" %}
-## NOTICE
-
-Please note that we are  currently finalizing the guest list for this Fellowship.
-
-The information will be updated in this page in the coming days.
-
-Registered candidates will also be updated via email.
-{% endhint %}
+Participating in this Internship will grant you the opportunity to be trained and guided in your career development by prominent figures in the TIOF and the broader Standards Development Organizations ecosystem.
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
