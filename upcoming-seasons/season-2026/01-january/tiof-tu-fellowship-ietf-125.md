@@ -50,11 +50,7 @@ Your internship experience will include:
 * Capacity building through Training Bytes
 * Hands-on involvement in TIOF’s core projects and technical working groups throughout the term.
 
-### Why join this Fellowship?
 
-TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs) with their communities and the technical standards they produce.
-
-As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -76,17 +72,21 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 The cohort application will be closed when the quota is reached. So apply soon!!
 {% endhint %}
 
-{% hint style="success" %}
-## WHO CAN APPLY?
-
-Open to full-time Bachelor's students.
-
-* Note that proof of student status will need to be submitted.
-{% endhint %}
-
 
 {% endcolumn %}
 {% endcolumns %}
+
+## Why join this Fellowship?
+
+TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs) with their communities and the technical standards they produce.
+
+As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
+
+## Internship Details
+
+<table><thead><tr><th>TIOF Team</th><th>Role</th><th width="110" data-type="number">Quantity</th><th>Background</th></tr></thead><tbody><tr><td>Infrastructure</td><td><ul><li>Networking</li><li>Automations</li><li>VPS management</li><li>LLM development</li></ul></td><td>4</td><td><p><strong>School of Electrical and Computer Engineering</strong></p><ul><li>Computer Science and Technology</li><li>Software Engineering</li><li>Cyber Security</li><li>Artificial Intelligence</li></ul></td></tr><tr><td>Resource Allocation and Mobilization</td><td><ul><li>Business Plan Development</li><li>Sales Strategy Development</li></ul></td><td>2</td><td><p><strong>School of Economics and Management</strong></p><ul><li>E-Commerce</li><li>International Business</li></ul></td></tr><tr><td>Communications</td><td><ul><li>Digital Producer</li><li>Campaigns design and execution</li><li>Community content development and execution</li></ul></td><td>2</td><td><p><strong>School of Electrical and Computer Engineering</strong></p><ul><li>Digital Media Technology</li></ul><p><strong>School of Humanities and Communication</strong></p><ul><li>Advertising</li></ul></td></tr></tbody></table>
+
+##
 
 ## Who will you meet
 
