@@ -125,7 +125,7 @@ Applicants must understand and abide by the following:
 ### **Requirements**
 
 * [x] You can join the internship by two modalities based on your location of residence:\
-  In-person (for your who stays in Kuala Lumpur)
+  In-person (for your who stays or planned to stay in Kuala Lumpur during the internship)
 * [ ] Remote (for you who stays in any other part of the globe)
 * [x] Ability to work independently and collaboratively in dynamic environments
 {% endcolumn %}
@@ -151,24 +151,23 @@ Applicants must understand and abide by the following:
 {% column %}
 ### Responsibilities
 
-By becoming a Fellow you commit to the following responsibilities:
+By becoming an Intern you commit to the following responsibilities:
 
-* [x] Actively participate in the following events and activities related to this Fellowship:
+* [x] Actively participate in TIOF's core project, events and activities related to the DCDR framework
+* [x] Fullfill the duration of internship and working hour required based on the consensus between TIOF and intern, in regards of university requirement.
 
-- Preparation Sessions, see #Timeline
-- [\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
-- [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
-
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-internship-cohort-q1-2026-1.md#timeline)).
+{% hint style="warning" %}
+The IO Foundation will give a final score based to Intern performance and will produced certificate when the consensus agreed by both parties are fullfilled
+{% endhint %}
 {% endcolumn %}
 
 {% column %}
 ### &#x20;
 
-* [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
+* [x] Provide all administration documents that is required by both TIOF and respected university
 * [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
-* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [IETF LLC's Code of Conduct](https://www.ietf.org/administration/policies-procedures/code-of-conduct/).\
-  Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
+* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC)\
+  Being a TIOF Intern implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
 {% endcolumn %}
 {% endcolumns %}
 
