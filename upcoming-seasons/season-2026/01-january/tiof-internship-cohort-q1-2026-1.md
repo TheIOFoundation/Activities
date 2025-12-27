@@ -49,12 +49,7 @@ RIGHT BY DESIGN
 
 END REMEDY
 
-Your internship experience all activities within the DCDR framework, which will include but not limited to:
 
-* Dedicated mentorship from TIOF and its international network of experts
-* Involved in the TIOF global event's administration,  preparation, and execution
-* Capacity building through Training Bytes
-* Hands-on involvement in TIOF’s core projects and technical working groups throughout the term.
 
 
 {% endcolumn %}
@@ -124,8 +119,8 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] You can join the internship by two modalities based on your location of residence:\
-  In-person (for your who stays or planned to stay in Kuala Lumpur during the internship)
+* [x] You can join the internship by two modalities based on your location of residence:
+* [ ] In-person (for your who stays or planned to stay in Kuala Lumpur during the internship)
 * [ ] Remote (for you who stays in any other part of the globe)
 * [x] Ability to work independently and collaboratively in dynamic environments
 {% endcolumn %}
@@ -173,27 +168,21 @@ The IO Foundation will give a final score based to Intern performance and will p
 
 ## Benefits
 
-By participating in this Fellowship, you will enjoy the following benefits:
+By participating in this Internship, you will enjoy the following benefits:
 
 {% columns %}
 {% column %}
-* [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
-* [x] Expand your career options.
-* [x] Fellowship Workshops and onsite Mentoring, including Preparation Sessions and Training Bytes see [Timeline](tiof-internship-cohort-q1-2026-1.md#timeline)\
-  **Price:** USD  2000 **`Ticket waived`**
-* [x] Free access to the event:\
-  [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
-  **Price:** USD 160 **`Ticket waived for students`**
-* [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
-  * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
-* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
+* [x] Your internship experience all activities within the DCDR framework, which will include but not limited to:
+  * Dedicated mentorship from TIOF and its international network of experts
+  * Involved in the TIOF global event's administration,  preparation, and execution
+  * Capacity building through Training Bytes
+  * Hands-on involvement in TIOF’s core projects and technical working groups throughout the term.
 {% endcolumn %}
 
 {% column %}
-* [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
-  * [ ] Fully completion of conference session attendance
-  * [ ] \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions
+* [x] Blockchain based certificate of Internship participation (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
+  * [ ] Fully completion of Internship period and agreeable work
+  * [ ] \[#TIOF] Training Bytes and other courses participated during the internship will have its own certificates
 * [x] Access to the The IO Foundation's _TechUp Community_ where you'll be able to enhance your knowledge and career opportunities:
   * [x] Access to exclusive training by TIOF
   * [x] Priority for next Fellowship opportunities
@@ -216,7 +205,7 @@ The following items are covered in this Internship:
 
 ## Cohort
 
-The list of awardees for this cohort will be announced here after the selection process has taken place.
+The list of awardees for this cohort will be announced here in maximum 14 (fourteen) working days after registration is completed.
 
 ## Acknowledgements
 
