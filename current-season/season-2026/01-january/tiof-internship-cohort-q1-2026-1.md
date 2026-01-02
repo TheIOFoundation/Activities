@@ -238,11 +238,11 @@ Here's a suggested text:
 
 {% code overflow="wrap" %}
 ```
-⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #IETF125!
+⚡ Check out this @TIOFInternship Cohort Q1 2026 opportunity from @TheIOFoundation!
 
 🎫 Register now at https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage
 
-📅 Deadline: 25TH JANUARY 2026
+📅 Q1 Application period: THURSDAY, 1ST JANUARY - TUESDAY, 31ST MARCH 2026 23:59 (UTC+00)
 
 More information:
 https://Short.TheIOFoundation.org/tiof-tu-fellowship-ietf-125-InfoPage
