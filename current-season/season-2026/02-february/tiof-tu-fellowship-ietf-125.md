@@ -178,6 +178,7 @@ By becoming a Fellow you commit to the following responsibilities:
 - Preparation Sessions, see #Timeline
 - [\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
 - [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
+- Daily check-ins with the cohort
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)).
 {% endcolumn %}
