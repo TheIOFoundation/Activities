@@ -41,12 +41,12 @@ Please note that the **\[#TIOF] TU Fellowship IETF 2026** will run on slightly d
 Check the [Timeline](tiof-tu-fellowship-ietf-125.md#timeline) below for more details.
 {% endhint %}
 
-This is a major week-long gathering of internet experts three times a year, where volunteers from around the world collaborate in technical working groups to develop and advance open internet standards ([RFCs](https://www.google.com/search?q=RFCs\&sca_esv=8617492cf7fa5947\&ei=7mxDaYLZBuuOseMPyvffgQY\&ved=2ahUKEwiH4dKtkcaRAxVyRmwGHci9AGMQgK4QegQIARAE\&uact=5\&oq=what+is+ietf+meeting\&gs_lp=Egxnd3Mtd2l6LXNlcnAiFHdoYXQgaXMgaWV0ZiBtZWV0aW5nMgUQIRigATIFECEYnwUyBRAhGJ8FMgUQIRifBTIFECEYnwUyBRAhGJ8FMgUQIRifBTIFECEYnwVIjRxQjgZYyRRwAXgBkAEBmAHLAaAB3waqAQU1LjIuMbgBA8gBAPgBAZgCCKACuQXCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICExAuGIAEGLADGNEDGEMYxwEYigXCAgUQABiABMICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgcQIRigARgKmAMAiAYBkAYKkgcDNi4yoAeCKLIHAzUuMrgHsgXCBwUwLjUuM8gHGIAIAA\&sclient=gws-wiz-serp\&mstk=AUtExfCwy7f1PlYAFIeQXspPHbJgabsw6uDjCWidRZt_NDLtKA-7oN447Az0-CnfMJTmn2yYeZuCXssUKd7AjTbuNFeT4haZd8IKpU-mjhc8t2Oj3K6MOheTlUR0Nb2t78IX3QZW7sgEHkrMFWwwm3hzs6Vh-ItHqxU0c7c-9bJpJl1HD3frdS570VQ_oopKdeaXrI28\&csui=3)) that keep the internet running and improving. These meetings include intense technical sessions, hackathons, tutorials and opportunities for new members to learn, with a focus on "rough consensus and running code" to build the internet's technical foundation.
+IETF meetings are a major, week-long gathering of Internet experts that happens three times a year, where volunteers from around the world collaborate in technical working groups to develop and advance open internet standards ([RFCs](https://www.ietf.org/process/rfcs/)) that keep the Internet running and improving. These meetings include intense technical sessions, a hackathon, training for new participants and opportunities for new members to learn, with a focus on `rough consensus and running code` to build the Internet's technical foundation.
 
 The Fellowship will include:
 
 * **Four preparation sessions (see** [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention")**)**
-* **A Training Bytes session:** [**\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN**](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
+* **A Training Bytes session:** [**\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN**](../03-march/tiof-training-bytes-2026-03-13-shenzhen-1.md)
 * **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 14th to Friday 20th March 2026.**
 
 ### Why join this Fellowship?
@@ -70,9 +70,17 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endhint %}
 
 {% hint style="info" %}
+## LAUNCHING SESSION
+
+<a class="button primary" data-icon="rocket-launch">REGISTER</a>
+{% endhint %}
+
+{% hint style="info" %}
 ## FELLOWSHIP ANNOUNCEMENT
 
 **MONDAY, 2ND FEBRUARY 2026**
+
+<a href="tiof-tu-fellowship-ietf-125.md#cohort" class="button primary" data-icon="people-pants">Meet the Fellows</a>
 {% endhint %}
 
 {% hint style="success" %}
@@ -88,8 +96,6 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 
 [**\[#IETF\] IETF 125**](../03-march/ietf-ietf-125.md)
 {% endhint %}
-
-
 {% endcolumn %}
 {% endcolumns %}
 
@@ -97,6 +103,8 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 ## REGISTER TO OUR LAUNCHING SESSION ON SATURDAY 10 JANUARY 2026 TO LEARN MORE ABOUT WHY YOU SHOULD BE PART OF OUR FELLOWSHIP
 
 [**\[#TIOF\] TU Fellowship IETF 125 | Launching session registration**](https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-launching)
+
+**(Only registered applicants can attend this session:** [**Register now**](https://join.theiofoundation.org/applications/682993ca-6376-4925-80f9-a3e5b26001fb)**)**
 {% endhint %}
 
 ## Who will you meet
@@ -135,7 +143,7 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Located in Shenzhen for the duration of the Fellowship, and follow the IETF in-time for those join remotely
+* [x] Located in Shenzhen for the duration of the Fellowship, and follow the IETF in-time for those joining remotely
 
 {% hint style="success" %}
 ## CLARIFICATION
@@ -144,7 +152,7 @@ You _**do not**_ need to live in Shenzhen or be a resident of China, you need to
 
 * Training Bytes: Friday 13th March 2026 (and all the Preparation Sessions, see [#timeline](tiof-tu-fellowship-ietf-125.md#timeline "mention"))
 * IETF Hackathon: Saturday 14th + Sunday 15th March 2026
-* IETF Meetings: Monday 16th to Friday 20th March 2026
+* IETF Meeting: Monday 16th to Friday 20th March 2026
 {% endhint %}
 
 * [x] Ability to work independently and collaboratively in dynamic environments
@@ -175,7 +183,7 @@ By becoming a Fellow you commit to the following responsibilities:
 
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
-- Preparation Sessions, see #Timeline
+- Preparation Sessions (see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline))
 - [\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
 - [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
 - Daily check-ins with the cohort
@@ -201,18 +209,21 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% column %}
 * [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
 * [x] Expand your career options.
-* [x] Fellowship Workshops and onsite Mentoring, including Preparation Sessions and Training Bytes see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline)\
+* [x] Transport to and from Shenzhen and accommodation
+* [x] Fellowship Workshops and onsite mentoring, including Preparation Sessions and Training Bytes (see [Timeline](tiof-tu-fellowship-ietf-125.md#timeline))\
   **Price:** USD  2000 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
   **Price:** USD 160 **`Ticket waived for students`**
 * [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
-  * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
-* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
+  * [x] Meet and greet with all the speakers and VIPs attending [#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)\
+    **Price:** USD 200 **`Ticket waived`**
+  * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
+    **Price:** USD 30 **`Ticket waived`**
 {% endcolumn %}
 
 {% column %}
+* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 * [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
   * [ ] Fully completion of conference session attendance
   * [ ] \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions
@@ -228,7 +239,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 The following items are covered in this Fellowship:
 
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Training Bytes ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.</td></tr><tr><td valign="top">Transportation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their transportation.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their accommodation.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">F&#x26;B</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>Fellows will benefit of F&#x26;B as provided by the event.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Visa</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>This Fellowship <strong>may</strong> not involve any visas depending on your passport.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Training Bytes ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.<br><strong>NOTE: TIOF will cover this cost for non-students subject to securing funding.</strong></td></tr><tr><td valign="top">Transportation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their transportation.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>Fellows will have to arrange for their accommodation.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">F&#x26;B</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>Fellows will benefit of F&#x26;B as provided by the event and complemented with a stipend.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Visa</td><td><span data-option="92I4vhzEL4b9">As applicable</span></td><td>This Fellowship <strong>may</strong> involve visas depending on your passport.<br><strong>NOTE: TIOF will facilitate a package through an agent.</strong></td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
 
 {% hint style="warning" %}
 ## NOTICE
@@ -330,6 +341,8 @@ The list of awardees for this cohort will be announced here after the selection 
 
 ## Acknowledgements
 
+The IO Foundation extends its deepest gratitude to our Sponsors and valued Partners, whose unwavering support makes this fellowship possible.
+
 {% columns %}
 {% column %}
 ### Sponsors
@@ -340,7 +353,7 @@ The list of awardees for this cohort will be announced here after the selection 
 {% column %}
 ### Partners
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Universitas Multimedia Nusantara (UMN)</strong></td><td></td><td><a href="../../../.gitbook/assets/Universitas Multimedia Nusantara (UMN).png">Universitas Multimedia Nusantara (UMN).png</a></td></tr><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
