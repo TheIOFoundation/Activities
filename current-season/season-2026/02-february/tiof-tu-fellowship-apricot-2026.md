@@ -281,6 +281,8 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 
 The list of awardees for this cohort will be announced here after the selection process has taken place.
 
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><strong>I Gusti Bagus Baskara Nugraha</strong></td></tr><tr><td align="center"><strong>Hsueh Fu-Jen</strong> </td></tr><tr><td align="center"><strong>Dr. Irmawati, S.Kom., MMSI</strong></td></tr><tr><td align="center"><strong>Ibni Inggrianti</strong></td></tr></tbody></table>
+
 ## Acknowledgements
 
 {% columns %}
