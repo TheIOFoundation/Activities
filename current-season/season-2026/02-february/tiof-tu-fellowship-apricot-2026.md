@@ -70,6 +70,8 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 ## FELLOWSHIP ANNOUNCEMENT
 
 **FRIDAY, 9TH JANUARY 2026**
+
+<a href="tiof-tu-fellowship-apricot-2026.md#cohort" class="button primary" data-icon="people-pants">Meet the Fellows</a>
 {% endhint %}
 
 {% hint style="success" %}
