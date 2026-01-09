@@ -36,7 +36,7 @@ The IO Foundation, is seeking passionate and dedicated individuals to join our c
 {% hint style="warning" %}
 ## NOTICE
 
-Please note that the **\[#TIOF] TU Fellowship IETF 2026** will run on slightly different dates than IETF 2026.
+Please note that the **\[#TIOF] TU Fellowship IETF 2026** will run on slightly different dates than IETF 125.
 
 Check the [Timeline](tiof-tu-fellowship-ietf-125.md#timeline) below for more details.
 {% endhint %}
@@ -78,7 +78,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="success" %}
 ## WHO CAN APPLY?
 
-Open to full-time Bachelor's and Post-Grad students in multidisciplinary fields who have an interest in areas such as Standards, Networking, Protocols, Cyber Security, etc.
+Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and _Researchers_ in multidisciplinary fields who have an interest in areas such as Standards, Networking, Protocols, Cyber Security, etc.
 
 * Note that proof of student status will need to be submitted
 {% endhint %}
