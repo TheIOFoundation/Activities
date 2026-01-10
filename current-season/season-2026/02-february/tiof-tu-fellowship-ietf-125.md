@@ -87,7 +87,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endhint %}
 
 {% hint style="success" %}
-## WHO CAN APPLY?
+## WHO SHOULD APPLY?
 
 Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and _Researchers_ in multidisciplinary fields who have an interest in areas such as Standards, Networking, Protocols, Cyber Security, etc.
 
