@@ -75,7 +75,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 <a class="button primary" data-icon="rocket-launch">REGISTER</a>
 
 \
-<a href="https://www.youtube.com/watch?v=ZASyXOjsoxQ" class="button primary" data-icon="film">WATCH AGAIN</a>
+<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-125-LaunchingRecording" class="button primary" data-icon="film">WATCH AGAIN</a>
 {% endhint %}
 
 {% hint style="info" %}
