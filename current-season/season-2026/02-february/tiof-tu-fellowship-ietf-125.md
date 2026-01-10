@@ -73,6 +73,9 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 ## LAUNCHING SESSION
 
 <a class="button primary" data-icon="rocket-launch">REGISTER</a>
+
+\
+<a href="https://www.youtube.com/watch?v=ZASyXOjsoxQ" class="button primary" data-icon="film">WATCH AGAIN</a>
 {% endhint %}
 
 {% hint style="info" %}
@@ -98,14 +101,6 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
-
-{% hint style="info" %}
-## REGISTER TO OUR LAUNCHING SESSION ON SATURDAY 10 JANUARY 2026 TO LEARN MORE ABOUT WHY YOU SHOULD BE PART OF OUR FELLOWSHIP
-
-[**\[#TIOF\] TU Fellowship IETF 125 | Launching session registration**](https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-launching)
-
-**(Only registered applicants can attend this session:** [**Register now**](https://join.theiofoundation.org/applications/682993ca-6376-4925-80f9-a3e5b26001fb)**)**
-{% endhint %}
 
 ## Who will you meet
 
