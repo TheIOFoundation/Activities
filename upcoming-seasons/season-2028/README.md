@@ -1,5 +1,6 @@
 ---
 hidden: true
+noIndex: true
 icon: leaf
 cover: ../../.gitbook/assets/TEMPLATE.png
 coverY: 0

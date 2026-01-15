@@ -1,5 +1,6 @@
 ---
 description: ⚡Brewing something new. Thanks for hanging in there!
+noIndex: true
 icon: person-digging
 cover: ../.gitbook/assets/image (1).jpg
 coverY: 0
@@ -24,8 +25,10 @@ layout:
 
 # Section Under Maintenance
 
+
+
 {% hint style="danger" %}
-#### DISCLAIMER
+**DISCLAIMER**
 
 Please note that this site is currently undergoing maintenance to update its content.\
 \
