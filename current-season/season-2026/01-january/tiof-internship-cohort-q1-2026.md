@@ -1,5 +1,6 @@
 ---
 hidden: true
+noIndex: true
 icon: calendar-circle-user
 cover: >-
   ../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship

@@ -1,6 +1,7 @@
 ---
 description: TechUp Academy
 hidden: true
+noIndex: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Grayscaleimage63512.jpg
 coverY: 0
