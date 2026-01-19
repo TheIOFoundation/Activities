@@ -54,13 +54,6 @@ The Fellowship will include:
 TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs) with their communities and the technical standards they produce.
 
 As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
-
-{% hint style="success" %}
-Contact Us for more info:
-
-* **Email:** [Contact@TheIOFoundation.org](mailto:Contact@TheIOFoundation.org?subject=Reaching%20out%20from%20the%20website.)​
-* ​**Telegram:** [@TIOFContact](https://t.me/TIOFContact)
-{% endhint %}
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -108,6 +101,13 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
+
+{% hint style="success" %}
+## Contact Us for more info:
+
+* **Email:** [Contact@TheIOFoundation.org](mailto:Contact@TheIOFoundation.org?subject=Reaching%20out%20from%20the%20website.)​
+* ​**Telegram:** [@TIOFContact](https://t.me/TIOFContact)
+{% endhint %}
 
 ## Who will you meet
 
