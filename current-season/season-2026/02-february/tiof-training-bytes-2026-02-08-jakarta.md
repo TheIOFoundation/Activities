@@ -28,19 +28,16 @@ layout:
 {% column width="58.333333333333336%" %}
 ### About
 
-On the occasion APRICOT 2026 happening in Jakarta, Indonesia, The IO Foundation organizes a training session on the topic of Network Operator Groups (NOGs) and to explore the latest operational technologies and best practices presented during the summit.
+On the occasion APRICOT 2026 & APNIC 61 happening in Jakarta, Indonesia, The IO Foundation organizes a training session on the topic of Network Operator Groups (NOGs) and to explore the latest operational technologies and best practices presented during the summit.
 
 This Training Bytes session will focus on practical approaches and implementation strategies for enhancing user safety and privacy directly within network operations and infrastructure.
 
 Participants will:
 
-* **Implement Secure Protocols**: Learn about the most crucial, recently ratified IETF protocols (e.g., DNS over HTTPS/TLS, BGP security extensions) and how to deploy them effectively on live networks.
-* **Operationalize User Protection**: Identify common network vulnerabilities where operator-side configurations can immediately improve user protection and data integrity (e.g., reducing metadata leakage).
-* **Identify Relevant NOG Practices**: Learn which technical practices and configurations are currently being prioritized by Network Operator Groups (NOGs) and the APNIC community for optimal regional security.
-* **Engage with the Community**: Explore effective strategies for engaging with the APNIC community and other key operational forums (like the APRICOT Peering Forum) through the Data-Centric Digital Rights framework.
-* **Prepare for APRICOT**: Learn how to actively participate and extract value from the upcoming APRICOT 2026 workshops and hands-on labs, focusing on real-world case studies from the Asia Pacific region.
-
-The session aims to equip network engineers and system administrators with the knowledge and configuration tools necessary to build and maintain secure, privacy-preserving networks that prioritize user rights in the global digital landscape.
+* **Understand the DCDR advocacy:** Participants will learn how The IO Foundation advances Data-Centric Digital Rights by embedding protections directly into technical standards. They will explore practical strategies to influence global and regional governance bodies so that users are protected by design.
+* **Build knowledge of the Internet governance ecosystem:** Participants will study key players including ICANN (PDPs), IETF, APNIC, RIRs, NOGs and ISOC, allowing them to form an understanding on how technical and operational decisions shape the Internet.
+* **Prepare for the Summit**: Learn how to actively participate and extract value from the upcoming APRICOT 2026 & APNIC 61 sessions.
+* **Engage with the Community**: Explore effective strategies for engaging with the APRICOT & APNIC communities and other key operational forums (like the APRICOT Peering Forum).
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -50,9 +47,7 @@ The session aims to equip network engineers and system administrators with the k
 [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md)
 {% endhint %}
 
-<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
-
-<div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<p align="center"><a class="button primary" data-icon="tickets">REGISTER NOW</a></p>
 
 {% hint style="warning" %}
 ### **RSVP DEADLINE**
@@ -77,7 +72,9 @@ This Training Bytes is exclusively reserved to Fellows accepted in the [\[#TIOF\
 {% hint style="info" %}
 ### RELATED EVENT
 
-[**\[#APNOG\] APRICOT 2026**](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
+[**\[#APNOG\] APRICOT 2026**](temp-apnog-apricot-2026.md)
+
+[**\[#APNIC\] APNIC 61**](apnic-apnic-61.md)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -92,36 +89,31 @@ This Training Bytes is exclusively reserved to Fellows accepted in the [\[#TIOF\
 Training Bytes
 
 📚 **Series**\
-Rights By Design
+DCDR Series
 
 💵 Price\
 USD 150 (Sponsored)\
-See \[#TIOF] TU Fellowship APRICOT 2026
+See [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md)
 
 🎫 **RSVP**\
-This is an exclusive activity for the fellows of the \[#TIOF] TU Fellowship APRICOT 2026 cohort.
+This is an exclusive activity for the fellows of the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md) cohort.
 {% endcolumn %}
 
 {% column %}
 **📅 Date Start**\
 Sunday 8th February 2026\
-13:00 (UTC+07)
+14:30 (UTC+07)
 
 📅 **Date End**\
 Sunday 8th February 2026\
 18:00 (UTC+07)
 
 [**📍**](https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8) **Location**\
-TBA - The final location will be announced at a later date.\
+Sheraton Club Meeting Room\
+Sheraton Grand Jakarta Gandaria City\
 Jakarta, Indonesia<br>
 {% endcolumn %}
 {% endcolumns %}
-
-## Modalities
-
-Participation in this Training Bytes can be done through the following modalities:
-
-<table data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>CATEGORY 5</td><td>Fellows of a cohort</td></tr></tbody></table>
 
 ## Who will you meet
 
@@ -141,40 +133,37 @@ Registered candidates will also be updated via email.
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director</td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director</td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
 {% hint style="warning" %}
 ### LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)** <a class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **What will you learn**
 
-### Key Standards and Operational Bodies
+#### **1. TIOF’s Mission & DCDR Framework**
 
-This session examines the organizations that most directly impact the day-to-day operations and security of networks in the Asia Pacific region:
+Understand The IO Foundation’s vision of a world where Human Rights and Data-Centric Digital Rights (DCDR) are one and the same. You will learn how DCDR provides technologists with principles, taxonomies and tools to treat users and their digital twins responsibly, positioning developers and engineers as the next generation of rights defenders and architects of digital civilizations.
 
-#### 1. Internet Engineering Task Force (IETF)
+#### **2. The Global Internet Standards & Governance Ecosystem (SDOs)**
 
-* Role: The primary body for developing and publishing Internet standards and protocols (like TCP/IP, HTTPS, and BGP security).
-* Relevance to APRICOT: While they don't govern, their output (RFCs) is the technical blueprint that every network operator must implement. Our session focuses on implementing their security and privacy-enhancing protocols. \*
+Get a solid map of how the Internet is built and governed: from major Standards Development Organizations (SDOs) to major Policy Development Organizations (PDOs) with a special focus on **ICANN** and the **Regional Internet Registries (RIRs)** such as **APNIC** and its community-driven policy work in the Asia-Pacific.
 
-#### 2. APNIC (Asia Pacific Network Information Centre)
+#### **3. Network Operators & Operational Communities**
 
-* Role: The Regional Internet Registry (RIR) for the Asia Pacific. They manage and distribute the Internet's core resources (IP addresses and AS numbers).
-* Relevance to APRICOT: They are the governing authority for the resources you operate with. Their policies directly affect routing security (RPKI), IP address transfers, and IPv6 deployment—all core topics at APRICOT. \*
+Discover what **Network Operators Groups (NOGs)** really are: essential, informal forums where real-world Internet engineers from ISPs, IXPs, enterprises, academia share knowledge, solve daily challenges (routing/security/peering), exchange best practices and keep the Internet stable and growing. You will explore their influence on infrastructure resilience, the real frontline where technical decisions directly impact user protections and rights.
 
-#### 3. The APRICOT Community & Network Operator Groups (NOGs)
+#### **4. Asia-Pacific Regional Leadership: APNOG & APRICOT**
 
-* Role: These are local and regional bodies (like MyNOG, IDNOG, JANOG) that represent the Network Operator's perspective. They distill global standards into practical, localized best practices.
-* Relevance to APRICOT: This community drives the adoption and refinement of technical standards across the region. They are the target audience and the primary source of operational knowledge shared at the conference.
+Dive into the **APRICOT** Summit, the region’s premier gathering for network operators, engineers, researchers and policy experts brought to you by the **Asia Pacific Network Operators Group (APNOG)**.
 
-### Agenda
+## Agenda
 
-<table><thead><tr><th width="91.00006103515625">Time</th><th width="185.9998779296875">Activity</th><th>Content</th></tr></thead><tbody><tr><td>12.00</td><td>📋 Registration Opens</td><td></td></tr><tr><td>13.00<br><br></td><td><p>💡 Session 1</p><p><br><br></p></td><td><p><em><strong>Understanding</strong></em><br>Mapping the Ecosystem: Who Runs the APAC Internet (And Why They Meet)<br></p><p>The "Big Three" Explained: The distinct roles of APNIC (The Registry), APNOG (The Organizer), and APRICOT (The Event).* Governance vs. Operations: How technical standards from the IETF are implemented and discussed by network operators (NOGs).* The Language of Resources: Simplified explanation of IP Addresses (IPv4/IPv6) and AS Numbers—what they are and why their scarcity/security is the central policy issue.* APNIC's Policy Cycle: How attendees can follow and influence policies regarding IP resource allocation and security (e.g., RPKI). * Outcome: Fellows will recognize the key organizations and understand the core resource terminology used in plenary sessions and hallway conversations.</p><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td>15:00</td><td>🥐 Break 15 minutes</td><td></td></tr><tr><td>15:15<br></td><td>💡 Session 2<br></td><td><p><em><strong>Understanding</strong></em><br>Translating Rights to Routing: Security, Privacy, and the APRICOT Agenda</p><p>* The IOF Framework Bridge: Using the Data-Centric Digital Rights framework to identify parallel technical issues on the APRICOT agenda (e.g., Privacy <span class="math">$\rightarrow$</span> Secure DNS; Anti-Censorship <span class="math">$\rightarrow$</span> Routing Security).* Hot Topics in Jakarta (2026): Introduction to key technical security issues and their impact on users: BGP Hijacking, RPKI Adoption, and IPv6 Deployment.* Engaging with Engineers: Strategies for effective communication with network operators and technical experts during workshops and social events.* APRICOT Navigation Guide: Practical tips for the fellows: how to select relevant sessions, where to find policy meetings, and whom to approach (e.g., APNIC staff, NOG leaders).* Outcome: Fellows will be prepared to identify relevant sessions, translate their policy concerns into technical language, and confidently engage with the APRICOT community.<br><br></p></td></tr><tr><td>17:15<br><br></td><td>💬 Wrap up<br><br></td><td></td></tr><tr><td>17:30</td><td>💬 Meet and Greet</td><td></td></tr><tr><td>18:00</td><td>🏁 End</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="91.00006103515625" valign="top">Time</th><th width="185.9998779296875" valign="top">Activity</th><th valign="top">Content</th></tr></thead><tbody><tr><td valign="top">14:30</td><td valign="top">🖖 <strong>Welcome &#x26; Introductions</strong></td><td valign="top"></td></tr><tr><td valign="top">15:00<br><br></td><td valign="top"><p><strong>💡 Session 1</strong></p><p><br><br></p></td><td valign="top"><p><em><strong>Understanding</strong></em></p><ul class="contains-task-list"><li><input type="checkbox">About The IO Foundation (TIOF)</li><li><input type="checkbox">Fellowship Logistics</li><li><input type="checkbox">Introduction to the SDO Ecosystem</li></ul><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td valign="top">16:00</td><td valign="top">🥐 Break 15 minutes</td><td valign="top"></td></tr><tr><td valign="top">16:15<br></td><td valign="top"><strong>💡 Session 2</strong><br></td><td valign="top"><p><em><strong>Understanding</strong></em></p><ul class="contains-task-list"><li><input type="checkbox">Introduction to the SDO &#x26; PDO Ecosystem</li><li><input type="checkbox">ICANN &#x26; Policy Development Processes (PDPs)</li><li><input type="checkbox">RIRs → APNIC</li><li><input type="checkbox">What are Network Operators Groups (NOGs)</li><li><input type="checkbox">APNOG &#x26; APRICOT</li><li><input type="checkbox">APRICOT 2026 + APNIC 61 Activities</li><li><input type="checkbox">Fellowship Assignments &#x26; Expectations (10 min)</li></ul><p><br>S<em>peaker:</em><br>Jean F. Queralt</p></td></tr><tr><td valign="top">17:15<br><br></td><td valign="top"><strong>💬 Wrap up</strong><br><br></td><td valign="top"></td></tr><tr><td valign="top">17:30</td><td valign="top"><strong>💬 Meet and Greet</strong></td><td valign="top"></td></tr><tr><td valign="top">18:00</td><td valign="top">🏁 <strong>End</strong></td><td valign="top"></td></tr></tbody></table>
 
 ## **Terms of Reference**
 
@@ -188,11 +177,11 @@ Please refer to the [Requirements](tiof-tu-fellowship-apricot-2026.md#requiremen
 
 Please refer to the [Responsibilities](tiof-tu-fellowship-apricot-2026.md#responsibilities) of the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
-## Benefits
+### Benefits
 
 Please refer to the [Benefits](tiof-tu-fellowship-apricot-2026.md#benefits) of the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
-## What is covered
+### What is covered
 
 Please see [What is covered](tiof-tu-fellowship-apricot-2026.md#what-is-covered) on the [\[#TIOF\] TU Fellowship APRICOT 2026](tiof-tu-fellowship-apricot-2026.md).
 
@@ -203,7 +192,7 @@ Please see [Timeline](tiof-tu-fellowship-apricot-2026.md#timeline) on the [\[#TI
 {% hint style="warning" %}
 ### LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-APRICOT-2026-Registration" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)** <a class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## Acknowledgements
@@ -326,15 +315,11 @@ The venue for this Training Bytes will be announced at a later date.
 
 </details>
 
-{% tabs %}
-{% tab title="Materials" %}
-```
- RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
-```
-{% endtab %}
-{% endtabs %}
 
-## Attributions
+
+<details>
+
+<summary><strong>Attributions</strong></summary>
 
 Photos by
 
@@ -342,3 +327,5 @@ Photos by
 * [Walls.io](https://unsplash.com/@walls_io?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-paper-with-a-pen-on-it-IJRayDxr5ek?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
+
+</details>
