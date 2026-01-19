@@ -54,9 +54,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-apricot-2026-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
-
-<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship APRICOT 2026 - QR Code HR Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<p align="center"><a class="button primary" data-icon="tickets">REGISTER NOW</a></p>
 
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
@@ -86,7 +84,9 @@ Open to full-time students Bachelor, Post-Grad students and lecturers in relevan
 {% hint style="info" %}
 ## RELATED EVENT
 
-[**\[#APNOG\] APRICOT 2026**](/broken/pages/H9IsE4nXjvXGlEHD9Uei)
+[**\[#APNOG\] APRICOT 2026**](temp-apnog-apricot-2026.md)
+
+[**\[#APNIC\] APNIC 61**](apnic-apnic-61.md)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -109,14 +109,14 @@ Registered candidates will also be updated via email.
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director </td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Christopher Locke</td><td>Managing Director </td><td><em>Internet Society Foundation</em></td><td><a href="../../../.gitbook/assets/Copy of Gitbook Card.png">Copy of Gitbook Card.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-apricot-2026-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -225,7 +225,7 @@ The following items are covered in this Fellowship:
 **16/12/2025: Opening of applications**&#x20;
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-apricot-2026.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-apricot-2026.md#responsibilities).\
-<a href="https://short.theiofoundation.org/tiof-tu-fellowship-apricot-2026-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+<a class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endstep %}
 
 {% step %}
@@ -274,14 +274,14 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-apricot-2026-registrationhrpage" class="button primary" data-icon="tickets">REGISTER NOW</a>
+**APPLY BY MONDAY 5th JANUARY 2026 23:59 (UTC+00)**   <a class="button primary" data-icon="tickets">REGISTER NOW</a>
 {% endhint %}
 
 ## Cohort
 
 The list of awardees for this cohort will be announced here after the selection process has taken place.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><strong>I Gusti Bagus Baskara Nugraha</strong></td></tr><tr><td align="center"><strong>Hsueh Fu-Jen</strong> </td></tr><tr><td align="center"><strong>Dr. Irmawati, S.Kom., MMSI</strong></td></tr><tr><td align="center"><strong>Ibni Inggrianti</strong></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center"><strong>I Gusti Bagus Baskara Nugraha</strong></td><td align="center"><em>Indonesia</em></td></tr><tr><td align="center"><strong>Hsueh Fu-Jen</strong> </td><td align="center"><em>Taiwan</em></td></tr><tr><td align="center"><strong>Dr. Irmawati, S.Kom., MMSI</strong></td><td align="center"><em>Indonesia</em></td></tr><tr><td align="center"><strong>Ibni Inggrianti</strong></td><td align="center"><em>Indonesia</em></td></tr><tr><td align="center"><strong>Varrel Sinaga</strong></td><td align="center"><em>Indonesia</em></td></tr><tr><td align="center"><strong>Tevanraj Elengoe</strong></td><td align="center"><em>Malaysia</em></td></tr></tbody></table>
 
 ## Acknowledgements
 
@@ -385,7 +385,11 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
 
 </details>
 
-## Attributions
+
+
+<details>
+
+<summary><strong>Attributions</strong></summary>
 
 Photos by
 
@@ -394,3 +398,4 @@ Photos by
 * [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 
+</details>
