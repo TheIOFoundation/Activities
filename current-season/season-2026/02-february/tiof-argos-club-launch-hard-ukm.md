@@ -1,4 +1,7 @@
 ---
+description: >-
+  Check out all the information about the launch of our Argos Club at the
+  Universitas Kristen Maranatha (UKM).
 hidden: true
 noIndex: true
 icon: calendar-circle-user
@@ -25,7 +28,7 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] Argos Club Launch (Hard) - UMN
+# \[#TIOF] Argos Club Launch - UKM
 
 {% hint style="danger" %}
 ### NOTICE

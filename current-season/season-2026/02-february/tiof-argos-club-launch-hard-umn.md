@@ -1,4 +1,7 @@
 ---
+description: >-
+  Check out all the information about the launch of our Argos Club at the
+  Universitas Multimedia Nusantara (UMN).
 hidden: true
 noIndex: true
 icon: calendar-circle-user
@@ -25,7 +28,7 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] Argos Club Launch (Hard) - UKM
+# \[#TIOF] Argos Club Launch - UMN
 
 {% hint style="danger" %}
 ### NOTICE
