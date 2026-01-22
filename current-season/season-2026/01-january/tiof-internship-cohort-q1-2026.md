@@ -3,8 +3,8 @@ hidden: true
 noIndex: true
 icon: calendar-circle-user
 cover: >-
-  ../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship
-  APRICOT 2026 - Gitbook Hero XXX v1.0.png
+  ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
+  Introduction XXX v1.0.png
 coverY: 0
 layout:
   width: default
@@ -110,7 +110,7 @@ Participating in this Internship will grant you the opportunity to be trained an
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Olaf Kolkman</td><td>Principal - Internet Technology, Policy, and Advocacy</td><td><em>Internet Society</em></td><td><a href="../../../.gitbook/assets/Grayscaleimage79051.png">Grayscaleimage79051.png</a></td></tr><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td>Yug Desai</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/yug Desai.png">yug Desai.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td>Yug Desai</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/yug Desai.png">yug Desai.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -201,7 +201,7 @@ By participating in this Internship, you will enjoy the following benefits:
 
     * [x] Fully completion of Internship period and agreeable work
 
-    `Note: [#TIOF] Training Bytes and other courses participated during the internship will have its own certificates`
+    `Note: [#TIOF] Training Bytes and other courses participated during the internship will have their own certificates`
 * [x] Access to the The IO Foundation's _TechUp Community_ where you'll be able to enhance your knowledge and career opportunities:
   * [x] Access to exclusive training by TIOF
   * [x] Priority for next Fellowship opportunities
@@ -244,7 +244,7 @@ The list of awardees for this cohort will be announced here in maximum 14 (fourt
 
 ## Sponsorship Opportunities
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Support Fellows</strong></td><td>Would you like to support technologists in their career towards protecting users?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png</a></td></tr><tr><td><strong>Support The IO Foundation</strong></td><td>Would you like to support The IO Foundation in its advocacy towards a Rights-by-Design digital ecosystem?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Favicon XXX v1.0.png">[TIOF] Comms [P] Favicon XXX v1.0.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Support Interns</strong></td><td>Would you like to support technologists in their career towards protecting users?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png</a></td></tr><tr><td><strong>Support The IO Foundation</strong></td><td>Would you like to support The IO Foundation in its advocacy towards a Rights-by-Design digital ecosystem?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Favicon XXX v1.0.png">[TIOF] Comms [P] Favicon XXX v1.0.png</a></td></tr></tbody></table>
 
 ## Share this opportunity
 
@@ -303,27 +303,12 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
  OTHER RESOURCE MATERIALS WILL BE PUBLISHED AS NEEDED.
 ```
 
-| Organization                                                                              | Topic                                                                                                                                   | Notes                                                                                        |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>              | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)                                                                                     | Code of Conduct for all TIOF activities.                                                     |
-|                                                                                           | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                                        | A digital adaptation of the Chatham House Rule.                                              |
-|                                                                                           | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs)                                                                       | Information on The IO Foundation's advocacy.                                                 |
-|                                                                                           | Presentation Slides                                                                                                                     |                                                                                              |
-| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/)      | [ICANN Policy](https://www.icann.org/policy)                                                                                            | Learn how to participate in ICANN Policy Development Processes (PDPs)                        |
-|                                                                                           | [ICANN for Beginners](https://www.icann.org/en/beginners)                                                                               | A good starting point for anyone wanting to participate in ICANN processes.                  |
-|                                                                                           | [Board of Directors](https://itp.cdn.icann.org/en/files/about-the-board/getting-to-know-the-icann-board-of-directors-16-08-2022-en.pdf) | Infographic depicting the composition of the ICANN Board.                                    |
-| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                       | [Attending a KSK Ceremony](https://www.iana.org/help/key-ceremony-attendance)                                                           | Information to participate on a KSK Ceremony.                                                |
-|                                                                                           | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)                                   |                                                                                              |
-|                                                                                           | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                                          | Recordings of previous KSK Ceremonies.                                                       |
-| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>          | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                                                   | Information on how to become an ISOC individual member.                                      |
-|                                                                                           | [Pulse](https://pulse.internetsociety.org/)                                                                                             | ISOC project to evaluate the availability, evolution, and resilience of the global Internet. |
-|                                                                                           | [2025 Action Plan](https://www.internetsociety.org/wp-content/uploads/2024/11/2025-Action-Plan-EN.pdf)                                  | Learn what is ISOC up to during 2025.                                                        |
-| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [Datatracker](https://datatracker.ietf.org/)                                                                                            | Centralized repository of all things IETF.                                                   |
-|                                                                                           | [Ornithology PDF](https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf)                                              |                                                                                              |
-|                                                                                           | [NomCom](https://www.ietf.org/about/groups/nomcom/)                                                                                     | Information on the Nominating Commitee.                                                      |
-| [International Telecommunications Union (ITU)](https://www.itu.int/en/Pages/default.aspx) | [Telecommunication Standardization (ITU-T)](https://www.itu.int/en/ITU-T/Pages/default.aspx)                                            |                                                                                              |
-|                                                                                           | [Study Groups (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/Pages/default.aspx)                                       | List of ITU-T Study Groups for the Study Cycle 2025-2028.                                    |
-| [World Wide Web Consortium (W3C)](https://www.w3.org/)                                    | [Get involved](https://www.w3.org/get-involved/)                                                                                        | Information on getting involved in W3C work.                                                 |
+| Organization                                                                 | Topic                                                             | Notes                                           |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------- |
+| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p> | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)               | Code of Conduct for all TIOF activities.        |
+|                                                                              | [Dhatham House Rule](https://tiof.click/Dhatham)                  | A digital adaptation of the Chatham House Rule. |
+|                                                                              | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs) | Information on The IO Foundation's advocacy.    |
+|                                                                              | Presentation Slides                                               |                                                 |
 {% endtab %}
 {% endtabs %}
 
@@ -333,7 +318,7 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
 
 <summary>Let us answer any doubts you may have.</summary>
 
-<i class="fa-circle-question">:circle-question:</i> Is this Fellowship opportunity free?
+<i class="fa-circle-question">:circle-question:</i> Is this Internship opportunity free?
 
 <i class="fa-circle-a">:circle-a:</i> Yes
 
