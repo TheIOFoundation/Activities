@@ -53,7 +53,7 @@ Interns collaborate by:
 {% column width="41.666666666666664%" %}
 <p align="center"><a href="https://short.theiofoundation.org/tiof-internship-cohort-q1-2026-registration" class="button primary" data-icon="tickets">REGISTER NOW</a></p>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship IETF 125 - QR Code HR Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/qr-code-150912_4096px.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ## **SUBMISSION PERIOD**
