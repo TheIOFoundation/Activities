@@ -262,7 +262,13 @@ Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ie
 {% endstep %}
 
 {% step %}
-**25/01/26: Closing of applications**
+~~**25/01/26: Closing of applications**~~
+
+~~Applications will not be accepted beyond this date (UTC + 00).~~
+{% endstep %}
+
+{% step %}
+**29/01/26: Closing of applications (Extended Deadline)**
 
 Applications will not be accepted beyond this date (UTC + 00).
 {% endstep %}
