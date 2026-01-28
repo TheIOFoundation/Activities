@@ -83,7 +83,7 @@ At the Launch, you will:
 
 ***
 
-#### 5. Why Join the ARGOS Club?
+#### Why Join the ARGOS Club?
 
 | **Benefit**             | **What it means for you**                                                               |
 | ----------------------- | --------------------------------------------------------------------------------------- |
@@ -94,7 +94,7 @@ At the Launch, you will:
 
 ***
 
-#### 6. Take Action: Your Next Step
+#### Take Action: Your Next Step
 
 Are you coming to the Launch?
 
