@@ -30,24 +30,99 @@ layout:
 
 # \[#TIOF] Argos Club Launch - UKM
 
-{% hint style="danger" %}
-### NOTICE
+## Welcome to the Next Dimension of Smart Engineering
 
-THIS IS A TEMPLATE - PLEASE MAKE SURE THE INFORMATION IS CORRECT BEFORE PUBLISHING.
+#### Faculty of Engineering and Smart Technology- Maranatha Christian University x The IO Foundation present the official launch of the PromptForge Laboratory and the ARGOS Club.
+
+When: Friday, 19 February 2026 Doors Open: 07:30 AM\
+Where: Internet-2 FTRC 8th Floor GWM, Universitas Kristen Maranatha
+
+{% hint style="info" %}
+Register for Launch Event
+
+[https://short.theiofoundation.org/tiof-argos-club-launch-umn-Launching](https://short.theiofoundation.org/tiof-argos-club-launch-umn-Launching)
 {% endhint %}
 
-## ARGOS CLUB LAUNCH
+***
 
-Headline: Scale up your academic journey with industry-grade power. 🚀
+#### The ARGOS Club: Your International Tech Gateway
 
-In the fast-moving world of Smart Technology, the best way to lead is to combine strong academic foundations with hands-on industry experience. We are proud to announce the official launch of the ARGOS Club and the PromptForge Laboratory at Maranatha Christian University!
+"Beyond the classroom. Into the global workforce."
 
-This partnership is designed to complement your studies by providing direct access to the same tools used by global tech leaders. Join us for our first "Training Bytes" workshop, where you’ll get a first look at the hardware and software that will power your future projects.
+The ARGOS Club is an elite student and alumni community dedicated to the Data-Centric Digital Rights (DCDR) framework. We don’t just use technology; we explore the ethics, standards, and systems that govern it.
 
-* Touch the Tech: Get a hands-on demonstration of our dedicated AI servers and specialized network systems.
-* Global Connection: Explore the Data-Centric Digital Rights (DCDR) framework and how it connects you to international standards.
-* Build Your Brand: Learn how to start building a blockchain-verified portfolio that speaks to a global workforce marketplace.
+What we do:
 
-When: Friday, 19 February 2026 Doors Open: 07:30 AM Where: \[Insert Lab Room Number/Location]
+* Exploration: Dive deep into AI, virtualization, cybersecurity, and networking.
+* ProtocolWatch: Get involved in the actual development of international technical standards.
+* Global Mobility: Access TIOF’s international workforce marketplace to turn your student membership into a professional career.
 
-\[CTA]: Ready to put theory into practice? Scan the QR code or click the link in our bio to secure your spot at the launch. Let’s build the future together
+***
+
+#### The PromptForge Lab: The Powerhouse
+
+"High-Performance Hardware. Zero Obsolescence."
+
+The PromptForge Lab is the physical heartbeat of our community. Unlike standard computer labs, PromptForge is a Managed Tech Ecosystem featuring:
+
+* Specialized AI Servers: Industrial-grade power for heavy-duty AI and data processing.
+* Advanced Networking: A custom-built system designed to support DCDR exploration.
+* A Living Lab: Because the lab is managed by TIOF, the hardware is continuously upgraded.&#x20;
+
+***
+
+#### The Launch Event: "Training Bytes" Live
+
+Join us on Friday, 19 February, for a hands-on introduction. We call our workshops "Training Bytes" because they are fast, high-impact, and highly digestible. In the end of the workshop you will get a blockchain-based certificate (don't forget to bring your laptop)
+
+At the Launch, you will:
+
+* Demo the Servers: See the PromptForge AI servers in action.
+* App Walkthrough: Get a first-look demonstration of the proprietary apps we’ll use for club projects.
+* Meet the Experts: Talk to the international mentors and maintenance team who will be supporting your journey.
+
+***
+
+#### 5. Why Join the ARGOS Club?
+
+| **Benefit**             | **What it means for you**                                                               |
+| ----------------------- | --------------------------------------------------------------------------------------- |
+| Blockchain Certificates | Every project you complete earns you a tamper-proof, digital credential.                |
+| Global Portfolio        | Build a task-based portfolio in the TIOF database that international employers can see. |
+| Mentorship              | Ongoing guidance from international experts and Maranatha faculty.                      |
+| Elite Access            | Use the PromptForge Lab hardware for your own research and club projects.               |
+
+***
+
+#### 6. Take Action: Your Next Step
+
+Are you coming to the Launch?
+
+_Scan here to RSVP for the "Training Bytes" workshop on Feb 19th._
+
+{% hint style="info" %}
+Register for Launch Event
+
+[https://short.theiofoundation.org/tiof-argos-club-launch-umn-Launching](https://short.theiofoundation.org/tiof-argos-club-launch-umn-Launching)
+{% endhint %}
+
+>
+
+Ready to become an ARGOS Member?
+
+_Skip the line and apply for full club membership today to start building your portfolio._
+
+{% hint style="info" %}
+_Register to be a member_
+{% endhint %}
+
+***
+
+
+
+_A Strategic Partnership between Maranatha Christian University and TIOF (The International Open Framework)._
+
+
+
+***
+
