@@ -70,7 +70,7 @@ The PromptForge Lab is the physical heartbeat of our community. Unlike standard 
 
 #### The Launch Event: "Training Bytes" & IETF 125
 
-Join us on Friday, 20 February, for a hands-on introduction. We call our workshops "Training Bytes" because they are fast, high-impact, and highly digestible.
+Join us on Friday, 13 February, for a hands-on introduction. We call our workshops "Training Bytes" because they are fast, high-impact, and highly digestible.
 
 Morning Session (08:30 - 12:00):
 
@@ -100,7 +100,7 @@ Afternoon Feature (13:00 - 16:00):
 
 Are you coming to the Launch & IETF Session?
 
-_Scan here to RSVP for the full-day workshop on Feb 20th._
+_Scan here to RSVP for the full-day workshop on Feb 13th._
 
 > \[ PLACEHOLDER FOR QR CODE / LINK 1 ]
 >
