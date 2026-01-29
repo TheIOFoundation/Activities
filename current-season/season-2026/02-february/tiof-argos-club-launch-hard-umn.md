@@ -86,12 +86,13 @@ Afternoon Feature (13:00 - 16:00):
 
 #### 5. Why Join the ARGOS Club?
 
-| **Benefit**             | **What it means for you**                                                                                                                                                                                                         |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| IETF Participation      | A direct path to contributing to global internet standards.                                                                                                                                                                       |
-| Blockchain Certificates | Every project you complete earns you a digital, tamper-proof credential.                                                                                                                                                          |
-| Global Portfolio        | Build a task-based portfolio in the TIOF database during your student years and upon graduation, you can upgrade your Argos Club membership into Professional membership to be included in TIOF Network professional marketplace. |
-| Managed Access          | Use the PromptForge Lab servers without worrying about hardware maintenance.                                                                                                                                                      |
+| **Benefit**                                   | **What it means for you**                                                                                                                                                                                                         |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IETF Participation                            | A direct path to contributing to global internet standards.                                                                                                                                                                       |
+| Blockchain Certificates                       | Every Training/Workshop and Project you complete earns you a digital, tamper-proof credential.                                                                                                                                    |
+| UMN credit recognition and curriculum support | <p>3 to 6 credit/SKS (specifically for Information Systems study program).<br>You can also get TIOF internship opportunity and using the lab for your Final Projects or other curriculum requirement.</p>                         |
+| Global Portfolio                              | Build a task-based portfolio in the TIOF database during your student years and upon graduation, you can upgrade your Argos Club membership into Professional membership to be included in TIOF Network professional marketplace. |
+| Managed Access                                | Use the PromptForge Lab servers without worrying about hardware maintenance.                                                                                                                                                      |
 
 ***
 
