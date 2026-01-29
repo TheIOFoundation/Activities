@@ -86,12 +86,12 @@ Afternoon Feature (13:00 - 16:00):
 
 #### 5. Why Join the ARGOS Club?
 
-| **Benefit**             | **What it means for you**                                                      |
-| ----------------------- | ------------------------------------------------------------------------------ |
-| IETF Participation      | A direct path to contributing to global internet standards.                    |
-| Blockchain Certificates | Every project you complete earns you a digital, tamper-proof credential.       |
-| Global Portfolio        | Build a task-based portfolio in the TIOF database for international employers. |
-| Managed Access          | Use the PromptForge AI servers without worrying about hardware maintenance.    |
+| **Benefit**             | **What it means for you**                                                                                                                                                                                                         |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IETF Participation      | A direct path to contributing to global internet standards.                                                                                                                                                                       |
+| Blockchain Certificates | Every project you complete earns you a digital, tamper-proof credential.                                                                                                                                                          |
+| Global Portfolio        | Build a task-based portfolio in the TIOF database during your student years and upon graduation, you can upgrade your Argos Club membership into Professional membership to be included in TIOF Network professional marketplace. |
+| Managed Access          | Use the PromptForge Lab servers without worrying about hardware maintenance.                                                                                                                                                      |
 
 ***
 
