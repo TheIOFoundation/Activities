@@ -30,10 +30,91 @@ layout:
 
 # \[#TIOF] Argos Club Launch - UMN
 
-{% hint style="danger" %}
-### NOTICE
+### Shaping the Architecture of the Internet: Launching ARGOS & PromptForge @ UMN
 
-THIS IS A TEMPLATE - PLEASE MAKE SURE THE INFORMATION IS CORRECT BEFORE PUBLISHING.
-{% endhint %}
+#### Faculty of Engineering and Informatics - Universitas Multimedia Nusantara x The IO Foundation present the official launch of the PromptForge Laboratory and the ARGOS Club.
 
-## ARGOS CLUB LAUNCH
+Date: Friday, 13 February 2026 | Doors Open: 07:30 AM
+
+Location: \[Insert Room/Building Name, e.g., ICT Tower]
+
+> \[BUTTON: Register for Launch & IETF Session] _(Quick RSVP for the Friday event)_
+
+***
+
+#### The ARGOS Club: Your International Tech Gateway
+
+"Beyond the classroom. Into the global workforce."
+
+The ARGOS Club is an elite student and alumni community dedicated to the Data-Centric Digital Rights (DCDR) framework. At UMN, we focus on the intersection of high-performance computing and the protocols that run the world.
+
+What we do:
+
+* Exploration: Dive deep into AI, virtualization, cybersecurity, and networking.
+* ProtocolWatch: Get involved in the actual development of international technical standards.
+* Global Mobility: Access TIOF’s international workforce marketplace to turn your student membership into a professional career.
+
+***
+
+#### The PromptForge Lab: The Powerhouse
+
+"High-Performance Hardware. Zero Obsolescence."
+
+The PromptForge Lab is the physical heartbeat of our community. Unlike standard computer labs, PromptForge is a Managed Tech Ecosystem featuring:
+
+* Specialized AI Servers: Industrial-grade power for heavy-duty AI and data processing.
+* Advanced Networking: A custom-built system designed to support DCDR exploration.
+* A Living Lab: Because the lab is managed by TIOF, the hardware is continuously upgraded. You will always work with the latest tech—never yesterday's gear.
+
+***
+
+#### The Launch Event: "Training Bytes" & IETF 125
+
+Join us on Friday, 20 February, for a hands-on introduction. We call our workshops "Training Bytes" because they are fast, high-impact, and highly digestible.
+
+Morning Session (08:30 - 12:00):
+
+* Demo the Servers: See the PromptForge AI servers in action.
+* App Walkthrough: First-look at the proprietary apps used for club projects.
+* Argos Club and PromptForge Lab Launch, Charter Member innauguration
+
+Afternoon Feature (13:00 - 16:00):
+
+* IETF 125 Preparation Session #1 : A deep-dive session into the Internet Engineering Task Force. Learn how UMN students can contribute to the global standards being set for IETF 125.
+
+***
+
+#### 5. Why Join the ARGOS Club?
+
+| **Benefit**             | **What it means for you**                                                      |
+| ----------------------- | ------------------------------------------------------------------------------ |
+| IETF Participation      | A direct path to contributing to global internet standards.                    |
+| Blockchain Certificates | Every project you complete earns you a digital, tamper-proof credential.       |
+| Global Portfolio        | Build a task-based portfolio in the TIOF database for international employers. |
+| Managed Access          | Use the PromptForge AI servers without worrying about hardware maintenance.    |
+
+***
+
+#### 6. Take Action: Your Next Step
+
+Are you coming to the Launch & IETF Session?
+
+_Scan here to RSVP for the full-day workshop on Feb 20th._
+
+> \[ PLACEHOLDER FOR QR CODE / LINK 1 ]
+>
+> _(Register for Launch Event)_
+
+Ready to become an ARGOS UMN Member?
+
+_Apply for full club membership today to secure your access to the PromptForge Lab._
+
+> \[ PLACEHOLDER FOR QR CODE / LINK 2 ]
+>
+> _(Official Membership Application)_
+
+***
+
+#### Closing Footer
+
+_A Strategic Partnership between Universitas Multimedia Nusantara and The IO Foundation._
