@@ -29,7 +29,7 @@ layout:
 {% hint style="info" %}
 Secure your place, register for the Launch include Workshops now
 
-<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UKM-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UMN-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
 {% endhint %}
 
 ### YOU ARE INVITED!
@@ -60,7 +60,7 @@ Afternoon Feature (13:00 - 16:00):
 {% hint style="info" %}
 Secure your place, register for the Launch include Workshops now
 
-<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UKM-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UMN-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
 {% endhint %}
 
 
@@ -112,7 +112,7 @@ _Apply for full club membership today to secure your access to the PromptForge L
 {% hint style="info" %}
 Secure your place, register for the Launch include Workshops now
 
-<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UKM-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UMN-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
 {% endhint %}
 
 ***
