@@ -53,7 +53,7 @@ Lunch and open discussion (12.00-13.00)
 Afternoon Feature (13:00 - 16:00):
 
 * Workshop #2: IETF 125 1st Preparation Session - Introduction to the event.  Learn how UMN students can contribute to the global standards being set for IETF 125
-* Onboarding Club Members and IETF 125 Remote Fellowship members
+* Onboarding Argos Club Members and IETF 125 Remote Fellowship members
 
 {% hint style="info" %}
 Secure your place, register for the Launch include Workshops now
@@ -91,23 +91,7 @@ The PromptForge Lab is the physical heartbeat of our community. Unlike standard 
 
 ***
 
-#### The Launch Event: "Training Bytes" & IETF 125
-
-Join us on Friday, 13 February, for a hands-on introduction. We call our workshops "Training Bytes" because they are fast, high-impact, and highly digestible.
-
-Morning Session (08:30 - 12:00):
-
-* Demo the Servers: See the PromptForge AI servers in action.
-* App Walkthrough: First-look at the proprietary apps used for club projects.
-* Argos Club and PromptForge Lab Launch, Charter Member innauguration
-
-Afternoon Feature (13:00 - 16:00):
-
-* IETF 125 Preparation Session #1 : A deep-dive session into the Internet Engineering Task Force. Learn how UMN students can contribute to the global standards being set for IETF 125.
-
-***
-
-#### 5. Why Join the ARGOS Club?
+#### Why Join the ARGOS Club?
 
 | **Benefit**                                   | **What it means for you**                                                                                                                                                                                                         |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -119,26 +103,14 @@ Afternoon Feature (13:00 - 16:00):
 
 ***
 
-#### 6. Take Action: Your Next Step
-
-Are you coming to the Launch & IETF Session?
-
-_Scan here to RSVP for the full-day workshop on Feb 13th._
-
-> \[ PLACEHOLDER FOR QR CODE / LINK 1 ]
->
-> _(Register for Launch Event)_
-
-Ready to become an ARGOS UMN Member?
+#### Take Action: Your Next Step: Ready to become an ARGOS UMN Member?
 
 _Apply for full club membership today to secure your access to the PromptForge Lab._
 
-> \[ PLACEHOLDER FOR QR CODE / LINK 2 ]
->
-> _(Official Membership Application)_
+> Monika Evelin (FTI) \[monika.evelin@umn.ac.id]
 
 ***
 
-#### Closing Footer
+
 
 _A Strategic Partnership between Universitas Multimedia Nusantara and The IO Foundation._
