@@ -36,9 +36,32 @@ layout:
 
 Date: Friday, 13 February 2026 | Doors Open: 07:30 AM
 
-Location: \[Insert Room/Building Name, e.g., ICT Tower]
+Location: Sumbawa Room, Building C 5 floor, Universitas Multimedia Nusantara
 
-> \[BUTTON: Register for Launch & IETF Session] _(Quick RSVP for the Friday event)_
+#### The Launch Event
+
+Join us on Friday, 13 February, for a hands-on introduction. We call our workshops "Training Bytes" because they are fast, high-impact, and highly digestible.
+
+Morning Session (08:30 - 12:00):
+
+* Workshop #1: See the PromptForge AI servers in action (blockchain-based certificate provided)
+* App Walkthrough: First look at the proprietary apps used for club projects.
+* Argos Club and PromptForge Lab Launch, Charter Member Inauguration
+
+Lunch and open discussion (12.00-13.00)
+
+Afternoon Feature (13:00 - 16:00):
+
+* Workshop #2: IETF 125 1st Preparation Session - Introduction to the event.  Learn how UMN students can contribute to the global standards being set for IETF 125
+* Onboarding Club Members and IETF 125 Remote Fellowship members
+
+{% hint style="info" %}
+Secure your place, register for the Launch include Workshops now
+
+<p align="center"></p>
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/qr-code-155923_4096px.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ***
 
