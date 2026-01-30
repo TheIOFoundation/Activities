@@ -30,7 +30,7 @@ layout:
 
 # \[#TIOF] Argos Club Launch - UMN
 
-### Shaping the Architecture of the Internet: Launching ARGOS & PromptForge @ UMN
+### YOU ARE INVITED!
 
 #### Faculty of Engineering and Informatics - Universitas Multimedia Nusantara x The IO Foundation present the official launch of the PromptForge Laboratory and the ARGOS Club.
 
