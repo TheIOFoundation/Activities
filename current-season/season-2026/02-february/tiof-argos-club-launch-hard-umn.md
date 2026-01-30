@@ -28,6 +28,12 @@ layout:
 
 # \[#TIOF] Argos Club Launch - UMN
 
+{% hint style="info" %}
+Secure your place, register for the Launch include Workshops now
+
+<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UKM-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
+{% endhint %}
+
 ### YOU ARE INVITED!
 
 #### Faculty of Engineering and Informatics - Universitas Multimedia Nusantara x The IO Foundation present the official launch of the PromptForge Laboratory and the ARGOS Club.
@@ -56,10 +62,10 @@ Afternoon Feature (13:00 - 16:00):
 {% hint style="info" %}
 Secure your place, register for the Launch include Workshops now
 
-<p align="center"></p>
+<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UKM-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/qr-code-155923_4096px.png" alt="" width="188"><figcaption></figcaption></figure>
+
 
 ***
 
@@ -105,7 +111,11 @@ The PromptForge Lab is the physical heartbeat of our community. Unlike standard 
 
 _Apply for full club membership today to secure your access to the PromptForge Lab._
 
-> Monika Evelin (FTI) \[monika.evelin@umn.ac.id]
+{% hint style="info" %}
+Secure your place, register for the Launch include Workshops now
+
+<p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-UKM-Launch-Registration" class="button primary" data-icon="ticket">Register now!</a></p>
+{% endhint %}
 
 ***
 
