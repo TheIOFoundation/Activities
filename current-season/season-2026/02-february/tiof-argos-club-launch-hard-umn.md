@@ -2,8 +2,6 @@
 description: >-
   Check out all the information about the launch of our Argos Club at the
   Universitas Multimedia Nusantara (UMN).
-hidden: true
-noIndex: true
 icon: calendar-circle-user
 cover: ../../../.gitbook/assets/Universitas Multimedia Nusantara (UMN).png
 coverY: 0
