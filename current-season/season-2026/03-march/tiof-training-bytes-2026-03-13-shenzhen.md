@@ -32,11 +32,10 @@ The IO Foundation (TIOF) participates in the IETF to ensure that Data-Centric Di
 * Defining the Mission: TIOF identifies key WGs critical to global digital safety.
 * Student Interests: We encourage participants to choose WGs that align with their own passions, whether that is the future of AI, Internet-of-Things (IoT) security, or next-gen web protocols.
 
-3\. Mastering the IETF Environment The IETF has a unique culture based on "Rough Consensus and Running Code." Engaging here requires more than just technical knowledge; it requires knowing how to navigate:
+3\. Understanding the IETF Environment The IETF has a unique culture based on "Rough Consensus and Running Code." Engaging here requires more than just technical knowledge; it requires knowing how to navigate:
 
 * Mailing Lists: Where the real work happens between meetings.
 * Internet-Drafts: How to read and analyze proposed changes to the Internet.
-* The "Floor Mic": How to effectively voice concerns or support for a protocol during live sessions.
 
 
 {% endcolumn %}
