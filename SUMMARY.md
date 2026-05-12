@@ -35,6 +35,7 @@
     * [\[#TIOF\] TechUpCast 04-2026](current-season/season-2026/04-april/tiof-techupcast-04-2026.md)
     * [\[#TIOF\] Internship Cohort Q2 2026](current-season/season-2026/04-april/tiof-internship-cohort-q2-2026.md)
   * [05 - May](current-season/season-2026/05-may/README.md)
+    * [\[#TIOF\] DCDR Bytes 2026-05-22 JAKARTA](current-season/season-2026/05-may/tiof-dcdr-bytes-2026-05-22-jakarta.md)
     * [\[#THAINOG\] THAINOG 2026](current-season/season-2026/05-may/thainog-thainog-2026.md)
     * [\[#TIOF\] TechUpCast 05-2026](current-season/season-2026/05-may/tiof-techupcast-05-2026.md)
   * [06 - June](current-season/season-2026/06-june/README.md)
