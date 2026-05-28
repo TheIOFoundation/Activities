@@ -96,7 +96,7 @@ The Agenda is yet to be published by the IETF.
 
 ### RASPRG
 
-Currently TIOF is actively working in the RASPRG Research Group on IETF Participant Data Normalization project
+Currently TIOF is actively working in the RASPRG Research Group on IETF Participant Data Normalization project.
 
 ## Resources
 
