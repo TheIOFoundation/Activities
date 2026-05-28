@@ -52,8 +52,7 @@ IETF meetings are a major, week-long gathering of Internet experts that happens 
 The Fellowship will include:
 
 * **Four preparation sessions (see** [#timeline](tiof-tu-fellowship-ietf-126.md#timeline "mention")**)**
-* **A Training Bytes session:** [**\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN**](../03-march/tiof-training-bytes-2026-03-13-shenzhen-1.md)
-* **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 14th to Friday 20th March 2026.**
+* **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th JUNE 2026.**
 
 ### Why join this Fellowship?
 
@@ -70,11 +69,8 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
-**EXTENDED TO**\
-**THURSDAY, 29TH JANUARY**\
-**2026 - 23:59 (UTC+00)**<br>
-
-~~**MONDAY, 25TH JANUARY 2026 - 23:59 (UTC+00)**~~
+**FRIDAY, 19TH JUNE**\
+**2026 - 23:59 (UTC+00)**
 {% endhint %}
 
 {% hint style="info" %}
@@ -89,9 +85,9 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="info" %}
 ## FELLOWSHIP ANNOUNCEMENT
 
-**MONDAY, 2ND FEBRUARY 2026**
+**MONDAY, 22ND JUNE 2026**
 
-<a href="../02-february/tiof-tu-fellowship-ietf-125.md#cohort" class="button primary" data-icon="people-pants">Meet the Fellows</a>
+<a class="button primary" data-icon="people-pants">Meet the Fellows</a>
 {% endhint %}
 
 {% hint style="success" %}
