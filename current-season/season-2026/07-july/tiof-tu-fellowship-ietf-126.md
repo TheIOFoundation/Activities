@@ -65,7 +65,7 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% column width="41.666666666666664%" %}
 <p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/qr-code-177693_4096px.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/qr-code-177696_4096px.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
