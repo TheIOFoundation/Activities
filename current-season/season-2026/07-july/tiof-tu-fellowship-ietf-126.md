@@ -101,7 +101,7 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 {% hint style="info" %}
 ## RELATED EVENT
 
-[**\[#IETF\] IETF 125**](../03-march/ietf-ietf-125.md)
+[**\[#IETF\] IETF 126**](ietf-ietf-126.md)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -111,16 +111,6 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 
 * **Email:** [Contact@TheIOFoundation.org](mailto:Contact@TheIOFoundation.org?subject=Reaching%20out%20from%20the%20website.)​
 * ​**Telegram:** [@TIOFContact](https://t.me/TIOFContact)
-{% endhint %}
-
-|                                                                                                                                        |
-| :------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://short.theiofoundation.org/tiof-fellowship-ietf-123-registration" class="button primary">? GO TO REGISTRATION FORM</a> |
-
-<div align="center"><figure><img src="../../../.gitbook/assets/TIOFFellowshipIETF123Registration_4096x4096.png" alt="" width="188"><figcaption></figcaption></figure></div>
-
-{% hint style="success" %}
-**DEADLINE EXTENDED: APPLY BY JUNE 30th 23:59 (UTC+00)**
 {% endhint %}
 
 ## About
