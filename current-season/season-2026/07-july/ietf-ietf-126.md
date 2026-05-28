@@ -94,9 +94,9 @@ The Agenda is yet to be published by the IETF.
 {% endtab %}
 {% endtabs %}
 
-### EODIR
+### RASPRG
 
-The IO Foundation will present at the [Education and Outreach Directorate](https://wiki.ietf.org/group/eodir) the results of its [\[#TIOF\] Training Bytes 2025-07](../../../previous-seasons/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md) and its [\[#TIOF\] Fellowship IETF 123](../../../previous-seasons/season-2025/07-july/tiof-techup-fellowship-ietf-123.md) activities.
+Currently TIOF is actively working in the RASPRG Research Group on IETF Participant Data Normalization project
 
 ## Resources
 
