@@ -219,20 +219,16 @@ By participating in this Fellowship, you will enjoy the following benefits:
 * [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-ietf-126.md#timeline "mention")and IETF Agenda)\
   **Price:** USD  2000 **`Ticket waived`**
 * [x] Free access to the event:\
-  [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
+  [\[IETF\] IETF 126](../03-march/ietf-ietf-125.md)\
   **Price:** USD 160 **`Ticket waived for students`**
 * [x] Networking:
-  * [x] Meet and greet with all the speakers and VIPs attending [#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)\
-    **Price:** USD 200 **`Ticket waived`**
-  * [x] Attend socials & networking sessions during [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
-    **Price:** USD 30 **`Ticket waived`**
+  * [x] Online Meet and greet with other fellows and VIPs from IETF/IRTF
 {% endcolumn %}
 
 {% column %}
-* [x] TIOF Welcome Pack (includes exclusive TIOF Fellow t-shirt)
 * [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
   * [ ] Fully completion of conference session attendance
-  * [ ] \[#TIOF] Training Bytes and follow up evaluation/ feedback sessions
+  * [ ] Completion on Daily Check Ins, Final Report, Feedbacks and actively enganga in the session&#x20;
 * [x] Access to the The IO Foundation's _TechUp Community_ where you'll be able to enhance your knowledge and career opportunities:
   * [x] Access to exclusive training by TIOF
   * [x] Priority for next Fellowship opportunities
