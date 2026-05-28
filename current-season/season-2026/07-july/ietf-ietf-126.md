@@ -33,24 +33,23 @@ layout:
 
 ## About
 
-The Internet Engineering Task Force ([IETF](https://www.ietf.org/)) will have their second meeting for Season 2025 in Madrid, Spain.
+The Internet Engineering Task Force ([IETF](https://www.ietf.org/)) will have their second meeting for Season 2026 in Vienna, Austria.
 
-The IO Foundation will be there in-person to support the advancement of Request For Comments (RFCs) that protect digital citizens by design.
+The IO Foundation will be there to support the advancement of Request For Comments (RFCs) that protect digital citizens by design.
 
 {% hint style="info" %}
 Fellowship opportunity:
 
 If you:
 
-* Are in Madrid (Spain) during IETF 123
-* Are a full-time student
+* Are a full-time student (Bachelor, Master, Doctorate)
 
-you should consider submitting to our [\[#TIOF\] Fellowship - IETF 123](../../../previous-seasons/season-2025/07-july/tiof-techup-fellowship-ietf-123.md) opportunity!
+you should consider submitting to our [\[#TIOF\] Fellowship - IETF 126](tiof-tu-fellowship-ietf-126.md) opportunity!
 {% endhint %}
 
 ## Activity Details
 
-<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>? <strong>Title</strong></td><td><a href="../../../previous-seasons/season-2025/07-july/ietf-ietf-123.md">IETF 123</a></td></tr><tr><td>? <strong>Activity Type</strong></td><td>Meeting</td></tr><tr><td><strong>? Date Start</strong></td><td>Saturday 19th July 2025</td></tr><tr><td>? <strong>Date End</strong></td><td>Friday 25th July 2025</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>?</strong></a> <strong>Location</strong></td><td><p>Meli? Castilla Hotel &#x26; Convention Center</p><p>Madrid, Spain</p></td></tr><tr><td>? <strong>RSVP</strong></td><td><a href="https://registration.ietf.org/123/">IETF's Registration Platform</a></td></tr></tbody></table>
+<table><thead><tr><th width="210"></th><th></th></tr></thead><tbody><tr><td>? <strong>Title</strong></td><td><a href="ietf-ietf-126.md">IETF 126</a></td></tr><tr><td>? <strong>Activity Type</strong></td><td>Meeting</td></tr><tr><td><strong>? Date Start</strong></td><td>Saturday 18th July 2026</td></tr><tr><td>? <strong>Date End</strong></td><td>Friday 24th July 2026</td></tr><tr><td><a href="https://maps.app.goo.gl/rJy6LXpuWgWwKtFn8"><strong>?</strong></a> <strong>Location</strong></td><td>Hilton Vienna Park</td></tr><tr><td>? <strong>RSVP</strong></td><td><a href="https://registration.ietf.org/126/">IETF's Registration Platform</a></td></tr></tbody></table>
 
 ### Agenda
 

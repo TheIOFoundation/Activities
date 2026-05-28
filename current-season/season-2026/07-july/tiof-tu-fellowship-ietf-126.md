@@ -141,28 +141,7 @@ Registered candidates will also be updated via email.
 **APPLY BY: FRIDAY, 19TH JUNE 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
-## **Responsibilities**
-
-* Actively participate in the following events and activities related to The IO Foundation?s advocacy on Data-Centric Digital Rights:
-  * [\[#TIOF\] Training Bytes 2025-07](../../../previous-seasons/season-2025/07-july/tiof-training-bytes-2025-07-madrid.md) (Madrid, Spain)
-  * [\[#IETF\] IETF 123](../../../previous-seasons/season-2025/07-july/ietf-ietf-123.md) (Madrid, Spain)
-* Serve as a representative of The IO Foundation, effectively communicating our mission, values and initiatives
-* Provide regular reports on participation, including insights, outcomes and recommendations for future engagements
-* Collaborate with other TIOF Members to enhance the impact of our advocacy efforts
-* Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning
-* Participate in monthly Fellowship meetings
-
-## **Qualifications | Requirements**
-
-* Located in Madrid for the duration of the Fellowship
-  * **Clarification:** You _**do not**_ need to be a resident of Spain, you only need to be in Madrid (Spain) during the whole duration of the IETF 123 meeting.
-* Open to full time students in relevant fields (e.g. Networking, Protocols, Standards, Cyber Security, etc.)
-  * Note that proof of student status will need to be submitted
-* Strong understanding of data privacy and technology issues
-* Ability to work independently and collaboratively in dynamic environments
-* Strong networking skills and a proactive approach to building relationships within the tech community
-* Proven experience in event participation, public speaking or advocacy will be a plus
-* Passion for and commitment to The IO Foundation's [mission](https://tiof.click/TIOFMission) and [values](https://tiof.click/TIOFValues)
+##
 
 ## **Qualifications | Languages**
 
