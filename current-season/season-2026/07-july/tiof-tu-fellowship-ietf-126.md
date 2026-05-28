@@ -113,15 +113,33 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 * ​**Telegram:** [@TIOFContact](https://t.me/TIOFContact)
 {% endhint %}
 
-## About
+## Who will you meet
 
-The IO Foundation, a tech NGO, is seeking passionate and dedicated individuals to join our team as Fellows for the upcoming IETF 123 to be held in Madrid (Spain) from Saturday 19th to Friday 25th July 2025. This role offers a unique opportunity to engage in this event and is an extended activity from the Training Bytes 2025-07 that will take place on a date to be soon announced.
+{% columns %}
+{% column width="41.66666666666667%" %}
+Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the IETF and the broader Standards Development Organizations ecosystem.
 
-TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs), with their communities and the technical standards they produce.
+{% hint style="info" %}
+## NOTICE
 
-As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
+Please note that we are  currently finalizing the guest list for this Fellowship.
 
-> **NOTE: LIMITED SPOTS - APPLY BY JUNE 30th 23:59 (UTC+00)**
+The information will be updated in this page in the coming days.
+
+Registered candidates will also be updated via email.
+{% endhint %}
+{% endcolumn %}
+
+{% column width="58.33333333333333%" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td>Yug Desai</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/yug Desai.png">yug Desai.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
+{% endcolumn %}
+{% endcolumns %}
+
+{% hint style="warning" %}
+## LIMITED SPOTS
+
+**APPLY BY: FRIDAY, 19TH JUNE 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
+{% endhint %}
 
 ## **Responsibilities**
 
