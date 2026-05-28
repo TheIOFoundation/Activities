@@ -37,12 +37,12 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 125)](../03-march/ietf-ietf-125.md), to be held in Shenzhen (China) from 14th to 20th March 2026.
+The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 125)](ietf-ietf-126.md), to be held in Vienna (Austria) from 18th to 24th July 2026.
 
 {% hint style="warning" %}
 ## NOTICE
 
-Please note that the **\[#TIOF] TU Fellowship IETF 2026** will run on slightly different dates than IETF 125.
+Please note that the **\[#TIOF] TU Fellowship IETF 126** will run on slightly different dates than IETF 126.
 
 Check the [Timeline](tiof-tu-fellowship-ietf-126.md#timeline) below for more details.
 {% endhint %}
