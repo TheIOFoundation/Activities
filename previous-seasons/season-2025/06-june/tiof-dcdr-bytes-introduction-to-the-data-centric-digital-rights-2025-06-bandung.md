@@ -14,7 +14,7 @@ coverY: 0
 <div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] 0000-00-00 DCDR Bytes 2025-07 BANDUNG - QR Code Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-#### APPLY BY JUNE 29th 00:00 (UTC+00)
+**APPLY BY JUNE 29th 00:00 (UTC+00)**
 {% endhint %}
 
 ## About

@@ -14,7 +14,7 @@ coverY: 0
 <div align="center"><figure><img src="../../../.gitbook/assets/TIOFDCDRBytes202510UKMRegistration_4096x4096 (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-#### REGISTER BY JUNE 24th 00:00 (UTC+00)
+**REGISTER BY JUNE 24th 00:00 (UTC+00)**
 {% endhint %}
 
 ## About

@@ -63,9 +63,9 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-125-registrationhrpage" class="button primary" data-icon="tickets">APPLY NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] Comms [P] XXXX-XX-XX [#TIOF] TU Fellowship IETF 125 - QR Code HR Registration XXX v1.0.png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/qr-code-177693_4096px.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
