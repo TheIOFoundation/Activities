@@ -76,7 +76,9 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% hint style="info" %}
 <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-126-Launching%E2%80%8B" class="button primary" data-icon="rocket-launch">REGISTER</a>
 
-#### LAUNCHING SESSION !<br>
+#### LAUNCHING SESSION !
+
+**Saturday, 13 June**<br>
 {% endhint %}
 
 {% hint style="info" %}
