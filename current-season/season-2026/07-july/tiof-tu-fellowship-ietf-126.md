@@ -37,7 +37,7 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 125)](ietf-ietf-126.md), to be held in Vienna (Austria) from 18th to 24th July 2026.
+The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 126)](ietf-ietf-126.md), to be held in Vienna (Austria) from 18th to 24th July 2026.
 
 {% hint style="warning" %}
 ## NOTICE
@@ -52,7 +52,7 @@ IETF meetings are a major, week-long gathering of Internet experts that happens 
 The Fellowship will include:
 
 * **Four preparation sessions (see** [#timeline](tiof-tu-fellowship-ietf-126.md#timeline "mention")**)**
-* **Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th JUNE 2026.**
+* **Remote Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th JUNE 2026.**
 
 ### Why join this Fellowship?
 
@@ -74,12 +74,9 @@ As a Fellow, you'll be a member of a growing network of technologists working to
 {% endhint %}
 
 {% hint style="info" %}
-## LAUNCHING SESSION
+<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-126-Launching%E2%80%8B" class="button primary" data-icon="rocket-launch">REGISTER</a>
 
-<a class="button primary" data-icon="rocket-launch">REGISTER</a>
-
-\
-<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-125-LaunchingRecording" class="button primary" data-icon="film">WATCH AGAIN</a>
+#### LAUNCHING SESSION !<br>
 {% endhint %}
 
 {% hint style="info" %}
@@ -282,23 +279,23 @@ This first session will serve as a general orientation to the Fellowship (2hr)
 {% step %}
 **04/07/26: Preparation session #2**
 
-The cohort will gather online to prepare for the IETF 125 (2h).
+The cohort will gather online to prepare for the IETF 126 (2h).
 {% endstep %}
 
 {% step %}
 **11/07/26: Preparation session #3**
 
-The cohort will gather online to prepare for the IETF 125 (2h).
+The cohort will gather online to prepare for the IETF 126 (2h).
 {% endstep %}
 
 {% step %}
 **18/07/26: Preparation session #4**
 
-The cohort will gather online to prepare for the IETF 125 (2h).
+The cohort will gather online to prepare for the IETF 126 (2h).
 {% endstep %}
 
 {% step %}
-**18/07/2026 to 24/07/2026: IETF 125**
+**18/07/2026 to 24/07/2026: IETF 126**
 
 Participate in the event with the full support of the TIOF team onsite.
 {% endstep %}
@@ -346,7 +343,7 @@ The IO Foundation extends its deepest gratitude to our Sponsors and valued Partn
 {% column %}
 ### Partners
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Universitas Multimedia Nusantara (UMN)</strong></td><td></td><td><a href="../../../.gitbook/assets/Universitas Multimedia Nusantara (UMN).png">Universitas Multimedia Nusantara (UMN).png</a></td></tr><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
