@@ -149,19 +149,18 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Located in Shenzhen for the duration of the Fellowship, and follow the IETF in-time for those joining remotely
+* [x] Able to  follow the IETF in-time for those joining remotely, with suitable internet connections to be able to follow the sessions actively.
 
 {% hint style="success" %}
 ## CLARIFICATION
 
-You _**do not**_ need to live in Shenzhen or be a resident of China, you need to be in China during:
+This fellowship is open for all nationalities. You _**do not**_ need to live in Vienna or be an Austrian citizens
 
-* Training Bytes: Friday 13th March 2026 (and all the Preparation Sessions, see [#timeline](tiof-tu-fellowship-ietf-126.md#timeline "mention"))
-* IETF Hackathon: Saturday 14th + Sunday 15th March 2026
-* IETF Meeting: Monday 16th to Friday 20th March 2026
+* IETF Hackathon: Saturday 18th + Sunday 19th July 2026
+* IETF Meeting: Monday 20th to Friday 24th July 2026
 {% endhint %}
 
-* [x] Ability to work independently and collaboratively in dynamic environments
+* [x] Ability to work independently and collaboratively in dynamic online environments
 {% endcolumn %}
 
 {% column %}
@@ -190,9 +189,10 @@ By becoming a Fellow you commit to the following responsibilities:
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
 - Preparation Sessions (see [Timeline](tiof-tu-fellowship-ietf-126.md#timeline))
-- [\[#TIOF\] Training Bytes 2026-03-13 SHENZHEN](../03-march/tiof-training-bytes-2026-03-13-shenzhen.md)
-- [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)
-- Daily check-ins with the cohort
+- [\[IETF\] IETF 126](ietf-ietf-126.md)
+- In-Time presence for New Participant Program (compulsory for new fellows, elective for recurring fellows) and Bird of a Feather (for both new and recurring fellows)
+- Daily check-ins with the cohort, minimum 2 sessions pe-day
+- Active in quizzes and curve bals task
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126.md#timeline)).
 {% endcolumn %}
@@ -201,6 +201,7 @@ By becoming a Fellow you commit to the following responsibilities:
 ### &#x20;
 
 * [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
+* [x] Provide Recorded Testimony in the end of the Fellowship
 * [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
 * [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [IETF LLC's Code of Conduct](https://www.ietf.org/administration/policies-procedures/code-of-conduct/).\
   Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
@@ -215,8 +216,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% column %}
 * [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
 * [x] Expand your career options.
-* [x] Transport to and from Shenzhen and accommodation
-* [x] Fellowship Workshops and onsite mentoring, including Preparation Sessions and Training Bytes (see [Timeline](tiof-tu-fellowship-ietf-126.md#timeline))\
+* [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-ietf-126.md#timeline "mention")and IETF Agenda)\
   **Price:** USD  2000 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 125](../03-march/ietf-ietf-125.md)\
