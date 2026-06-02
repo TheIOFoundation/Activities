@@ -47,7 +47,16 @@ Please note that the **\[#TIOF] TU Fellowship IETF 126** will run on slightly di
 Check the [Timeline](tiof-tu-fellowship-ietf-126.md#timeline) below for more details.
 {% endhint %}
 
-IETF meetings are a major, week-long gathering of Internet experts that happens three times a year, where volunteers from around the world collaborate in technical working groups to develop and advance open internet standards ([RFCs](https://www.ietf.org/process/rfcs/)) that keep the Internet running and improving. These meetings include intense technical sessions, a hackathon, training for new participants and opportunities for new members to learn, with a focus on `rough consensus and running code` to build the Internet's technical foundation.
+#### Understanding the IETF & IRTF Ecosystem
+
+Every IETF meeting serves a dual purpose. It hosts both the IETF (engineering) and the IRTF (research) under one roof during the same week. This structure exists because long-term internet research must directly inform practical engineering.
+
+During the event, you can fluidly cross between two types of sessions depending on your background and interests:
+
+* The Internet Research Task Force (IRTF) Sessions — _The Academic Gateway_: The IRTF focuses on the long-term evolution of the internet through a theoretical lens. Rather than writing strict engineering standards, its Research Groups (RGs) explore foundational, multidisciplinary topics like Human Rights Protocol Considerations (HRPC), privacy-preserving technologies, and decentralized architectures. Because it mirrors peer-reviewed academic discussion, this is an ideal, natural entry point for students and educators.
+* The Internet Engineering Task Force (IETF) Sessions — _The Technical Foundation_: The IETF is where those research concepts eventually transform into practical reality. In technical Working Groups (WGs), engineers and developers collaborate to write the open internet standards (RFCs) that keep the global web running today, operating on a philosophy of "rough consensus and running code."
+
+Why they meet together: By embedding IRTF research sessions directly inside the IETF meeting week, the community ensures that emerging academic research can seamlessly transition into real-world engineering standards.
 
 The Fellowship will include:
 
@@ -56,9 +65,11 @@ The Fellowship will include:
 
 ### Why join this Fellowship?
 
-TIOF Fellows represent The IO Foundation on an international stage while contributing to advancing the Data-Centric Digital Rights (DCDR) advocacy by actively engaging in Standards Developing Organizations (SDOs) with their communities and the technical standards they produce.
+The internet requires a multidisciplinary approach combining programming, system design, academic theory, and policy thinking to evolve responsibly.
 
-As a Fellow, you'll be a member of a growing network of technologists working towards ensuring that technology protects citizens by design.
+* Connect Academia with Global Industry: See firsthand how global internet research is peer-reviewed and advanced by international experts during the research sessions.
+* Advocate for Rights-by-Design: Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) framework to both research concepts and technical protocols, ensuring future internet architecture protects citizen privacy by design.
+* Enhance Your Professional Portfolio: Gaining hands-on exposure to global bodies like the IETF and IRTF provides a highly respected distinction on CVs for both academic and industry career paths.
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
