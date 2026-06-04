@@ -3,8 +3,8 @@ hidden: true
 noIndex: true
 icon: calendar-circle-user
 cover: >-
-  ../../../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
-  TU Fellowship XXX v1.0.png
+  ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
+  Introduction XXX v1.0.png
 coverY: 0
 layout:
   width: default
@@ -87,9 +87,9 @@ The internet requires a multidisciplinary approach combining programming, system
 {% hint style="info" %}
 <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-126-Launching" class="button primary" data-icon="rocket-launch">REGISTER</a>
 
-#### LAUNCHING SESSION !
+#### Don't miss the LAUNCHING SESSION !
 
-**Saturday, 13 June**<br>
+**Saturday, 13 June 2026**
 {% endhint %}
 
 {% hint style="info" %}
