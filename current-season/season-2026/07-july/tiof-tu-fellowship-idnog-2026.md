@@ -44,7 +44,7 @@ The IO Foundation, is seeking passionate and dedicated individuals to join our c
 
 Please note that the **\[#TIOF] TU Fellowship IETF 126** will run on slightly different dates than IETF 126.
 
-Check the [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline) below for more details.
+Check the [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline) below for more details.
 {% endhint %}
 
 #### Understanding the IETF & IRTF Ecosystem
@@ -60,7 +60,7 @@ Why they meet together: By embedding IRTF research sessions directly inside the 
 
 The Fellowship will include:
 
-* **Four preparation sessions (see** [#timeline](tiof-tu-fellowship-ietf-126-1.md#timeline "mention")**)**
+* **Four preparation sessions (see** [#timeline](tiof-tu-fellowship-idnog-2026.md#timeline "mention")**)**
 * **Remote Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th JUNE 2026.**
 
 ### Why join this Fellowship?
@@ -198,13 +198,13 @@ By becoming a Fellow you commit to the following responsibilities:
 
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
-- Preparation Sessions (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline))
+- Preparation Sessions (see [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline))
 - [\[IETF\] IETF 126](ietf-ietf-126.md)
 - In-Time presence for New Participant Program (compulsory for new fellows, elective for recurring fellows) and Bird of a Feather (for both new and recurring fellows)
 - Daily check-ins with the cohort, minimum 2 sessions pe-day
 - Active in quizzes and curve bals task
 
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline)).
+* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline)).
 {% endcolumn %}
 
 {% column %}
@@ -226,7 +226,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% column %}
 * [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
 * [x] Expand your career options.
-* [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-ietf-126-1.md#timeline "mention")and IETF Agenda)\
+* [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-idnog-2026.md#timeline "mention")and IETF Agenda)\
   **Price:** USD  2000 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 126](../03-march/ietf-ietf-125.md)\
@@ -265,7 +265,7 @@ The above list of items will be explained in full during the Launching Session.
 {% step %}
 **13/06/2026:  Launching session & opening of applications**
 
-Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-126-1.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-126-1.md#responsibilities).\
+Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-idnog-2026.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-idnog-2026.md#responsibilities).\
 <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endstep %}
 
@@ -328,7 +328,7 @@ The cohort will meet for an online session where we will discuss feedback and ex
 {% step %}
 **21/08/2026: Issuing of digital certificates**
 
-Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-ietf-126-1.md#requirements) will receive a digital certificate as a proof of completion.
+Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-idnog-2026.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
 {% endstepper %}
 
