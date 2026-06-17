@@ -35,41 +35,39 @@ layout:
 
 {% columns %}
 {% column width="58.333333333333336%" %}
-## About
+### About
 
-The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 126)](ietf-ietf-126.md), to be held in Vienna (Austria) from 18th to 24th July 2026.
+The IO Foundation, supported by Indonesian Network Operators Group (IDNOG) is seeking 5 passionate and dedicated individuals from the academic community to join our exclusive Fellowship cohort for the upcoming IDNOG 2026 Masterclasses and Workshops. This year’s technical tracks will be held at the Mercure Jakarta Grogol from 20th to 22nd July 2026.
 
 {% hint style="warning" %}
 ## NOTICE
 
-Please note that the **\[#TIOF] TU Fellowship IETF 126** will run on slightly different dates than IETF 126.
+⚠️ Important Scope Limitation: Please note that this specific fellowship grants full, complimentary access strictly to the intensive technical Workshops / Masterclasses. It does not cover entry to the main IDNOG general conference sessions.
 
 Check the [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline) below for more details.
 {% endhint %}
 
-#### Understanding the IETF & IRTF Ecosystem
+### Understanding the IDNOG Workshop Ecosystem
 
-Every IETF meeting serves a dual purpose. It hosts both the IETF (engineering) and the IRTF (research) under one roof during the same week. This structure exists because long-term internet research must directly inform practical engineering.
+IDNOG serves as the primary meeting ground for the engineers, operators, and architects who build and maintain Indonesia's internet infrastructure. While the main conference focuses on high-level industry presentations, the Workshops & Masterclasses are where the actual engineering happens.
 
-During the event, you can fluidly cross between two types of sessions depending on your background and interests:
+For academia and advanced researchers, these tracks offer a rare, hands-on deep dive:
 
-* The Internet Research Task Force (IRTF) Sessions — _The Academic Gateway_: The IRTF focuses on the long-term evolution of the internet through a theoretical lens. Rather than writing strict engineering standards, its Research Groups (RGs) explore foundational, multidisciplinary topics like Human Rights Protocol Considerations (HRPC), privacy-preserving technologies, and decentralized architectures. Because it mirrors peer-reviewed academic discussion, this is an ideal, natural entry point for students and educators.
-* The Internet Engineering Task Force (IETF) Sessions — _The Technical Foundation_: The IETF is where those research concepts eventually transform into practical reality. In technical Working Groups (WGs), engineers and developers collaborate to write the open internet standards (RFCs) that keep the global web running today, operating on a philosophy of "rough consensus and running code."
+* The Production-Grade Lab: Instead of simulated topologies, these masterclasses expose you to real-world deployment challenges, transition bottlenecks, AI-powered security configurations, and modern data center architectures.
+* Bridging Research and Industry: Advanced internet engineering requires a feedback loop. Industry challenges fuel academic research, and academic breakthroughs optimize industry standards. This fellowship embeds you directly into that loop.
 
-Why they meet together: By embedding IRTF research sessions directly inside the IETF meeting week, the community ensures that emerging academic research can seamlessly transition into real-world engineering standards.
+#### The Fellowship Will Include:
 
-The Fellowship will include:
+* Full Complimentary Access: A sponsored seat in **one** of IDNOG’s elite, multi-day technical workshop tracks listed bellow.
+* Direct Mentorship: Opportunity to interact, troubleshoot, and network with senior network operators and industry pioneers.
 
-* **Four preparation sessions (see** [#timeline](tiof-tu-fellowship-idnog-2026.md#timeline "mention")**)**
-* **Remote Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th JUNE 2026.**
+### Why Join This Fellowship?
 
-### Why join this Fellowship?
+The modern internet infrastructure landscape demands a blend of rigorous academic methodology and deep, practical deployment knowledge.
 
-The internet requires a multidisciplinary approach combining programming, system design, academic theory, and policy thinking to evolve responsibly.
-
-* Connect Academia with Global Industry: See firsthand how global internet research is peer-reviewed and advanced by international experts during the research sessions.
-* Advocate for Rights-by-Design: Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) framework to both research concepts and technical protocols, ensuring future internet architecture protects citizen privacy by design.
-* Enhance Your Professional Portfolio: Gaining hands-on exposure to global bodies like the IETF and IRTF provides a highly respected distinction on CVs for both academic and industry career paths.
+* **For Working Professionals (S2/S3 Students)**: Many postgraduate students are already active tech professionals. This fellowship gives you the high-level infrastructure mastery needed to solve immediate, complex bottlenecks at your workplace, while providing a rich source of empirical data and case studies for your thesis or dissertation.
+* **For Lecturers & Researchers:** Bring production-grade network engineering back to the classroom. Update your curriculum with the latest industry best practices in routing, transport network designs, and data center frameworks, ensuring your students graduate industry-ready.
+* **Enhance Your Professional Portfolio:** Gaining hands-on exposure within the IDNOG community provides a unique, highly respected distinction on CVs for both academic tenure and corporate leadership paths.
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -80,22 +78,14 @@ The internet requires a multidisciplinary approach combining programming, system
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
-**FRIDAY, 19TH JUNE**\
+**FRIDAY, 2nd JULY**\
 **2026 - 23:59 (UTC+00)**
-{% endhint %}
-
-{% hint style="info" %}
-<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-126-Launching" class="button primary" data-icon="rocket-launch">REGISTER</a>
-
-#### Don't miss the LAUNCHING SESSION !
-
-**Saturday, 13 June 2026**
 {% endhint %}
 
 {% hint style="info" %}
 ## FELLOWSHIP ANNOUNCEMENT
 
-**MONDAY, 22ND JUNE 2026**
+**Friday, 9th JULY 2026**
 
 <a class="button primary" data-icon="people-pants">Meet the Fellows</a>
 {% endhint %}
@@ -103,15 +93,13 @@ The internet requires a multidisciplinary approach combining programming, system
 {% hint style="success" %}
 ## WHO SHOULD APPLY?
 
-Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and _Researchers_ in multidisciplinary fields who have an interest in areas such as Standards, Networking, Protocols, Cyber Security, etc.
+This program is exclusively tailored for individuals within higher education who have a strong foundation or focus on networking, data centers, systems, or cybersecurity:
 
-* Note that proof of student status will need to be submitted
-{% endhint %}
+* Active Lecturers / Researchers in Computer Science, Information Technology, Computer Engineering, or related telecommunication fields.
+* Current Master’s (S2) Students looking to align their professional tech careers and academic research with industry standards.
+* Current Doctoral (S3) Candidates focusing on advanced internet architecture, protocol designs, or network security.
 
-{% hint style="info" %}
-## RELATED EVENT
-
-[**\[#IETF\] IETF 126**](ietf-ietf-126.md)
+> _Note: Selected fellows will be required to submit proof of active academic status (e.g., Lecturer ID, active student enrollment certificate, or official university letter)._
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
