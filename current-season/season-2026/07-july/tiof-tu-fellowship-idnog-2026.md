@@ -73,19 +73,21 @@ The modern internet infrastructure landscape demands a blend of rigorous academi
 {% column width="41.666666666666664%" %}
 <p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 
+<div align="center"><figure><img src="../../../.gitbook/assets/photo_2026-06-18_09-11-02.jpg" alt=""><figcaption></figcaption></figure></div>
+
 <div align="center"><figure><img src="../../../.gitbook/assets/qr-code-177700_4096px.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
-**FRIDAY, 2nd JULY**\
+**FRIDAY, 3rd JULY**\
 **2026 - 23:59 (UTC+00)**
 {% endhint %}
 
 {% hint style="info" %}
 ## FELLOWSHIP ANNOUNCEMENT
 
-**Friday, 9th JULY 2026**
+**Friday, 10th JULY 2026**
 
 <a class="button primary" data-icon="people-pants">Meet the Fellows</a>
 {% endhint %}
@@ -111,22 +113,20 @@ This program is exclusively tailored for individuals within higher education who
 * ​**Telegram:** [@TIOFContact](https://t.me/TIOFContact)
 {% endhint %}
 
-## Who will you meet
+## Available Workshops
 
-{% columns %}
-{% column width="41.66666666666667%" %}
-Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in The IO Foundation.
-{% endcolumn %}
+You can choose ONE of these workshops below:
 
-{% column width="58.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td>Yug Desai</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/yug Desai.png">yug Desai.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
-{% endcolumn %}
-{% endcolumns %}
+* 20-22 Routing Architecture Mastery: Deep Dive OSPF, BGP, IPv4 & IPv6 Transition in Production Networks
+* 20-22 VXLAN EVPN For Data Center Network Workshop
+* 20-21 FTTH to DWDM–OTN Transport Network Design (Next generation DWDM)
+* 20-22 BGP Deployment Workshop
+* 20-21 Cybrey Firewall: Secure but Easy – Mastering AI-Powered Next-Generation Security
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: FRIDAY, 19TH JUNE 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
+**APPLY BY: FRIDAY, 3RD JULY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
