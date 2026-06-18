@@ -325,13 +325,13 @@ The IO Foundation extends its deepest gratitude to our Sponsors and valued Partn
 {% column %}
 ### Sponsors
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to support technologists in their career towards protecting users?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Indonesia Network Operators' Group</strong></td><td><a href="https://www.idnog.or.id/about-us" class="button primary">Learn More</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 IDNOG Logo Gitbook Card ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 IDNOG Logo Gitbook Card ENG v1.0.png</a></td></tr><tr><td>Would you like to support technologists in their career towards protecting users?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Sponsors CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 
 {% column %}
 ### Partners
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Indonesia Network Operators' Group</strong></td><td><a href="https://www.idnog.or.id/about-us" class="button primary">Learn More</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 IDNOG Logo Gitbook Card ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 IDNOG Logo Gitbook Card ENG v1.0.png</a></td></tr><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
