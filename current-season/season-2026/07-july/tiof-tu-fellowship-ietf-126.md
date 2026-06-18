@@ -75,21 +75,13 @@ The internet requires a multidisciplinary approach combining programming, system
 {% column width="41.666666666666664%" %}
 <p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/qr-code-177700_4096px.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] TU Fellowship IETF 126 QR Code Registration XXX v1.0.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
 **FRIDAY, 19TH JUNE**\
 **2026 - 23:59 (UTC+00)**
-{% endhint %}
-
-{% hint style="info" %}
-<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IETF-126-Launching" class="button primary" data-icon="rocket-launch">REGISTER</a>
-
-#### Don't miss the LAUNCHING SESSION !
-
-**Saturday, 13 June 2026**
 {% endhint %}
 
 {% hint style="info" %}
@@ -364,37 +356,6 @@ The IO Foundation extends its deepest gratitude to our Sponsors and valued Partn
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Support Fellows</strong></td><td>Would you like to support technologists in their career towards protecting users?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png</a></td></tr><tr><td><strong>Support The IO Foundation</strong></td><td>Would you like to support The IO Foundation in its advocacy towards a Rights-by-Design digital ecosystem?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Favicon XXX v1.0.png">[TIOF] Comms [P] Favicon XXX v1.0.png</a></td></tr></tbody></table>
 
-## Share this opportunity
-
-{% columns %}
-{% column width="83.33333333333334%" %}
-Help spreading the word about this Fellowship opportunity.
-
-Here's a suggested text:
-
-{% code overflow="wrap" %}
-```
-⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #IETF126!
-
-🎫 Register now at https://Short.TheIOFoundation.org/tiof-tu-fellowship-ietf-126-registration​
-
-📅 Deadline: 19TH JUNE 2026
-
-More information:
-https://Short.TheIOFoundation.org/TIOF-TU-Fellowship-IETF-126-InfoPage​
-```
-{% endcode %}
-
-
-{% endcolumn %}
-
-{% column width="16.666666666666657%" %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Twitter X Icon.png">Twitter X Icon.png</a></td><td><a href="https://x.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23IETF125!%0A%0A%F0%9F%8E%AB%20Register%20now%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-registrationhrpage%0A%0A%F0%9F%93%85%20Deadline%3A%2025%20January%202026%0A%0AMore%20information%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-InfoPage%0A%0AJoin%20the%20cohort%2C%20get%20training%20%26%20advocate%20for%20Data-Centric%20Digital%20Rights%20at%20the%20global%20standards%20forum%20(14%E2%80%9320%20March%202026)%21%20%23TechUp%20%23InternetStandards">https://x.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23IETF125!%0A%0A%F0%9F%8E%AB%20Register%20now%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-registrationhrpage%0A%0A%F0%9F%93%85%20Deadline%3A%2025%20January%202026%0A%0AMore%20information%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-InfoPage%0A%0AJoin%20the%20cohort%2C%20get%20training%20%26%20advocate%20for%20Data-Centric%20Digital%20Rights%20at%20the%20global%20standards%20forum%20(14%E2%80%9320%20March%202026)%21%20%23TechUp%20%23InternetStandards</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png">[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png</a></td><td><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026">https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png">[TIOF] Comms [P] Icon FB XXX v1.0.png</a></td><td><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026&#x26;quote=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026">https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026&#x26;quote=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
-
-
-{% endcolumn %}
-{% endcolumns %}
-
 ## Media
 
 Media taken during the Fellowship will be posted here.
@@ -421,28 +382,13 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
  OTHER RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
 ```
 
-| Organization                                                                              | Topic                                                                                                                                   | Notes                                                                                                                                             |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>              | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)                                                                                     | Code of Conduct for all TIOF activities.                                                                                                          |
-|                                                                                           | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                                        | A digital adaptation of the Chatham House Rule.                                                                                                   |
-|                                                                                           | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs)                                                                       | Information on The IO Foundation's advocacy.                                                                                                      |
-|                                                                                           | Presentation Slides                                                                                                                     |                                                                                                                                                   |
-|                                                                                           | [The Selfish Ledger](https://www.youtube.com/watch?v=QDVVo14A_fo)                                                                       | A must-watch short video on how the importance of data, how companies decide to extract it and (most importantly) what they decide to do with it. |
-| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/)      | [ICANN Policy](https://www.icann.org/policy)                                                                                            | Learn how to participate in ICANN Policy Development Processes (PDPs)                                                                             |
-|                                                                                           | [ICANN for Beginners](https://www.icann.org/en/beginners)                                                                               | A good starting point for anyone wanting to participate in ICANN processes.                                                                       |
-|                                                                                           | [Board of Directors](https://itp.cdn.icann.org/en/files/about-the-board/getting-to-know-the-icann-board-of-directors-16-08-2022-en.pdf) | Infographic depicting the composition of the ICANN Board.                                                                                         |
-| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                       | [Attending a KSK Ceremony](https://www.iana.org/help/key-ceremony-attendance)                                                           | Information to participate on a KSK Ceremony.                                                                                                     |
-|                                                                                           | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)                                   |                                                                                                                                                   |
-|                                                                                           | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                                          | Recordings of previous KSK Ceremonies.                                                                                                            |
-| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>          | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                                                   | Information on how to become an ISOC individual member.                                                                                           |
-|                                                                                           | [Pulse](https://pulse.internetsociety.org/)                                                                                             | ISOC project to evaluate the availability, evolution, and resilience of the global Internet.                                                      |
-|                                                                                           | [2025 Action Plan](https://www.internetsociety.org/wp-content/uploads/2024/11/2025-Action-Plan-EN.pdf)                                  | Learn what is ISOC up to during 2025.                                                                                                             |
-| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [Datatracker](https://datatracker.ietf.org/)                                                                                            | Centralized repository of all things IETF.                                                                                                        |
-|                                                                                           | [Ornithology PDF](https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf)                                              |                                                                                                                                                   |
-|                                                                                           | [NomCom](https://www.ietf.org/about/groups/nomcom/)                                                                                     | Information on the Nominating Commitee.                                                                                                           |
-| [International Telecommunications Union (ITU)](https://www.itu.int/en/Pages/default.aspx) | [Telecommunication Standardization (ITU-T)](https://www.itu.int/en/ITU-T/Pages/default.aspx)                                            |                                                                                                                                                   |
-|                                                                                           | [Study Groups (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/Pages/default.aspx)                                       | List of ITU-T Study Groups for the Study Cycle 2025-2028.                                                                                         |
-| [World Wide Web Consortium (W3C)](https://www.w3.org/)                                    | [Get involved](https://www.w3.org/get-involved/)                                                                                        | Information on getting involved in W3C work.                                                                                                      |
+| Organization                                                                 | Topic                                                             | Notes                                                                                                                                             |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p> | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)               | Code of Conduct for all TIOF activities.                                                                                                          |
+|                                                                              | [Dhatham House Rule](https://tiof.click/Dhatham)                  | A digital adaptation of the Chatham House Rule.                                                                                                   |
+|                                                                              | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs) | Information on The IO Foundation's advocacy.                                                                                                      |
+|                                                                              | Presentation Slides                                               |                                                                                                                                                   |
+|                                                                              | [The Selfish Ledger](https://www.youtube.com/watch?v=QDVVo14A_fo) | A must-watch short video on how the importance of data, how companies decide to extract it and (most importantly) what they decide to do with it. |
 {% endtab %}
 {% endtabs %}
 
