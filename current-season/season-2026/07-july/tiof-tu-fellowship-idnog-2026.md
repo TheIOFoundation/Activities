@@ -37,45 +37,59 @@ layout:
 {% column width="58.333333333333336%" %}
 ### About
 
-The IO Foundation, supported by Indonesian Network Operators Group (IDNOG) is seeking 5 passionate and dedicated individuals from the academic community to join our exclusive Fellowship cohort for the upcoming IDNOG 2026 Masterclasses and Workshops. This year’s technical tracks will be held at the Mercure Jakarta Grogol from 20th to 22nd July 2026.
+The IO Foundation, supported by the Indonesian Network Operators Group (IDNOG) is seeking 5 passionate and dedicated individuals from the academic community to join our exclusive Fellowship cohort for the upcoming IDNOG 2026 Masterclasses and Workshops.
+
+This year’s technical tracks will be held at the Mercure Jakarta Grogol from 20th to 22nd July 2026.
 
 {% hint style="warning" %}
 ## NOTICE
 
-⚠️ Important Scope Limitation: Please note that this specific fellowship grants full, complimentary access strictly to the intensive technical Workshops / Masterclasses. It does not cover entry to the main IDNOG general conference sessions.
+⚠️ Important Scope Limitation: Please note that this specific fellowship grants full, complimentary access strictly to the intensive technical Workshops / Masterclasses.
+
+It does not cover entry to the main IDNOG general conference sessions.
 
 Check the [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline) below for more details.
 {% endhint %}
 
 ### Understanding the IDNOG Workshop Ecosystem
 
-IDNOG serves as the primary meeting ground for the engineers, operators, and architects who build and maintain Indonesia's internet infrastructure. While the main conference focuses on high-level industry presentations, the Workshops & Masterclasses are where the actual engineering happens.
+IDNOG serves as the primary meeting ground for the engineers, operators and architects who build and maintain Indonesia's Internet infrastructure. While the main conference focuses on high-level industry presentations, the Workshops & Masterclasses are where the actual engineering happens.
 
-For academia and advanced researchers, these tracks offer a rare, hands-on deep dive:
+For academia and advanced researchers, these tracks offer a rare, hands-on deep dive on the following topics:
 
-* The Production-Grade Lab: Instead of simulated topologies, these masterclasses expose you to real-world deployment challenges, transition bottlenecks, AI-powered security configurations, and modern data center architectures.
-* Bridging Research and Industry: Advanced internet engineering requires a feedback loop. Industry challenges fuel academic research, and academic breakthroughs optimize industry standards. This fellowship embeds you directly into that loop.
+* FTTH to DWDM–OTN Transport Network Design (Next generation DWDM)
+* Routing Architecture Mastery : Deep Dive OSPF, BGP, IPv4 & IPv6 Transition in Production Networks
+* BGP Deployment Workshop
+* VXLAN EVPN For Data Center Network Workshop
+* Cybrey Firewall: Secure but Easy – Mastering AI-Powered Next-Generation Security
 
-#### The Fellowship Will Include:
+#### The Fellowship will include:
 
-* Full Complimentary Access: A sponsored seat in **one** of IDNOG’s elite, multi-day technical workshop tracks listed bellow.
-* Direct Mentorship: Opportunity to interact, troubleshoot, and network with senior network operators and industry pioneers.
+* Full Complimentary Access: A sponsored seat in **one** of IDNOG’s multi-day technical workshop tracks listed above.
+* Networking: Opportunity to interact, troubleshoot and network with senior network operators and industry pioneers.
 
 ### Why Join This Fellowship?
 
-The modern internet infrastructure landscape demands a blend of rigorous academic methodology and deep, practical deployment knowledge.
+The modern Internet infrastructure landscape demands a blend of rigorous academic methodology and deep, practical deployment knowledge.
 
-* **For Working Professionals (S2/S3 Students)**: Many postgraduate students are already active tech professionals. This fellowship gives you the high-level infrastructure mastery needed to solve immediate, complex bottlenecks at your workplace, while providing a rich source of empirical data and case studies for your thesis or dissertation.
-* **For Lecturers & Researchers:** Bring production-grade network engineering back to the classroom. Update your curriculum with the latest industry best practices in routing, transport network designs, and data center frameworks, ensuring your students graduate industry-ready.
-* **Enhance Your Professional Portfolio:** Gaining hands-on exposure within the IDNOG community provides a unique, highly respected distinction on CVs for both academic tenure and corporate leadership paths.
+* **For Lecturers & Researchers**\
+  Bring production-grade network engineering back to the classroom. Update your curriculum with the latest industry best practices in routing, transport network designs and data center frameworks, ensuring your students graduate industry-ready.
+* **For Masters and Doctoral Students**\
+  This fellowship gives you the high-level infrastructure mastery needed to solve immediate, complex bottlenecks at your workplace, while providing a rich source of empirical data and case studies for your thesis or dissertation.
+
+{% hint style="info" icon="ranking-star" %}
+## **Enhance Your Professional Portfolio**
+
+Gaining hands-on exposure within the IDNOG community provides a unique, highly respected distinction on CVs for both academic tenure and corporate leadership paths.
+{% endhint %}
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IDNOG-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 
 <div align="center"><figure><img src="../../../.gitbook/assets/photo_2026-06-18_09-11-02.jpg" alt=""><figcaption></figcaption></figure></div>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/qr-code-177700_4096px.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] TU Fellowship IDNOG 2026 QR Code Registration XXX v1.0.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
@@ -95,13 +109,13 @@ The modern internet infrastructure landscape demands a blend of rigorous academi
 {% hint style="success" %}
 ## WHO SHOULD APPLY?
 
-This program is exclusively tailored for individuals within higher education who have a strong foundation or focus on networking, data centers, systems, or cybersecurity:
+This program is exclusively tailored for individuals within higher education who have a strong foundation or focus on networking, data centers, systems or cybersecurity:
 
-* Active Lecturers / Researchers in Computer Science, Information Technology, Computer Engineering, or related telecommunication fields.
+* Active Lecturers / Researchers in Computer Science, Information Technology, Computer Engineering or related telecommunication fields.
 * Current Master’s (S2) Students looking to align their professional tech careers and academic research with industry standards.
-* Current Doctoral (S3) Candidates focusing on advanced internet architecture, protocol designs, or network security.
+* Current Doctoral (S3) Candidates focusing on advanced internet architecture, protocol design or network security.
 
-> _Note: Selected fellows will be required to submit proof of active academic status (e.g., Lecturer ID, active student enrollment certificate, or official university letter)._
+> _Note: Selected fellows will be required to submit proof of active academic status (e.g., Lecturer ID, active student enrollment certificate or official university letter)._
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -115,18 +129,19 @@ This program is exclusively tailored for individuals within higher education who
 
 ## Available Workshops
 
-You can choose ONE of these workshops below:
+You can participate in <mark style="color:$warning;">**ONE**</mark> of these workshops below:\
+(In the registration you will be able to select your order of preference.)
 
-* 20-22 July 2026: Routing Architecture Mastery: Deep Dive OSPF, BGP, IPv4 & IPv6 Transition in Production Networks
-* 20-22 July 2026: VXLAN EVPN For Data Center Network Workshop
-* 20-21 July 2026: FTTH to DWDM–OTN Transport Network Design (Next generation DWDM)
-* 20-22 July 2026: BGP Deployment Workshop
-* 20-21 July 2026: Cybrey Firewall: Secure but Easy – Mastering AI-Powered Next-Generation Security
+* **20-22 July 2026:** [Routing Architecture Mastery: Deep Dive OSPF, BGP, IPv4 & IPv6 Transition in Production Networks](https://www.idnog.or.id/program/routing-architecture-mastery-:-deep-dive-ospf,-bgp,-ipv4-&-ipv6-transition-in-production-networks)
+* **20-22 July 2026:** [VXLAN EVPN For Data Center Network Workshop](https://www.idnog.or.id/program/vxlan-evpn-for-data-center-network-workshop)
+* **20-21 July 2026:** [FTTH to DWDM–OTN Transport Network Design (Next generation DWDM)](https://www.idnog.or.id/program/ftth-to-dwdm%E2%80%93otn-transport-network-design-\(next-generation-dwdm\))
+* **20-22 July 2026:** [BGP Deployment Workshop](https://www.idnog.or.id/program/bgp-deployment-workshop)
+* **20-21 July 2026:** [Cybrey Firewall: Secure but Easy – Mastering AI-Powered Next-Generation Security](https://www.idnog.or.id/program/cybrey-firewall:-secure-but-easy-%E2%80%93-mastering-ai-powered-next-generation-security)
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: FRIDAY, 3RD JULY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
+**APPLY BY: FRIDAY, 3RD JULY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IDNOG-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -137,19 +152,19 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Able to follow the multiday Workshop In-Person actively until completion
-* [x] Possess a suitable academic background or professional experience in networking/computer science to actively participate in high-level technical sessions&#x20;
-* [x] Ability to work independently and collaboratively in dynamic online environments
+* [x] <mark style="color:$warning;">Able to follow the multiday Workshop in-person actively and until completion</mark>
+* [x] Possess a suitable academic background or professional experience in networking/computer science to actively participate in high-level technical sessions
+* [x] Ability to work independently and collaboratively in dynamic environments
 
 {% hint style="warning" %}
-Recommendation Letter Requirement
+## Recommendation Letter Requirement
 
 You are required to upload a formal Recommendation Letter from your faculty. The letter must explicitly state:
 
-* Your chosen IDNOG workshop topic.
+* Your chosen IDNOG workshop tracks.
 * That you possess the suitable academic background or professional experience required to actively participate in high-level technical sessions.
 * A guarantee of your commitment to attend the full duration of the workshop.
-* An acknowledgment that you will cover your own accommodation and travel expenses.
+* An acknowledgment that you will cover your own accommodation and travel expenses, if applicable.
 {% endhint %}
 {% endcolumn %}
 
@@ -159,17 +174,19 @@ You are required to upload a formal Recommendation Letter from your faculty. The
 * [x] Passion for and commitment to The IO Foundation's [mission](https://tiof.click/TIOFMission) and [values](https://tiof.click/TIOFValues)
 * [x] **Languages**
 
+- Bahasa Indonesia fluent both oral and written
 - English fluent both oral and written
-- Fluent level of local official languages is a plus.
 
 * [x] Strong networking skills and a proactive approach to building relationships within the tech community will be a plus.
 * [x] Strong understanding of data privacy and technology issues will be a plus.
 * [x] Proven experience in event participation, public speaking or advocacy will be a plus.
 
-{% hint style="info" %}
-Force Majeure & Cancellation Policy
+{% hint style="info" icon="user-beard-bolt" %}
+## Force Majeure & Cancellation Policy
 
-In the event of force majeure—such as a medical emergency or a death in the immediate family—you must notify the committee immediately and provide supporting documentation. This allows your allocated fellowship seat to be passed to another candidate on the waiting list.
+In the event of force majeure (such as a medical emergency or a death in the immediate family) you must notify the committee immediately and provide supporting documentation.
+
+This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -187,17 +204,21 @@ By becoming a Fellow you commit to the following responsibilities:
 - Full multiday Workshop sessions
 - Daily check-ins during the workshop
 
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline)).
+* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline))
+* [x] Attend the Review Call (see [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline))
 {% endcolumn %}
 
 {% column %}
 ### &#x20;
 
-* [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
+* [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements
 * [x] Provide Recorded Testimony in the end of the Fellowship
-* [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
-* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [IETF LLC's Code of Conduct](https://www.ietf.org/administration/policies-procedures/code-of-conduct/).\
-  Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
+* [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts
+* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [IDNOG's Community Guidelines](https://docs.google.com/document/d/1PvAmkamjgLz81sGDtwsfUwNMx3gt7Fas1h451OcPgsA/edit?tab=t.0).
+
+{% hint style="info" icon="hexagon-check" %}
+Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
+{% endhint %}
 {% endcolumn %}
 {% endcolumns %}
 
@@ -207,18 +228,23 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 {% columns %}
 {% column %}
-* [x] Hands-on Production Engineering: Skip the theoretical simulations. Work directly on advanced network topologies, routing policies, and security frameworks designed by senior architects who run major internet infrastructure.
-* [x] Immediate Professional ROI: Perfect for working postgraduate students. Gain deep-dive technical skills (like VXLAN EVPN and BGP deployment) that you can apply immediately to solve architecture bottlenecks at your day job.
-* [x] Industry-Aligned Research & Teaching: For lecturers and researchers, discover the actual, live-network operational challenges facing Indonesia’s internet backbone. Use these insights to fuel your thesis data or update your university curriculum to match market demands.
-* [x] Elite Networking & Collaboration: Connect directly with top-tier engineers, ISPs, cloud providers, and telco leads. This opens doors for empirical case studies, research collaboration, and sourcing industry experts for your campus.
-* [x] Prestigious CV Distinction: Holding an IDNOG Workshop Fellowship proves to both academic boards and corporate employers that your technical expertise is validated by the industry's highest standards.
+* [x] **Hands-on Production Engineering:**\
+  Skip the theoretical simulations. Work directly on advanced network topologies, routing policies and security frameworks designed by senior architects who run major Internet infrastructure.
+* [x] **Immediate Professional ROI:**\
+  Perfect for working postgraduate students. Gain deep-dive technical skills (like VXLAN EVPN and BGP deployment) that you can apply immediately to solve architecture bottlenecks at your day job.
+* [x] **Industry-Aligned Research & Teaching:**\
+  For lecturers and researchers, discover the actual, live-network operational challenges facing Indonesia’s internet backbone. Use these insights to fuel your thesis data or update your university curriculum to match market demands.
+* [x] **Elite Networking & Collaboration:**\
+  Connect directly with top-tier engineers, ISPs, cloud providers and telco leads. This opens doors for empirical case studies, research collaboration and sourcing industry experts for your campus.
+* [x] **Prestigious CV Distinction:**\
+  Holding an IDNOG Workshop Fellowship proves to both academic boards and corporate employers that your technical expertise is validated by the industry's highest standards.
 {% endcolumn %}
 
 {% column %}
-* [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
+* [x] **Blockchain based certificate of participation in TIOF Fellowship** (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
   * [ ] Fully completion of conference session attendance
-  * [ ] Completion on Daily Check Ins, Final Report, Feedbacks and actively enganga in the session&#x20;
-* [x] Access to the The IO Foundation's _TechUp Community_ where you'll be able to enhance your knowledge and career opportunities:
+  * [ ] Completion on Daily Check-Ins, Final Report, Feedbacks and actively engaging in the workshop.
+* [x] A**ccess to the The IO Foundation's&#x20;**_**TechUp Community**_ where you'll be able to enhance your knowledge and career opportunities:
   * [x] Access to exclusive training by TIOF
   * [x] Priority for next Fellowship opportunities
   * [x] Stay informed on current trends and developments in technology and data privacy to contribute to discussions and strategic planning.
@@ -230,7 +256,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 The following items are covered in this remote Fellowship:
 
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Workshop ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full </td></tr><tr><td valign="top">Trasnportaion and Accomodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include accomodation and transportation </td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Workshop ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full </td></tr><tr><td valign="top">Transportation and Accommodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include accommodation and transportation.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
 
 ## Timeline
 
@@ -239,7 +265,7 @@ The following items are covered in this remote Fellowship:
 **18/06/2026:  Opening of applications**
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-idnog-2026.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-idnog-2026.md#responsibilities).\
-<a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
+<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IDNOG-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endstep %}
 
 {% step %}
@@ -255,7 +281,7 @@ TIOF will announce the final list of the cohort.
 {% endstep %}
 
 {% step %}
-**20 - 21 or 22/07/26: In Person Workshop Session**
+**20 - 21 or 22/07/26: In-Person Workshop Session**
 
 The cohort will follow the multiday Workshop in Person
 
@@ -269,7 +295,7 @@ Last date to submit your Fellowship Report for evaluation.
 {% endstep %}
 
 {% step %}
-**31/07/26: Review call**
+**01/08/26: Review call**
 
 The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
 {% endstep %}
@@ -284,7 +310,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: Friday, 3rdTH JULY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
+**APPLY BY: Friday, 3rdTH JULY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-IDNOG-2026-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
 {% endhint %}
 
 ## Cohort
@@ -305,44 +331,13 @@ The IO Foundation extends its deepest gratitude to our Sponsors and valued Partn
 {% column %}
 ### Partners
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Indonesia Network Operators' Group</strong></td><td><a href="https://www.idnog.or.id/about-us" class="button primary">Learn More</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 IDNOG Logo Gitbook Card ENG v1.0.png">[TIOF] Comms [P] 0000-00-00 IDNOG Logo Gitbook Card ENG v1.0.png</a></td></tr><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
 ## Sponsorship Opportunities
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Support Fellows</strong></td><td>Would you like to support technologists in their career towards protecting users?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0 (2).png</a></td></tr><tr><td><strong>Support The IO Foundation</strong></td><td>Would you like to support The IO Foundation in its advocacy towards a Rights-by-Design digital ecosystem?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Favicon XXX v1.0.png">[TIOF] Comms [P] Favicon XXX v1.0.png</a></td></tr></tbody></table>
-
-## Share this opportunity
-
-{% columns %}
-{% column width="83.33333333333334%" %}
-Help spreading the word about this Fellowship opportunity.
-
-Here's a suggested text:
-
-{% code overflow="wrap" %}
-```
-⚡ Check out this @TUFellowship opportunity from @TheIOFoundation to attend #IETF126!
-
-🎫 Register now at https://Short.TheIOFoundation.org/tiof-tu-fellowship-ietf-126-registration​
-
-📅 Deadline: 19TH JUNE 2026
-
-More information:
-https://Short.TheIOFoundation.org/TIOF-TU-Fellowship-IETF-126-InfoPage​
-```
-{% endcode %}
-
-
-{% endcolumn %}
-
-{% column width="16.666666666666657%" %}
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/Twitter X Icon.png">Twitter X Icon.png</a></td><td><a href="https://x.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23IETF125!%0A%0A%F0%9F%8E%AB%20Register%20now%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-registrationhrpage%0A%0A%F0%9F%93%85%20Deadline%3A%2025%20January%202026%0A%0AMore%20information%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-InfoPage%0A%0AJoin%20the%20cohort%2C%20get%20training%20%26%20advocate%20for%20Data-Centric%20Digital%20Rights%20at%20the%20global%20standards%20forum%20(14%E2%80%9320%20March%202026)%21%20%23TechUp%20%23InternetStandards">https://x.com/intent/tweet?text=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23IETF125!%0A%0A%F0%9F%8E%AB%20Register%20now%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-registrationhrpage%0A%0A%F0%9F%93%85%20Deadline%3A%2025%20January%202026%0A%0AMore%20information%3A%20https%3A%2F%2Fshort.theiofoundation.org%2Ftiof-tu-fellowship-ietf-125-InfoPage%0A%0AJoin%20the%20cohort%2C%20get%20training%20%26%20advocate%20for%20Data-Centric%20Digital%20Rights%20at%20the%20global%20standards%20forum%20(14%E2%80%9320%20March%202026)%21%20%23TechUp%20%23InternetStandards</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png">[TIOF] Comms [P] Icon LinkedIn XXX v1.0.png</a></td><td><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026">https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026</a></td></tr><tr><td></td><td data-object-fit="contain"><a href="../../../.gitbook/assets/[TIOF] Comms [P] Icon FB XXX v1.0.png">[TIOF] Comms [P] Icon FB XXX v1.0.png</a></td><td><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026&#x26;quote=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026">https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdiscover.theiofoundation.org%2Factivities%2Fupcoming-seasons%2Fseason-2026%2F02-february%2Ftiof-tu-fellowship-apricot-2026&#x26;quote=%E2%9A%A1%20Check%20out%20this%20%40TUFellowship%20opportunity%20from%20%40TheIOFoundation%20to%20attend%20%23APRICOT2026!%0A%0A%F0%9F%8E%AB%20Register%20now%20at%20https%3A%2F%2Fshort.theiofoundation.org%2FTIOF-TU-Fellowship-APRICOT-2026-Registration%0A%0A%F0%9F%93%85%20Deadline%3A%205TH%20JANUARY%202026</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
-
-
-{% endcolumn %}
-{% endcolumns %}
 
 ## Media
 
@@ -370,28 +365,11 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
  OTHER RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
 ```
 
-| Organization                                                                              | Topic                                                                                                                                   | Notes                                                                                                                                             |
-| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p>              | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)                                                                                     | Code of Conduct for all TIOF activities.                                                                                                          |
-|                                                                                           | [Dhatham House Rule](https://tiof.click/Dhatham)                                                                                        | A digital adaptation of the Chatham House Rule.                                                                                                   |
-|                                                                                           | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs)                                                                       | Information on The IO Foundation's advocacy.                                                                                                      |
-|                                                                                           | Presentation Slides                                                                                                                     |                                                                                                                                                   |
-|                                                                                           | [The Selfish Ledger](https://www.youtube.com/watch?v=QDVVo14A_fo)                                                                       | A must-watch short video on how the importance of data, how companies decide to extract it and (most importantly) what they decide to do with it. |
-| [Internet Corporation of Assigned Names and Numbers (ICANN)](https://www.icann.org/)      | [ICANN Policy](https://www.icann.org/policy)                                                                                            | Learn how to participate in ICANN Policy Development Processes (PDPs)                                                                             |
-|                                                                                           | [ICANN for Beginners](https://www.icann.org/en/beginners)                                                                               | A good starting point for anyone wanting to participate in ICANN processes.                                                                       |
-|                                                                                           | [Board of Directors](https://itp.cdn.icann.org/en/files/about-the-board/getting-to-know-the-icann-board-of-directors-16-08-2022-en.pdf) | Infographic depicting the composition of the ICANN Board.                                                                                         |
-| [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/)                       | [Attending a KSK Ceremony](https://www.iana.org/help/key-ceremony-attendance)                                                           | Information to participate on a KSK Ceremony.                                                                                                     |
-|                                                                                           | [Call for volunteers as Trusted Community Representatives](https://www.iana.org/help/tcr-application)                                   |                                                                                                                                                   |
-|                                                                                           | [Root KSK Ceremony](https://www.youtube.com/@iana-org/streams)                                                                          | Recordings of previous KSK Ceremonies.                                                                                                            |
-| <p><a href="https://www.internetsociety.org/">Internet Society<br>(ISOC)</a></p>          | [Becoming a member](https://www.internetsociety.org/become-a-member/)                                                                   | Information on how to become an ISOC individual member.                                                                                           |
-|                                                                                           | [Pulse](https://pulse.internetsociety.org/)                                                                                             | ISOC project to evaluate the availability, evolution, and resilience of the global Internet.                                                      |
-|                                                                                           | [2025 Action Plan](https://www.internetsociety.org/wp-content/uploads/2024/11/2025-Action-Plan-EN.pdf)                                  | Learn what is ISOC up to during 2025.                                                                                                             |
-| [Internet Engineering Task Force (IETF)](https://www.ietf.org/)                           | [Datatracker](https://datatracker.ietf.org/)                                                                                            | Centralized repository of all things IETF.                                                                                                        |
-|                                                                                           | [Ornithology PDF](https://internetsociety.github.io/IETF-Ornithology/IETF-Ornithology.pdf)                                              |                                                                                                                                                   |
-|                                                                                           | [NomCom](https://www.ietf.org/about/groups/nomcom/)                                                                                     | Information on the Nominating Commitee.                                                                                                           |
-| [International Telecommunications Union (ITU)](https://www.itu.int/en/Pages/default.aspx) | [Telecommunication Standardization (ITU-T)](https://www.itu.int/en/ITU-T/Pages/default.aspx)                                            |                                                                                                                                                   |
-|                                                                                           | [Study Groups (2025-2028)](https://www.itu.int/en/ITU-T/studygroups/2025-2028/Pages/default.aspx)                                       | List of ITU-T Study Groups for the Study Cycle 2025-2028.                                                                                         |
-| [World Wide Web Consortium (W3C)](https://www.w3.org/)                                    | [Get involved](https://www.w3.org/get-involved/)                                                                                        | Information on getting involved in W3C work.                                                                                                      |
+| Organization                                                                 | Topic                                                             | Notes                                           |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------- |
+| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p> | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)               | Code of Conduct for all TIOF activities.        |
+|                                                                              | [Dhatham House Rule](https://tiof.click/Dhatham)                  | A digital adaptation of the Chatham House Rule. |
+|                                                                              | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs) | Information on The IO Foundation's advocacy.    |
 {% endtab %}
 {% endtabs %}
 
