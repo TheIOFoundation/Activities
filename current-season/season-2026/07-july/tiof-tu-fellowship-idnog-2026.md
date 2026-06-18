@@ -3,8 +3,8 @@ hidden: true
 noIndex: true
 icon: calendar-circle-user
 cover: >-
-  ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
-  Introduction XXX v1.0.png
+  ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Jakarta Site Header
+  ENG v1.0.png
 coverY: 0
 layout:
   width: default
