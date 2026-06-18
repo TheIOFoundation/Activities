@@ -230,82 +230,52 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 The following items are covered in this remote Fellowship:
 
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.<br><strong>NOTE: TIOF will cover this cost for non-students subject to securing funding.</strong></td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
-
-{% hint style="warning" %}
-## NOTICE
-
-The above list of items will be explained in full during the Launching Session.
-{% endhint %}
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Workshop ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full </td></tr><tr><td valign="top">Trasnportaion and Accomodation</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include accomodation and transportation </td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
 
 ## Timeline
 
 {% stepper %}
 {% step %}
-**13/06/2026:  Launching session & opening of applications**
+**18/06/2026:  Opening of applications**
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-idnog-2026.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-idnog-2026.md#responsibilities).\
 <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endstep %}
 
 {% step %}
-**19/06/26: Closing of applications**
+**3/07/26: Closing of applications**
 
 Applications will not be accepted beyond this date (UTC + 00).
 {% endstep %}
 
 {% step %}
-**22/06/26: Announcement of the cohort**
+**10/07/26: Announcement of the cohort**
 
 TIOF will announce the final list of the cohort.
 {% endstep %}
 
 {% step %}
-**27/06/26: Preparation session #**&#x31;
+**20 - 21 or 22/07/26: In Person Workshop Session**
 
-The cohort will gather for a session under a hybrid modality&#x20;
+The cohort will follow the multiday Workshop in Person
 
-This first session will serve as a general orientation to the Fellowship (2hr)
+The cohort required to fill the daily check-during the workshop
 {% endstep %}
 
 {% step %}
-**04/07/26: Preparation session #2**
-
-The cohort will gather online to prepare for the IETF 126 (2h).
-{% endstep %}
-
-{% step %}
-**11/07/26: Preparation session #3**
-
-The cohort will gather online to prepare for the IETF 126 (2h).
-{% endstep %}
-
-{% step %}
-**18/07/26: Preparation session #4**
-
-The cohort will gather online to prepare for the IETF 126 (2h).
-{% endstep %}
-
-{% step %}
-**18/07/2026 to 24/07/2026: IETF 126**
-
-Participate in the event with the full support of the TIOF team onsite.
-{% endstep %}
-
-{% step %}
-**07/08/26: Submission of Assignment**
+**31/07/26: Submission of Assignment**
 
 Last date to submit your Fellowship Report for evaluation.
 {% endstep %}
 
 {% step %}
-**14/08/26: Review call**
+**31/07/26: Review call**
 
 The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
 {% endstep %}
 
 {% step %}
-**21/08/2026: Issuing of digital certificates**
+**7/08/2026: Issuing of digital certificates**
 
 Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-idnog-2026.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
@@ -314,7 +284,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: Friday,19TH JUNE 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
+**APPLY BY: Friday, 3rdTH JULY 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
 {% endhint %}
 
 ## Cohort
