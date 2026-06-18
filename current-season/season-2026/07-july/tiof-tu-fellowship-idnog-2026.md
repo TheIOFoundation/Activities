@@ -117,11 +117,11 @@ This program is exclusively tailored for individuals within higher education who
 
 You can choose ONE of these workshops below:
 
-* 20-22 Routing Architecture Mastery: Deep Dive OSPF, BGP, IPv4 & IPv6 Transition in Production Networks
-* 20-22 VXLAN EVPN For Data Center Network Workshop
-* 20-21 FTTH to DWDM–OTN Transport Network Design (Next generation DWDM)
-* 20-22 BGP Deployment Workshop
-* 20-21 Cybrey Firewall: Secure but Easy – Mastering AI-Powered Next-Generation Security
+* 20-22 July 2026: Routing Architecture Mastery: Deep Dive OSPF, BGP, IPv4 & IPv6 Transition in Production Networks
+* 20-22 July 2026: VXLAN EVPN For Data Center Network Workshop
+* 20-21 July 2026: FTTH to DWDM–OTN Transport Network Design (Next generation DWDM)
+* 20-22 July 2026: BGP Deployment Workshop
+* 20-21 July 2026: Cybrey Firewall: Secure but Easy – Mastering AI-Powered Next-Generation Security
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
@@ -137,18 +137,20 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Able to  follow the IETF in-time for those joining remotely, with suitable internet connections to be able to follow the sessions actively.
-
-{% hint style="success" %}
-## CLARIFICATION
-
-This fellowship is open for all nationalities. You _**do not**_ need to live in Vienna or be an Austrian citizens
-
-* IETF Hackathon: Saturday 18th + Sunday 19th July 2026
-* IETF Meeting: Monday 20th to Friday 24th July 2026
-{% endhint %}
-
+* [x] Able to follow the multiday Workshop In-Person actively until completion
+* [x] Possess a suitable academic background or professional experience in networking/computer science to actively participate in high-level technical sessions&#x20;
 * [x] Ability to work independently and collaboratively in dynamic online environments
+
+{% hint style="warning" %}
+Recommendation Letter Requirement
+
+You are required to upload a formal Recommendation Letter from your faculty. The letter must explicitly state:
+
+* Your chosen IDNOG workshop topic.
+* That you possess the suitable academic background or professional experience required to actively participate in high-level technical sessions.
+* A guarantee of your commitment to attend the full duration of the workshop.
+* An acknowledgment that you will cover your own accommodation and travel expenses.
+{% endhint %}
 {% endcolumn %}
 
 {% column %}
@@ -163,6 +165,12 @@ This fellowship is open for all nationalities. You _**do not**_ need to live in 
 * [x] Strong networking skills and a proactive approach to building relationships within the tech community will be a plus.
 * [x] Strong understanding of data privacy and technology issues will be a plus.
 * [x] Proven experience in event participation, public speaking or advocacy will be a plus.
+
+{% hint style="info" %}
+Force Majeure & Cancellation Policy
+
+In the event of force majeure—such as a medical emergency or a death in the immediate family—you must notify the committee immediately and provide supporting documentation. This allows your allocated fellowship seat to be passed to another candidate on the waiting list.
+{% endhint %}
 {% endcolumn %}
 {% endcolumns %}
 
@@ -176,11 +184,8 @@ By becoming a Fellow you commit to the following responsibilities:
 
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
-- Preparation Sessions (see [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline))
-- [\[IETF\] IETF 126](ietf-ietf-126.md)
-- In-Time presence for New Participant Program (compulsory for new fellows, elective for recurring fellows) and Bird of a Feather (for both new and recurring fellows)
-- Daily check-ins with the cohort, minimum 2 sessions pe-day
-- Active in quizzes and curve bals task
+- Full multiday Workshop sessions
+- Daily check-ins during the workshop
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-idnog-2026.md#timeline)).
 {% endcolumn %}
@@ -202,15 +207,11 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 {% columns %}
 {% column %}
-* [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
-* [x] Expand your career options.
-* [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-idnog-2026.md#timeline "mention")and IETF Agenda)\
-  **Price:** USD  2000 **`Ticket waived`**
-* [x] Free access to the event:\
-  [\[IETF\] IETF 126](../03-march/ietf-ietf-125.md)\
-  **Price:** USD 160 **`Ticket waived for students`**
-* [x] Networking:
-  * [x] Online Meet and greet with other fellows and VIPs from IETF/IRTF
+* [x] Hands-on Production Engineering: Skip the theoretical simulations. Work directly on advanced network topologies, routing policies, and security frameworks designed by senior architects who run major internet infrastructure.
+* [x] Immediate Professional ROI: Perfect for working postgraduate students. Gain deep-dive technical skills (like VXLAN EVPN and BGP deployment) that you can apply immediately to solve architecture bottlenecks at your day job.
+* [x] Industry-Aligned Research & Teaching: For lecturers and researchers, discover the actual, live-network operational challenges facing Indonesia’s internet backbone. Use these insights to fuel your thesis data or update your university curriculum to match market demands.
+* [x] Elite Networking & Collaboration: Connect directly with top-tier engineers, ISPs, cloud providers, and telco leads. This opens doors for empirical case studies, research collaboration, and sourcing industry experts for your campus.
+* [x] Prestigious CV Distinction: Holding an IDNOG Workshop Fellowship proves to both academic boards and corporate employers that your technical expertise is validated by the industry's highest standards.
 {% endcolumn %}
 
 {% column %}
