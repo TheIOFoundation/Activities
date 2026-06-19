@@ -49,27 +49,32 @@ Check the [Timeline](tiof-tu-fellowship-ietf-126.md#timeline) below for more det
 
 #### Understanding the IETF & IRTF Ecosystem
 
-Every IETF meeting serves a dual purpose. It hosts both the IETF (engineering) and the IRTF (research) under one roof during the same week. This structure exists because long-term internet research must directly inform practical engineering.
+Every IETF meeting serves a dual purpose. It hosts both the IETF (engineering) and the IRTF (research) under one roof during the same week. This structure exists because long-term Internet research must directly inform practical engineering.
 
 During the event, you can fluidly cross between two types of sessions depending on your background and interests:
 
-* The Internet Research Task Force (IRTF) Sessions — _The Academic Gateway_: The IRTF focuses on the long-term evolution of the internet through a theoretical lens. Rather than writing strict engineering standards, its Research Groups (RGs) explore foundational, multidisciplinary topics like Human Rights Protocol Considerations (HRPC), privacy-preserving technologies, and decentralized architectures. Because it mirrors peer-reviewed academic discussion, this is an ideal, natural entry point for students and educators.
-* The Internet Engineering Task Force (IETF) Sessions — _The Technical Foundation_: The IETF is where those research concepts eventually transform into practical reality. In technical Working Groups (WGs), engineers and developers collaborate to write the open internet standards (RFCs) that keep the global web running today, operating on a philosophy of "rough consensus and running code."
-
-Why they meet together: By embedding IRTF research sessions directly inside the IETF meeting week, the community ensures that emerging academic research can seamlessly transition into real-world engineering standards.
+* **The Internet Research Task Force (IRTF) Sessions,&#x20;**_**The Academic Gateway**_**:**\
+  The IRTF focuses on the long-term evolution of the Internet through a theoretical lens.\
+  Rather than writing strict engineering standards, its Research Groups (RGs) explore foundational, multidisciplinary topics like Human Rights Protocol Considerations (HRPC), privacy-preserving technologies and decentralized architectures.\
+  This is an ideal, natural entry point for students and educators.
+* **The Internet Engineering Task Force (IETF) Sessions,&#x20;**_**The Technical Foundation**_**:**\
+  The IETF is where those research concepts eventually transform into practical reality. Through technical Working Groups (WGs), engineers and developers collaborate to write the Request for Comments (RFCs) that keep the global web running today, operating on a philosophy of "`rough consensus and running code`".
 
 The Fellowship will include:
 
-* **Four preparation sessions (see** [#timeline](tiof-tu-fellowship-ietf-126.md#timeline "mention")**)**
-* **Remote Attendance at the IETF 125 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th JUNE 2026.**
+* **Two preparation sessions (see** [#timeline](tiof-tu-fellowship-ietf-126.md#timeline "mention")**)**
+* **Remote Attendance at the IETF 126 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th July 2026.**
 
 ### Why join this Fellowship?
 
-The internet requires a multidisciplinary approach combining programming, system design, academic theory, and policy thinking to evolve responsibly.
+The Internet requires a multidisciplinary approach combining programming, system design, academic theory and policy thinking to evolve responsibly.
 
-* Connect Academia with Global Industry: See firsthand how global internet research is peer-reviewed and advanced by international experts during the research sessions.
-* Advocate for Rights-by-Design: Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) framework to both research concepts and technical protocols, ensuring future internet architecture protects citizen privacy by design.
-* Enhance Your Professional Portfolio: Gaining hands-on exposure to global bodies like the IETF and IRTF provides a highly respected distinction on CVs for both academic and industry career paths.
+* Connect Academia with Global Industry:\
+  See firsthand how global Internet research is peer-reviewed and advanced by international experts during the research sessions.
+* Advocate for Rights-by-Design:\
+  Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) Framework to both research concepts and technical protocols, ensuring future internet architecture protects citizen privacy by design.
+* Enhance Your Professional Portfolio:\
+  Gaining hands-on exposure to global bodies like the IETF and IRTF provides a highly respected distinction on CVs for both academic and industry career paths.
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -120,27 +125,17 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 {% columns %}
 {% column width="41.66666666666667%" %}
 Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the IETF and the broader Standards Development Organizations ecosystem.
-
-{% hint style="info" %}
-## NOTICE
-
-Please note that we are  currently finalizing the guest list for this Fellowship.
-
-The information will be updated in this page in the coming days.
-
-Registered candidates will also be updated via email.
-{% endhint %}
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr><tr><td>Yug Desai</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/yug Desai.png">yug Desai.png</a></td></tr><tr><td><strong>MORE TO COME!</strong></td><td></td><td></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card More Speakers XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Jean F. Queralt</td><td>Founder &#x26; CEO</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/[TIOF] Avatar.png">[TIOF] Avatar.png</a></td></tr><tr><td>Irena Gunawan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Irena Gunawan.png">Irena Gunawan.png</a></td></tr><tr><td>Pavel Farhan</td><td>Associate</td><td><em>The IO Foundation</em></td><td><a href="../../../.gitbook/assets/Pavel Farhan.png">Pavel Farhan.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: FRIDAY, 19TH JUNE 2026 23:59 (UTC+00)**   <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
+**APPLY BY: FRIDAY, 19TH JUNE 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -151,7 +146,7 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Able to  follow the IETF in-time for those joining remotely, with suitable internet connections to be able to follow the sessions actively.
+* [x] Able to follow the IETF in-time for those joining remotely, with suitable internet connections to be able to follow the sessions actively.
 
 {% hint style="success" %}
 ## CLARIFICATION
@@ -185,6 +180,12 @@ In the event of force majeure (such as a medical emergency or a death in the imm
 
 This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
 {% endhint %}
+
+## Force Majeure & Cancellation Policy
+
+In the event of force majeure (such as a medical emergency or a death in the immediate family) you must notify the committee immediately and provide supporting documentation.
+
+This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -227,7 +228,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 * [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
 * [x] Expand your career options.
 * [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-ietf-126.md#timeline "mention")and IETF Agenda)\
-  **Price:** USD  2000 **`Ticket waived`**
+  **Price:** USD 2000 **`Ticket waived`**
 * [x] Free access to the event:\
   [\[IETF\] IETF 126](../03-march/ietf-ietf-125.md)\
   **Price:** USD 160 **`Ticket waived for students`**
@@ -263,7 +264,7 @@ The above list of items will be explained in full during the Launching Session.
 
 {% stepper %}
 {% step %}
-**13/06/2026:  Launching session & opening of applications**
+**13/06/2026: Launching session & opening of applications**
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-126.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-126.md#responsibilities).\
 <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
