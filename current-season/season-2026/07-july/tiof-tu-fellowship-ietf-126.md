@@ -177,6 +177,20 @@ This fellowship is open for all nationalities. You _**do not**_ need to live in 
 * [x] Strong networking skills and a proactive approach to building relationships within the tech community will be a plus.
 * [x] Strong understanding of data privacy and technology issues will be a plus.
 * [x] Proven experience in event participation, public speaking or advocacy will be a plus.
+
+{% hint style="info" icon="user-beard-bolt" %}
+## Force Majeure & Cancellation Policy
+
+In the event of force majeure (such as a medical emergency or a death in the immediate family) you must notify the committee immediately and provide supporting documentation.
+
+This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
+{% endhint %}
+
+## Force Majeure & Cancellation Policy
+
+In the event of force majeure (such as a medical emergency or a death in the immediate family) you must notify the committee immediately and provide supporting documentation.
+
+This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
 {% endcolumn %}
 {% endcolumns %}
 
