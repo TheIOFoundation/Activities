@@ -151,7 +151,7 @@ Applicants must understand and abide by the following:
 {% hint style="success" %}
 ## CLARIFICATION
 
-This fellowship is open for all nationalities. You _**do not**_ need to live in Vienna or be an Austrian citizens
+This fellowship is open for all nationalities. You _**do not**_ need to live in Vienna or be an Austrian citizen
 
 * IETF Hackathon: Saturday 18th + Sunday 19th July 2026
 * IETF Meeting: Monday 20th to Friday 24th July 2026
@@ -180,12 +180,6 @@ In the event of force majeure (such as a medical emergency or a death in the imm
 
 This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
 {% endhint %}
-
-## Force Majeure & Cancellation Policy
-
-In the event of force majeure (such as a medical emergency or a death in the immediate family) you must notify the committee immediately and provide supporting documentation.
-
-This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -201,9 +195,9 @@ By becoming a Fellow you commit to the following responsibilities:
 
 - Preparation Sessions (see [Timeline](tiof-tu-fellowship-ietf-126.md#timeline))
 - [\[IETF\] IETF 126](ietf-ietf-126.md)
-- In-Time presence for New Participant Program (compulsory for new fellows, elective for recurring fellows) and Bird of a Feather (for both new and recurring fellows)
-- Daily check-ins with the cohort, minimum 2 sessions pe-day
-- Active in quizzes and curve bals task
+- In-Time presence for New Participant Program (compulsory for new fellows, elective for recurring fellows) and Birds of a Feather (for both new and recurring fellows)
+- Daily check-ins with the cohort, minimum 2 sessions per-day
+- Active in quizzes and curveballs task
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126.md#timeline)).
 {% endcolumn %}
@@ -252,7 +246,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 The following items are covered in this remote Fellowship:
 
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.<br><strong>NOTE: TIOF will cover this cost for non-students subject to securing funding.</strong></td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.<br><mark style="color:$warning;"><strong>NOTE: TIOF will cover this cost for non-students subject to securing funding.</strong></mark></td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
 
 {% hint style="warning" %}
 ## NOTICE
@@ -264,26 +258,26 @@ The above list of items will be explained in full during the Launching Session.
 
 {% stepper %}
 {% step %}
-**13/06/2026: Launching session & opening of applications**
+**20/06/2026: Opening of applications**
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-126.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-126.md#responsibilities).\
 <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endstep %}
 
 {% step %}
-**19/06/26: Closing of applications**
+**02/07/26: Closing of applications**
 
 Applications will not be accepted beyond this date (UTC + 00).
 {% endstep %}
 
 {% step %}
-**22/06/26: Announcement of the cohort**
+**06/07/26: Announcement of the cohort**
 
 TIOF will announce the final list of the cohort.
 {% endstep %}
 
 {% step %}
-**27/06/26: Preparation session #**&#x31;
+**11/07/26: Preparation session #**&#x31;
 
 The cohort will gather for a session under a hybrid modality&#x20;
 
@@ -291,19 +285,7 @@ This first session will serve as a general orientation to the Fellowship (2hr)
 {% endstep %}
 
 {% step %}
-**04/07/26: Preparation session #2**
-
-The cohort will gather online to prepare for the IETF 126 (2h).
-{% endstep %}
-
-{% step %}
-**11/07/26: Preparation session #3**
-
-The cohort will gather online to prepare for the IETF 126 (2h).
-{% endstep %}
-
-{% step %}
-**18/07/26: Preparation session #4**
+**18/07/26: Preparation session #2**
 
 The cohort will gather online to prepare for the IETF 126 (2h).
 {% endstep %}
@@ -315,7 +297,7 @@ Participate in the event with the full support of the TIOF team onsite.
 {% endstep %}
 
 {% step %}
-**07/08/26: Submission of Assignment**
+**07/08/26: Submission of Final Report**
 
 Last date to submit your Fellowship Report for evaluation.
 {% endstep %}
