@@ -185,12 +185,6 @@ In the event of force majeure (such as a medical emergency or a death in the imm
 
 This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
 {% endhint %}
-
-## Force Majeure & Cancellation Policy
-
-In the event of force majeure (such as a medical emergency or a death in the immediate family) you must notify the committee immediately and provide supporting documentation.
-
-This will allow your allocated fellowship seat to be passed to another candidate on the waiting list.
 {% endcolumn %}
 {% endcolumns %}
 
