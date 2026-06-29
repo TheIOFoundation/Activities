@@ -27,17 +27,7 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] TU Forgemaster - Onboarding 2026
-
-## Tech Up Forgemaster Workshop and Certifications
-
-#### About
-
-The IO Foundation (TIOF) is scaling up the technical leadership within the Argos Club ecosystem. We are excited to open registrations for the Tech Up Forgemaster Workshop and Certifications.
-
-A Forgemaster is our designation for certified Argos trainers who are equipped to teach, mentor, and onboard new members into our core technical environment. The goal of this workshop is to build a robust, self-sustaining network of peer-led trainers, allowing individual university chapters to grow independently and scale their local developer communities.
-
-> 🔥 The Ultimate Skill Upgrade: They say the absolute best way to master a technology is to teach it. By stepping into the role of a trainer, you will radically elevate your own technical capabilities. Defending your infrastructure choices, troubleshooting live edge cases for your peers, and breaking down complex pipelines on the fly will force you to develop a much deeper, elite level of technical mastery—transforming you into a significantly more formidable and confident engineer.
+# \[#TIOF] TU Forgemaster 101 20-21 June 2026 Banten  & 23-24 June 2026 Bandung
 
 #### NOTICE
 
@@ -49,7 +39,7 @@ A Forgemaster is our designation for certified Argos trainers who are equipped t
 
 #### Understanding the Forgemaster Ecosystem
 
-To keep our infrastructure secure and unified, every active member of the Argos Club must pass through our standard onboarding pipeline. As a Forgemaster, you will be certified to lead new members through these three foundational pillars:
+To keep our infrastructure secure and unified, every active member of the Argos Club must pass through our standard onboarding . As a Forgemaster, you will be certified to lead new members through these three foundational pillars:
 
 * Proxmox: Hypervisor management and virtualized infrastructure setup.
 * Bitwarden: Decentralized credential security and password management workflows.
@@ -104,14 +94,14 @@ This program is open to active students and mentors of the Argos Club who want t
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 126)](ietf-ietf-126.md), to be held in Vienna (Austria) from 18th to 24th July 2026.
+The IO Foundation (TIOF) is scaling up the technical leadership within the Argos Club ecosystem. We are excited to open registrations for the Tech Up Forgemaster 101 Workshop and Certifications.
 
-{% hint style="warning" %}
-## NOTICE
+A Forgemaster is our designation for certified Argos trainers who are equipped to teach, mentor, and onboard new members into Argos Promprforge Lab infrastructure. The goal of this workshop is to build a robust, self-sustaining network of peer-led trainers, allowing individual university chapters to grow independently and scale their local developer communities.
 
-Please note that the **\[#TIOF] TU Fellowship IETF 126** will run on slightly different dates than IETF 126.
+{% hint style="warning" icon="fire-flame-curved" %}
+&#x20;**The Ultimate Skill Upgrade**
 
-Check the [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline) below for more details.
+The absolute best way to master a technology is to teach it. By stepping into the role of a **trainer**, you will radically elevate your own technical capabilities. Defending your infrastructure choices, troubleshooting live edge cases for your peers, and breaking down complex pipelines on the fly will force you to develop a much deeper, elite level of technical mastery, transforming you into a significantly more formidable and confident engineer.
 {% endhint %}
 
 #### Understanding the IETF & IRTF Ecosystem
