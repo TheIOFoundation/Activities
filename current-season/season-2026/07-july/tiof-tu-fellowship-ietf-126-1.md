@@ -29,29 +29,6 @@ layout:
 
 # \[#TIOF] TU Forgemaster 101 20-21 June 2026 Banten  & 23-24 June 2026 Bandung
 
-#### Get a Head Start: Pre-Workshop Access
-
-Don't wait until the day of the event to start practicing. To give you the best chance of success, immediately upon successful registration, you will be given direct access to a pre-workshop preparation package:
-
-* 📚 Onboarding Materials & Recordings: Full access to step-by-step guides and past training videos to refresh your knowledge.
-* 🖥️ Remote Connection to the TIOF System: You will be granted remote access to the official TIOF staging environment. This allows you to run through the deployment processes, configure setups, and practice your live-demo delivery well before the certification weekend begin.
-
-#### Workshop Structure & Curriculum
-
-This intensive 2-day certification program focuses on technical updates and live validation:
-
-* Day 1: System Updates & Technical Q\&A We will review the latest infrastructure modifications to our stack—including critical updates like our migration from Tailscale to Netbird. The remainder of the session will be an open Q\&A to resolve any complex technical edge cases or architectural questions you have encountered.
-* Day 2: Live Practical Evaluation & Demonstration To secure your trainer certification, Day 2 will consist of a live evaluation. Participants will be selected at random to explain, troubleshoot, and live-demo specific sections of the Proxmox, Bitwarden, or GitHub onboarding tracks on the spot.
-
-#### Certificates Awarded Upon Completion
-
-Participants who successfully fulfill all attendance and evaluation requirements will graduate with two certifications:
-
-1. Tech Up Forgemaster - Onboarding Certificate: Validating your technical capability to independently train and onboard new engineering recruits globally.
-2. TIOF IETF 126 Fellowship Certificate: Documenting your engagement and learning within the global internet engineering standards frameworks.
-
-
-
 {% columns %}
 {% column width="58.333333333333336%" %}
 ## About
@@ -180,15 +157,13 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Able to follow the IETF in-time for those joining remotely, with suitable internet connections to be able to follow the sessions actively.
+* [x] Participants are Argos Members or Mentors
+* [x] Have followed and finished a TIOF onboarding session yourself
 
 {% hint style="success" %}
 ## CLARIFICATION
 
-This fellowship is open for all nationalities. You _**do not**_ need to live in Vienna or be an Austrian citizen
-
-* IETF Hackathon: Saturday 18th + Sunday 19th July 2026
-* IETF Meeting: Monday 20th to Friday 24th July 2026
+This Forgemater 101 is open for all ARGOS Member and Mentors. **You can join the workshop IN PERSON or REMOTE in ANY hub no matter which club you are from.**&#x20;
 {% endhint %}
 
 * [x] Ability to work independently and collaboratively in dynamic online environments
@@ -223,24 +198,21 @@ This will allow your allocated fellowship seat to be passed to another candidate
 {% column %}
 ### Responsibilities
 
-By becoming a Fellow you commit to the following responsibilities:
+By becoming a Forgemaster you commit to the following responsibilities:
 
-* [x] Actively participate in the following events and activities related to this Fellowship:
+* [x] Actively participate in the following events and activities
 
-- Preparation Sessions (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline))
-- [\[IETF\] IETF 126](ietf-ietf-126.md)
-- In-Time presence for New Participant Program (compulsory for new fellows, elective for recurring fellows) and Birds of a Feather (for both new and recurring fellows)
-- Daily check-ins with the cohort, minimum 2 sessions per-day
+- Daily check-ins with the cohort
 - Active in quizzes and curveballs task
 
-* [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline)).
+* [x] Submit your Forgemaster Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline)).
 {% endcolumn %}
 
 {% column %}
 ### &#x20;
 
 * [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
-* [x] Provide Recorded Testimony in the end of the Fellowship
+* [x] Provide Recorded Testimony in the end of the Forgemaster
 * [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
 * [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [IETF LLC's Code of Conduct](https://www.ietf.org/administration/policies-procedures/code-of-conduct/).\
   Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
@@ -255,13 +227,8 @@ By participating in this Fellowship, you will enjoy the following benefits:
 {% column %}
 * [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
 * [x] Expand your career options.
-* [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-ietf-126-1.md#timeline "mention")and IETF Agenda)\
-  **Price:** USD 2000 **`Ticket waived`**
-* [x] Free access to the event:\
-  [\[IETF\] IETF 126](../03-march/ietf-ietf-125.md)\
-  **Price:** USD 160 **`Ticket waived for students`**
 * [x] Networking:
-  * [x] Online Meet and greet with other fellows and VIPs from IETF/IRTF
+  * [x] Online Meet and greet with other participants from other clubs
 {% endcolumn %}
 
 {% column %}
@@ -280,7 +247,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 The following items are covered in this remote Fellowship:
 
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.<br><mark style="color:$warning;"><strong>NOTE: TIOF will cover this cost for non-students subject to securing funding.</strong></mark></td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Forgemaster workshop and certification costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
 
 {% hint style="warning" %}
 ## NOTICE
@@ -292,54 +259,28 @@ The above list of items will be explained in full during the Launching Session.
 
 {% stepper %}
 {% step %}
-**20/06/2026: Opening of applications**
+**29/06/2026: Opening of applications**
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-126-1.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-126-1.md#responsibilities).\
 <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endstep %}
 
 {% step %}
-**02/07/26: Closing of applications**
+**10/07/26: Closing of applications**
 
 Applications will not be accepted beyond this date (UTC + 00).
 {% endstep %}
 
 {% step %}
-**06/07/26: Announcement of the cohort**
+**21-22 & 23-24/07/26: Forgemaster 101 Certification and Workshop**
 
-TIOF will announce the final list of the cohort.
+Participate in a workshop and certification  under a hybrid modality
 {% endstep %}
 
 {% step %}
-**11/07/26: Preparation session #**&#x31;
+**31/08/26: Submission of Final Report**
 
-The cohort will gather for a session under a hybrid modality&#x20;
-
-This first session will serve as a general orientation to the Fellowship (2hr)
-{% endstep %}
-
-{% step %}
-**18/07/26: Preparation session #2**
-
-The cohort will gather online to prepare for the IETF 126 (2h).
-{% endstep %}
-
-{% step %}
-**18/07/2026 to 24/07/2026: IETF 126**
-
-Participate in the event with the full support of the TIOF team onsite.
-{% endstep %}
-
-{% step %}
-**07/08/26: Submission of Final Report**
-
-Last date to submit your Fellowship Report for evaluation.
-{% endstep %}
-
-{% step %}
-**14/08/26: Review call**
-
-The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
+Last date to submit your Forgemaster Report for evaluation.
 {% endstep %}
 
 {% step %}
@@ -354,10 +295,6 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 
 **APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
 {% endhint %}
-
-## Cohort
-
-The list of awardees for this cohort will be announced here after the selection process has taken place.
 
 ## Acknowledgements
 
