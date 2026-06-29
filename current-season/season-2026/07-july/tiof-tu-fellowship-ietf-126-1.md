@@ -34,7 +34,7 @@ layout:
 Don't wait until the day of the event to start practicing. To give you the best chance of success, immediately upon successful registration, you will be given direct access to a pre-workshop preparation package:
 
 * 📚 Onboarding Materials & Recordings: Full access to step-by-step guides and past training videos to refresh your knowledge.
-* 🖥️ Remote Connection to the TIOF System: You will be granted remote access to the official TIOF staging environment. This allows you to run through the deployment processes, configure setups, and practice your live-demo delivery well before the certification weekend begins.
+* 🖥️ Remote Connection to the TIOF System: You will be granted remote access to the official TIOF staging environment. This allows you to run through the deployment processes, configure setups, and practice your live-demo delivery well before the certification weekend begin.
 
 #### Workshop Structure & Curriculum
 
@@ -42,20 +42,6 @@ This intensive 2-day certification program focuses on technical updates and live
 
 * Day 1: System Updates & Technical Q\&A We will review the latest infrastructure modifications to our stack—including critical updates like our migration from Tailscale to Netbird. The remainder of the session will be an open Q\&A to resolve any complex technical edge cases or architectural questions you have encountered.
 * Day 2: Live Practical Evaluation & Demonstration To secure your trainer certification, Day 2 will consist of a live evaluation. Participants will be selected at random to explain, troubleshoot, and live-demo specific sections of the Proxmox, Bitwarden, or GitHub onboarding tracks on the spot.
-
-#### Hosting Hubs & Schedule
-
-Select the physical hub that is most accessible to you during the break. We highly encourage completing the Forgemaster training and continuing straight into the afternoon IETF sessions.
-
-**Hub 1: Pradita University, Tangerang**
-
-* IETF Preparation & Sessions: Saturday, 18 – 22 June 2026 @ 14:00 – 17:00 WIB
-* Forgemaster Workshop: 20 – 21 June 2026 @ 10:00 – 13:00 WIB
-
-**Hub 2: Universitas Kristen Maranatha, Bandung**
-
-* Forgemaster Workshop: 23 – 24 June 2026 @ 10:00 – 14:00 WIB
-* IETF Sessions: 23 – 24 June 2026 @ 14:00 – 17:00 WIB
 
 #### Certificates Awarded Upon Completion
 
@@ -138,6 +124,12 @@ This program is open to active students and mentors of the Argos Club who want t
 
 <p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 {% endhint %}
+
+{% hint style="info" icon="person-waving" %}
+## In-Person Attendance:&#x20;
+
+To get the most out of the hands-on labs, you are strongly encouraged to attend the sessions in person at the hosting university hub closest to your current holiday location, even if it is not your home campus! A hybrid option will be available _strictly_ for participants who are completely outside the regions of our two physical hosts
+{% endhint %}
 {% endcolumn %}
 {% endcolumns %}
 
@@ -147,6 +139,20 @@ This program is open to active students and mentors of the Argos Club who want t
 * **Email:** [Contact@TheIOFoundation.org](mailto:Contact@TheIOFoundation.org?subject=Reaching%20out%20from%20the%20website.)​
 * ​**Telegram:** [@TIOFContact](https://t.me/TIOFContact)
 {% endhint %}
+
+#### Get a Head Start: Pre-Workshop Access
+
+Don't wait until the day of the event to start practicing. To give you the best chance of success, immediately upon successful registration, you will be given direct access to a pre-workshop preparation package:
+
+* 📚 Onboarding Materials & Recordings: Full access to step-by-step guides and past training videos to refresh your knowledge.
+* 🖥️ Remote Connection to the TIOF System: You will be granted remote access to the official TIOF staging environment. This allows you to run through the deployment processes, configure setups, and practice your live-demo delivery well before the certification weekend begin.
+
+#### Workshop Structure & Curriculum
+
+This intensive 2-day certification program focuses on technical updates and live validation:
+
+* Day 1: System Updates & Technical Q\&A We will review the latest infrastructure modifications to our stack—including critical updates like our migration from Tailscale to Netbird. The remainder of the session will be an open Q\&A to resolve any complex technical edge cases or architectural questions you have encountered.
+* Day 2: Live Practical Evaluation & Demonstration To secure your trainer certification, Day 2 will consist of a live evaluation. Participants will be selected at random to explain, troubleshoot, and live-demo specific sections of the Proxmox, Bitwarden, or GitHub onboarding tracks on the spot.
 
 ## Who will you meet
 
