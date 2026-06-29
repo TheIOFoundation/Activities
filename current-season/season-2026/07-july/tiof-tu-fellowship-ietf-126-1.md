@@ -134,9 +134,9 @@ This program is open to active students and mentors of the Argos Club who want t
 {% endhint %}
 
 {% hint style="info" %}
-## RELATED EVENT IETF 126
+## **HAVEN'T JOIN THE IETF 126 FELLOWSHIP YET?**&#x20;
 
-
+<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
