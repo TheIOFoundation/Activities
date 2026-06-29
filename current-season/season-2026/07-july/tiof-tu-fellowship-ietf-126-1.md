@@ -29,24 +29,6 @@ layout:
 
 # \[#TIOF] TU Forgemaster 101 20-21 June 2026 Banten  & 23-24 June 2026 Bandung
 
-#### NOTICE
-
-> 🏖️ Holiday & Local Hub Format: Since this workshop takes place during the student holiday season when many members return to their hometowns, we are running this program concurrently with our IETF event track. This allows you to maximize your time and earn two distinct, high-value credentials simultaneously.
->
-> 📅 IETF Timeline Note: The official IETF 126 event runs from 19 – 24 June 2026. Our localized university hub schedules are designed to align seamlessly with this global window.
->
-> 📍 In-Person Attendance: To get the most out of the hands-on labs, you are highly encouraged to join the sessions in person at whichever hosting university hub is physically closest to your current holiday location—even if it is not your home campus! A hybrid option will be available _strictly_ for participants who are completely outside the regions of our two physical hosts.
-
-#### Understanding the Forgemaster Ecosystem
-
-To keep our infrastructure secure and unified, every active member of the Argos Club must pass through our standard onboarding . As a Forgemaster, you will be certified to lead new members through these three foundational pillars:
-
-* Proxmox: Hypervisor management and virtualized infrastructure setup.
-* Bitwarden: Decentralized credential security and password management workflows.
-* GitHub: Git workflows, repository collaboration, and version control standards.
-
-🌐 Go Global: By becoming a certified Forgemaster, you don't just train your local chapter—you unlock the opportunity to become an International Trainer. You will be eligible to assist TIOF in onboarding and mentoring international Argos members as our global network expands.
-
 #### Get a Head Start: Pre-Workshop Access
 
 Don't wait until the day of the event to start practicing. To give you the best chance of success, immediately upon successful registration, you will be given direct access to a pre-workshop preparation package:
@@ -82,13 +64,7 @@ Participants who successfully fulfill all attendance and evaluation requirements
 1. Tech Up Forgemaster - Onboarding Certificate: Validating your technical capability to independently train and onboard new engineering recruits globally.
 2. TIOF IETF 126 Fellowship Certificate: Documenting your engagement and learning within the global internet engineering standards frameworks.
 
-#### Who Should Apply & Prerequisites?
 
-This program is open to active students and mentors of the Argos Club who want to step into an international leadership and training role.
-
-> ⚠️ Mandatory Requirement: Because you will be learning how to onboard others, you must have successfully completed your own onboarding process first. All applicants are required to upload/provide their official Argos Onboarding Certificate when submitting their registration.
-
-👉 Ready to step up as an international trainer? Register for the workshop and unlock your prep access here: `[Insert Application Link]`
 
 {% columns %}
 {% column width="58.333333333333336%" %}
@@ -104,34 +80,37 @@ A Forgemaster is our designation for certified Argos trainers who are equipped t
 The absolute best way to master a technology is to teach it. By stepping into the role of a **trainer**, you will radically elevate your own technical capabilities. Defending your infrastructure choices, troubleshooting live edge cases for your peers, and breaking down complex pipelines on the fly will force you to develop a much deeper, elite level of technical mastery, transforming you into a significantly more formidable and confident engineer.
 {% endhint %}
 
-#### Understanding the IETF & IRTF Ecosystem
+#### Understanding the Forgemaster Ecosystem
 
-Every IETF meeting serves a dual purpose. It hosts both the IETF (engineering) and the IRTF (research) under one roof during the same week. This structure exists because long-term Internet research must directly inform practical engineering.
+To keep our infrastructure secure and unified, every active member of the Argos Club must pass through our standard onboarding pipeline. As a Forgemaster, you will be certified to lead new members through our three foundational pillars:
 
-During the event, you can fluidly cross between two types of sessions depending on your background and interests:
+* Proxmox: Hypervisor management and virtualized infrastructure setup.
+* Bitwarden: Decentralized credential security and password management workflows.
+* GitHub: Git workflows, repository collaboration, and version control standards.
 
-* **The Internet Research Task Force (IRTF) Sessions,&#x20;**_**The Academic Gateway**_**:**\
-  The IRTF focuses on the long-term evolution of the Internet through a theoretical lens.\
-  Rather than writing strict engineering standards, its Research Groups (RGs) explore foundational, multidisciplinary topics like Human Rights Protocol Considerations (HRPC), privacy-preserving technologies and decentralized architectures.\
-  This is an ideal, natural entry point for students and educators.
-* **The Internet Engineering Task Force (IETF) Sessions,&#x20;**_**The Technical Foundation**_**:**\
-  The IETF is where those research concepts eventually transform into practical reality. Through technical Working Groups (WGs), engineers and developers collaborate to write the Request for Comments (RFCs) that keep the global web running today, operating on a philosophy of "`rough consensus and running code`".
+🌐 Go Global with the Forgemaster Pathway: By becoming a certified Forgemaster, you don't just train your local chapter—you enter a global progression track that unlocks international leadership opportunities as our network expands:
 
-The Fellowship will include:
+* Forgemaster 101 (The current workshop track): Learn to master the onboarding pipeline and get certified to assist in onboarding and enrolling new Argos members globally.
+* Forgemaster 102: Level up your operational skills to assist in launching brand-new Argos Club chapters around the world.
+* Forgemaster 103: Achieve top-tier mastery, giving you the authority to independently initiate and launch new clubs globally.
 
-* **Two preparation sessions (see** [#timeline](tiof-tu-fellowship-ietf-126-1.md#timeline "mention")**)**
-* **Remote Attendance at the IETF 126 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th July 2026.**
+#### 🏖️ Holiday & Local Hub Format:&#x20;
 
-### Why join this Fellowship?
+Since this workshop takes place during the student holiday season when many members return to their hometowns, we are running this program concurrently with our IETF event track. This allows you to maximize your time and earn two distinct, high-value credentials simultaneously. Following Forgemaster 101 AND CONTINUE to IETF 126 by joining IETF 126 Felowship
 
-The Internet requires a multidisciplinary approach combining programming, system design, academic theory and policy thinking to evolve responsibly.
+#### Hosting Hubs & Schedule
 
-* Connect Academia with Global Industry:\
-  See firsthand how global Internet research is peer-reviewed and advanced by international experts during the research sessions.
-* Advocate for Rights-by-Design:\
-  Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) Framework to both research concepts and technical protocols, ensuring future internet architecture protects citizen privacy by design.
-* Enhance Your Professional Portfolio:\
-  Gaining hands-on exposure to global bodies like the IETF and IRTF provides a highly respected distinction on CVs for both academic and industry career paths.
+Select the physical hub that is most accessible to you during the break. We highly encourage completing the Forgemaster training and continuing straight into the afternoon IETF sessions.
+
+**Hub 1: Pradita University, Tangerang**
+
+* Forgemaster 101 : 20 – 21 June 2026 @ 10:00 – 13:00 WIB
+* you can join the IETF Preparation & Sessions: Saturday, 18 – 22 June 2026 @ 14:00 – 17:00 WIB
+
+**Hub 2: Universitas Kristen Maranatha, Bandung**
+
+* Forgemaster 101 Workshop: 23 – 24 June 2026 @ 10:00 – 14:00 WIB
+* You can join the IETF Sessions: 23 – 24 June 2026 @ 14:00 – 17:00 WIB
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -146,26 +125,18 @@ The Internet requires a multidisciplinary approach combining programming, system
 **2026 - 23:59 (UTC+00)**
 {% endhint %}
 
-{% hint style="info" %}
-## FELLOWSHIP ANNOUNCEMENT
-
-**MONDAY, 22ND JUNE 2026**
-
-<a class="button primary" data-icon="people-pants">Meet the Fellows</a>
-{% endhint %}
-
 {% hint style="success" %}
 ## WHO SHOULD APPLY?
 
-Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and _Researchers_ in multidisciplinary fields who have an interest in areas such as Standards, Networking, Protocols, Cyber Security, etc.
+This program is open to active students and mentors of the Argos Club who want to step into an international leadership and training role
 
-* Note that proof of student status will need to be submitted
+⚠️ Mandatory Requirement: Because you will be learning how to onboard others, you must have successfully completed your own onboarding process first. All applicants are required to upload/provide their official Argos Onboarding Certificate when submitting their registration.
 {% endhint %}
 
 {% hint style="info" %}
-## RELATED EVENT
+## RELATED EVENT IETF 126
 
-[**\[#IETF\] IETF 126**](ietf-ietf-126.md)
+
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
