@@ -45,7 +45,7 @@
   * [07 - July](current-season/season-2026/07-july/README.md)
     * [\[#IETF\] IETF 126](current-season/season-2026/07-july/ietf-ietf-126.md)
     * [\[#TIOF\] TU Fellowship IETF 126](current-season/season-2026/07-july/tiof-tu-fellowship-ietf-126.md)
-    * [\[#TIOF\] TU Forgemaster - Onboarding 2026](current-season/season-2026/07-july/tiof-tu-fellowship-ietf-126-1.md)
+    * [\[#TIOF\] TU Forgemaster 101 20-21 June 2026 Banten  & 23-24 June 2026 Bandung](current-season/season-2026/07-july/tiof-tu-fellowship-ietf-126-1.md)
     * [\[#IDNOG\] TU Fellowship IDNOG 2026](current-season/season-2026/07-july/tiof-tu-fellowship-idnog-2026.md)
     * [\[#TIOF\] TechUpCast 07-2026](current-season/season-2026/07-july/tiof-techupcast-07-2026.md)
     * [\[#TIOF\] Internship Cohort Q3 2026](current-season/season-2026/07-july/tiof-internship-cohort-q3-2026.md)
