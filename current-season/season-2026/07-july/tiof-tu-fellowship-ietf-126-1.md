@@ -125,7 +125,7 @@ This program is open to active students and mentors of the Argos Club who want t
 <p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 {% endhint %}
 
-{% hint style="info" icon="person-waving" %}
+{% hint style="danger" icon="person-waving" %}
 ## In-Person Attendance:&#x20;
 
 To get the most out of the hands-on labs, you are strongly encouraged to attend the sessions in person at the hosting university hub closest to your current holiday location, even if it is not your home campus! A hybrid option will be available _strictly_ for participants who are completely outside the regions of our two physical hosts
