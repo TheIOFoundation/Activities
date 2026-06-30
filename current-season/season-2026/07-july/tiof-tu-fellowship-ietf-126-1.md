@@ -68,12 +68,12 @@ Select the physical hub that is most accessible to you during the break. We high
 **Hub 1: Pradita University, Tangerang**
 
 * Forgemaster 101 : 20 – 21 July 2026 @ 10:00 – 13:00 WIB
-* you can join the IETF Preparation & Sessions: Saturday, 18 – 22 July 2026 @ 14:00 – 17:00 WIB
+* you can then join the IETF 126 Sessions: Saturday, 20-21 July 2026 @ 14:00 – 17:00 WIB
 
 **Hub 2: Universitas Kristen Maranatha, Bandung**
 
 * Forgemaster 101 Workshop: 23 – 24 July 2026 @ 10:00 – 14:00 WIB
-* You can join the IETF Sessions: 23 – 24 July 2026 @ 14:00 – 17:00 WIB
+* You can then join the IETF Sessions: 23 – 24 July 2026 @ 14:00 – 17:00 WIB
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
