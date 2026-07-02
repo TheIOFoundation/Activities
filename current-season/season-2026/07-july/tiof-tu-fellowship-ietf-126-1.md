@@ -76,9 +76,9 @@ participate in IETF 126 by joining our TU Fellowship IETF 126
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] TU Fellowship IETF 126 QR Code Registration XXX v1.0.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/ForgeMaster 101 qr-code-183640_4096px.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
@@ -101,7 +101,7 @@ Because you will be learning how to onboard others, you must have successfully c
 {% hint style="info" %}
 ## **HAVEN'T JOIN THE IETF 126 FELLOWSHIP YET?**&#x20;
 
-<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 {% endhint %}
 
 {% hint style="danger" icon="person-waving" %}
@@ -159,7 +159,7 @@ This intensive 2-day certification program focuses on technical updates and live
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the IETF and the broader Standards Development Organizations ecosystem.
+By participating in this ForgeMaster course you will meet the team from The IO Foundation and fellow Argos Club ForgeMasters.
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
@@ -170,7 +170,7 @@ Participating in this Fellowship will grant you the opportunity to being trained
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
+**APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -286,7 +286,7 @@ The above list of items will be explained in full during the Launching Session.
 **29/06/2026: Opening of applications**
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-126-1.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-126-1.md#responsibilities).\
-<a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
+<a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endstep %}
 
 {% step %}
@@ -317,7 +317,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
+**APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
 {% endhint %}
 
 ## Acknowledgements
