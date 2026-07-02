@@ -73,20 +73,6 @@ Get your Forgemaster 101 certificate
 
 participate in IETF 126 by joining our TU Fellowship IETF 126
 {% endhint %}
-
-#### Hosting Hubs & Schedule
-
-Select the physical hub that is most accessible to you during the break. We highly encourage completing the Forgemaster training and continuing straight into the afternoon IETF sessions.
-
-**Hub 1: Pradita University, Tangerang**
-
-* Forgemaster 101 : 20 – 21 July 2026 @ 10:00 – 13:00 WIB
-* you can then join the IETF 126 Sessions: Saturday, 20-21 July 2026 @ 14:00 – 17:00 WIB
-
-**Hub 2: Universitas Kristen Maranatha, Bandung**
-
-* Forgemaster 101 Workshop: 23 – 24 July 2026 @ 10:00 – 14:00 WIB
-* You can then join the IETF Sessions: 23 – 24 July 2026 @ 14:00 – 17:00 WIB
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -104,9 +90,12 @@ Select the physical hub that is most accessible to you during the break. We high
 {% hint style="success" %}
 ## WHO SHOULD APPLY?
 
-This program is open to active students and mentors of the Argos Club who want to step into an international leadership and training role
+This program is open to active Members and Mentors of Argos Clubs who want to step into an international leadership and training role.
 
-⚠️ Mandatory Requirement: Because you will be learning how to onboard others, you must have successfully completed your own onboarding process first. All applicants are required to upload/provide their official Argos Onboarding Certificate when submitting their registration.
+⚠️ **Mandatory Requirement**\
+Because you will be learning how to onboard others, you must have successfully completed your own onboarding process first.\
+\
+&#xNAN;_&#x41;ll applicants are required to upload/provide their official Argos Onboarding Certificate when submitting their registration._
 {% endhint %}
 
 {% hint style="info" %}
@@ -120,6 +109,28 @@ This program is open to active students and mentors of the Argos Club who want t
 
 To get the most out of the hands-on labs, you are strongly encouraged to attend the sessions in person at the hosting university hub closest to your current holiday location, even if it is not your home campus! A hybrid option will be available _strictly_ for participants who are completely outside the regions of our two physical hosts
 {% endhint %}
+{% endcolumn %}
+{% endcolumns %}
+
+#### Hosting Hubs & Schedule
+
+Select the physical hub that is most accessible to you during the break. We highly encourage completing the Forgemaster training and continuing straight into the afternoon IETF sessions.
+
+{% columns %}
+{% column %}
+**Hub 1: Pradita University, Tangerang**
+
+* Forgemaster 101 : 20 – 21 July 2026 @ 10:00 – 13:00 WIB
+* you can then join the IETF 126 Sessions: Saturday, 20-21 July 2026 @ 14:00 – 17:00 WIB
+
+
+{% endcolumn %}
+
+{% column %}
+**Hub 2: Universitas Kristen Maranatha, Bandung**
+
+* Forgemaster 101 Workshop: 23 – 24 July 2026 @ 10:00 – 14:00 WIB
+* You can then join the IETF Sessions: 23 – 24 July 2026 @ 14:00 – 17:00 WIB
 {% endcolumn %}
 {% endcolumns %}
 
@@ -170,13 +181,14 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Participants are Argos Members or Mentors
-* [x] Have followed and finished a TIOF onboarding session yourself
+* [x] Active Argos Member or Mentor
+* [x] Followed and finished an Argos Club onboarding session
 
 {% hint style="success" %}
 ## CLARIFICATION
 
-This Forgemater 101 is open for all ARGOS Member and Mentors. **You can join the workshop IN PERSON or REMOTE in ANY hub no matter which club you are from.**&#x20;
+This Forgemater 101 is open for all ARGOS Member and Mentors.\
+**You can join the workshop IN PERSON or REMOTE in ANY hub no matter which club you are from.**
 {% endhint %}
 
 * [x] Ability to work independently and collaboratively in dynamic online environments
@@ -218,23 +230,22 @@ By becoming a Forgemaster you commit to the following responsibilities:
 - Daily check-ins with the cohort
 - Active in quizzes and curveballs task
 
-* [x] Submit your Forgemaster Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline)).
+* [x] Submit your Forgemaster Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline))
 {% endcolumn %}
 
 {% column %}
 ### &#x20;
 
-* [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
-* [x] Provide Recorded Testimony in the end of the Forgemaster
-* [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
-* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [IETF LLC's Code of Conduct](https://www.ietf.org/administration/policies-procedures/code-of-conduct/).\
+* [x] Provide regular reports on participation during the course, including insights, outcomes and recommendations for future engagements
+* [x] Provide Recorded Testimony in the end of the Forgemaster course
+* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC).\
   Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
 {% endcolumn %}
 {% endcolumns %}
 
 ## Benefits
 
-By participating in this Fellowship, you will enjoy the following benefits:
+By participating in this ForceMaster course, you will enjoy the following benefits:
 
 {% columns %}
 {% column %}
