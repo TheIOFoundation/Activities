@@ -1,4 +1,5 @@
 ---
+hidden: true
 icon: calendar-circle-user
 cover: >-
   ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
@@ -27,31 +28,34 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] TU Forgemaster 101 20-21 July 2026 Banten  & 23-24 July 2026 Bandung
+# \[#TIOF] TU Forgemaster 101 BANTEN 20-21 July 2026 Banten  & 23-24 July 2026 Bandung
 
 {% columns %}
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation (TIOF) is scaling up the technical leadership within the Argos Club ecosystem. We are excited to open registrations for the Tech Up Forgemaster 101 Workshop and Certifications.
+The IO Foundation (TIOF) is scaling up the technical leadership within the Argos Clubs ecosystem by open registrations for the upcoming TechUp Forgemaster 101 Workshop and Certification.
 
-A Forgemaster is our designation for certified Argos trainers who are equipped to teach, mentor, and onboard new members into Argos Promprforge Lab infrastructure. The goal of this workshop is to build a robust, self-sustaining network of peer-led trainers, allowing individual university chapters to grow independently and scale their local developer communities.
+A Forgemaster is the  designation for certified Argos trainers who are equipped to teach, mentor and onboard new members into Argos Clubs. The goal of this workshop is to build a robust, self-sustaining network of peer-led trainers. It will allow individual university chapters to grow independently and scale their local engineer communities.
 
 {% hint style="warning" icon="fire-flame-curved" %}
 &#x20;**The Ultimate Skill Upgrade**
 
-The absolute best way to master a technology is to teach it. By stepping into the role of a **trainer**, you will radically elevate your own technical capabilities. Defending your infrastructure choices, troubleshooting live edge cases for your peers, and breaking down complex pipelines on the fly will force you to develop a much deeper, elite level of technical mastery, transforming you into a significantly more formidable and confident engineer.
+**The absolute best way to master a technology is to teach it.**
+
+By stepping into the role of a **trainer**, you will radically elevate your own technical capabilities. Defending your infrastructure choices, troubleshooting live edge cases for your peers and breaking down complex pipelines on the fly will force you to develop a much deeper, elite level of technical mastery, transforming you into a significantly more formidable and confident engineer.
 {% endhint %}
 
 #### Understanding the Forgemaster Ecosystem
 
-To keep our infrastructure secure and unified, every active member of the Argos Club must pass through our standard onboarding pipeline. As a Forgemaster, you will be certified to lead new members through our three foundational pillars:
+To enjoy your Argos Club infrastructure and services, every active member must pass through our standard onboarding pipeline. As a Forgemaster, you will be certified to lead new members through our three foundational pillars:
 
-* Proxmox: Hypervisor management and virtualized infrastructure setup.
-* Bitwarden: Decentralized credential security and password management workflows.
-* GitHub: Git workflows, repository collaboration, and version control standards.
+* Infrastructure: The hardware and software that runs an Argos Club.
+* Services: The collection of services an Argos Club offers to its members.
+* Operations: The management of the club itself, from regular membership to Committee leadership.
 
-🌐 Go Global with the Forgemaster Pathway: By becoming a certified Forgemaster, you don't just train your local chapter—you enter a global progression track that unlocks international leadership opportunities as our network expands:
+🌐 Go Global with the Forgemaster Pathway:\
+By becoming a certified Forgemaster, you don't just train your local chapter, you will enter a global progression track that unlocks international leadership opportunities as our network expands:
 
 * Forgemaster 101 (The current workshop track): Learn to master the onboarding pipeline and get certified to assist in onboarding and enrolling new Argos members globally.
 * Forgemaster 102: Level up your operational skills to assist in launching brand-new Argos Club chapters around the world.
@@ -59,7 +63,16 @@ To keep our infrastructure secure and unified, every active member of the Argos 
 
 #### 🏖️ Holiday & Local Hub Format:&#x20;
 
-Since this workshop takes place during the student holiday season when many members return to their hometowns, we are running this program concurrently with our IETF event track. This allows you to maximize your time and earn two distinct, high-value credentials simultaneously. Following Forgemaster 101 AND CONTINUE to IETF 126 by joining IETF 126 Felowship
+Since this workshop takes place during the student holiday season when many members return to their hometowns, we are running this program concurrently with our IETF 126 event track.\
+This will allow you to maximize your time and earn two distinct, high-value credentials simultaneously.
+
+{% hint style="info" icon="bolt" %}
+Get your Forgemaster 101 certificate
+
+\+
+
+participate in IETF 126 by joining our TU Fellowship IETF 126
+{% endhint %}
 
 #### Hosting Hubs & Schedule
 
@@ -117,12 +130,12 @@ To get the most out of the hands-on labs, you are strongly encouraged to attend 
 * ​**Telegram:** [@TIOFContact](https://t.me/TIOFContact)
 {% endhint %}
 
-#### Get a Head Start: Pre-Workshop Access
+#### ~~Get a Head Start: Pre-Workshop Access~~
 
-Don't wait until the day of the event to start practicing. To give you the best chance of success, immediately upon successful registration, you will be given direct access to a pre-workshop preparation package:
+~~Don't wait until the day of the event to start practicing. To give you the best chance of success, immediately upon successful registration, you will be given direct access to a pre-workshop preparation package:~~
 
-* 📚 Onboarding Materials & Recordings: Full access to step-by-step guides and past training videos to refresh your knowledge.
-* 🖥️ Remote Connection to the TIOF System: You will be granted remote access to the official TIOF staging environment. This allows you to run through the deployment processes, configure setups, and practice your live-demo delivery well before the certification weekend begin.
+* ~~📚 Onboarding Materials & Recordings: Full access to step-by-step guides and past training videos to refresh your knowledge.~~
+* ~~🖥️ Remote Connection to the TIOF System: You will be granted remote access to the official TIOF staging environment. This allows you to run through the deployment processes, configure setups, and practice your live-demo delivery well before the certification weekend begin.~~
 
 #### Workshop Structure & Curriculum
 
