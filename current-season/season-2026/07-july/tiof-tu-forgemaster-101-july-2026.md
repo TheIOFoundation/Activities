@@ -200,7 +200,7 @@ Applicants must understand and abide by the following:
 This Forgemater 101 is open for all ARGOS Member and Mentors.\
 **You can join the workshop IN PERSON or REMOTE in ANY hub no matter which club you are from.**
 
-**See** [#hosting-hubs-and-schedule](tiof-tu-fellowship-ietf-126-1.md#hosting-hubs-and-schedule "mention") for more details.
+**See** [#hosting-hubs-and-schedule](tiof-tu-forgemaster-101-july-2026.md#hosting-hubs-and-schedule "mention") for more details.
 {% endhint %}
 
 * [x] Ability to work independently and collaboratively in dynamic online environments
@@ -238,7 +238,7 @@ This will allow your allocated fellowship seat to be passed to another candidate
 By becoming a Forgemaster you commit to the following responsibilities:
 
 * [x] Actively participate in the training
-* [x] Submit your Forgemaster Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline))
+* [x] Submit your Forgemaster Report before the deadline (see [Timeline](tiof-tu-forgemaster-101-july-2026.md#timeline))
 {% endcolumn %}
 
 {% column %}
@@ -291,7 +291,7 @@ The following items are covered in this remote Fellowship:
 {% step %}
 **29/06/2026: Opening of applications**
 
-Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ietf-126-1.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-ietf-126-1.md#responsibilities).\
+Submit your interest! Make sure to read the [Requirements](tiof-tu-forgemaster-101-july-2026.md#requirements) and understand the [Responsibilities](tiof-tu-forgemaster-101-july-2026.md#responsibilities).\
 <a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endstep %}
 
@@ -316,7 +316,7 @@ Last date to submit your Final Report for evaluation.
 {% step %}
 **15/08/2026: Issuing of digital certificates**
 
-Participants who have successfully completed the [Requirements](tiof-tu-fellowship-ietf-126-1.md#requirements) will receive a digital certificate as a proof of completion.
+Participants who have successfully completed the [Requirements](tiof-tu-forgemaster-101-july-2026.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
 {% endstepper %}
 
