@@ -28,7 +28,7 @@ layout:
     visible: true
 ---
 
-# \[#TIOF] TU Forgemaster 101 BANTEN 20-21 July 2026 Banten  & 23-24 July 2026 Bandung
+# \[#TIOF] TU Forgemaster 101 July 2026
 
 {% columns %}
 {% column width="58.333333333333336%" %}
@@ -60,19 +60,6 @@ By becoming a certified Forgemaster, you don't just train your local chapter, yo
 * Forgemaster 101 (The current workshop track): Learn to master the onboarding pipeline and get certified to assist in onboarding and enrolling new Argos members globally.
 * Forgemaster 102: Level up your operational skills to assist in launching brand-new Argos Club chapters around the world.
 * Forgemaster 103: Achieve top-tier mastery, giving you the authority to independently initiate and launch new clubs globally.
-
-#### 🏖️ Holiday & Local Hub Format:&#x20;
-
-Since this workshop takes place during the student holiday season when many members return to their hometowns, we are running this program concurrently with our IETF 126 event track.\
-This will allow you to maximize your time and earn two distinct, high-value credentials simultaneously.
-
-{% hint style="info" icon="bolt" %}
-Get your Forgemaster 101 certificate
-
-\+
-
-participate in IETF 126 by joining our TU Fellowship IETF 126
-{% endhint %}
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -83,7 +70,7 @@ participate in IETF 126 by joining our TU Fellowship IETF 126
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
-**FRIDAY, 19TH JUNE**\
+**FRIDAY, 16TH JULY**\
 **2026 - 23:59 (UTC+00)**
 {% endhint %}
 
@@ -112,25 +99,57 @@ To get the most out of the hands-on labs, you are strongly encouraged to attend 
 {% endcolumn %}
 {% endcolumns %}
 
+#### 🏖️ Holiday & Local Hub Format:&#x20;
+
+Since this workshop takes place during the student holiday season when many members return to their hometowns, we are running this program concurrently with our IETF 126 event track.\
+This will allow you to maximize your time and earn two distinct, high-value credentials simultaneously.
+
+{% hint style="info" icon="bolt" %}
+Get your Forgemaster 101 certificate
+
+\+
+
+participate in IETF 126 by joining our TU Fellowship IETF 126
+{% endhint %}
+
 #### Hosting Hubs & Schedule
 
 Select the physical hub that is most accessible to you during the break. We highly encourage completing the Forgemaster training and continuing straight into the afternoon IETF sessions.
 
 {% columns %}
 {% column %}
-**Hub 1: Pradita University, Tangerang**
+**Hub 1**\
+**Pradita University, Tangerang**
 
-* Forgemaster 101 : 20 – 21 July 2026 @ 10:00 – 13:00 WIB
-* you can then join the IETF 126 Sessions: Saturday, 20-21 July 2026 @ 14:00 – 17:00 WIB
+* Forgemaster 101: 20 – 21 July 2026 @ 10:00 – 14:00 WIB
 
 
+
+<p align="right"><i class="fa-arrow-right">:arrow-right:</i></p>
 {% endcolumn %}
 
 {% column %}
-**Hub 2: Universitas Kristen Maranatha, Bandung**
 
-* Forgemaster 101 Workshop: 23 – 24 July 2026 @ 10:00 – 14:00 WIB
-* You can then join the IETF Sessions: 23 – 24 July 2026 @ 14:00 – 17:00 WIB
+
+
+
+
+
+
+
+You can then join the IETF 126 Sessions:\
+Saturday, 20-21 July 2026 @ 14:00 – 17:00 WIB
+{% endcolumn %}
+
+{% column %}
+**Hub 2**\
+**Universitas Kristen Maranatha, Bandung**
+
+* Forgemaster 101: 23 – 24 July 2026 @ 10:00 – 14:00 WIB
+
+
+
+<i class="fa-arrow-left">:arrow-left:</i>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -141,19 +160,11 @@ Select the physical hub that is most accessible to you during the break. We high
 * ​**Telegram:** [@TIOFContact](https://t.me/TIOFContact)
 {% endhint %}
 
-#### ~~Get a Head Start: Pre-Workshop Access~~
-
-~~Don't wait until the day of the event to start practicing. To give you the best chance of success, immediately upon successful registration, you will be given direct access to a pre-workshop preparation package:~~
-
-* ~~📚 Onboarding Materials & Recordings: Full access to step-by-step guides and past training videos to refresh your knowledge.~~
-* ~~🖥️ Remote Connection to the TIOF System: You will be granted remote access to the official TIOF staging environment. This allows you to run through the deployment processes, configure setups, and practice your live-demo delivery well before the certification weekend begin.~~
-
 #### Workshop Structure & Curriculum
 
-This intensive 2-day certification program focuses on technical updates and live validation:
+This  focuses on technical updates and live validation
 
-* Day 1: System Updates & Technical Q\&A We will review the latest infrastructure modifications to our stack—including critical updates like our migration from Tailscale to Netbird. The remainder of the session will be an open Q\&A to resolve any complex technical edge cases or architectural questions you have encountered.
-* Day 2: Live Practical Evaluation & Demonstration To secure your trainer certification, Day 2 will consist of a live evaluation. Participants will be selected at random to explain, troubleshoot, and live-demo specific sections of the Proxmox, Bitwarden, or GitHub onboarding tracks on the spot.
+This certification program introduces participants to the essential skills needed to support the onboarding of new members in their Argos Club as well as its growth. It covers foundational onboarding practices, member engagement strategies and techniques for fostering collaboration within the club. Through interactive sessions and case studies, trainees will learn to assist during club launches and provide ongoing support to existing members.
 
 ## Who will you meet
 
@@ -170,7 +181,7 @@ By participating in this ForgeMaster course you will meet the team from The IO F
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
+**APPLY BY: THURSDAY, 16TH JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -189,6 +200,8 @@ Applicants must understand and abide by the following:
 
 This Forgemater 101 is open for all ARGOS Member and Mentors.\
 **You can join the workshop IN PERSON or REMOTE in ANY hub no matter which club you are from.**
+
+**See** [#hosting-hubs-and-schedule](tiof-tu-fellowship-ietf-126-1.md#hosting-hubs-and-schedule "mention") for more details.
 {% endhint %}
 
 * [x] Ability to work independently and collaboratively in dynamic online environments
@@ -225,40 +238,40 @@ This will allow your allocated fellowship seat to be passed to another candidate
 
 By becoming a Forgemaster you commit to the following responsibilities:
 
-* [x] Actively participate in the following events and activities
-
-- Daily check-ins with the cohort
-- Active in quizzes and curveballs task
-
+* [x] Actively participate in the training
 * [x] Submit your Forgemaster Report before the deadline (see [Timeline](tiof-tu-fellowship-ietf-126-1.md#timeline))
 {% endcolumn %}
 
 {% column %}
 ### &#x20;
 
-* [x] Provide regular reports on participation during the course, including insights, outcomes and recommendations for future engagements
-* [x] Provide Recorded Testimony in the end of the Forgemaster course
-* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC).\
-  Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
+* [x] Provide Recorded Testimony in the end of the course
+* [x] Act as a responsibly and in accordance to [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC)
 {% endcolumn %}
 {% endcolumns %}
 
 ## Benefits
 
-By participating in this ForceMaster course, you will enjoy the following benefits:
+By participating in this course, you will enjoy the following benefits:
 
 {% columns %}
 {% column %}
-* [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
-* [x] Expand your career options.
-* [x] Networking:
+* [x] **Argos Clubs Fundamentals**\
+  Understanding the mission, structure and vision of Argos Clubs within the TechUp community.
+* [x] **Onboarding Essentials**\
+  Step-by-step practices to onboard and assist new members to your Argos Club.
+* [x] **Communication & Facilitation**\
+  Practical methods for guiding discussions, resolving conflicts and ensuring smooth onboarding sessions.
+* [x] Pathway Progression\
+  Insights into next
+* [x] Networking
   * [x] Online Meet and greet with other participants from other clubs
 {% endcolumn %}
 
 {% column %}
 * [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
-  * [ ] Fully completion of conference session attendance
-  * [ ] Completion on Daily Check Ins, Final Report, Feedbacks and actively enganga in the session&#x20;
+  * [ ] Fully completion of course
+  * [ ] Completion of Daily Check Ins, Final Report, Feedbacks as applicable
 * [x] Access to the The IO Foundation's _TechUp Community_ where you'll be able to enhance your knowledge and career opportunities:
   * [x] Access to exclusive training by TIOF
   * [x] Priority for next Fellowship opportunities
@@ -273,12 +286,6 @@ The following items are covered in this remote Fellowship:
 
 <table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Forgemaster workshop and certification costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
 
-{% hint style="warning" %}
-## NOTICE
-
-The above list of items will be explained in full during the Launching Session.
-{% endhint %}
-
 ## Timeline
 
 {% stepper %}
@@ -290,7 +297,7 @@ Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ie
 {% endstep %}
 
 {% step %}
-**10/07/26: Closing of applications**
+**16/07/26: Closing of applications**
 
 Applications will not be accepted beyond this date (UTC + 00).
 {% endstep %}
@@ -298,26 +305,26 @@ Applications will not be accepted beyond this date (UTC + 00).
 {% step %}
 **21-22 & 23-24/07/26: Forgemaster 101 Certification and Workshop**
 
-Participate in a workshop and certification  under a hybrid modality
+Participate in a workshop and certification under a hybrid modality.
 {% endstep %}
 
 {% step %}
-**31/08/26: Submission of Final Report**
+**31/07/26: Submission of Final Report**
 
-Last date to submit your Forgemaster Report for evaluation.
+Last date to submit your Final Report for evaluation.
 {% endstep %}
 
 {% step %}
-**21/08/2026: Issuing of digital certificates**
+**15/08/2026: Issuing of digital certificates**
 
-Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-ietf-126-1.md#requirements) will receive a digital certificate as a proof of completion.
+Participants who have successfully completed the [Requirements](tiof-tu-fellowship-ietf-126-1.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
 {% endstepper %}
 
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
+**APPLY BY: THURSDAY, 16TH JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Forgemaster101-July-2026-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
 {% endhint %}
 
 ## Acknowledgements
@@ -334,7 +341,7 @@ The IO Foundation extends its deepest gratitude to our Sponsors and valued Partn
 {% column %}
 ### Partners
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>Would you like to partner with us in our Fellowships?</td><td><a href="mailto:Contact@TheIOFoundation.org">Reach out!</a></td><td><a href="../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png">[TIOF] Comms [P] 0000-00-00 TIOF Card Partners CTA XXX v1.0.png</a></td></tr><tr><td>Universitas Pradita</td><td>Banten, Indonesia</td><td><a href="../../../.gitbook/assets/Universitas Pradita.png">Universitas Pradita.png</a></td></tr><tr><td>Universitas Kristen Maranatha (UKM)</td><td>Bandung, Indonesia</td><td><a href="../../../.gitbook/assets/bg-home-featured-news.png">bg-home-featured-news.png</a></td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -394,7 +401,11 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
 
 </details>
 
-## Attributions
+
+
+<details>
+
+<summary>Attributions</summary>
 
 Photos by
 
@@ -403,7 +414,7 @@ Photos by
 * [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 
-
+</details>
 
 
 
