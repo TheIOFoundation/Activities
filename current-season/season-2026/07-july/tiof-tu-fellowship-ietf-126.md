@@ -83,8 +83,8 @@ The Internet requires a multidisciplinary approach combining programming, system
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
-**FRIDAY, 19TH JUNE**\
-**2026 - 23:59 (UTC+00)**
+~~**FRIDAY, 19TH JUNE**~~\
+~~**2026**~~**&#x20;EXTENDED UNTIL FRIDAY 10TH JULY 2026- 23:59 (UTC+00)**
 {% endhint %}
 
 {% hint style="info" %}
@@ -133,7 +133,8 @@ Participating in this Fellowship will grant you the opportunity to being trained
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
+**APPLY BY:&#x20;**~~**FRIDAY, 19TH JUNE**~~\
+~~**2026**~~**&#x20;EXTENDED UNTIL FRIDAY 10TH JULY 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -316,7 +317,8 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY: THURSDAY, 2ND JULY 2026 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
+**APPLY BY:&#x20;**~~**FRIDAY, 19TH JUNE**~~\
+~~**2026**~~**&#x20;EXTENDED UNTIL FRIDAY 10TH JULY 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
 {% endhint %}
 
 ## Cohort
