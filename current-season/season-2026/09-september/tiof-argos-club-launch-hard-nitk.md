@@ -41,19 +41,19 @@ Secure your place; register for the Launch, include Onboarding now
 
 NITK, in collaboration with The IO Foundation (TIOF), is thrilled to announce the official launch of the Argos Club and the PromptForgeLab!
 
-This joint initiative aims to empower students and technologists with hands-on skills in Data-Centric Digital Rights (DCDR), artificial intelligence, open-source software, and global technical standards—ensuring technology is built to protect user rights by design.
+This joint initiative aims to empower students and technologists with hands-on skills in Data-Centric Digital Rights (DCDR), artificial intelligence, open-source software, and global technical standards, ensuring technology is built to protect user rights by design.
 
 ### 📅 Event Details
 
 * Date: Tuesday, 1 September 2026
-* Time: \[Insert Time Here]
-* Venue: \[Insert Venue Here]
+* Time: TBA
+* Venue: TBA
 
 ### 🛠️ What We Are Launching
 
 #### 🏛️ The Argos Club
 
-The Argos Club serves as a student-led technical community on campus mentored jointly by TIOF and university faculty. Members collaborate on real-world projects, participate in specialized workshops, and gain direct exposure to international Standard Development Organizations (SDOs).
+The Argos Club serves as a student-led technical community on campus mentored jointly by TIOF and university faculty. Members collaborate on real-world projects, participate in specialized workshops and gain direct exposure to international Standard Development Organizations (SDOs).
 
 Key focus areas include:
 
@@ -64,7 +64,7 @@ Key focus areas include:
 
 #### 💻 The PromptForgeLab
 
-To support the high-level technical requirements of the Argos Club, TIOF is establishing the PromptForgeLab—a dedicated physical lab hosted on campus. The lab features specialized hardware, high-performance mini AI servers, network infrastructure, and direct access to TIOF’s international ecosystem.
+To support the high-level technical requirements of the Argos Club, TIOF is establishing the PromptForgeLab: a dedicated physical lab hosted on campus. The lab features specialized hardware, high-performance mini AI servers, network infrastructure, and direct access to TIOF’s international ecosystem.
 
 ### 🌟 Why Join the Launch?
 
@@ -102,12 +102,12 @@ Secure your place, register for the Launch include Onboarding now
 
 ***
 
-#### Take Action: Your Next Step: Ready to become an ARGOS UMN Member?
+#### Take Action: Your Next Step: Ready to become an ARGOS NITK Member?
 
 _Apply for full club membership today to secure your access to the PromptForge Lab._
 
 {% hint style="info" %}
-Secure your place, register for the Launch include Onboarding now
+Secure your place, register for the Launch, including Onboarding now
 
 <p align="center"><a href="https://short.theiofoundation.org/ArgosClubs-MembershipApplication" class="button primary" data-icon="ticket">Register now!</a></p>
 {% endhint %}
@@ -116,4 +116,4 @@ Secure your place, register for the Launch include Onboarding now
 
 
 
-_A Strategic Partnership between Universitas Multimedia Nusantara and The IO Foundation._
+_A Strategic Partnership between National Institute of Technology Karnataka  and The IO Foundation._
