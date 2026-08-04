@@ -55,6 +55,7 @@
     * [\[#APNIC\] APNIC 62](current-season/season-2026/09-september/apnic-apnic-62.md)
     * [\[#APSTAR\] APStar Meeting 2026-02](current-season/season-2026/09-september/apstar-apstar-meeting-2026-02.md)
     * [\[#TIOF\] TechUpCast 09-2026](current-season/season-2026/09-september/tiof-techupcast-09-2026.md)
+    * [\[#TIOF\] Argos Club Launch - NITK](current-season/season-2026/09-september/tiof-argos-club-launch-hard-umn.md)
   * [10 - October](current-season/season-2026/10-october/README.md)
     * [\[#TIOF\] TU Fellowship IETF 127](current-season/season-2026/10-october/tiof-tu-fellowship-ietf-127.md)
     * [\[#TIOF\] TechUpCast 10-2026](current-season/season-2026/10-october/tiof-techupcast-10-2026.md)
