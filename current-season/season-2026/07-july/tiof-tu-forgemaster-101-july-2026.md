@@ -9,6 +9,7 @@ layout:
   cover:
     visible: true
     size: hero
+    mask: none
   title:
     visible: true
   description:
@@ -81,7 +82,7 @@ This program is open to active Members and Mentors of Argos Clubs who want to st
 ⚠️ **Mandatory Requirement**\
 Because you will be learning how to onboard others, you must have successfully completed your own onboarding process first.\
 \
-&#xNAN;_&#x41;ll applicants are required to upload/provide their official Argos Onboarding Certificate when submitting their registration._
+_&#x41;ll applicants are required to upload/provide their official Argos Onboarding Certificate when submitting their registration._
 {% endhint %}
 
 {% hint style="info" %}
