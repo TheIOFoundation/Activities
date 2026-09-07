@@ -52,6 +52,7 @@
   * [08 - August](current-season/season-2026/08-august/README.md)
     * [\[#TIOF\] TechUpCast 08-2026](current-season/season-2026/08-august/tiof-techupcast-08-2026.md)
   * [09 - September](current-season/season-2026/09-september/README.md)
+    * [\[#TIOF\] TU Fellowship ICANN87](current-season/season-2026/09-september/tiof-tu-fellowship-icann87.md)
     * [\[#APNIC\] APNIC 62](current-season/season-2026/09-september/apnic-apnic-62.md)
     * [\[#APSTAR\] APStar Meeting 2026-02](current-season/season-2026/09-september/apstar-apstar-meeting-2026-02.md)
     * [\[#TIOF\] TechUpCast 09-2026](current-season/season-2026/09-september/tiof-techupcast-09-2026.md)
