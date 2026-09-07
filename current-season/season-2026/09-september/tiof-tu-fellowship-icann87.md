@@ -36,7 +36,7 @@ layout:
 {% column width="58.333333333333336%" %}
 ## About
 
-The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [Internet Engineering Task Force meeting (IETF 126)](../07-july/ietf-ietf-126.md), to be held in Vienna (Austria) from 18th to 24th July 2026.
+The IO Foundation, is seeking passionate and dedicated individuals to join our cohort of Fellows for the upcoming [ICANN87 General Annual Meeting](https://meetings.icann.org/en/meetings/icann87/), to be held in Bali (Indonesia) from 17th to 22th  October 2026.
 
 {% hint style="warning" %}
 ## NOTICE
