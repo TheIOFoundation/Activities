@@ -44,7 +44,7 @@ The IO Foundation, is seeking passionate and dedicated individuals to join our c
 Check the [Timeline](tiof-tu-fellowship-icann87.md#timeline) below for more details.
 {% endhint %}
 
-####
+
 
 ## Understanding the ICANN Ecosystem
 
@@ -126,7 +126,7 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the IETF and the broader Standards Development Organizations ecosystem.
+Participating in this Fellowship will grant you the opportunity to being trained and guided in your career development by prominent figures in the ICANN and the broader Standards Development Organizations ecosystem.
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
@@ -137,8 +137,7 @@ Participating in this Fellowship will grant you the opportunity to being trained
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY:&#x20;**~~**FRIDAY, 19TH JUNE**~~\
-~~**2026**~~**&#x20;EXTENDED UNTIL FRIDAY 10TH JULY 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
+**THURSDAY 24TH SEPTEMBER 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -149,15 +148,12 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Able to follow the IETF in-time for those joining remotely, with suitable internet connections to be able to follow the sessions actively.
+* [x] Able to follow the ICANN in-person
 
 {% hint style="success" %}
 ## CLARIFICATION
 
-This fellowship is open for all nationalities. You _**do not**_ need to live in Vienna or be an Austrian citizen
-
-* IETF Hackathon: Saturday 18th + Sunday 19th July 2026
-* IETF Meeting: Monday 20th to Friday 24th July 2026
+This fellowship is open for all nationalities. You _**do not**_ need to live in Bali or be an Indonesian citizen
 {% endhint %}
 
 * [x] Ability to work independently and collaboratively in dynamic online environments
@@ -197,9 +193,8 @@ By becoming a Fellow you commit to the following responsibilities:
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
 - Preparation Sessions (see [Timeline](tiof-tu-fellowship-icann87.md#timeline))
-- [\[IETF\] IETF 126](../07-july/ietf-ietf-126.md)
-- In-Time presence for New Participant Program (compulsory for new fellows, elective for recurring fellows) and Birds of a Feather (for both new and recurring fellows)
-- Daily check-ins with the cohort, minimum 2 sessions per-day
+- [\[#ICANN\] ICANN 87](https://meetings.icann.org/en/meetings/icann87/)
+- Daily check-ins with the cohort
 - Active in quizzes and curveballs task
 
 * [x] Submit your Fellowship Report before the deadline (see [Timeline](tiof-tu-fellowship-icann87.md#timeline)).
@@ -221,19 +216,17 @@ By becoming a Fellow you commit to the following responsibilities:
 By participating in this Fellowship, you will enjoy the following benefits:
 
 {% columns %}
-{% column %}
-* [x] Learn about how the Internet works at a practical, professional level directly from the global community that makes the Internet.
+{% column width="50%" %}
+* [x] Learn how global Internet governance works directly from the international community that safeguards and manages the core infrastructure of the web
 * [x] Expand your career options.
-* [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-icann87.md#timeline "mention")and IETF Agenda)\
+* [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-icann87.md#timeline "mention")and ICANN Agenda)\
   **Price:** USD 2000 **`Ticket waived`**
-* [x] Free access to the event:\
-  [\[IETF\] IETF 126](../03-march/ietf-ietf-125.md)\
-  **Price:** USD 160 **`Ticket waived for students`**
+* [x] Free access to the event
 * [x] Networking:
-  * [x] Online Meet and greet with other fellows and VIPs from IETF/IRTF
+  * [x] Online Meet and greet with other fellows and VIPs from ICANN
 {% endcolumn %}
 
-{% column %}
+{% column width="50%" %}
 * [x] Blockchain based certificate of participation in TIOF Fellowship (check our [Certificates.TheIOFoundation.org](http://certificates.theiofoundation.org) platform), will be given on:
   * [ ] Fully completion of conference session attendance
   * [ ] Completion on Daily Check Ins, Final Report, Feedbacks and actively enganga in the session&#x20;
@@ -249,7 +242,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 The following items are covered in this remote Fellowship:
 
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover this cost in full <strong>for students</strong>.<br><mark style="color:$warning;"><strong>NOTE: TIOF will cover this cost for non-students subject to securing funding.</strong></mark></td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover tickets and acommodation in full</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>There is no resgitration cost for ICANN</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
 
 {% hint style="warning" %}
 ## NOTICE
@@ -268,51 +261,43 @@ Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-ic
 {% endstep %}
 
 {% step %}
-**02/07/26: Closing of applications**
+**24/09/26: Closing of applications**
 
 Applications will not be accepted beyond this date (UTC + 00).
 {% endstep %}
 
 {% step %}
-**06/07/26: Announcement of the cohort**
+**26/09/26: Announcement of the cohort**
 
-TIOF will announce the final list of the cohort.
+TIOF will announce the final list of the cohort
 {% endstep %}
 
 {% step %}
-**11/07/26: Preparation session #**&#x31;
+**16/10/26: Departure to Bali**
 
-The cohort will gather for a session under a hybrid modality&#x20;
 
-This first session will serve as a general orientation to the Fellowship (2hr)
 {% endstep %}
 
 {% step %}
-**18/07/26: Preparation session #2**
-
-The cohort will gather online to prepare for the IETF 126 (2h).
-{% endstep %}
-
-{% step %}
-**18/07/2026 to 24/07/2026: IETF 126**
+**17/10/2026 to 22/10/2026: ICANN 87**
 
 Participate in the event with the full support of the TIOF team onsite.
 {% endstep %}
 
 {% step %}
-**07/08/26: Submission of Final Report**
+**24/10/26: Submission of Final Report**
 
 Last date to submit your Fellowship Report for evaluation.
 {% endstep %}
 
 {% step %}
-**14/08/26: Review call**
+**31/10/26: Review call**
 
 The cohort will meet for an online session where we will discuss feedback and explore next steps and opportunities.
 {% endstep %}
 
 {% step %}
-**21/08/2026: Issuing of digital certificates**
+**7/11/2026: Issuing of digital certificates**
 
 Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fellowship-icann87.md#requirements) will receive a digital certificate as a proof of completion.
 {% endstep %}
@@ -321,8 +306,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**APPLY BY:&#x20;**~~**FRIDAY, 19TH JUNE**~~\
-~~**2026**~~**&#x20;EXTENDED UNTIL FRIDAY 10TH JULY 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
+**FRIDAY 24TH SEPTEMBER 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
 {% endhint %}
 
 ## Cohort
