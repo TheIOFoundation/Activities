@@ -41,39 +41,43 @@ The IO Foundation, is seeking passionate and dedicated individuals to join our c
 {% hint style="warning" %}
 ## NOTICE
 
-Please note that the **\[#TIOF] TU Fellowship IETF 126** will run on slightly different dates than IETF 126.
-
 Check the [Timeline](tiof-tu-fellowship-icann87.md#timeline) below for more details.
 {% endhint %}
 
-#### Understanding the IETF & IRTF Ecosystem
+####
 
-Every IETF meeting serves a dual purpose. It hosts both the IETF (engineering) and the IRTF (research) under one roof during the same week. This structure exists because long-term Internet research must directly inform practical engineering.
+## Understanding the ICANN Ecosystem
 
-During the event, you can fluidly cross between two types of sessions depending on your background and interests:
+Every ICANN meeting serves a comprehensive global policy purpose. It brings together diverse stakeholder groups under one roof to govern the Internet's unique identifiers such as domain names, IP addresses, and protocol parameters. This structure exists because global Internet stability and policy must directly inform operational security and technical coordination.
 
-* **The Internet Research Task Force (IRTF) Sessions,&#x20;**_**The Academic Gateway**_**:**\
-  The IRTF focuses on the long-term evolution of the Internet through a theoretical lens.\
-  Rather than writing strict engineering standards, its Research Groups (RGs) explore foundational, multidisciplinary topics like Human Rights Protocol Considerations (HRPC), privacy-preserving technologies and decentralized architectures.\
-  This is an ideal, natural entry point for students and educators.
-* **The Internet Engineering Task Force (IETF) Sessions,&#x20;**_**The Technical Foundation**_**:**\
-  The IETF is where those research concepts eventually transform into practical reality. Through technical Working Groups (WGs), engineers and developers collaborate to write the Request for Comments (RFCs) that keep the global web running today, operating on a philosophy of "`rough consensus and running code`".
+During the event, you can fluidly cross between different types of sessions depending on your background and interests:
 
-The Fellowship will include:
+#### The Supporting Organizations (SOs) & Advisory Committees (ACs) Sessions: The Policy & Technical Gateways
 
-* **Two preparation sessions (see** [#timeline](tiof-tu-fellowship-icann87.md#timeline "mention")**)**
-* **Remote Attendance at the IETF 126 Hackathon and Meeting, which will be conducted from Saturday 18th to Friday 24th July 2026.**
+*   Policy & Stakeholder Sessions (e.g., GNSO, ccNSO, At-Large):
 
-### Why join this Fellowship?
+    ICANN focuses on the policy development for generic and country-code top-level domains. Its Supporting Organizations and Advisory Committees explore foundational, multidisciplinary topics like domain abuse, privacy considerations (e.g., WHOIS/RDAP policies), public interest, and decentralized DNS technologies. This provides an ideal, natural entry point for students, researchers, policy advocates, and educators.
+*   Technical & Security Sessions (e.g., SSAC, RSSAC, Tech Day):
 
-The Internet requires a multidisciplinary approach combining programming, system design, academic theory and policy thinking to evolve responsibly.
+    Where technical coordination meets policy implementation. Through specialized committees and working groups, engineers, security researchers, and registry/registrar operators collaborate to ensure the security, stability, and resiliency of the Internet's Domain Name System (DNS) and root server system.
 
-* Connect Academia with Global Industry:\
-  See firsthand how global Internet research is peer-reviewed and advanced by international experts during the research sessions.
-* Advocate for Rights-by-Design:\
-  Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) Framework to both research concepts and technical protocols, ensuring future internet architecture protects citizen privacy by design.
-* Enhance Your Professional Portfolio:\
-  Gaining hands-on exposure to global bodies like the IETF and IRTF provides a highly respected distinction on CVs for both academic and industry career paths.
+#### The Fellowship will include:
+
+* Sponsored In-Person Attendance&#x20;
+
+#### Why join this Fellowship?
+
+The Internet requires a multidisciplinary approach combining programming, domain name policy, security research, and digital rights thinking to evolve responsibly.
+
+*   Connect Academia & Policy with Global Governance:
+
+    See firsthand how global Internet policy and technical coordination are debated, peer-reviewed, and established by international experts in an open, multi-stakeholder environment.
+*   Advocate for Rights-by-Design:
+
+    Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) Framework to global Internet governance and DNS policies, ensuring future domain space architecture protects citizen privacy, data protection, and digital rights by design.
+*   Enhance Your Professional Portfolio:
+
+    Gaining hands-on exposure to global Internet bodies like ICANN provides a highly respected distinction on CVs for academic, technical, policy, and human rights career paths.
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -84,14 +88,13 @@ The Internet requires a multidisciplinary approach combining programming, system
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
 
-~~**FRIDAY, 19TH JUNE**~~\
-~~**2026**~~**&#x20;EXTENDED UNTIL FRIDAY 10TH JULY 2026- 23:59 (UTC+00)**
+**THURSDAY 24TH SEPTEMBER 2026- 23:59 (UTC+00)**
 {% endhint %}
 
 {% hint style="info" %}
 ## FELLOWSHIP ANNOUNCEMENT
 
-**MONDAY, 22ND JUNE 2026**
+**SATURDAY, 26TH SEPTEMBER 2026**
 
 <a class="button primary" data-icon="people-pants">Meet the Fellows</a>
 {% endhint %}
@@ -99,7 +102,7 @@ The Internet requires a multidisciplinary approach combining programming, system
 {% hint style="success" %}
 ## WHO SHOULD APPLY?
 
-Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and _Researchers_ in multidisciplinary fields who have an interest in areas such as Standards, Networking, Protocols, Cyber Security, etc.
+Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and _Researchers_ in multidisciplinary fields who have an interest in areas such as Internet Governance, the Domain Name System (DNS), Digital Rights, and Internet Policy.
 
 * Note that proof of student status will need to be submitted
 {% endhint %}
@@ -107,7 +110,7 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 {% hint style="info" %}
 ## RELATED EVENT
 
-[**\[#IETF\] IETF 126**](../07-july/ietf-ietf-126.md)
+[**\[#IICANN\] ICANN 87**](https://meetings.icann.org/en/meetings/icann87/)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
