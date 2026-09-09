@@ -58,7 +58,6 @@
     * [\[#TIOF\] TechUpCast 09-2026](current-season/season-2026/09-september/tiof-techupcast-09-2026.md)
     * [\[#TIOF\] Argos Club Launch - NITK](current-season/season-2026/09-september/tiof-argos-club-launch-hard-nitk.md)
   * [10 - October](current-season/season-2026/10-october/README.md)
-    * [\[#TIOF\] TU Fellowship IETF 127](current-season/season-2026/10-october/tiof-tu-fellowship-ietf-127.md)
     * [\[#TIOF\] TechUpCast 10-2026](current-season/season-2026/10-october/tiof-techupcast-10-2026.md)
     * [\[#AEROSEA\] CyberDSA 2026](current-season/season-2026/10-october/aerosea-cyberdsa-2026.md)
     * [\[#TIOF\] Internship Cohort Q4 2026](current-season/season-2026/10-october/tiof-internship-cohort-q4-2026.md)
