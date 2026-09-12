@@ -44,44 +44,29 @@ The IO Foundation, is seeking passionate and dedicated individuals to join our c
 Check the [Timeline](tiof-tu-fellowship-icann87.md#timeline) below for more details.
 {% endhint %}
 
+## Understanding the ICANN Habitat
 
+Every ICANN meeting serves a comprehensive global policy purpose. It brings together multiple stakeholder groups under one roof to govern the Internet's unique identifiers such as domain names, IP addresses and protocol parameters. This structure exists because global Internet stability and policy must directly inform operational security and technical coordination.
 
-## Understanding the ICANN Ecosystem
-
-Every ICANN meeting serves a comprehensive global policy purpose. It brings together diverse stakeholder groups under one roof to govern the Internet's unique identifiers such as domain names, IP addresses, and protocol parameters. This structure exists because global Internet stability and policy must directly inform operational security and technical coordination.
-
-During the event, you can fluidly cross between different types of sessions depending on your background and interests:
-
-#### The Supporting Organizations (SOs) & Advisory Committees (ACs) Sessions: The Policy & Technical Gateways
-
-*   Policy & Stakeholder Sessions (e.g., GNSO, ccNSO, At-Large):
-
-    ICANN focuses on the policy development for generic and country-code top-level domains. Its Supporting Organizations and Advisory Committees explore foundational, multidisciplinary topics like domain abuse, privacy considerations (e.g., WHOIS/RDAP policies), public interest, and decentralized DNS technologies. This provides an ideal, natural entry point for students, researchers, policy advocates, and educators.
-*   Technical & Security Sessions (e.g., SSAC, RSSAC, Tech Day):
-
-    Where technical coordination meets policy implementation. Through specialized committees and working groups, engineers, security researchers, and registry/registrar operators collaborate to ensure the security, stability, and resiliency of the Internet's Domain Name System (DNS) and root server system.
-
-#### The Fellowship will include:
-
-* Sponsored In-Person Attendance&#x20;
+This AGM meeting, you will have the opportunity to experience and learn from different types of sessions, depending on your background and interests.
 
 #### Why join this Fellowship?
 
-The Internet requires a multidisciplinary approach combining programming, domain name policy, security research, and digital rights thinking to evolve responsibly.
+The Internet requires a multidisciplinary approach combining programming, domain name policy, security research and Data-Centric Digital Rights thinking to evolve responsibly.
 
-*   Connect Academia & Policy with Global Governance:
+*   Connect Academia & Policy with Global Internet Governance:
 
-    See firsthand how global Internet policy and technical coordination are debated, peer-reviewed, and established by international experts in an open, multi-stakeholder environment.
-*   Advocate for Rights-by-Design:
+    See firsthand how global Internet policy and technical coordination are debated, peer-reviewed and established by international experts in an open, multi-stakeholder environment.
+*   Advocate for Rights by Design:
 
-    Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) Framework to global Internet governance and DNS policies, ensuring future domain space architecture protects citizen privacy, data protection, and digital rights by design.
+    Learn how to apply TIOF’s Data-Centric Digital Rights (DCDR) Framework to global Internet governance and DNS policies, ensuring future domain space architecture protects citizen privacy and data protection by design.
 *   Enhance Your Professional Portfolio:
 
     Gaining hands-on exposure to global Internet bodies like ICANN provides a highly respected distinction on CVs for academic, technical, policy, and human rights career paths.
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-<p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
+<p align="center"><a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-ICANN87-Registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 
 <div align="center"><figure><img src="../../../.gitbook/assets/qr-code-192450_1024px.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -110,7 +95,7 @@ Open to _full-time Bachelor's and Post-Grad students_ as well as _Lecturers_ and
 {% hint style="info" %}
 ## RELATED EVENT
 
-[**\[#IICANN\] ICANN 87**](https://meetings.icann.org/en/meetings/icann87/)
+[**\[#ICANN\] ICANN87**](https://meetings.icann.org/en/meetings/icann87/)
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -137,7 +122,7 @@ Participating in this Fellowship will grant you the opportunity to being trained
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**THURSDAY 24TH SEPTEMBER 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a>
+**THURSDAY 24TH SEPTEMBER 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-ICANN87-Registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endhint %}
 
 ## **Terms of Reference**
@@ -148,7 +133,7 @@ Applicants must understand and abide by the following:
 {% column %}
 ### **Requirements**
 
-* [x] Able to follow the ICANN in-person
+* [x] Able to follow the ICANN87 in-person
 
 {% hint style="success" %}
 ## CLARIFICATION
@@ -193,7 +178,7 @@ By becoming a Fellow you commit to the following responsibilities:
 * [x] Actively participate in the following events and activities related to this Fellowship:
 
 - Preparation Sessions (see [Timeline](tiof-tu-fellowship-icann87.md#timeline))
-- [\[#ICANN\] ICANN 87](https://meetings.icann.org/en/meetings/icann87/)
+- [\[#ICANN\] ICANN87](https://meetings.icann.org/en/meetings/icann87/)
 - Daily check-ins with the cohort
 - Active in quizzes and curveballs task
 
@@ -206,7 +191,7 @@ By becoming a Fellow you commit to the following responsibilities:
 * [x] Provide regular reports on participation during the Fellowship, including insights, outcomes and recommendations for future engagements.
 * [x] Provide Recorded Testimony in the end of the Fellowship
 * [x] Collaborate with other TIOF Members to enhance the impact of our advocacy efforts.
-* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC) and [IETF LLC's Code of Conduct](https://www.ietf.org/administration/policies-procedures/code-of-conduct/).\
+* [x] Act as a responsibly and in accordance to both [TIOF's Code of Conduct](https://short.theiofoundation.org/TIOFPolicyCoC).\
   Being a TIOF Fellow implies representing The IO Foundation and effectively communicating our mission, values and initiatives.
 {% endcolumn %}
 {% endcolumns %}
@@ -220,7 +205,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 * [x] Learn how global Internet governance works directly from the international community that safeguards and manages the core infrastructure of the web
 * [x] Expand your career options.
 * [x] Fellowship mentoring, including Preparation Sessions and during sessions (See [#timeline](tiof-tu-fellowship-icann87.md#timeline "mention")and ICANN Agenda)\
-  **Price:** USD 2000 **`Ticket waived`**
+  **Price:** USD 2.000,00 Fee **`waived`**
 * [x] Free access to the event
 * [x] Networking:
   * [x] Online Meet and greet with other fellows and VIPs from ICANN
@@ -242,7 +227,7 @@ By participating in this Fellowship, you will enjoy the following benefits:
 
 The following items are covered in this remote Fellowship:
 
-<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover tickets and acommodation in full</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>There is no resgitration cost for ICANN</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
+<table><thead><tr><th width="181" valign="top">ITEM</th><th width="121">COVERED<select><option value="hE9nSvbws5DY" label="Yes" color="blue"></option><option value="YdnQRDyLePqW" label="No" color="blue"></option><option value="dIrPcDKdU7qO" label="Partially" color="blue"></option><option value="ETybMsBQmBur" label="Not Applicable" color="blue"></option><option value="92I4vhzEL4b9" label="As applicable" color="blue"></option><option value="JuARprnN38Mt" label="See Notes" color="blue"></option></select></th><th>NOTES</th></tr></thead><tbody><tr><td valign="top">Fellowship costs</td><td><span data-option="hE9nSvbws5DY">Yes</span></td><td>TIOF will cover tickets and acommodation in full.</td></tr><tr><td valign="top">Event ticket</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>There is no resgitration cost for ICANN.</td></tr><tr><td valign="top">Per diem</td><td><span data-option="YdnQRDyLePqW">No</span></td><td>This Fellowship does not include per diem.</td></tr><tr><td valign="top">Others</td><td><span data-option="JuARprnN38Mt">See Notes</span></td><td>This list may be updated as necessary.</td></tr></tbody></table>
 
 {% hint style="warning" %}
 ## NOTICE
@@ -254,10 +239,10 @@ The above list of items will be explained in full during the Launching Session.
 
 {% stepper %}
 {% step %}
-**20/06/2026: Opening of applications**
+**14/09/2026: Opening of applications**
 
 Submit your interest! Make sure to read the [Requirements](tiof-tu-fellowship-icann87.md#requirements) and understand the [Responsibilities](tiof-tu-fellowship-icann87.md#responsibilities).\
-<a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration%E2%80%8B" class="button primary" data-icon="tickets">APPLY NOW</a>
+<a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-ICANN87-Registration" class="button primary" data-icon="tickets">APPLY NOW</a>
 {% endstep %}
 
 {% step %}
@@ -281,11 +266,11 @@ TIOF will announce the final list of the cohort
 {% step %}
 **17/10/2026 to 22/10/2026: ICANN 87**
 
-Participate in the event with the full support of the TIOF team onsite.
+Participatation in the event with the full support of the TIOF team onsite.
 {% endstep %}
 
 {% step %}
-**24/10/26: Submission of Final Report**
+**29/10/26: Submission of Final Report**
 
 Last date to submit your Fellowship Report for evaluation.
 {% endstep %}
@@ -306,7 +291,7 @@ Fellows who have successfully completed the [Fellowship Requirements](tiof-tu-fe
 {% hint style="warning" %}
 ## LIMITED SPOTS
 
-**FRIDAY 24TH SEPTEMBER 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
+**FRIDAY 24TH SEPTEMBER 2026- 23:59 (UTC+00)** <a href="https://short.theiofoundation.org/TIOF-TU-Fellowship-ICANN87-Registration" class="button primary" data-icon="tickets">APPLY  NOW</a>
 {% endhint %}
 
 ## Cohort
@@ -361,13 +346,11 @@ VIDEOS TAKEN DURING THIS FELLOWSHIP WILL BE POSTED HERE.
  OTHER RESOURCE MATERIALS WILL BE PUBLISHED AFTER THE EVENT.
 ```
 
-| Organization                                                                 | Topic                                                             | Notes                                                                                                                                             |
-| ---------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p> | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)               | Code of Conduct for all TIOF activities.                                                                                                          |
-|                                                                              | [Dhatham House Rule](https://tiof.click/Dhatham)                  | A digital adaptation of the Chatham House Rule.                                                                                                   |
-|                                                                              | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs) | Information on The IO Foundation's advocacy.                                                                                                      |
-|                                                                              | Presentation Slides                                               |                                                                                                                                                   |
-|                                                                              | [The Selfish Ledger](https://www.youtube.com/watch?v=QDVVo14A_fo) | A must-watch short video on how the importance of data, how companies decide to extract it and (most importantly) what they decide to do with it. |
+| Organization                                                                 | Topic                                                             | Notes                                           |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------- |
+| <p><a href="https://theiofoundation.org">The IO Foundation<br>(TIOF)</a></p> | [Code of Conduct](https://tiof.click/TIOFPolicyCoC)               | Code of Conduct for all TIOF activities.        |
+|                                                                              | [Dhatham House Rule](https://tiof.click/Dhatham)                  | A digital adaptation of the Chatham House Rule. |
+|                                                                              | [Data-Centric Digital Rights (DCDR)](https://tiof.click/DCDRDocs) | Information on The IO Foundation's advocacy.    |
 {% endtab %}
 {% endtabs %}
 
@@ -395,8 +378,4 @@ Photos by
 * [Walls.io](https://unsplash.com/@walls_io?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-paper-with-a-pen-on-it-IJRayDxr5ek?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Sincerely Media](https://unsplash.com/@sincerelymedia?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/person-holding-hands-of-another-person-EtyBBUByPSQ?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
 * [Alberto Bigoni](https://unsplash.com/@albertobigoni?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/grayscale-of-man-in-dress-shirt-kvinEq5Utfw?utm_source=unsplash\&utm_medium=referral\&utm_content=creditCopyText)
-
-
-
-
 
