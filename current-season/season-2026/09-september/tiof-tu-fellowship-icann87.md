@@ -1,8 +1,8 @@
 ---
 icon: calendar-circle-user
 cover: >-
-  ../../../.gitbook/assets/[TIOF] Comms [P] 0000-00-00 TIOF - Page Header
-  Introduction XXX v1.0.png
+  ../../../.gitbook/assets/TIOF 2026 ICANN87 (Bali, Indonesia)-FB &
+  Instagram.png
 coverY: 0
 layout:
   width: default
