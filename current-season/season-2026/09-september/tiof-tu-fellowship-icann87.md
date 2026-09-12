@@ -83,7 +83,7 @@ The Internet requires a multidisciplinary approach combining programming, domain
 {% column width="41.666666666666664%" %}
 <p align="center"><a href="https://short.theiofoundation.org/tiof-tu-fellowship-ietf-126-registration" class="button primary" data-icon="tickets">APPLY NOW</a></p>
 
-<div align="center"><figure><img src="../../../.gitbook/assets/[#TIOF] TU Fellowship IETF 126 QR Code Registration XXX v1.0.png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/qr-code-192450_1024px.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 ## **SUBMISSION DEADLINE**
