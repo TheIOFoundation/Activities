@@ -3,7 +3,7 @@ icon: calendar-circle-user
 cover: >-
   ../../../.gitbook/assets/TIOF 2026 ICANN87 (Bali, Indonesia)-FB &
   Instagram.png
-coverY: 0
+coverY: 1459.9822327390789
 layout:
   width: default
   cover:
