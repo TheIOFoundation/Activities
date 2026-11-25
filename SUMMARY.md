@@ -293,12 +293,6 @@
       * [\[#IGF\] Internet Governance Forum 2018](all-seasons/season-2018/11-november/igf-internet-governance-forum-2018.md)
     * [12 - December](all-seasons/season-2018/12-december.md)
 
-## Current season
-
-## Upcoming Seasons
-
-## Previous seasons
-
 ## NOTICE
 
 * [Section Under Maintenance](notice/section-under-maintenance.md)
