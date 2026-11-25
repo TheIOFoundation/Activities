@@ -2,8 +2,6 @@
 title: Resources
 ---
 
-# Resources
-
 {% hint style="danger" %}
 HOW TO USE
 
@@ -27,10 +25,6 @@ HOW TO USE
 | Info Page         |            |         |
 | Registration Page |            |         |
 | Official Website  |            |         |
-
-
-
-
 {% endtab %}
 
 {% tab title="SocMed" %}
@@ -42,8 +36,5 @@ HOW TO USE
 | <img src="../assets/[TIOF] Comms [P] Icon Instagram XXX v1.0.png" alt="" data-size="line"> |             |
 | <img src="../assets/[TIOF] Comms [P] Icon B Rumble XXX v1.0.png" alt="" data-size="line">  |             |
 | <img src="../assets/[TIOF] Comms [P] Icon Youtube XXX v1.0.png" alt="" data-size="line">   |             |
-
-
 {% endtab %}
 {% endtabs %}
-
